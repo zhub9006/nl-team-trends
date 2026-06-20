@@ -1,16 +1,16 @@
-team,current_city,franchise_first_year,nl_first_year,division,former_names,wins,losses,win_pct,games_played,notes
-San Francisco Giants,San Francisco,1883,1883,West,"New York Gothams (1883-1885); New York Giants (1885-1957)",11651,10143,0.535,21957,NL all-time wins leader; moved to SF 1958; 8 World Series titles
-Los Angeles Dodgers,Los Angeles,1884,1884,West,"Brooklyn Atlantics (1884); Grays (1885-1888); Bridegrooms (1888-1898); Superbas (1899-1913); Robins (1914-1931); Dodgers (1932-1957)",11572,10164,0.532,21875,Moved to LA 1958; 7 World Series titles; 24 NL pennants
-Chicago Cubs,Chicago,1876,1876,Central,"White Stockings (1876-1889); Colts (1890-1897); Orphans (1898-1902)",11457,10873,0.513,22491,NL charter member; best single-season record 116-36 (.763) in 1906; 3 World Series
-St. Louis Cardinals,St. Louis,1892,1892,Central,"Brown Stockings (1882); Browns (1892-1899); Perfectos (1899-1900)",10623,10085,0.513,20839,11 World Series titles (most in NL); joined NL 1892
-Atlanta Braves,Atlanta,1871,1876,East,"Boston Red Stockings (1871-1876); Beaneaters (1876-1907); Doves (1907-1910); Rustlers (1911); Braves (1912-1935); Bees (1936-1940); Braves (1941-1952); Milwaukee Braves (1953-1965)",11236,11060,0.504,22450,Oldest continuously operating pro sports franchise; moved to Milwaukee 1953 then Atlanta 1966; 2 World Series
-Cincinnati Reds,Cincinnati,1882,1890,Central,"Red Stockings (1882-1889)",11052,10882,0.504,22073,Founded 1882 in AA; joined NL 1890; 5 World Series titles
-Pittsburgh Pirates,Pittsburgh,1882,1887,Central,"Alleghenys (1882-1886)",10947,10947,0.500,22034,Only franchise with exactly .500 all-time record; 5 World Series; joined NL 1887
-Milwaukee Brewers,Milwaukee,1969,1998,Central,"Seattle Pilots (1969)",4449,4621,0.491,9074,AL franchise 1969-1997; moved to NL 1998; 1 WS appearance; born as Seattle Pilots
-Arizona Diamondbacks,Phoenix,1998,1998,West,,2204,2303,0.489,4507,1 World Series (2001); fastest expansion team to win WS
-New York Mets,New York,1962,1962,East,,4931,5268,0.483,10207,Expansion 1962; infamous 40-120 debut season; 2 World Series (1969 and 1986)
-Washington Nationals,Washington,1969,1969,East,"Montreal Expos (1969-2004)",4370,4700,0.482,9074,Born as Montreal Expos; relocated to DC 2005; 1 World Series (2019)
-Philadelphia Phillies,Philadelphia,1883,1883,East,"Quakers (1883-1889); Philadelphias (1890-1894)",10343,11425,0.475,21883,Most losses of any MLB franchise (11425); 2 World Series; 7 NL pennants
-San Diego Padres,San Diego,1969,1969,West,,4254,4824,0.469,9080,Expansion 1969; 2 NL pennants; no World Series titles
-Miami Marlins,Miami,1993,1993,East,"Florida Marlins (1993-2011)",2418,2830,0.461,5248,Expansion 1993; 2 World Series (1997 and 2003) despite low all-time Win%
-Colorado Rockies,Denver,1993,1993,West,,2392,2864,0.455,5256,Lowest all-time Win% (.455) of any NL franchise; expansion 1993; 1 WS appearance (2007)
+franchise,first_nl_year,division,all_time_wins,all_time_losses,games_played,win_percentage
+San Francisco Giants,1883,West,11651,10186,21837,0.535
+Atlanta Braves,1871,East,10823,10331,21154,0.512
+Los Angeles Dodgers,1884,West,10714,9792,20506,0.525
+St. Louis Cardinals,1882,Central,11335,10285,21620,0.524
+Cincinnati Reds,1882,Central,10411,10649,21060,0.493
+Pittsburgh Pirates,1882,Central,10947,10947,21894,0.500
+Milwaukee Brewers,1901,Central,5703,5774,11477,0.497
+Philadelphia Phillies,1883,East,10486,11425,21911,0.479
+Chicago Cubs,1876,Central,10723,11235,21958,0.489
+Miami Marlins,1993,East,472,611,1083,0.436
+Arizona Diamondbacks,1998,West,1574,1630,3204,0.491
+Colorado Rockies,1993,West,1624,1918,3542,0.455
+Washington Nationals,1969,East,2283,2554,4837,0.472
+San Diego Padres,1969,West,4907,5331,10238,0.480
+New York Mets,1962,East,4761,5143,9904,0.481
