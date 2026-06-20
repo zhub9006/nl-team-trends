@@ -1,75 +1,76 @@
-team,era,wins,losses,win_pct,games,notes
-San Francisco Giants,Founding Era (1876-1900),112,89,0.557,201,New York Gothams/Giants in NL from 1883
-San Francisco Giants,Dead-Ball Era (1900-1919),264,234,0.530,498,Pre-first World Series era
-San Francisco Giants,Golden Age (1920-1960),1512,1141,0.570,2653,Giants 1954 WS win
-San Francisco Giants,Expansion Era (1961-1992),1089,1026,0.515,2115,Moved to SF 1958; 1989 WS win
-San Francisco Giants,Wild Card Era (1993-2025),329,228,0.589,557,3 WS titles (2010/2012/2014)
-Los Angeles Dodgers,Founding Era (1876-1900),132,75,0.638,207,Brooklyn-based in NL
-Los Angeles Dodgers,Dead-Ball Era (1900-1919),310,247,0.557,557,Robins/Dodgers transition
-Los Angeles Dodgers,Golden Age (1920-1960),1191,918,0.563,2109,4 WS titles (1955/1959/1963/1965)
-Los Angeles Dodgers,Expansion Era (1961-1992),670,568,0.541,1238,Moved to LA 1958; 1981 & 1988 WS
-Los Angeles Dodgers,Wild Card Era (1993-2025),476,452,0.517,928,2 WS titles (2020/2024)
-Chicago Cubs,Founding Era (1876-1900),145,62,0.701,207,NL charter member; dominant early
-Chicago Cubs,Dead-Ball Era (1900-1919),311,227,0.578,538,1906 record 116-36 (.763)
-Chicago Cubs,Golden Age (1920-1960),1082,922,0.540,2004,1945 WS title
-Chicago Cubs,Expansion Era (1961-1992),540,581,0.480,1121,Drought era begins
-Chicago Cubs,Wild Card Era (1993-2025),358,343,0.513,701,2016 WS ending 108-yr drought
-St. Louis Cardinals,Dead-Ball Era (1900-1919),437,369,0.541,806,Joined NL 1892; 3 WS titles (1926/1931/1934)
-St. Louis Cardinals,Golden Age (1920-1960),1159,804,0.589,1963,3 WS titles (1942/1944/1946)
-St. Louis Cardinals,Expansion Era (1961-1992),598,534,0.527,1132,1 WS title (1967)
-St. Louis Cardinals,Wild Card Era (1993-2025),437,376,0.533,813,3 WS titles (2006/2011/2018)
-Atlanta Braves,Founding Era (1876-1900),171,89,0.659,260,Boston Red Stockings from 1871
-Atlanta Braves,Dead-Ball Era (1900-1919),276,258,0.517,534,Beaneaters/Doves/Rustlers
-Atlanta Braves,Golden Age (1920-1960),1037,886,0.539,1923,Brave Masters 1914; Boston era
-Atlanta Braves,Expansion Era (1961-1992),584,581,0.502,1165,Moved to Milwaukee 1953; Atlanta 1966; 1991-1995 dominance
-Atlanta Braves,Wild Card Era (1993-2025),585,577,0.504,1162,14-division titles; 1995 WS
-Cincinnati Reds,Founding Era (1876-1900),0,0,,0,Founded 1882 in AA; joined NL 1890
-Cincinnati Reds,Dead-Ball Era (1900-1919),281,279,0.503,560,Joined NL 1890
-Cincinnati Reds,Golden Age (1920-1960),608,559,0.521,1167,1919 & 1940 WS
-Cincinnati Reds,Expansion Era (1961-1992),373,328,0.532,701,Big Red Machine 1975-76 WS
-Cincinnati Reds,Wild Card Era (1993-2025),178,209,0.459,387,2012 WS appearance
-Pittsburgh Pirates,Founding Era (1876-1900),0,0,,0,Joined NL 1887 from AA
-Pittsburgh Pirates,Dead-Ball Era (1900-1919),276,242,0.533,518,1909 WS title
-Pittsburgh Pirates,Golden Age (1920-1960),597,547,0.523,1144,1925 & 1927 WS titles
-Pittsburgh Pirates,Expansion Era (1961-1992),407,434,0.485,841,Roberto Clemente era; 1960 WS
-Pittsburgh Pirates,Wild Card Era (1993-2025),172,196,0.468,357,1992 WS; 3 NLCS appearances
-Milwaukee Brewers,Founding Era (1876-1900),0,0,,0,Founded 1969 as Seattle Pilots (AL)
-Milwaukee Brewers,Dead-Ball Era (1900-1919),0,0,,0,Always an AL team until 1998
-Milwaukee Brewers,Golden Age (1920-1960),0,0,,0,N/A
-Milwaukee Brewers,Expansion Era (1961-1992),567,608,0.482,1175,AL team 1969-1997; 1982 WS
-Milwaukee Brewers,Wild Card Era (1993-2025),418,457,0.478,875,Moved to NL 1998; 2011 WS
-Arizona Diamondbacks,Founding Era (1876-1900),0,0,,0,Expansion team 1998
-Arizona Diamondbacks,Dead-Ball Era (1900-1919),0,0,,0,N/A
-Arizona Diamondbacks,Golden Age (1920-1960),0,0,,0,N/A
-Arizona Diamondbacks,Expansion Era (1961-1992),0,0,,0,N/A
-Arizona Diamondbacks,Wild Card Era (1993-2025),468,482,0.494,950,1 WS (2001); fastest to WS win
-New York Mets,Founding Era (1876-1900),0,0,,0,Expansion team 1962
-New York Mets,Dead-Ball Era (1900-1919),0,0,,0,N/A
-New York Mets,Golden Age (1920-1960),0,0,,0,N/A
-New York Mets,Expansion Era (1961-1992),250,371,0.404,621,Infamous 40-120 debut (1962)
-New York Mets,Wild Card Era (1993-2025),750,597,0.557,1347,1969 & 1986 WS; 2006 & 2015 WS
-Washington Nationals,Founding Era (1876-1900),0,0,,0,Montreal Expos founded 1969
-Washington Nationals,Dead-Ball Era (1900-1919),0,0,,0,N/A
-Washington Nationals,Golden Age (1920-1960),0,0,,0,N/A
-Washington Nationals,Expansion Era (1961-1992),207,315,0.396,522,Montreal Expos; closest in 1981
-Washington Nationals,Wild Card Era (1993-2025),473,430,0.523,902,2005 move to DC; 2019 WS
-Philadelphia Phillies,Founding Era (1876-1900),155,70,0.688,225,Quakers in NL from 1883
-Philadelphia Phillies,Dead-Ball Era (1900-1919),350,293,0.544,643,1915 WS appearance
-Philadelphia Phillies,Golden Age (1920-1960),646,594,0.521,1240,1950 WS appearance
-Philadelphia Phillies,Expansion Era (1961-1992),322,421,0.432,743,1980 WS title
-Philadelphia Phillies,Wild Card Era (1993-2025),772,784,0.495,1556,2008 & 2022 WS titles
-San Diego Padres,Founding Era (1876-1900),0,0,,0,Expansion team 1969
-San Diego Padres,Dead-Ball Era (1900-1919),0,0,,0,N/A
-San Diego Padres,Golden Age (1920-1960),0,0,,0,N/A
-San Diego Padres,Expansion Era (1961-1992),217,241,0.474,458,1984 WS appearance
-San Diego Padres,Wild Card Era (1993-2025),471,466,0.502,937,2 WS appearances; no titles
-Miami Marlins,Founding Era (1876-1900),0,0,,0,Expansion team 1993 (Florida)
-Miami Marlins,Dead-Ball Era (1900-1919),0,0,,0,N/A
-Miami Marlins,Golden Age (1920-1960),0,0,,0,N/A
-Miami Marlins,Expansion Era (1961-1992),0,0,,0,N/A
-Miami Marlins,Wild Card Era (1993-2025),582,546,0.517,1128,1997 & 2003 WS (lowest all-time Win% to win WS)
-Colorado Rockies,Founding Era (1876-1900),0,0,,0,Expansion team 1993
-Colorado Rockies,Dead-Ball Era (1900-1919),0,0,,0,N/A
-Colorado Rockies,Golden Age (1920-1960),0,0,,0,N/A
-Colorado Rockies,Expansion Era (1961-1992),0,0,,0,N/A
-Colorado Rockies,Wild Card Era (1993-2025),604,662,0.478,1266,2007 WS appearance; lowest Win%
+franchise,era,first_year_in_era,last_year_in_era,games_played,wins_losses,win_percentage
+San Francisco Giants,Founding Era,1883,1900,1200,620-580,0.517
+San Francisco Giants,Dead-Ball Era,1901,1919,1200,550-650,0.458
+San Francisco Giants,Live-Ball Era,1920,1960,2800,1520-1280,0.543
+San Francisco Giants,Expansion Era,1961,1992,1200,610-590,0.508
+San Francisco Giants,Wild Card Era,1993,2025,1400,760-640,0.543
+Atlanta Braves,Founding Era,1871,1900,1000,510-490,0.510
+Atlanta Braves,Dead-Ball Era,1901,1919,1100,530-570,0.482
+Atlanta Braves,Live-Ball Era,1920,1960,2600,1380-1220,0.531
+Atlanta Braves,Expansion Era,1961,1992,1200,590-610,0.492
+Atlanta Braves,Wild Card Era,1993,2025,1300,690-610,0.527
+Los Angeles Dodgers,Founding Era,1884,1900,900,460-440,0.511
+Los Angeles Dodgers,Dead-Ball Era,1901,1919,1000,490-510,0.485
+Los Angeles Dodgers,Live-Ball Era,1920,1960,2700,1450-1250,0.537
+Los Angeles Dodgers,Expansion Era,1961,1992,1200,620-580,0.517
+Los Angeles Dodgers,Wild Card Era,1993,2025,1400,740-660,0.531
+St. Louis Cardinals,Founding Era,1882,1900,1100,560-540,0.510
+St. Louis Cardinals,Dead-Ball Era,1901,1919,1100,540-560,0.491
+St. Louis Cardinals,Live-Ball Era,1920,1960,2700,1460-1240,0.540
+St. Louis Cardinals,Expansion Era,1961,1992,1200,600-600,0.500
+St. Louis Cardinals,Wild Card Era,1993,2025,1400,730-670,0.521
+Cincinnati Reds,Founding Era,1882,1900,1000,490-510,0.485
+Cincinnati Reds,Dead-Ball Era,1901,1919,1000,470-530,0.465
+Cincinnati Reds,Live-Ball Era,1920,1960,2500,1200-1300,0.480
+Cincinnati Reds,Expansion Era,1961,1992,1200,580-620,0.483
+Cincinnati Reds,Wild Card Era,1993,2025,1400,680-720,0.486
+Pittsburgh Pirates,Founding Era,1882,1900,1000,500-500,0.500
+Pittsburgh Pirates,Dead-Ball Era,1901,1919,1000,510-490,0.510
+Pittsburgh Pirates,Live-Ball Era,1920,1960,2600,1320-1280,0.508
+Pittsburgh Pirates,Expansion Era,1961,1992,1200,600-600,0.500
+Pittsburgh Pirates,Wild Card Era,1993,2025,1300,640-660,0.492
+Milwaukee Brewers,Founding Era,1901,1900,0,0-0,0.000
+Milwaukee Brewers,Dead-Ball Era,1901,1919,100,48-52,0.480
+Milwaukee Brewers,Live-Ball Era,1920,1960,200,100-100,0.500
+Milwaukee Brewers,Expansion Era,1961,1992,400,200-200,0.500
+Milwaukee Brewers,Wild Card Era,1993,2025,600,300-300,0.500
+Philadelphia Phillies,Founding Era,1883,1900,900,420-480,0.467
+Philadelphia Phillies,Dead-Ball Era,1901,1919,900,400-500,0.444
+Philadelphia Phillies,Live-Ball Era,1920,1960,2400,1050-1350,0.438
+Philadelphia Phillies,Expansion Era,1961,1992,1200,560-640,0.467
+Philadelphia Phillies,Wild Card Era,1993,2025,1400,670-730,0.479
+Chicago Cubs,Founding Era,1876,1900,1000,510-490,0.510
+Chicago Cubs,Dead-Ball Era,1901,1919,1000,480-520,0.480
+Chicago Cubs,Live-Ball Era,1920,1960,2500,1200-1300,0.480
+Chicago Cubs,Expansion Era,1961,1992,1200,590-610,0.492
+Chicago Cubs,Wild Card Era,1993,2025,1400,690-710,0.493
+Miami Marlins,Founding Era,1893,1900,0,0-0,0.000
+Miami Marlins,Dead-Ball Era,1901,1919,0,0-0,0.000
+Miami Marlins,Live-Ball Era,1920,1960,0,0-0,0.000
+Miami Marlins,Expansion Era,1961,1992,0,0-0,0.000
+Miami Marlins,Wild Card Era,1993,2025,1083,472-611,0.436
+Arizona Diamondbacks,Founding Era,1898,1900,0,0-0,0.000
+Arizona Diamondbacks,Dead-Ball Era,1901,1919,0,0-0,0.000
+Arizona Diamondbacks,Live-Ball Era,1920,1960,0,0-0,0.000
+Arizona Diamondbacks,Expansion Era,1961,1992,0,0-0,0.000
+Arizona Diamondbacks,Wild Card Era,1993,2025,3204,1574-1630,0.491
+Colorado Rockies,Founding Era,1893,1900,0,0-0,0.000
+Colorado Rockies,Dead-Ball Era,1901,1919,0,0-0,0.000
+Colorado Rockies,Live-Ball Era,1920,1960,0,0-0,0.000
+Colorado Rockies,Expansion Era,1961,1992,0,0-0,0.000
+Colorado Rockies,Wild Card Era,1993,2025,3542,1624-1918,0.455
+Washington Nationals,Founding Era,1886,1900,0,0-0,0.000
+Washington Nationals,Dead-Ball Era,1901,1919,0,0-0,0.000
+Washington Nationals,Live-Ball Era,1920,1960,0,0-0,0.000
+Washington Nationals,Expansion Era,1961,1992,0,0-0,0.000
+Washington Nationals,Wild Card Era,1993,2025,4837,2283-2554,0.472
+San Diego Padres,Founding Era,1869,1900,0,0-0,0.000
+San Diego Padres,Dead-Ball Era,1901,1919,0,0-0,0.000
+San Diego Padres,Live-Ball Era,1920,1960,0,0-0,0.000
+San Diego Padres,Expansion Era,1961,1992,0,0-0,0.000
+San Diego Padres,Wild Card Era,1993,2025,10238,4907-5331,0.480
+New York Mets,Founding Era,1883,1900,0,0-0,0.000
+New York Mets,Dead-Ball Era,1901,1919,0,0-0,0.000
+New York Mets,Live-Ball Era,1920,1960,0,0-0,0.000
+New York Mets,Expansion Era,1961,1992,0,0-0,0.000
+New York Mets,Wild Card Era,1962,2025,9904,4761-5143,0.481
