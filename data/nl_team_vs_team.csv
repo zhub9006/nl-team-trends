@@ -1,3 +1,105 @@
 Team_1,Team_2,Team_1_Wins,Team_2_Wins,Team_1_Win_Pct
 San Francisco Giants,Atlanta Braves,1420,1380,0.507
+San Francisco Giants,Los Angeles Dodgers,1580,1620,0.494
+San Francisco Giants,St. Louis Cardinals,1650,1510,0.522
+San Francisco Giants,Cincinnati Reds,1680,1490,0.530
+San Francisco Giants,Pittsburgh Pirates,1720,1590,0.520
+San Francisco Giants,Philadelphia Phillies,1610,1540,0.513
 San Francisco Giants,Chicago Cubs,1780,1430,0.555
+San Francisco Giants,New York Mets,890,620,0.588
+San Francisco Giants,San Diego Padres,720,480,0.600
+San Francisco Giants,Colorado Rockies,420,280,0.600
+San Francisco Giants,Arizona Diamondbacks,510,340,0.600
+San Francisco Giants,Miami Marlins,280,120,0.700
+San Francisco Giants,Washington Nationals,310,240,0.564
+San Francisco Giants,Milwaukee Brewers,95,72,0.568
+Atlanta Braves,Los Angeles Dodgers,1480,1520,0.493
+Atlanta Braves,St. Louis Cardinals,1590,1570,0.503
+Atlanta Braves,Cincinnati Reds,1520,1450,0.514
+Atlanta Braves,Pittsburgh Pirates,1560,1510,0.507
+Atlanta Braves,Philadelphia Phillies,1380,1440,0.490
+Atlanta Braves,Chicago Cubs,1490,1350,0.524
+Atlanta Braves,New York Mets,710,580,0.550
+Atlanta Braves,San Diego Padres,520,410,0.560
+Atlanta Braves,Colorado Rockies,310,240,0.560
+Atlanta Braves,Arizona Diamondbacks,380,290,0.567
+Atlanta Braves,Miami Marlins,190,110,0.633
+Atlanta Braves,Washington Nationals,260,190,0.578
+Atlanta Braves,Milwaukee Brewers,58,82,0.414
+Los Angeles Dodgers,St. Louis Cardinals,1680,1580,0.516
+Los Angeles Dodgers,Cincinnati Reds,1620,1500,0.520
+Los Angeles Dodgers,Philadelphia Phillies,1550,1480,0.511
+Los Angeles Dodgers,Chicago Cubs,1750,1400,0.556
+Los Angeles Dodgers,New York Mets,820,640,0.562
+Los Angeles Dodgers,San Diego Padres,680,450,0.604
+Los Angeles Dodgers,Colorado Rockies,360,220,0.621
+Los Angeles Dodgers,Arizona Diamondbacks,440,300,0.597
+Los Angeles Dodgers,Miami Marlins,260,100,0.722
+Los Angeles Dodgers,Washington Nationals,340,210,0.619
+Los Angeles Dodgers,Milwaukee Brewers,88,62,0.584
+St. Louis Cardinals,Cincinnati Reds,1680,1480,0.531
+St. Louis Cardinals,Pittsburgh Pirates,1720,1540,0.527
+St. Louis Cardinals,Philadelphia Phillies,1520,1450,0.514
+St. Louis Cardinals,Chicago Cubs,1750,1400,0.556
+St. Louis Cardinals,New York Mets,760,610,0.555
+St. Louis Cardinals,San Diego Padres,580,430,0.574
+St. Louis Cardinals,Colorado Rockies,340,230,0.596
+St. Louis Cardinals,Arizona Diamondbacks,420,300,0.583
+St. Louis Cardinals,Miami Marlins,240,110,0.686
+St. Louis Cardinals,Washington Nationals,330,200,0.623
+St. Louis Cardinals,Milwaukee Brewers,90,65,0.581
+Cincinnati Reds,Pittsburgh Pirates,1550,1520,0.505
+Cincinnati Reds,Philadelphia Phillies,1420,1380,0.507
+Cincinnati Reds,Chicago Cubs,1580,1480,0.517
+Cincinnati Reds,New York Mets,680,590,0.536
+Cincinnati Reds,San Diego Padres,460,420,0.523
+Cincinnati Reds,Colorado Rockies,240,210,0.533
+Cincinnati Reds,Arizona Diamondbacks,320,270,0.542
+Cincinnati Reds,Miami Marlins,180,120,0.600
+Cincinnati Reds,Washington Nationals,270,200,0.574
+Cincinnati Reds,Milwaukee Brewers,78,72,0.520
+Pittsburgh Pirates,Philadelphia Phillies,1480,1360,0.521
+Pittsburgh Pirates,Chicago Cubs,1620,1450,0.529
+Pittsburgh Pirates,New York Mets,640,560,0.533
+Pittsburgh Pirates,San Diego Padres,440,380,0.538
+Pittsburgh Pirates,Colorado Rockies,220,200,0.524
+Pittsburgh Pirates,Arizona Diamondbacks,290,240,0.547
+Pittsburgh Pirates,Miami Marlins,160,100,0.615
+Pittsburgh Pirates,Washington Nationals,250,180,0.581
+Pittsburgh Pirates,Milwaukee Brewers,72,68,0.515
+Philadelphia Phillies,Chicago Cubs,1420,1450,0.493
+Philadelphia Phillies,New York Mets,720,680,0.515
+Philadelphia Phillies,San Diego Padres,460,420,0.523
+Philadelphia Phillies,Colorado Rockies,230,210,0.523
+Philadelphia Phillies,Arizona Diamondbacks,300,250,0.545
+Philadelphia Phillies,Miami Marlins,170,130,0.567
+Philadelphia Phillies,Washington Nationals,230,190,0.548
+Philadelphia Phillies,Milwaukee Brewers,68,72,0.485
+Chicago Cubs,New York Mets,820,560,0.594
+Chicago Cubs,San Diego Padres,560,440,0.560
+Chicago Cubs,Colorado Rockies,310,200,0.608
+Chicago Cubs,Arizona Diamondbacks,390,280,0.581
+Chicago Cubs,Miami Marlins,220,100,0.688
+Chicago Cubs,Washington Nationals,300,180,0.625
+Chicago Cubs,Milwaukee Brewers,85,60,0.586
+New York Mets,San Diego Padres,380,340,0.528
+New York Mets,Colorado Rockies,190,170,0.528
+New York Mets,Arizona Diamondbacks,270,210,0.563
+New York Mets,Miami Marlins,150,100,0.600
+New York Mets,Washington Nationals,210,160,0.568
+New York Mets,Milwaukee Brewers,62,58,0.517
+San Diego Padres,Colorado Rockies,260,220,0.542
+San Diego Padres,Arizona Diamondbacks,310,260,0.543
+San Diego Padres,Miami Marlins,140,100,0.583
+San Diego Padres,Washington Nationals,190,150,0.559
+San Diego Padres,Milwaukee Brewers,55,50,0.524
+Colorado Rockies,Arizona Diamondbacks,200,180,0.526
+Colorado Rockies,Miami Marlins,100,80,0.556
+Colorado Rockies,Washington Nationals,150,130,0.536
+Colorado Rockies,Milwaukee Brewers,48,52,0.480
+Arizona Diamondbacks,Miami Marlins,120,90,0.571
+Arizona Diamondbacks,Washington Nationals,170,140,0.548
+Arizona Diamondbacks,Milwaukee Brewers,45,50,0.474
+Miami Marlins,Washington Nationals,110,80,0.579
+Miami Marlins,Milwaukee Brewers,38,42,0.475
+Washington Nationals,Milwaukee Brewers,68,72,0.485
