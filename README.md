@@ -22,24 +22,25 @@ The National League is the older of MLB's two leagues, established in 1876 — 2
 
 ## Data Sources
 
-- **StatMuse** — All-time franchise win-loss records and season-by-season breakdowns
-- **Baseball Almanac** — NL team-vs-team win-loss matrix (1876–2026)
-- **Grokipedia / Wikipedia** — Franchise history context and explanatory notes
-- **Lahman Baseball Database (SABR)** — Complete batting/pitching/fielding stats back to 1871
-- **Baseball-Reference.com** — Comprehensive league and team encyclopedias
+- **Baseball Reference** — Baseball-Reference.com | Comprehensive league and team encyclopedias
+- **Baseball Almanac** — Baseball-Almanac.com | NL team-vs-team win-loss matrix (1876–2026)
+- **Lahman Database (SABR)** — github.com/chadwickbureau/baseballdatabank | Complete stats from 1871
+- **StatMuse** — StatMuse.com | AI-powered sports statistics queries
+- **Wikipedia / Grokipedia** — Franchise history context and explanatory notes
+- **MLB.com** — Official MLB statistics portal for current-season verification
 
 ## Repository Structure
 
 ```
 nl-team-trends/
-├── README.md                    # This file
+├── README.md                     # This file
 ├── data/
-│   ├── nl_all_time_records.csv   # All-time franchise records (CSV)
-│   ├── nl_team_vs_team.csv       # NL head-to-head win-loss matrix (CSV)
-│   └── nl_era_summary.csv        # Era-based performance summaries
-├── notebooks/                   # Analysis & visualization notebooks
-├── visualizations/              # Generated charts and plots
-└── sources/                     # Reference links and methodology notes
+│   ├── nl_all_time_records.csv   # All-time franchise records (CSV) ✓ Complete
+│   ├── nl_team_vs_team.csv       # NL head-to-head win-loss matrix (CSV) ✓ Complete
+│   └── nl_era_summary.csv        # Era-based performance summaries (CSV) ✓ Complete
+├── notebooks/                    # Analysis & visualization notebooks
+├── visualizations/               # Generated charts and plots
+└── sources/                      # Reference links and methodology notes
 ```
 
 ## Data Highlights
@@ -53,15 +54,15 @@ The `data/nl_all_time_records.csv` file contains the complete all-time regular-s
 - Prior franchise names and city relocations
 - Division alignment (East, Central, West)
 
-### Team-vs-Team Head-to-Head
+### Team-vs-Team Head-to-Head ✓ Complete
 
-The `data/nl_team_vs_team.csv` file (to be populated) will contain the complete NL head-to-head win-loss matrix from Baseball Almanac, covering every matchup between NL franchises from 1876 through the present.
+The `data/nl_team_vs_team.csv` file contains the complete NL head-to-head win-loss matrix covering every matchup between all 15 NL franchises from 1876 through 2025. Includes 105 pairwise matchups with win totals and winning percentages.
 
-### Era-Based Trends
+### Era-Based Trends ✓ Complete
 
-The `data/nl_era_summary.csv` file (to be populated) will break down franchise performance across major MLB eras:
-- **Pre-1900 / Founding Era** (1876–1900)
-- **Dead-Ball Era** (1900–1919)
+The `data/nl_era_summary.csv` file breaks down franchise performance across five major MLB eras:
+- **Founding Era** (1876–1900)
+- **Dead-Ball Era** (1901–1919)
 - **Live-Ball / Golden Age** (1920–1960)
 - **Expansion Era** (1961–1992)
 - **Wild Card / Interleague Era** (1993–present)
@@ -79,7 +80,7 @@ The `data/nl_era_summary.csv` file (to be populated) will break down franchise p
 
 - All records reflect **regular-season games only**; postseason is excluded.
 - Ties (common in the pre-1920 era) are excluded from winning percentage calculations (Win% = W / (W + L)).
-- Franchise relocations are treated as continuous entities (e.g., Brooklyn Dodgers to Los Angeles Dodgers).
+- Franchise relocations are treated as continuous entities (e.g., Brooklyn Dodgers → Los Angeles Dodgers).
 - The Milwaukee Brewers record includes their AL tenure (1969–1997) since this repo tracks franchise history.
 - The Washington Nationals record includes the Montreal Expos era (1969–2004).
 - Data is current through the end of the **2025 regular season**.
