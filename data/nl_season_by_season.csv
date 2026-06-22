@@ -1,61 +1,27 @@
 season,team,city,modern_name,division,wins,losses,total_games,win_pct,playoff_finish,notes
-1871,Atlanta Red Stockings,Atlanta,Atlanta Braves,N/A,31,8,39,0.795,—,First professional baseball club; won 1871 NABBP
-1876,Chicago White Stockings,Chicago,Chicago Cubs,Central,52,14,66,0.788,NL Champions,Won first NL pennant
-1882,St. Louis Brown Stockings,St. Louis,St. Louis Cardinals,Central,37,43,80,0.463,—,Founded as American Association member; joined NL 1892
+1871,Atlanta Red Stockings,Atlanta,Atlanta Braves,N/A,31,8,39,0.795,—,First professional baseball club
+1876,Chicago White Stockings,Chicago,Chicago Cubs,Central,52,14,66,0.788,NL Champions,First NL pennant winner
+1882,St. Louis Brown Stockings,St. Louis,St. Louis Cardinals,Central,37,43,80,0.463,—,Joined NL in 1892
 1883,Brooklyn Atlantics,Brooklyn,Los Angeles Dodgers,West,33,17,50,0.660,—,Founded as independent club
-1883,Philadelphia Quakers,Philadelphia,Philadelphia Phillies,East,17,81,98,0.173,—,Founding NL member; struggled in first season
-1884,Pittsburgh Alleghenys,Pittsburgh,Pittsburgh Pirates,Central,30,78,108,0.278,—,Joined NL in 1882
-1882,Cincinnati Red Stockings,Cincinnati,Cincinnati Reds,Central,21,59,80,0.263,—,Joined NL in 1890
-1883,New York Gothams,New York,San Francisco Giants,West,46,22,68,0.676,—,Founded by John B. Day; won 1888 NL pennant
-1905,New York Giants,New York,San Francisco Giants,N/A,105,48,153,0.686,WS Champions,Beat Philadelphia A's in World Series
-1906,Chicago Cubs,Chicago,Chicago Cubs,Central,116,36,152,0.763,WS Champions,Best single-season NL record; beat Chicago White Sox
-1908,Chicago Cubs,Chicago,Chicago Cubs,Central,99,55,154,0.643,WS Champions,Beat Detroit Tigers in World Series
-1914,Boston Braves,Boston,Atlanta Braves,N/A,94,59,153,0.614,WS Champions,Miracle Braves: from last place July 4 to WS champions
-1919,Cincinnati Reds,Cincinnati,Cincinnati Reds,Central,88,53,141,0.624,WS Champions,Beat Chicago White Sox
-1921,New York Giants,New York,San Francisco Giants,N/A,94,59,153,0.614,WS Champions,Beat New York Yankees in World Series
-1922,New York Giants,New York,San Francisco Giants,N/A,93,61,154,0.604,WS Champions,Beat New York Yankees in World Series
-1926,St. Louis Cardinals,St. Louis,St. Louis Cardinals,Central,89,65,154,0.578,WS Champions,Beat New York Yankees in World Series
-1931,St. Louis Cardinals,St. Louis,St. Louis Cardinals,Central,101,53,154,0.656,WS Champions,Beat Philadelphia A's in World Series
-1933,New York Giants,New York,San Francisco Giants,N/A,91,61,152,0.599,WS Champions,Beat Washington Senators in World Series
-1934,St. Louis Cardinals,St. Louis,St. Louis Cardinals,Central,95,58,153,0.621,WS Champions,Beat Detroit Tigers in World Series
-1939,Cincinnati Reds,Cincinnati,Cincinnati Reds,Central,97,57,154,0.630,WS Champions,Beat New York Yankees in World Series
-1940,Cincinnati Reds,Cincinnati,Cincinnati Reds,Central,90,64,154,0.584,WS Champions,Beat Detroit Tigers in World Series
-1942,St. Louis Cardinals,St. Louis,St. Louis Cardinals,Central,106,48,154,0.688,WS Champions,Beat New York Yankees in World Series
-1944,St. Louis Cardinals,St. Louis,St. Louis Cardinals,Central,105,49,154,0.688,WS Champions,Beat St. Louis Browns in Streetcar Series
-1946,St. Louis Cardinals,St. Louis,St. Louis Cardinals,Central,98,58,156,0.628,WS Champions,Beat Boston Red Sox in World Series
-1954,New York Giants,New York,San Francisco Giants,N/A,97,57,154,0.630,WS Champions,Beat Cleveland Indians in World Series
-1955,Brooklyn Dodgers,Brooklyn,Los Angeles Dodgers,West,98,55,153,0.641,WS Champions,First Dodgers World Series title; beat New York Yankees
-1957,Milwaukee Braves,Milwaukee,Atlanta Braves,West,95,59,154,0.617,WS Champions,Beat New York Yankees in World Series
-1959,Los Angeles Dodgers,Los Angeles,Los Angeles Dodgers,West,88,68,156,0.564,WS Champions,Beat Chicago White Sox in World Series
-1960,Pittsburgh Pirates,Pittsburgh,Pittsburgh Pirates,Central,95,59,154,0.617,WS Champions (runner-up),Bill Mazeroski walk-off HR wins WS vs Yankees
-1963,Los Angeles Dodgers,Los Angeles,Los Angeles Dodgers,West,99,63,162,0.611,WS Champions,Beat New York Yankees in World Series
-1964,St. Louis Cardinals,St. Louis,St. Louis Cardinals,Central,93,69,162,0.574,WS Champions,Beat New York Yankees in World Series
-1965,Los Angeles Dodgers,Los Angeles,Los Angeles Dodgers,West,97,65,162,0.599,WS Champions,Beat Minnesota Twins in World Series
-1967,St. Louis Cardinals,St. Louis,St. Louis Cardinals,Central,101,60,161,0.627,WS Champions,Beat Boston Red Sox in World Series
-1969,New York Mets,New York,New York Mets,East,100,62,162,0.617,WS Champions,Miracle Mets: first expansion team to win WS
-1971,Pittsburgh Pirates,Pittsburgh,Pittsburgh Pirates,Central,97,65,162,0.599,WS Champions,Beat Baltimore Orioles in World Series
-1975,Cincinnati Reds,Cincinnati,Cincinnati Reds,Central,108,54,162,0.667,WS Champions,Big Red Machine: beat Boston Red Sox in World Series
-1976,Cincinnati Reds,Cincinnati,Cincinnati Reds,Central,102,60,162,0.630,WS Champions,Beat New York Yankees in World Series
-1979,Pittsburgh Pirates,Pittsburgh,Pittsburgh Pirates,Central,98,64,162,0.605,WS Champions,Beat Baltimore Orioles in World Series
-1980,Philadelphia Phillies,Philadelphia,Philadelphia Phillies,East,91,71,162,0.562,WS Champions,First WS title in franchise history; beat Kansas City Royals
-1981,Los Angeles Dodgers,Los Angeles,Los Angeles Dodgers,West,81,57,138,0.587,WS Champions,Beat New York Yankees in bent pin World Series
-1982,St. Louis Cardinals,St. Louis,St. Louis Cardinals,Central,92,70,162,0.568,WS Champions,Beat Milwaukee Brewers in World Series
-1986,New York Mets,New York,New York Mets,East,108,54,162,0.654,WS Champions,Beat Boston Red Sox in classic World Series
-1988,Los Angeles Dodgers,Los Angeles,Los Angeles Dodgers,West,94,67,161,0.584,WS Champions,Beat Oakland A's in World Series
-1990,Cincinnati Reds,Cincinnati,Cincinnati Reds,Central,91,71,162,0.562,WS Champions,Beat Oakland A's in World Series
-1995,Atlanta Braves,Atlanta,Atlanta Braves,East,90,54,144,0.625,WS Champions,First WS title since 1958; beat Cleveland Indians
-1997,Miami Marlins,Miami,Miami Marlins,East,92,70,162,0.568,WS Champions,First expansion team to win WS; beat Cleveland Indians
-2001,Arizona Diamondbacks,Phoenix,Arizona Diamondbacks,West,92,70,162,0.568,WS Champions,Beat New York Yankees in World Series
-2003,Miami Marlins,Miami,Miami Marlins,East,91,71,162,0.562,WS Champions,Beat New York Yankees in World Series
-2006,St. Louis Cardinals,St. Louis,St. Louis Cardinals,Central,83,78,161,0.516,WS Champions,Beat Detroit Tigers in World Series
-2007,Colorado Rockies,Denver,Colorado Rockies,West,90,73,163,0.552,NL Champions (runner-up),Won NL pennant but lost to Boston Red Sox in WS
-2008,Philadelphia Phillies,Philadelphia,Philadelphia Phillies,East,92,70,162,0.568,WS Champions,Beat Tampa Bay Rays in World Series
-2010,San Francisco Giants,San Francisco,San Francisco Giants,West,92,70,162,0.568,WS Champions,Beat Texas Rangers in World Series
-2011,St. Louis Cardinals,St. Louis,St. Louis Cardinals,Central,90,72,162,0.556,WS Champions,Beat Texas Rangers in dramatic World Series
-2012,San Francisco Giants,San Francisco,San Francisco Giants,West,94,68,162,0.580,WS Champions,Beat Detroit Tigers in World Series
-2014,San Francisco Giants,San Francisco,San Francisco Giants,West,88,74,162,0.543,WS Champions,Beat Kansas City Royals in World Series
-2016,Chicago Cubs,Chicago,Chicago Cubs,Central,103,58,161,0.640,WS Champions,Ended 108-year drought; beat Cleveland Indians
-2019,Washington Nationals,Washington,Washington Nationals,East,93,69,162,0.574,WS Champions,Beat Houston Astros in World Series
-2020,Los Angeles Dodgers,Los Angeles,Los Angeles Dodgers,West,43,17,60,0.717,WS Champions,Shortened 60-game season; beat Tampa Bay Rays
-2021,Atlanta Braves,Atlanta,Atlanta Braves,East,88,73,161,0.547,WS Champions,Beat Houston Astros in World Series
-2024,Los Angeles Dodgers,Los Angeles,Los Angeles Dodgers,West,98,64,162,0.605,WS Champions,Beat New York Yankees in World Series
+1883,Philadelphia Quakers,Philadelphia,Philadelphia Phillies,East,17,81,98,0.173,—,Founding NL member
+1905,New York Giants,New York,San Francisco Giants,N/A,105,48,153,0.686,WS Champions,Beat Philadelphia A's
+1906,Chicago Cubs,Chicago,Chicago Cubs,Central,116,36,152,0.763,WS Champions,Best NL single-season record
+1914,Boston Braves,Boston,Atlanta Braves,N/A,94,59,153,0.614,WS Champions,Miracle Braves
+1919,Cincinnati Reds,Cincinnati,Cincinnati Reds,Central,88,53,141,0.624,WS Champions,Beat White Sox
+1926,St. Louis Cardinals,St. Louis,St. Louis Cardinals,Central,89,65,154,0.578,WS Champions,Beat NY Yankees
+1931,St. Louis Cardinals,St. Louis,St. Louis Cardinals,Central,101,53,154,0.656,WS Champions,Beat Philadelphia A's
+1933,New York Giants,New York,San Francisco Giants,N/A,91,61,152,0.599,WS Champions,Beat Washington Senators
+1954,New York Giants,New York,San Francisco Giants,N/A,97,57,154,0.630,WS Champions,Beat Cleveland Indians
+1955,Brooklyn Dodgers,Brooklyn,Los Angeles Dodgers,West,98,55,153,0.641,WS Champions,First Dodgers title
+1957,Milwaukee Braves,Milwaukee,Atlanta Braves,West,95,59,154,0.617,WS Champions,Beat NY Yankees
+1960,Pittsburgh Pirates,Pittsburgh,Pittsburgh Pirates,Central,95,59,154,0.617,WS Champions,Mazeroski walk-off HR
+1969,New York Mets,New York,New York Mets,East,100,62,162,0.617,WS Champions,Miracle Mets
+1975,Cincinnati Reds,Cincinnati,Cincinnati Reds,Central,108,54,162,0.667,WS Champions,Big Red Machine
+1980,Philadelphia Phillies,Philadelphia,Philadelphia Phillies,East,91,71,162,0.562,WS Champions,First title
+1986,New York Mets,New York,New York Mets,East,108,54,162,0.654,WS Champions,Beat Red Sox
+1995,Atlanta Braves,Atlanta,Atlanta Braves,East,90,54,144,0.625,WS Champions,First title since 1958
+1997,Miami Marlins,Miami,Miami Marlins,East,92,70,162,0.568,WS Champions,First expansion WS champ
+2001,Arizona Diamondbacks,Phoenix,Arizona Diamondbacks,West,92,70,162,0.568,WS Champions,Beat NY Yankees
+2016,Chicago Cubs,Chicago,Chicago Cubs,Central,103,58,161,0.640,WS Champions,Ended 108-year drought
+2019,Washington Nationals,Washington,Washington Nationals,East,93,69,162,0.574,WS Champions,Beat Houston Astros
+2020,Los Angeles Dodgers,Los Angeles,Los Angeles Dodgers,West,43,17,60,0.717,WS Champions,Shortened season
