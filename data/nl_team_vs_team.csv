@@ -1,0 +1,19 @@
+team_1,team_2,wins_team_1,wins_team_2,games_played,win_pct_team_1,win_pct_team_2,first_season,last_season,notes
+San Francisco Giants,Los Angeles Dodgers,478,490,980,0.488,0.512,1884,2025,NYC rivalry; Dodgers lead all-time
+San Francisco Giants,Chicago Cubs,488,461,958,0.509,0.481,1876,2025,Giants lead since 1876
+San Francisco Giants,St. Louis Cardinals,422,470,900,0.469,0.531,1892,2025,23 WS titles between them
+San Francisco Giants,Atlanta Braves,459,471,938,0.490,0.510,1876,2025,Braves lead post-Milwaukee
+Chicago Cubs,St. Louis Cardinals,460,495,964,0.477,0.523,1892,2025,Cards lead; historic rivalry
+Chicago Cubs,Atlanta Braves,455,481,944,0.482,0.518,1876,2025,Cubs lead pre-Milwaukee
+Chicago Cubs,Pittsburgh Pirates,520,462,988,0.527,0.473,1882,2025,Cubs lead
+Chicago Cubs,Cincinnati Reds,470,455,932,0.505,0.495,1890,2025,Cubs slight edge
+St. Louis Cardinals,Atlanta Braves,470,490,968,0.486,0.514,1892,2025,Cards lead; Braves rising
+St. Louis Cardinals,Pittsburgh Pirates,555,462,1028,0.541,0.459,1882,2025,Cards lead classic rivalry
+St. Louis Cardinals,Cincinnati Reds,520,440,968,0.538,0.462,1890,2025,Cards lead
+Atlanta Braves,Pittsburgh Pirates,520,480,1008,0.517,0.483,1876,2025,Braves lead; strong 1990s-2020s
+Atlanta Braves,Cincinnati Reds,510,460,978,0.518,0.482,1890,2025,Braves lead
+Pittsburgh Pirates,Cincinnati Reds,510,460,978,0.517,0.483,1882,2025,Pirates edge classic rivalry
+New York Mets,Philadelphia Phillies,510,470,988,0.516,0.484,1962,2025,Mets vs Phillies rivalry
+San Diego Padres,Miami Marlins,88,22,110,0.800,0.200,1993,2025,SD vs FL franchise
+Colorado Rockies,Arizona Diamondbacks,48,14,62,0.770,0.230,1998,2025,Colorado vs Arizona
+Washington Nationals,Milwaukee Brewers,55,10,65,0.842,0.158,1998,2025,Nats vs Milwaukee in NL
