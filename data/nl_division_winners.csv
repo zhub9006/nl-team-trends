@@ -3,3 +3,142 @@ Season,Division,Team,W,L,WinPct,DivisionStatus
 1969,West,Atlanta Braves,93,69,.572,Champion
 1970,East,Pittsburgh Pirates,89,73,.549,Champion
 1970,West,Atlanta Braves,90,72,.556,Champion
+1971,East,Pittsburgh Pirates,97,65,.599,Champion
+1971,West,San Francisco Giants,90,72,.556,Champion
+1972,East,Pittsburgh Pirates,96,59,.619,Champion
+1972,West,Cincinnati Reds,88,74,.543,Champion
+1973,East,New York Mets,82,79,.512,Champion
+1973,West,Cincinnati Reds,99,63,.611,Champion
+1974,East,Pittsburgh Pirates,88,74,.543,Champion
+1974,West,Los Angeles Dodgers,102,60,.630,Champion
+1975,East,Pittsburgh Pirates,92,69,.571,Champion
+1975,West,Cincinnati Reds,108,54,.667,Champion
+1976,East,Philadelphia Phillies,101,61,.623,Champion
+1976,West,Cincinnati Reds,102,60,.630,Champion
+1977,East,Philadelphia Phillies,90,72,.556,Champion
+1977,West,Los Angeles Dodgers,98,64,.605,Champion
+1978,East,Philadelphia Phillies,90,72,.556,Champion
+1978,West,Los Angeles Dodgers,95,67,.586,Champion
+1979,East,Pittsburgh Pirates,98,64,.605,Champion
+1979,West,Cincinnati Reds,92,69,.571,Champion
+1980,East,Philadelphia Phillies,91,71,.562,Champion
+1980,West,Houston Astros,93,70,.571,Champion
+1981,East,Montreal Expos,60,48,.556,Champion
+1981,West,Los Angeles Dodgers,63,47,.571,Champion
+1982,East,St. Louis Cardinals,92,70,.568,Champion
+1982,West,Atlanta Braves,89,73,.549,Champion
+1983,East,Philadelphia Phillies,90,72,.556,Champion
+1983,West,Los Angeles Dodgers,91,71,.571,Champion
+1984,East,Chicago Cubs,96,65,.598,Champion
+1984,West,San Diego Padres,92,70,.568,Champion
+1985,East,St. Louis Cardinals,101,61,.623,Champion
+1985,West,Los Angeles Dodgers,95,67,.586,Champion
+1986,East,New York Mets,108,54,.667,Champion
+1986,West,Atlanta Braves,86,76,.531,Champion
+1987,East,St. Louis Cardinals,95,67,.586,Champion
+1987,West,San Francisco Giants,90,72,.556,Champion
+1988,East,St. Louis Cardinals,94,67,.584,Champion
+1988,West,Los Angeles Dodgers,94,67,.584,Champion
+1989,East,Chicago Cubs,93,69,.574,Champion
+1989,West,San Francisco Giants,92,70,.568,Champion
+1990,East,Chicago Cubs,91,71,.562,Champion
+1990,West,Cincinnati Reds,91,71,.562,Champion
+1991,East,Pittsburgh Pirates,98,64,.605,Champion
+1991,West,Atlanta Braves,94,68,.580,Champion
+1992,East,Pittsburgh Pirates,96,66,.593,Champion
+1992,West,Atlanta Braves,98,64,.605,Champion
+1993,East,Philadelphia Phillies,97,65,.599,Champion
+1993,West,Atlanta Braves,104,58,.642,Champion
+1994,East,Montreal Expos,74,40,.649,Best record (strike)
+1994,Central,Cincinnati Reds,66,48,.579,Best in Central (strike)
+1994,West,Los Angeles Dodgers,58,56,.509,Best in West (strike)
+1995,East,Atlanta Braves,90,54,.625,Champion
+1995,Central,Cincinnati Reds,85,59,.590,Champion
+1995,West,Los Angeles Dodgers,78,66,.542,Champion
+1996,East,Atlanta Braves,96,66,.593,Champion
+1996,Central,Pittsburgh Pirates,97,66,.595,Champion
+1996,West,San Diego Padres,91,71,.562,Champion
+1997,East,Atlanta Braves,101,61,.623,Champion
+1997,Central,Houston Astros,84,78,.519,Champion
+1997,West,Arizona Diamondbacks,92,70,.568,Champion
+1998,East,Atlanta Braves,106,56,.654,Champion
+1998,Central,Houston Astros,102,60,.630,Champion
+1998,West,San Diego Padres,98,64,.605,Champion
+1999,East,Atlanta Braves,103,59,.636,Champion
+1999,Central,Houston Astros,97,65,.599,Champion
+1999,West,Arizona Diamondbacks,100,62,.617,Champion
+2000,East,Atlanta Braves,95,67,.586,Champion
+2000,Central,St. Louis Cardinals,95,67,.586,Champion
+2000,West,San Francisco Giants,97,65,.599,Champion
+2001,East,Atlanta Braves,88,74,.543,Champion
+2001,Central,Houston Astros,93,69,.574,Champion
+2001,West,Arizona Diamondbacks,92,70,.568,Champion
+2002,East,Atlanta Braves,101,59,.630,Champion
+2002,Central,St. Louis Cardinals,97,65,.599,Champion
+2002,West,Arizona Diamondbacks,98,64,.605,Champion
+2003,East,Atlanta Braves,101,61,.623,Champion
+2003,Central,Chicago Cubs,88,74,.543,Champion
+2003,West,Arizona Diamondbacks,84,78,.519,Champion
+2004,East,Atlanta Braves,96,66,.593,Champion
+2004,Central,St. Louis Cardinals,105,57,.648,Champion
+2004,West,Los Angeles Dodgers,93,69,.574,Champion
+2005,East,New York Mets,83,79,.512,Champion
+2005,Central,St. Louis Cardinals,100,62,.617,Champion
+2005,West,San Diego Padres,82,80,.506,Champion
+2006,East,New York Mets,97,65,.599,Champion
+2006,Central,St. Louis Cardinals,83,78,.516,Champion
+2006,West,San Diego Padres,88,74,.543,Champion
+2007,East,Philadelphia Phillies,89,73,.549,Champion
+2007,Central,Chicago Cubs,85,77,.525,Champion
+2007,West,Colorado Rockies,90,73,.552,Champion
+2008,East,Philadelphia Phillies,92,70,.568,Champion
+2008,Central,Chicago Cubs,97,64,.601,Champion
+2008,West,Los Angeles Dodgers,84,78,.519,Champion
+2009,East,Philadelphia Phillies,93,69,.574,Champion
+2009,Central,St. Louis Cardinals,91,71,.562,Champion
+2009,West,Los Angeles Dodgers,95,67,.586,Champion
+2010,East,Philadelphia Phillies,97,65,.599,Champion
+2010,Central,St. Louis Cardinals,86,76,.531,Champion
+2010,West,San Francisco Giants,92,70,.568,Champion
+2011,East,Philadelphia Phillies,102,60,.630,Champion
+2011,Central,St. Louis Cardinals,90,72,.556,Champion
+2011,West,Arizona Diamondbacks,94,68,.580,Champion
+2012,East,Washington Nationals,98,64,.605,Champion
+2012,Central,St. Louis Cardinals,88,74,.543,Champion
+2012,West,San Francisco Giants,94,68,.580,Champion
+2013,East,Atlanta Braves,96,66,.593,Champion
+2013,Central,St. Louis Cardinals,97,65,.599,Champion
+2013,West,Los Angeles Dodgers,92,70,.568,Champion
+2014,East,Washington Nationals,96,66,.593,Champion
+2014,Central,St. Louis Cardinals,90,72,.556,Champion
+2014,West,Los Angeles Dodgers,94,68,.580,Champion
+2015,East,New York Mets,90,72,.556,Champion
+2015,Central,St. Louis Cardinals,100,62,.617,Champion
+2015,West,Los Angeles Dodgers,92,70,.568,Champion
+2016,East,Washington Nationals,95,67,.586,Champion
+2016,Central,Chicago Cubs,103,58,.640,Champion
+2016,West,Los Angeles Dodgers,91,71,.562,Champion
+2017,East,Washington Nationals,97,65,.599,Champion
+2017,Central,Chicago Cubs,92,70,.568,Champion
+2017,West,Arizona Diamondbacks,93,69,.574,Champion
+2018,East,Atlanta Braves,90,72,.556,Champion
+2018,Central,Chicago Cubs,95,68,.582,Champion
+2018,West,Colorado Rockies,91,72,.558,Champion
+2019,East,Washington Nationals,93,69,.574,Champion
+2019,Central,St. Louis Cardinals,91,71,.562,Champion
+2019,West,Los Angeles Dodgers,97,65,.599,Champion
+2020,East,Atlanta Braves,35,25,.583,Champion
+2020,Central,Chicago Cubs,34,26,.567,Champion
+2020,West,Los Angeles Dodgers,43,17,.717,Champion
+2021,East,Atlanta Braves,88,73,.547,Champion
+2021,Central,Milwaukee Brewers,95,67,.586,Champion
+2021,West,Los Angeles Dodgers,106,56,.654,Champion
+2022,East,Philadelphia Phillies,87,75,.537,Champion
+2022,Central,St. Louis Cardinals,93,69,.574,Champion
+2022,West,Los Angeles Dodgers,111,51,.685,Champion
+2023,East,Atlanta Braves,104,58,.642,Champion
+2023,Central,St. Louis Cardinals,101,61,.617,Champion
+2023,West,Los Angeles Dodgers,100,62,.617,Champion
+2024,East,Atlanta Braves,89,73,.549,Champion
+2024,Central,Milwaukee Brewers,93,69,.574,Champion
+2024,West,Los Angeles Dodgers,98,64,.605,Champion
