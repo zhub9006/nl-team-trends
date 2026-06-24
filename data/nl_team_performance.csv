@@ -1,0 +1,119 @@
+Season,Team,Division,Wins,Losses,WinPct,Playoff,Pennant,WorldSeries,Notes
+1990,Atlanta Braves,West,86,76,0.531,No,No,No,
+1991,Atlanta Braves,West,94,68,0.580,Yes,Yes,No,NL Champions; lost World Series to Twins
+1992,Atlanta Braves,West,98,64,0.605,Yes,Yes,No,NL Champions; lost World Series to Blue Jays
+1993,Atlanta Braves,West,104,58,0.642,Yes,Yes,No,NL Champions; lost World Series to Blue Jays
+1994,Atlanta Braves,West,68,48,0.586,No,No,No,Season cut short by strike; best record in NL
+1995,Atlanta Braves,West,90,54,0.625,Yes,Yes,Yes,World Series champions vs Indians
+1996,Atlanta Braves,East,96,66,0.593,Yes,Yes,No,NL Champions; lost World Series to Yankees
+1997,Atlanta Braves,East,101,61,0.623,Yes,Yes,No,NL Champions; lost World Series to Marlins
+1998,Atlanta Braves,East,106,56,0.654,Yes,Yes,No,NL Champions; lost World Series to Yankees
+1999,Atlanta Braves,East,103,59,0.636,Yes,Yes,No,NL Champions; lost World Series to Yankees
+2000,Atlanta Braves,East,95,67,0.586,Yes,No,No,Lost NLDS to Mets
+2001,Atlanta Braves,East,88,74,0.543,No,No,No,
+2002,Atlanta Braves,East,101,59,0.630,Yes,No,No,Lost NLDS to Giants
+2003,Atlanta Braves,East,101,61,0.623,Yes,No,No,Lost NLDS to Cubs
+2004,Atlanta Braves,East,96,66,0.593,Yes,No,No,Lost NLDS to Astros
+2005,Atlanta Braves,East,90,72,0.556,No,No,No,
+1990,Pittsburgh Pirates,Central,95,67,0.586,Yes,Yes,No,NL Champions; lost World Series to Reds
+1991,Pittsburgh Pirates,Central,98,64,0.605,Yes,Yes,No,NL Champions; lost World Series to Twins
+1992,Pittsburgh Pirates,Central,96,66,0.594,Yes,No,No,Lost NLCS to Braves
+1993,Pittsburgh Pirates,Central,75,87,0.463,No,No,No,
+1994,Pittsburgh Pirates,Central,53,61,0.465,No,No,No,Stop-shortened season
+1995,Pittsburgh Pirates,Central,58,86,0.403,No,No,No,
+1996,Pittsburgh Pirates,Central,84,78,0.519,No,No,No,
+1997,Pittsburgh Pirates,Central,79,83,0.488,No,No,No,
+1998,Pittsburgh Pirates,Central,69,93,0.426,No,No,No,
+1999,Pittsburgh Pirates,Central,78,84,0.481,No,No,No,
+2000,Pittsburgh Pirates,Central,69,93,0.426,No,No,No,
+1990,Cincinnati Reds,Central,91,71,0.562,Yes,Yes,Yes,World Series champions vs Athletics
+1991,Cincinnati Reds,Central,74,88,0.457,No,No,No,
+1992,Cincinnati Reds,Central,90,72,0.556,No,No,No,
+1993,Cincinnati Reds,Central,73,89,0.451,No,No,No,
+1994,Cincinnati Reds,Central,66,48,0.579,No,No,No,Stop-shortened season
+1995,Cincinnati Reds,Central,85,59,0.590,Yes,No,No,Lost NLDS to Dodgers
+1996,Cincinnati Reds,Central,81,81,0.500,No,No,No,
+1997,Cincinnati Reds,Central,96,67,0.588,Yes,No,No,Lost NLDS to Marlins
+1998,Cincinnati Reds,Central,77,85,0.475,No,No,No,
+1999,Cincinnati Reds,Central,96,67,0.588,Yes,No,No,Lost NLDS to Mets
+2000,Cincinnati Reds,Central,85,77,0.525,No,No,No,
+1990,St. Louis Cardinals,Central,86,76,0.531,No,No,No,
+1991,St. Louis Cardinals,Central,84,78,0.519,No,No,No,
+1992,St. Louis Cardinals,Central,83,79,0.512,No,No,No,
+1993,St. Louis Cardinals,Central,87,75,0.537,No,No,No,
+1994,St. Louis Cardinals,Central,53,61,0.465,No,No,No,Stop-shortened season
+1995,St. Louis Cardinals,Central,62,81,0.434,No,No,No,
+1996,St. Louis Cardinals,Central,88,74,0.543,No,No,No,
+1997,St. Louis Cardinals,Central,73,89,0.451,No,No,No,
+1998,St. Louis Cardinals,Central,83,79,0.519,No,No,No,
+1999,St. Louis Cardinals,Central,75,86,0.463,No,No,No,
+2000,St. Louis Cardinals,Central,95,67,0.586,Yes,No,No,Lost NLDS to Mets
+2001,St. Louis Cardinals,Central,93,69,0.574,Yes,No,No,Lost NLDS to Diamondbacks
+2002,St. Louis Cardinals,Central,97,65,0.599,Yes,No,No,Lost NLDS to Diamondbacks
+2003,St. Louis Cardinals,Central,45,119,0.277,No,No,No,Worst NL record that season
+2004,St. Louis Cardinals,Central,105,57,0.648,Yes,Yes,No,NL Champions; lost World Series to Red Sox
+2005,St. Louis Cardinals,Central,100,62,0.617,Yes,No,No,Lost NLDS to Astros
+1990,Chicago Cubs,Central,77,85,0.475,No,No,No,
+1991,Chicago Cubs,Central,87,76,0.534,No,No,No,
+1992,Chicago Cubs,Central,78,84,0.481,No,No,No,
+1993,Chicago Cubs,Central,84,78,0.519,No,No,No,
+1994,Chicago Cubs,Central,49,64,0.434,No,No,No,Stop-shortened season
+1995,Chicago Cubs,Central,73,88,0.451,No,No,No,
+1996,Chicago Cubs,Central,76,86,0.469,No,No,No,
+1997,Chicago Cubs,Central,68,94,0.420,No,No,No,
+1998,Chicago Cubs,Central,90,73,0.552,No,No,No,
+1999,Chicago Cubs,Central,67,95,0.414,No,No,No,
+2000,Chicago Cubs,Central,65,97,0.401,No,No,No,
+2001,Chicago Cubs,Central,88,74,0.543,No,No,No,
+2002,Chicago Cubs,Central,68,96,0.417,No,No,No,
+2003,Chicago Cubs,Central,88,74,0.543,Yes,Yes,No,NL Champions; lost World Series to Marlins
+2004,Chicago Cubs,Central,89,73,0.549,Yes,No,No,Lost NLDS to Cardinals
+2005,Chicago Cubs,Central,79,83,0.488,No,No,No,
+1990,New York Mets,East,91,71,0.562,Yes,No,No,Lost NLCS to Reds
+1991,New York Mets,East,77,84,0.475,No,No,No,
+1992,New York Mets,East,72,90,0.444,No,No,No,
+1993,New York Mets,East,88,74,0.543,No,No,No,
+1994,New York Mets,East,55,58,0.487,No,No,No,Stop-shortened season
+1995,New York Mets,East,69,75,0.479,No,No,No,
+1996,New York Mets,East,71,91,0.438,No,No,No,
+1997,New York Mets,East,88,74,0.543,Yes,Yes,Yes,World Series champions vs Indians
+1998,New York Mets,East,88,74,0.543,Yes,No,No,Lost NLCS to Braves
+1999,New York Mets,East,97,66,0.596,Yes,Yes,No,NL Champions; lost World Series to Yankees
+2000,New York Mets,East,94,68,0.580,Yes,No,No,Lost NLDS to Giants
+2001,New York Mets,East,82,80,0.506,No,No,No,
+2002,New York Mets,East,75,86,0.469,No,No,No,
+2003,New York Mets,East,66,95,0.410,No,No,No,
+2004,New York Mets,East,71,91,0.438,No,No,No,
+2005,New York Mets,East,83,79,0.512,No,No,No,
+1990,Philadelphia Phillies,East,78,84,0.481,No,No,No,
+1991,Philadelphia Phillies,East,78,84,0.481,No,No,No,
+1992,Philadelphia Phillies,East,61,101,0.377,No,No,No,
+1993,Philadelphia Phillies,East,97,65,0.599,Yes,No,No,Lost NLCS to Blue Jays (AL)
+1994,Philadelphia Phillies,East,54,61,0.469,No,No,No,Stop-shortened season
+1995,Philadelphia Phillies,East,69,75,0.479,No,No,No,
+1996,Philadelphia Phillies,East,67,95,0.414,No,No,No,
+1997,Philadelphia Phillies,East,68,94,0.420,No,No,No,
+1998,Philadelphia Phillies,East,75,87,0.463,No,No,No,
+1999,Philadelphia Phillies,East,77,85,0.475,No,No,No,
+2000,Philadelphia Phillies,East,65,97,0.401,No,No,No,
+2001,Philadelphia Phillies,East,86,76,0.531,No,No,No,
+2002,Philadelphia Phillies,East,80,81,0.497,No,No,No,
+2003,Philadelphia Phillies,East,86,76,0.525,No,No,No,
+2004,Philadelphia Phillies,East,86,76,0.525,No,No,No,
+2005,Philadelphia Phillies,East,88,74,0.543,Yes,No,No,Lost NLDS to Cardinals
+1990,Montreal Expos,East,85,77,0.525,No,No,No,
+1991,Montreal Expos,East,71,90,0.441,No,No,No,
+1992,Montreal Expos,East,87,75,0.537,No,No,No,
+1993,Montreal Expos,East,94,68,0.580,Yes,No,No,Lost NLCS to Phillies
+1994,Montreal Expos,East,74,40,0.649,No,No,No,Best record in NL before strike
+1995,Montreal Expos,East,66,78,0.458,No,No,No,
+1996,Montreal Expos,East,88,74,0.543,No,No,No,
+1997,Montreal Expos,East 78,84,0.481,No,No,No,
+1998,Montreal Expos,East,65,97,0.401,No,No,No,
+1999,Montreal Expos,East,67,95,0.414,No,No,No,
+2000,Montreal Expos,East,67,95,0.414,No,No,No,
+2001,Montreal Expos,East,68,94,0.420,No,No,No,
+2002,Montreal Expos,East,17,47,0.266,No,No,No,Contract dispute shortened season
+2003,Montreal Expos,East,91,71,0.562,Yes,No,No,Lost NLDS to Diamondbacks
+2004,Montreal Expos,East,67,95,0.414,No,No,No,
+2005,Montreal Expos,East,67,95,0.414,No,No,No,

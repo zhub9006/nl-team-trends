@@ -1,75 +1,57 @@
 # NL Team Trends
 
-Historical National League team performance data, trends, and visualizations.
+Historical National League team performance data, trends, and visualizations across past MLB seasons.
 
 ## Overview
 
-This repository compiles historical National League (NL) baseball team statistics, win-loss records, and performance trends across past seasons. The goal is to build interactive visualizations and analysis tools for exploring how NL teams have performed over the years.
+This repository compiles historical National League win-loss records, pennant winners, World Series outcomes, and key team trends spanning decades of MLB play. The goal is to provide a clean, structured dataset for analysis and visualization of how NL teams have performed over time.
+
+## Contents
+
+- **`data/nl_team_performance.csv`** — Season-by-season win-loss records, pennant flags, and division rankings for NL teams (1990–2024)
+- **`data/nl_pennant_winners.json`** — Historical NL pennant and World Series winners
+- **`notebooks/`** — Jupyter notebooks for analysis and visualization (to be added)
+- **`src/`** — Utility scripts for data processing (to be added)
 
 ## Data Sources
 
-- **Baseball Reference** ([baseball-reference.com/leagues/NL](https://www.baseball-reference.com/leagues/NL/)): Comprehensive season-by-season team statistics including wins, losses, win percentage, runs scored/allowed, and more.
-- **Retrosheet** ([retrosheet.org](https://www.retrosheet.org)): Play-by-play data and season summaries for historical NL teams.
-- **MLB Stats API**: Official MLB statistics for current and historical NL team performance.
-- **Sean Lahman's Baseball Database**: Publicly available baseball data with team-level season records.
+The historical data in this repository is compiled from:
 
-## Data Files
-
-| File | Description |
-|------|-------------|
-| `data/nl_team_seasons_1969_2024.csv` | NL team season records (1969–2024) including W, L, Win%, RS, RA, and division standings |
-| `data/nl_division_winners.csv` | NL division winners and playoff qualifiers by season |
-| `data/nl_championships.csv` | NL championship series and World Series participants |
+- **Baseball-Reference.com** — Comprehensive season-by-season team statistics and records
+- **MLB.com / Official MLB Records** — Pennant winners, postseason results, and franchise history
+- **Retrosheet** — Play-by-play and season summary data for historical accuracy
+- **Sean Lahman's Baseball Database** — Public dataset for archival season records
 
 ## Key Historical Trends
 
-### Dominant NL Franchises (by 10+ year Win%)
-- **Atlanta Braves**: .548 Win% (1991–2005), 14 consecutive division titles (1991–2005)
-- **San Francisco Giants**: .555 Win% (2010–2022), 3 World Series titles (2010, 2012, 2014)
-- **St. Louis Cardinals**: .541 Win% (2000–2013), 2 World Series titles (2006, 2011)
-- **Los Angeles Dodgers**: .550 Win% (2013–2024), 3 World Series titles (2020, 2024)
+### Era of Dominance
+| Team | Era | Notable Achievement |
+|------|-----|---------------------|
+| Atlanta Braves | 1991–2005 | 14 consecutive division titles; 1995 World Series champions |
+| San Francisco Giants | 2010–2014 | 3 World Series titles in 5 years (2010, 2012, 2014) |
+| Los Angeles Dodgers | 2017–2024 | 5 NL pennants in 7 years; 2020 World Series champions |
 
-### Era Breakdown
-- **1970s**: Big Red Machine (Cincinnati Reds, .610 Win% 1970–1979), Pittsburgh Pirates (.561 Win%)
-- **1980s**: Cardinals resurgence (.524 Win%), Dodgers dynasty (.540 Win%)
-- **1990s**: Braves dominance (.575 Win% 1991–2000), Rockies emergence (.510 Win%)
-- **2000–2009**: Cardinals (.530 Win%), Astros (.521 Win%), Braves (.514 Win%)
-- **2010–2024**: Dodgers (.560 Win%), Giants (.530 Win%), Cardinals (.495 Win%)
+### Division Structure
+- **NL East**: Braves, Mets, Phillies, Nationals, Marlins
+- **NL Central**: Cardinals, Brewers, Cubs, Pirates, Reds
+- **NL West**: Dodgers, Giants, Padres, Rockies, Diamondback
 
-### Notable Anomalies
-- **1994 Season**: Canceled due to players' strike; no NL champion crowned
-- **2020 COVID Season**: 60-game season; Dodgers won abbreviated World Series
-- **Homefield Advantage**: NL had no DH until 2022; pitch-centric strategy shaped run environments
+*(Note: Houston Astros were in the NL from 1962–2012; Milwaukee Brewers have been in the NL Central since 1998)*
 
-## Visualization Ideas
+## How to Use
 
-1. **Win% Heatmap**: Team × Season matrix showing performance over time
-2. **Run Differential Trend Lines**: RS vs. RA for top franchises
-3. **Division Dominance Maps**: Visual representation of which team dominated each NL division by decade
-4. **Championship Drought Tracker**: Years since last title for each franchise
-5. **Playoff Appearance Frequency**: Bar chart of postseason appearances by team
-
-## Getting Started
-
-### Data Collection
-```bash
-# Pull data from Baseball Reference
-echo "Season,Team,W,L,WinPct,RS,RA,Division,WStreak" > data/nl_team_seasons_1969_2024.csv
-```
-
-### Analysis
-- Python + Pandas for data wrangling
-- Matplotlib / Seaborn / Plotly for visualizations
-- Jupyter Notebooks for interactive exploration
+1. **Explore the data**: Open `data/nl_team_performance.csv` in any spreadsheet tool or Python/pandas.
+2. **Analyze trends**: Use the notebooks in `notebooks/` to run trend analyses.
+3. **Build visualizations**: Create charts for win percentages, pennant races, and decade-over-decade changes.
 
 ## Contributing
 
-Contributions welcome! Please focus on:
-- Adding season-level data for missing years/teams
-- Building new visualization notebooks
-- Improving data validation and sources
+Contributions are welcome! Please feel free to submit issues or pull requests to add:
+- Additional historical seasons (pre-1990 data)
+- Advanced metrics (WAR, OPS+, defensive runs saved)
+- Player-level performance linked to team trends
+- Interactive dashboards
 
 ## License
 
-Data: Public domain (Baseball Reference, Retrosheet, MLB)
-Code: MIT
+This project is open source. Data sourced from public MLB records and Baseball-Reference.com.
