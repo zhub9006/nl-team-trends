@@ -1,0 +1,8 @@
+Era,StartYear,EndYear,NumTeams,AvgGamesPerSeason,AvgRunsPerGame,TopTeam,TopTeamWinPct,KeyTrend,DominantFranchise,NotableEvents
+Pre-Modern,1876,1899,8-12,100-154,~3.4,Pittsburgh Pirates,.580,Short schedules; few teams,Pittsburgh Pirates,NL founded 1876; AA merger 1892
+Dead Ball,1900,1919,8,140-154,~3.4,Pittsburgh Pirates,.580,Low-scoring pitching era,Pittsburgh Pirates,1903 first WS; 1914 Miracle Braves
+Live Ball,1920,1945,8,140-154,~4.7,St. Louis Cardinals,.558,Home run surge; integration 1947,St. Louis Cardinals,1920 Babe Ruth; 1947 Jackie Robinson
+Post-War,1946,1968,10-12,154,~4.3,Los Angeles Dodgers,.580,Expansion to 10+ teams,Los Angeles Dodgers,1962 expansion: Mets/Angels/Colt 45s
+Modern Expansion,1969,1992,12,162,~4.5,Cincinnati Reds,.610,Divisional play; 12-team playoff,Cincinnati Reds/St. Louis Cardinals,1969 divisional era; 1975-76 Big Red Machine; 1981 strike
+Divisional,1993,2020,14-15,162,~4.7,Atlanta Braves/.560; Giants/.555,3-division format; Wild Card,Atlanta Braves,1994 strike; 1998 expansion; 2012 15-team playoff
+COVID-Modern,2020,2025,15,60-163,~4.5,Los Angeles Dodgers,.650,COVID seasons; universal DH 2022,Los Angeles Dodgers,2020 60-game season; 2022 universal DH
