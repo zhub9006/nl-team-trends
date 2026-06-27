@@ -1,8 +1,8 @@
-Era,StartYear,EndYear,NumTeams,AvgGamesPerSeason,AvgRunsPerGame,TopTeam,TopTeamWinPct,KeyTrend,DominantFranchise,NotableEvents
-Pre-Modern,1876,1899,8-12,100-154,~3.4,Pittsburgh Pirates,.580,Short schedules; few teams,Pittsburgh Pirates,NL founded 1876; AA merger 1892
-Dead Ball,1900,1919,8,140-154,~3.4,Pittsburgh Pirates,.580,Low-scoring pitching era,Pittsburgh Pirates,1903 first WS; 1914 Miracle Braves
-Live Ball,1920,1945,8,140-154,~4.7,St. Louis Cardinals,.558,Home run surge; integration 1947,St. Louis Cardinals,1920 Babe Ruth; 1947 Jackie Robinson
-Post-War,1946,1968,10-12,154,~4.3,Los Angeles Dodgers,.580,Expansion to 10+ teams,Los Angeles Dodgers,1962 expansion: Mets/Angels/Colt 45s
-Modern Expansion,1969,1992,12,162,~4.5,Cincinnati Reds,.610,Divisional play; 12-team playoff,Cincinnati Reds/St. Louis Cardinals,1969 divisional era; 1975-76 Big Red Machine; 1981 strike
-Divisional,1993,2020,14-15,162,~4.7,Atlanta Braves/.560; Giants/.555,3-division format; Wild Card,Atlanta Braves,1994 strike; 1998 expansion; 2012 15-team playoff
-COVID-Modern,2020,2025,15,60-163,~4.5,Los Angeles Dodgers,.650,COVID seasons; universal DH 2022,Los Angeles Dodgers,2020 60-game season; 2022 universal DH
+Era,Years,Teams,RunsPerGame,TopFranchise,TopFranchiseWinPct,DefiningFeatures,KeyMilestones
+Pre-Modern,1876-1899,"8-12",~3.4,Pittsburgh Pirates,.580,NL founded 1876; 60-154 game schedules; no pitcher's mound,"1876 NL founded (8 teams); 1882 AA absorbed 5 teams; 1890 Players League war"
+Dead Ball,1900-1919,8,~3.4,Pittsburgh Pirates,.580,Pitching dominant; first WS 1903; stolen base era,"1903 First World Series; 1906 Cubs 116-36; 1908 Last NL-only WS"
+Live Ball,1920-1945,8,~4.7,St. Louis Cardinals,.558,Home run surge (Ruth); integration 1947; WWII,"1920 Ruth live ball era; 1947 Jackie Robinson debut; 1945 last wartime season"
+Post-War I,1946-1968,"10-12",~4.3,LA Dodgers,.580,Dodgers dynasty; Braves 1953 move; early expansion,"1947 Robinson; 1953 Braves move to Milwaukee; 1962 NL expands to 10 teams"
+Modern Expansion,1969-1992,12,~4.5,Cincinnati Reds,.610,Two-division format; Big Red Machine; two expansion waves,"1969 2-division format; 1976 Reds sweep WS; 1993 NL expands to 14 teams"
+Divisional,1993-2019,"14-15",~4.7,Atlanta Braves,.560,Three-division + Wild Card; Braves 1991-2005 dynasty,"1993 3-division format; 1994 strike cancels season; 2022 12-team playoff"
+COVID-Modern,2020-2025,15,~4.5,LA Dodgers,.650,"60-game 2020 season; universal DH (2022); 12-team playoff","2020 COVID 60-game season Dodgers WS; 2022 universal DH adopted"
