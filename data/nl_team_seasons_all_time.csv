@@ -1,0 +1,266 @@
+season,team,wins,losses,win_pct,division,playoff_result
+1876,Chicago White Stockings,52,14,.786,N/A,Won 1st NL Pennant
+1877,Boston Red Stockings,42,18,.700,N/A,2nd Place
+1878,Boston Red Stockings,41,17,.707,N/A,Won 2nd NL Pennant
+1879,Boston Red Stockings,59,39,.600,N/A,2nd Place
+1880,Chicago White Stockings,67,17,.798,N/A,Won NL Pennant
+1881,Chicago White Stockings,56,28,.667,N/A,2nd Place
+1882,Chicago White Stockings,55,25,.688,N/A,2nd Place
+1883,Boston Beaneaters,63,35,.643,N/A,2nd Place
+1884,Providence Grays,84,28,.750,N/A,Won NL Pennant and 1st World's Series
+1885,Chicago White Stockings,87,25,.778,N/A,2nd Place (Temple Cup)
+1886,Chicago White Stockings,90,34,.724,N/A,2nd Place (Temple Cup)
+1887,Detroit Wolverines,76,36,.679,N/A,2nd Place (Temple Cup)
+1888,New York Giants,84,47,.643,N/A,Won NL Pennant
+1889,New York Giants,83,43,.661,N/A,Won NL Pennant
+1890,Boston Beaneaters,80,55,.593,N/A,2nd Place
+1890,Brooklyn Ward's Wonders,76,56,.576,N/A,3rd Place
+1891,Boston Beaneaters,87,51,.630,N/A,2nd Place
+1892,Boston Beaneaters,80,55,.593,N/A,Split Season: 1st Half 1st/2nd Half 2nd
+1892,Cleveland Spiders,93,56,.624,N/A,Split Season: 2nd Half 1st
+1893,Boston Beaneaters,86,43,.667,N/A,2nd Place
+1894,Baltimore Orioles,89,39,.693,N/A,2nd Place
+1894,Boston Beaneaters,83,45,.649,N/A,3rd Place
+1894,Brooklyn Grooms,71,57,.555,N/A,4th Place
+1894,Chicago Colts,67,61,.523,N/A,5th Place
+1894,Cincinnati Reds,66,62,.516,N/A,6th Place
+1894,New York Giants,67,62,.519,N/A,7th Place
+1894,Pittsburgh Pirates,65,65,.500,N/A,8th Place
+1895,Baltimore Orioles,87,43,.669,N/A,2nd Place (Temple Cup)
+1895,Boston Beaneaters,71,60,.542,N/A,3rd Place
+1895,Brooklyn Grooms,71,61,.538,N/A,4th Place
+1895,Chicago Colts,72,58,.556,N/A,5th Place
+1895,Cincinnati Reds,66,64,.508,N/A,6th Place
+1895,New York Giants,66,65,.504,N/A,7th Place
+1895,Pittsburgh Pirates,71,61,.538,N/A,1st Place
+1896,Baltimore Orioles,90,39,.698,N/A,2nd Place (Temple Cup)
+1896,Boston Beaneaters,74,57,.564,N/A,6th Place
+1896,Brooklyn Grooms,76,57,.571,N/A,3rd Place
+1896,Chicago Colts,71,57,.556,N/A,4th Place
+1896,Cincinnati Reds,77,50,.606,N/A,5th Place
+1896,New York Giants,64,67,.488,N/A,7th Place
+1896,Pittsburgh Pirates,66,63,.512,N/A,1st Place
+1897,Boston Beaneaters,93,39,.705,N/A,Won NL Pennant
+1897,Baltimore Orioles,90,40,.692,N/A,2nd Place
+1897,Brooklyn Grooms,61,64,.488,N/A,5th Place
+1897,Chicago Colts,59,73,.447,N/A,7th Place
+1897,Cincinnati Reds,56,81,.408,N/A,8th Place
+1897,New York Giants,60,74,.447,N/A,6th Place
+1897,Pittsburgh Pirates,60,74,.447,N/A,4th Place
+1898,Boston Beaneaters,102,47,.685,N/A,Won NL Pennant
+1898,Brooklyn Bridegrooms,54,111,.327,N/A,7th Place
+1898,Chicago Colts,67,93,.420,N/A,4th Place
+1898,Cincinnati Reds,92,79,.538,N/A,3rd Place
+1898,New York Giants,27,63,.300,N/A,5th Place
+1898,Pittsburgh Pirates,110,69,.615,N/A,2nd Place
+1899,Boston Beaneaters,95,57,.625,N/A,2nd Place
+1899,Brooklyn Superbas,101,47,.683,N/A,Won NL Pennant
+1899,Chicago Colts,75,73,.507,N/A,5th Place
+1899,Cincinnati Reds,83,67,.553,N/A,3rd Place
+1899,New York Giants,60,90,.400,N/A,6th Place
+1899,Pittsburgh Pirates,76,73,.513,N/A,7th Place
+1900,Boston Beaneaters,65,75,.464,N/A,5th Place
+1900,Brooklyn Superbas,82,54,.603,N/A,2nd Place
+1900,Chicago Orphans,65,75,.464,N/A,6th Place
+1900,Cincinnati Reds,70,70,.500,N/A,7th Place
+1900,New York Giants,60,78,.435,N/A,8th Place
+1900,Pittsburgh Pirates,79,60,.569,N/A,2nd Place
+1901,Pittsburgh Pirates,90,49,.646,N/A,1st Place
+1901,Boston Beaneaters,69,69,.500,N/A,3rd Place
+1901,Brooklyn Superbas,79,57,.580,N/A,4th Place
+1901,Chicago Orphans,53,86,.381,N/A,6th Place
+1901,Cincinnati Reds,52,87,.374,N/A,8th Place
+1901,New York Giants,52,85,.379,N/A,7th Place
+1902,Pittsburgh Pirates,103,36,.741,N/A,Won NL Pennant
+1902,Boston Beaneaters,73,62,.541,N/A,3rd Place
+1902,Brooklyn Superbas,75,63,.542,N/A,2nd Place
+1902,Chicago Orphans,68,69,.496,N/A,4th Place
+1902,Cincinnati Reds,70,70,.500,N/A,5th Place
+1902,New York Giants,48,88,.353,N/A,6th Place
+1903,Pittsburgh Pirates,91,49,.650,N/A,1st Place
+1903,Boston Beaneaters,58,80,.420,N/A,4th Place
+1903,Brooklyn Superbas,70,66,.515,N/A,3rd Place
+1903,Chicago Orphans,60,77,.438,N/A,5th Place
+1903,Cincinnati Reds,74,65,.532,N/A,2nd Place
+1903,New York Giants,84,55,.603,N/A,2nd Place
+1904,New York Giants,106,47,.691,N/A,1st Place (No WS played)
+1904,Pittsburgh Pirates,87,66,.569,N/A,3rd Place
+1904,Boston Beaneaters,55,98,.359,N/A,6th Place
+1904,Brooklyn Superbas,56,97,.368,N/A,7th Place
+1904,Chicago Cubs,65,91,.417,N/A,5th Place
+1904,Cincinnati Reds,88,65,.575,N/A,2nd Place
+1905,New York Giants,105,48,.688,N/A,1st Place; Won World Series
+1905,Pittsburgh Pirates,96,56,.632,N/A,2nd Place
+1905,Brooklyn Superbas,48,104,.316,N/A,7th Place
+1905,Chicago Cubs,64,66,.492,N/A,5th Place
+1905,Cincinnati Reds,79,74,.517,N/A,4th Place
+1906,Chicago Cubs,116,36,.763,N/A,1st Place; All-time NL record (Lost WS to White Sox)
+1906,New York Giants,96,56,.632,N/A,2nd Place
+1906,Pittsburgh Pirates,93,60,.608,N/A,3rd Place
+1906,Brooklyn Superbas,66,86,.434,N/A,5th Place
+1906,Cincinnati Reds,64,87,.424,N/A,7th Place
+1906,Philadelphia Phillies,71,82,.464,N/A,6th Place
+1907,Chicago Cubs,107,45,.704,N/A,1st Place; Lost World Series to Detroit Tigers
+1907,Pittsburgh Pirates,91,63,.591,N/A,3rd Place
+1907,Brooklyn Superbas,65,83,.438,N/A,5th Place
+1907,Cincinnati Reds,70,81,.461,N/A,6th Place
+1907,New York Giants,82,71,.536,N/A,4th Place
+1907,Philadelphia Phillies,83,64,.565,N/A,2nd Place
+1908,Chicago Cubs,99,55,.645,N/A,1st Place; Won World Series
+1908,Pittsburgh Pirates,98,56,.637,N/A,2nd Place
+1908,New York Giants,98,57,.632,N/A,3rd Place
+1908,Brooklyn Superbas,81,72,.529,N/A,4th Place
+1908,Cincinnati Reds,73,81,.474,N/A,5th Place
+1908,Philadelphia Phillies,83,58,.589,N/A,3rd Place
+1909,Pittsburgh Pirates,110,42,.724,N/A,1st Place; Won World Series
+1909,Chicago Cubs,104,56,.648,N/A,2nd Place
+1909,New York Giants,92,61,.600,N/A,3rd Place
+1909,Brooklyn Superbas,55,98,.359,N/A,5th Place
+1909,Cincinnati Reds,77,66,.538,N/A,4th Place
+1909,Philadelphia Phillies,74,79,.484,N/A,6th Place
+1910,Chicago Cubs,104,50,.676,N/A,2nd Place (Split Season)
+1910,Pittsburgh Pirates,86,67,.562,N/A,3rd Place
+1910,New York Giants,91,63,.591,N/A,1st Place (1st Half)
+1910,Brooklyn Superbas,64,89,.418,N/A,5th Place
+1910,Cincinnati Reds,75,79,.487,N/A,4th Place
+1910,Philadelphia Phillies,78,75,.512,N/A,6th Place
+1911,New York Giants,99,54,.647,N/A,1st Place; Lost World Series to Philadelphia A's
+1911,Pittsburgh Pirates,85,69,.552,N/A,3rd Place
+1911,Chicago Cubs,92,62,.597,N/A,2nd Place
+1911,Brooklyn Superbas,64,86,.427,N/A,5th Place
+1911,Cincinnati Reds,70,88,.442,N/A,6th Place
+1911,Philadelphia Phillies,79,73,.520,N/A,4th Place
+1912,New York Giants,103,48,.684,N/A,1st Place; Lost World Series to Boston Red Sox
+1912,Chicago Cubs,91,59,.604,N/A,3rd Place
+1912,Pittsburgh Pirates,93,58,.616,N/A,2nd Place
+1912,Brooklyn Superbas,58,90,.392,N/A,5th Place
+1912,Cincinnati Reds,75,78,.490,N/A,4th Place
+1912,Philadelphia Phillies,73,79,.480,N/A,6th Place
+1913,New York Giants,101,62,.619,N/A,1st Place; Lost World Series to Philadelphia A's
+1913,Pittsburgh Pirates,78,71,.523,N/A,5th Place
+1913,Chicago Cubs,88,65,.575,N/A,3rd Place
+1913,Brooklyn Superbas,65,84,.436,N/A,6th Place
+1913,Cincinnati Reds,64,89,.419,N/A,7th Place
+1913,Philadelphia Phillies,88,63,.584,N/A,2nd Place
+1914,Boston Braves,94,59,.614,N/A,1st Place; Won World Series (Miracle Braves)
+1914,New York Giants,84,70,.545,N/A,2nd Place
+1914,Philadelphia Phillies,81,70,.536,N/A,3rd Place
+1914,Pittsburgh Pirates,80,73,.523,N/A,4th Place
+1914,Brooklyn Robins,80,73,.523,N/A,5th Place
+1914,Chicago Cubs,78,76,.507,N/A,6th Place
+1914,Cincinnati Reds,60,94,.390,N/A,7th Place
+1915,Philadelphia Phillies,90,62,.592,N/A,1st Place; Lost World Series to Boston Red Sox
+1915,Boston Braves,83,69,.546,N/A,3rd Place
+1915,Brooklyn Robins,80,74,.519,N/A,2nd Place
+1915,Chicago Cubs,73,80,.475,N/A,4th Place
+1915,Pittsburgh Pirates,73,81,.474,N/A,5th Place
+1915,Cincinnati Reds,71,81,.467,N/A,6th Place
+1915,New York Giants,69,83,.455,N/A,7th Place
+1916,Brooklyn Robins,94,60,.611,N/A,1st Place; Lost World Series to Boston Red Sox
+1916,Philadelphia Phillies,91,62,.594,N/A,2nd Place
+1916,Boston Braves,89,63,.586,N/A,3rd Place
+1916,New York Giants,86,66,.566,N/A,4th Place
+1916,Chicago Cubs,67,86,.438,N/A,5th Place
+1916,Pittsburgh Pirates,65,89,.421,N/A,6th Place
+1916,Cincinnati Reds,60,93,.392,N/A,7th Place
+1917,New York Giants,98,56,.637,N/A,1st Place; Lost World Series to Chicago White Sox
+1917,Philadelphia Phillies,87,65,.571,N/A,2nd Place
+1917,Boston Braves,72,81,.470,N/A,3rd Place
+1917,Brooklyn Robins,71,82,.464,N/A,4th Place
+1917,Chicago Cubs,74,80,.481,N/A,5th Place
+1917,Pittsburgh Pirates,73,82,.471,N/A,6th Place
+1917,Cincinnati Reds,78,76,.507,N/A,7th Place
+1918,Boston Braves,67,71,.486,N/A,1st Place (NL Champion)
+1918,Brooklyn Robins,57,67,.459,N/A,3rd Place
+1918,Chicago Cubs,57,67,.459,N/A,4th Place
+1918,New York Giants,66,52,.561,N/A,2nd Place
+1918,Pittsburgh Pirates,65,60,.519,N/A,5th Place
+1918,Cincinnati Reds,60,63,.488,N/A,6th Place
+1919,Cincinnati Reds,96,44,.686,N/A,1st Place; Won World Series
+1919,Boston Braves,57,82,.411,N/A,5th Place
+1919,Brooklyn Robins,69,81,.461,N/A,3rd Place
+1919,New York Giants,87,53,.621,N/A,2nd Place
+1919,Philadelphia Phillies,47,90,.343,N/A,6th Place
+1919,Pittsburgh Pirates,49,71,.408,N/A,7th Place
+1920,Brooklyn Robins,93,61,.604,N/A,1st Place; Lost World Series
+1920,New York Giants,86,68,.558,N/A,2nd Place
+1920,Chicago Cubs,75,79,.487,N/A,3rd Place
+1920,Boston Braves,62,90,.408,N/A,4th Place
+1920,Pittsburgh Pirates,79,75,.513,N/A,5th Place
+1920,Cincinnati Reds,82,71,.536,N/A,6th Place
+1920,Philadelphia Phillies,62,91,.404,N/A,7th Place
+1921,New York Giants,94,59,.614,N/A,1st Place; Lost World Series
+1921,Brooklyn Robins,67,87,.434,N/A,4th Place
+1921,Chicago Cubs,64,89,.419,N/A,5th Place
+1921,Pittsburgh Pirates,90,68,.571,N/A,3rd Place
+1921,Boston Braves,79,74,.516,N/A,2nd Place
+1921,Cincinnati Reds,70,83,.458,N/A,6th Place
+1921,Philadelphia Phillies,64,89,.419,N/A,7th Place
+1922,New York Giants,93,61,.604,N/A,1st Place; Lost World Series
+1922,Brooklyn Robins,76,78,.494,N/A,3rd Place
+1922,Chicago Cubs,80,74,.519,N/A,2nd Place
+1922,Pittsburgh Pirates,85,67,.559,N/A,4th Place
+1922,Boston Braves,76,78,.494,N/A,5th Place
+1922,Cincinnati Reds,59,89,.399,N/A,6th Place
+1922,Philadelphia Phillies,57,90,.387,N/A,7th Place
+1923,New York Giants,95,58,.622,N/A,1st Place; Lost World Series
+1923,Brooklyn Robins,76,71,.516,N/A,3rd Place
+1923,Pittsburgh Pirates,87,65,.549,N/A,4th Place
+1923,Chicago Cubs,83,71,.539,N/A,5th Place
+1923,Cincinnati Reds,72,82,.468,N/A,6th Place
+1923,Philadelphia Phillies,66,87,.431,N/A,7th Place
+1923,Boston Braves,54,43,.557,N/A,8th Place
+1924,New York Giants,93,60,.608,N/A,1st Place; Lost World Series
+1924,Pittsburgh Pirates,90,63,.588,N/A,3rd Place
+1924,Chicago Cubs,91,59,.607,N/A,2nd Place
+1924,Brooklyn Robins,70,82,.461,N/A,5th Place
+1924,Cincinnati Reds,83,70,.542,N/A,4th Place
+1924,Philadelphia Phillies,55,96,.364,N/A,7th Place
+1924,Boston Braves,54,100,.351,N/A,8th Place
+1925,Pittsburgh Pirates,95,58,.621,N/A,1st Place; Won World Series
+1925,Chicago Cubs,95,59,.617,N/A,2nd Place
+1925,New York Giants,86,66,.566,N/A,3rd Place
+1925,Brooklyn Robins,68,85,.444,N/A,6th Place
+1925,Cincinnati Reds,69,85,.448,N/A,5th Place
+1925,Philadelphia Phillies,68,85,.444,N/A,7th Place
+1925,Boston Braves,54,100,.351,N/A,8th Place
+1926,St. Louis Cardinals,89,65,.578,N/A,1st Place; Won World Series
+1926,Chicago Cubs,82,72,.532,N/A,3rd Place
+1926,Pittsburgh Pirates,84,69,.548,N/A,2nd Place
+1926,Brooklyn Robins,79,76,.510,N/A,4th Place
+1926,New York Giants,74,77,.491,N/A,5th Place
+1926,Cincinnati Reds,77,76,.503,N/A,6th Place
+1926,Philadelphia Phillies,58,93,.385,N/A,7th Place
+1926,Boston Braves,51,100,.338,N/A,8th Place
+1927,New York Giants,92,62,.597,N/A,1st Place; Lost World Series
+1927,Chicago Cubs,85,68,.556,N/A,3rd Place
+1927,Pittsburgh Pirates,94,60,.610,N/A,2nd Place
+1927,St. Louis Cardinals,92,61,.601,N/A,4th Place
+1927,Brooklyn Robins,65,88,.425,N/A,5th Place
+1927,Cincinnati Reds,75,78,.491,N/A,6th Place
+1927,Philadelphia Phillies,56,97,.367,N/A,7th Place
+1927,Boston Braves,51,103,.331,N/A,8th Place
+1928,St. Louis Cardinals,95,59,.617,N/A,1st Place; Lost World Series
+1928,Chicago Cubs,91,63,.591,N/A,2nd Place
+1928,New York Giants,93,64,.590,N/A,3rd Place
+1928,Brooklyn Robins,77,76,.503,N/A,4th Place
+1928,Pittsburgh Pirates,85,67,.559,N/A,5th Place
+1928,Cincinnati Reds,78,74,.513,N/A,6th Place
+1928,Philadelphia Phillies,43,109,.283,N/A,7th Place
+1928,Boston Braves,50,103,.327,N/A,8th Place
+1929,Chicago Cubs,98,54,.645,N/A,1st Place; Lost World Series
+1929,Pittsburgh Pirates,88,65,.575,N/A,3rd Place
+1929,St. Louis Cardinals,78,74,.513,N/A,4th Place
+1929,Brooklyn Robins,70,83,.458,N/A,5th Place
+1929,Cincinnati Reds,66,88,.429,N/A,6th Place
+1929,Philadelphia Phillies,71,82,.464,N/A,7th Place
+1929,Boston Braves,56,98,.363,N/A,8th Place
+1929,New York Giants,84,67,.556,N/A,2nd Place
+1930,Chicago Cubs,90,64,.584,N/A,2nd Place
+1930,St. Louis Cardinals,92,62,.597,N/A,1st Place; Lost World Series
+1930,Pittsburgh Pirates,80,74,.519,N/A,3rd Place
+1930,Brooklyn Robins,78,76,.506,N/A,4th Place
+1930,New York Giants,87,67,.565,N/A,1st Half or 3rd Place
+1930,Cincinnati Reds,78,76,.506,N/A,Equal 4th/5th
+1930,Philadelphia Phillies,52,102,.338,N/A,7th Place
+1930,Boston Braves,70,83,.458,N/A,6th Place
