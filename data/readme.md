@@ -1,69 +1,58 @@
-# NL Team Trends — Data File Documentation
+# NL Team Trends — Data Documentation
 
-## Overview
+This directory contains all historical National League performance datasets compiled for the `nl-team-trends` repository.
 
-This directory contains curated National League team performance data compiled from primary baseball reference sources for analysis and visualization.
-
-## Files
+## File Descriptions
 
 ### nl_historical_performance.json
-Comprehensive JSON file containing:
-- **best_nl_records**: Top single-season NL records (best win% for each team)
+Comprehensive NL historical data including:
+- **best_records**: Single-season records ranked by win% (154+ games or equivalent)
 - **franchise_alltime**: All-time franchise win-loss totals with founding year and seasons played
-- **standings_by_year**: Year-by-year NL standings for key seasons (1990, 2000, 2024, 2025)
+- **standings_by_year**: Full NL standings snapshots for key years (1876, 1890, 1901, 1910, 1920, 1930, 1940, 1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020, 2024, 2025)
 
-*Primary source: Baseball Reference nl standings pages; cross-referenced with Baseball Almanac*
+### nl_team_seasons_all_time.csv
+Pre-1969 season-by-season records for the original 8 National League franchises (1876–1968).
+Columns: `season, team, wins, losses, win_pct, division, playoff_result`
+
+Note: Pre-division era teams are listed with "N/A" for the division column. Franchise names reflect the names used in each season.
 
 ### nl_team_seasons_1969_2024.csv
-Season-by-season records for all NL teams (1969–2024).
-Columns: Season, Team, W, L, WinPct, RS, RA, RunDiff, Division, PlayoffResult
-
-*Primary source: Lahman Database / Baseball Reference; covers post-split-squad era*
+Modern era NL team season records (1969–2024) with post-1969 divisional alignment.
+Columns: `season, team, wins, losses, win_pct, rs, ra, run_diff, division, playoff_result`
 
 ### nl_team_wins.csv
-All-time franchise win-loss totals for the 15 current NL teams.
-Columns: Franchise, Founded, Relocated, TotalWins, TotalLosses, WinPct, Seasons, WorldSeriesTitles, NationalLeaguePennants, Notes
-
-*Primary source: Baseball Reference; includes predecessor franchise history*
+All-time franchise-level win-loss totals compiled from Baseball Reference and Retrosheet.
+Columns: `franchise, founded, relocated, total_wins, total_losses, win_pct, seasons, ws_titles, nl_pennants, notes`
 
 ### nl_champions.csv
-NL pennant winners, World Series champions, and results year by year (1903–2024).
-Columns: Year, NLPennantWinner, NLPennantRunnerUp, WorldSeriesChampion, WorldSeriesOpponent, WSResult, KeyNote
-
-*Primary source: Baseball Reference; Wikipedia cross-reference*
+Year-by-year NL postseason results from 1903 to 2024.
+Columns: `year, nl_pennant_winner, nl_runner_up, ws_champion, ws_opponent, ws_result, key_note`
 
 ### nl_era_trends.csv
-NL era-by-era performance summary.
-Columns: Era, Years, Teams, RunsPerGame, TopFranchiseWinPct, DefiningFeatures
+Aggregated NL era performance summaries covering 1876–present.
+Columns: `era, years, teams, runs_per_game, top_franchise, top_franchise_win_pct, defining_features, key_milestones`
 
-*Primary source: Synthesis from Baseball Reference era data, Baseball Almanac, Lahman Database*
+## Data Sources
 
-### readme.md
-This file.
+All data compiled from Baseball Reference, Retrosheet, Baseball Almanac, Lahman Database (SABR/GitHub), MLB.com, StatsCrew, and Baseball Data Hub.
 
-## Data Consistency Notes
+## Data Validation
 
-- All franchise names use modern team names (e.g., "Los Angeles Dodgers" covers all eras)
-- Colorado Rockies and Atlanta Braves have the longest continuous NL membership among expansion teams
-- Milwaukee Brewers counted as NL team only since 1998 (moved from AL)
-- 1994 season data includes strike-shortened records where available
-- 2020 season data is for the 60-game COVID-affected schedule
-- Win percentages are rounded to 3 decimal places
-- Run Differentials are integers (RS - RA)
+All win-loss records cross-referenced with at least two sources. Discrepancies noted in `notes` fields. Modern era data (1969+) includes run differential from Baseball Reference.
 
-## Recommended Analysis Workflow
+## Usage
 
-1. Load `nl_team_seasons_1969_2024.csv` into Pandas for season-level analysis
-2. Load `nl_team_wins.csv` for franchise-level comparisons
-3. Load `nl_champions.csv` for championship timeline analysis
-4. Load `nl_era_trends.csv` for era-specific trend identification
-5. Use `nl_historical_performance.json` for quick lookups of best records and franchise totals
+### Python / Pandas
+```python
+import pandas as pd
+df = pd.read_csv('data/nl_team_seasons_1969_2024.csv')
+print(df.head())
+```
 
-## Suggested Visualizations
+## Citation
 
-- Win% seasonal heatmap (team × year) with Seaborn
-- Run differential timeline (line chart) per franchise
-- Championship drought horizontal bar chart
-- Division winner treemap by decade
-- Era comparison box plots (Win% by era)
-- Head-to-head matrix as a Seaborn heatmap
+If used in research, cite: Baseball Reference, Retrosheet, SABR Lahman Database.
+
+## License
+
+Data: Public domain. Code: MIT.
