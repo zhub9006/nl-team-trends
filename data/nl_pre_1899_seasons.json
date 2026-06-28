@@ -1,0 +1,156 @@
+{
+  "title": "NL Pre-1899 Historical Seasons",
+  "description": "Comprehensive pre-1899 National League season data including standings, franchise timelines, era context, and key milestones",
+  "last_updated": "2026-06-28",
+  "sources": [
+    "https://www.baseball-almanac.com/yearly/yr1876n.shtml",
+    "https://www.baseball-almanac.com/yearly/yr1906n.shtml",
+    "https://sabr.org/journal/article/the-1906-10-chicago-cubs-the-best-team-in-national-league-history/",
+    "https://www.baseball-reference.com/leagues/NL/",
+    "https://www.statscrew.com/baseball/l-NL"
+  ],
+  "franchise_timelines": {
+    "Atlanta Braves": {"founded": 1876, "original_name": "Boston Red Stockings", "name_changes": ["Boston Red Stockings (1876-1882)", "Boston Beaneaters (1883-1906)", "Boston Doves (1907-1910)", "Boston Rustlers (1911)", "Boston Braves (1912-1952)", "Milwaukee Braves (1953-1965)", "Atlanta Braves (1966-present)"], "status": "active"},
+    "Chicago Cubs": {"founded": 1876, "original_name": "Chicago White Stockings", "name_changes": ["Chicago White Stockings (1876-1890)", "Chicago Colts (1891-1897)", "Chicago Orphans (1898-1901)", "Chicago Cubs (1902-present)"], "status": "active"},
+    "Cincinnati Reds": {"founded": 1882, "original_name": "Cincinnati Red Stockings", "name_changes": ["Cincinnati Red Stockings (1882-1889)", "Cincinnati Redlegs (1953-1958)", "Cincinnati Reds (1959-present)"], "status": "active"},
+    "St. Louis Cardinals": {"founded": 1882, "original_name": "St. Louis Brown Stockings", "name_changes": ["St. Louis Brown Stockings (1882-1898)", "St. Louis Perfectos (1899)", "St. Louis Cardinals (1900-present)"], "status": "active"},
+    "Pittsburgh Pirates": {"founded": 1882, "original_name": "Pittsburgh Alleghenys", "name_changes": ["Pittsburgh Alleghenys (1882-1890)", "Pittsburgh Pirates (1891-present)"], "status": "active"},
+    "San Francisco Giants": {"founded": 1883, "original_name": "New York Gothams", "name_changes": ["New York Gothams (1883-1885)", "New York Giants (1885-1957)", "San Francisco Giants (1958-present)"], "status": "active"},
+    "Philadelphia Phillies": {"founded": 1883, "original_name": "Philadelphia Quakers", "name_changes": ["Philadelphia Quakers (1883-1889)", "Philadelphia Phillies (1890-present)"], "status": "active"},
+    "Los Angeles Dodgers": {"founded": 1884, "original_name": "Brooklyn Atlantics/Grays", "name_changes": ["Brooklyn Grays (1884-1887)", "Brooklyn Bridegrooms (1888-1898)", "Brooklyn Superbas (1899-1910)", "Brooklyn Robins (1911-1931)", "Brooklyn Dodgers (1932-1957)", "Los Angeles Dodgers (1958-present)"], "status": "active"},
+    "Montreal Expos / Washington Nationals": {"founded": 1969, "original_name": "Montreal Expos", "name_changes": ["Montreal Expos (1969-2004)", "Washington Nationals (2005-present)"], "status": "active"},
+    "Colorado Rockies": {"founded": 1993, "original_name": "Colorado Rockies", "name_changes": ["Colorado Rockies (1993-present)"], "status": "active"},
+    "Florida / Miami Marlins": {"founded": 1993, "original_name": "Florida Marlins", "name_changes": ["Florida Marlins (1993-2011)", "Miami Marlins (2012-present)"], "status": "active"},
+    "Arizona Diamondbacks": {"founded": 1998, "original_name": "Arizona Diamondbacks", "name_changes": ["Arizona Diamondbacks (1998-present)"], "status": "active"},
+    "Milwaukee Brewers": {"founded": 1969, "original_name": "Seattle Pilots", "name_changes": ["Seattle Pilots (1969, AL)", "Milwaukee Brewers (1970-1997, AL)", "Milwaukee Brewers (1998-present, NL)"], "status": "active"},
+    "San Diego Padres": {"founded": 1969, "original_name": "San Diego Padres", "name_changes": ["San Diego Padres (1969-present)"], "status": "active"},
+    "Houston Astros": {"founded": 1962, "original_name": "Houston Colt .45's", "name_changes": ["Houston Colt .45's (1962-1964)", "Houston Astros (1965-2012, NL)", "Houston Astros (2013-present, AL)"], "status": "active"},
+    "New York Mets": {"founded": 1962, "original_name": "New York Mets", "name_changes": ["New York Mets (1962-present)"], "status": "active"}
+  },
+  "defunct_franchises": [
+    {"name": "Hartford Dark Blues", "years": "1876-1877", "reason": "Folded after 1877 season"},
+    {"name": "Louisville Grays", "years": "1876-1877", "reason": "Folded after 1877 season (gambling scandal)"},
+    {"name": "Philadelphia Athletics", "years": "1876", "reason": "Expelled after 1876 season for refusing to finish road trip"},
+    {"name": "Brooklyn Mutuals", "years": "1876", "reason": "Expelled after 1876 season"},
+    {"name": "Cleveland Blues/Spiders", "years": "1879-1884/1889-1899", "reason": "Folded after 1899 season"},
+    {"name": "Syracuse Stars", "years": "1879", "reason": "Folded after 1879 season"},
+    {"name": "Troy Trojans", "years": "1879-1882", "reason": "Folded after 1882 season"},
+    {"name": "Worcester Ruby Legs", "years": "1880-1882", "reason": "Folded after 1882 season"},
+    {"name": "Buffalo Bisons", "years": "1879-1885", "reason": "Folded after 1885 season"},
+    {"name": "Providence Grays", "years": "1878-1885", "reason": "Folded after 1885 season"},
+    {"name": "Indianapolis Blues", "years": "1878", "reason": "Folded after 1878 season"},
+    {"name": "Kansas City Cowboys", "years": "1886", "reason": "Folded after 1886 season"},
+    {"name": "St. Louis Maroons", "years": "1885-1886", "reason": "Joined AA 1885, folded after 1886"},
+    {"name": "Indianapolis Hoosiers", "years": "1887-1889", "reason": "Folded after 1889 season"},
+    {"name": "Washington Nationals (1886-1889)", "years": "1886-1889", "reason": "Folded after 1889 season"},
+    {"name": "New York Metropolitans", "years": "1883-1887", "reason": "Joined AA, folded 1887"},
+    {"name": "Baltimore Orioles (1882-1899 NL)", "years": "1882-1899", "reason": "Folded after 1899 season; replaced by AL Orioles 1901"},
+    {"name": "Washington Senators (1892-1899 NL)", "years": "1892-1899", "reason": "Folded after 1899 season"}
+  ],
+  "seasons": {
+    "1876": {
+      "year": 1876,
+      "num_teams": 8,
+      "schedule_length": 70,
+      "champion": "Chicago White Stockings",
+      "champion_record": "52-14",
+      "champion_win_pct": ".788",
+      "champion_gb": "—",
+      "standings": [
+        {"team": "Chicago White Stockings", "w": 52, "l": 14, "win_pct": ".788", "gb": 0},
+        {"team": "Hartford Dark Blues", "w": 47, "l": 21, "win_pct": ".691", "gb": 6},
+        {"team": "St. Louis Brown Stockings", "w": 45, "l": 19, "win_pct": ".703", "gb": 6},
+        {"team": "Boston Red Caps", "w": 39, "l": 31, "win_pct": ".557", "gb": 15},
+        {"team": "Louisville Grays", "w": 30, "l": 36, "win_pct": ".455", "gb": 22},
+        {"team": "New York Mutuals", "w": 21, "l": 35, "win_pct": ".375", "gb": 26},
+        {"team": "Philadelphia Athletics", "w": 14, "l": 45, "win_pct": ".237", "gb": "34.5"},
+        {"team": "Cincinnati Reds", "w": 9, "l": 56, "win_pct": ".138", "gb": "42.5"}
+      ],
+      "batting_leaders": {"AVG": "Ross Barnes (Chicago) .429", "HR": "George Hall (Philadelphia) 5", "RBI": "Deacon White (Chicago) 60", "R": "Ross Barnes (Chicago) 126", "H": "Ross Barnes (Chicago) 138"},
+      "pitching_leaders": {"W": "Al Spalding (Chicago) 47", "ERA": "George Bradley (St. Louis) 1.23", "SO": "Jim Devlin (Louisville) 122", "CG": "Jim Devlin (Louisville) 66", "SHO": "George Bradley (St. Louis) 16"},
+      "notable_events": ["Inaugural NL game: April 22, 1876 (Chicago vs Louisville)", "Chicago won first NL pennant", "George Bradley threw first NL no-hitter (Jul 15)", "Ross Barnes hit first NL home run (May 2)", "Deacon White hit first NL triple, double, and single"]
+    },
+    "1877": {
+      "year": 1877,
+      "num_teams": 6,
+      "notes": "Hartford and Louisville folded after 1877; only 6 teams remain",
+      "champion": "Boston Red Caps",
+      "standings_note": "6-team circuit; Boston won the pennant"
+    },
+    "1878": {
+      "year": 1878,
+      "num_teams": 6,
+      "notes": "Indianapolis joined then left after 1878; Providence joined"
+    },
+    "1879": {
+      "year": 1879,
+      "num_teams": 8,
+      "notes": "Buffalo, Cincinnati, Cleveland, Syracuse, Troy, Worcester joined; league expanded back to 8 teams"
+    },
+    "1880-1881": {
+      "year_range": "1880-1881",
+      "notes": "League composition stable at 8 teams; several franchises folded and were replaced"
+    },
+    "1882": {
+      "year": 1882,
+      "notes": "American Association formed as rival league; NL absorbed some AA teams in 1892 merger",
+      "new_nl_teams": ["Cincinnati Red Stockings (joined from AA)", "Philadelphia Athletics (joined from AA)", "Pittsburgh Alleghenys (joined from AA)"]
+    },
+    "1883": {
+      "year": 1883,
+      "notes": "New York Gothams (now Giants) and Philadelphia Quakers (now Phillies) joined, restoring 8 teams"
+    },
+    "1884": {
+      "year": 1884,
+      "notes": "Brooklyn franchise joined; Providence Grays won the pennant and the first 'World Series' (1884)”
+    },
+    "1885-1886": {
+      "year_range": "1885-1886",
+      "notes": "AA-NL World Series played; St. Louis Maroons (formerly UA) joined NL then left"
+    },
+    "1887-1889": {
+      "year_range": "1887-1889",
+      "notes": "Indianapolis Hoosiers, Kansas City Cowboys, Syracuse Stars, Washington Nationals (1886-89), and others in league"
+    },
+    "1890": {
+      "year": 1890,
+      "notes": "Players' League war; Chicago White Stockings became Colts; Pittsburgh Alleghenys became Pirates",
+      "PL_impact": "Player revolt formed Players' League (1890); most PL teams folded after one season; Cleveland Spiders absorbed"
+    },
+    "1891": {
+      "year": 1891,
+      "notes": "NL absorbed remaining AA teams after Players' League collapse; league at 12 teams",
+      "team_count": 12
+    },
+    "1892-1899": {
+      "year_range": "1892-1899",
+      "notes": "12-team era; split season format (1892); Cleveland Spiders, Baltimore Orioles, Louisville Colonels, Washington Senators folded after 1899",
+      "collapse_note": "After 1899, league shrank back to 8 teams",
+      "key_teams_folded": ["Baltimore Orioles (1882-1899)", "Cleveland Spiders (1889-1899)", "Louisville Colonels (1892-1899)", "Washington Nationals 1892-1899 (NL)"]
+    },
+    "key_pre_1900_records": {
+      "best_win_pct": {"team": "Chicago White Stockings", "year": 1876, "record": "52-14", "win_pct": ".788"},
+      "most_wins": {"team": "Chicago White Stockings", "year": 1876, "wins": 52},
+      "best_era": {"team": "St. Louis Brown Stockings", "year": 1876, "era": "1.23", "pitcher": "George Bradley"},
+      "most_strikesouts": {"team": "Louisville", "year": 1876, "so": 122, "pitcher": "Jim Devlin"},
+      "longest_win_streak": {"team": "Chicago", "year": 1906, "streak": "14 games (Aug-Sep, part of 50-8 Aug-Oct run)"},
+      "most_dominant_multi_year": {"team": "Chicago Cubs", "years": "1906-1910", "record": "522-263 in 5 seasons (.667 Win%)", "pennants": 4, "ws_titles": 2}
+    }
+  },
+  "era_details": {
+    "pre_modern_1876_1899": {
+      "description": "The National League's founding era featured small 8-team circuits playing 60-154 game schedules. The league absorbed the American Association in 1892, expanding to 12 teams. Total roster sizes were tiny, travel was by rail, and pitchers rarely completed games the way modern pitchers do. Multiple franchises folded regularly.",
+      "schedule_ranges": "60-154 games per season",
+      "avg_runs_per_game": "~3.4",
+      "dominant_teams": ["Chicago White Stockings (1876, .788)", "St. Louis Brown Stockings (1876-1877)", "Boston Red Caps (1877, 1878, 1891, 1892)", "Baltimore Orioles (1894-1896)", "Boston Beaneaters/Doves (1891-1900)"],
+      "franchises_still_active": ["Atlanta Braves (Boston Red Caps, est. 1876)", "Chicago Cubs (Chicago White Stockings, est. 1876)"]
+    },
+    "dead_ball_1900_1919": {
+      "description": "Low-scoring era dominated by pitching. The modern World Series began in 1903. Speed and strategy (base-stealing, hit-and-run) replaced power hitting. The 1906 Cubs are widely regarded as the most dominant single-season NL team ever.",
+      "schedule_ranges": "130-154 games per season",
+      "avg_runs_per_game": "~3.4",
+      "key_teams": ["Pittsburgh Pirates (1901-1903, 1909)", "Chicago Cubs (1906-1910 dynasty)", "New York Giants (1904-1913)", "Detroit Tigers (AL; WS appearances)"],
+      "notable_events": ["1903: First modern World Series", "1906: Cubs 116-36 (.763) — best NL season ever", "1908: Merkle's Boner / Cubs-Giants playoff", "1914: Miracle Braves win WS from last place", "1919: Black Sox scandal"]
+    }
+  }
+}
