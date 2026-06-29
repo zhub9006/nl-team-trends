@@ -1,0 +1,8 @@
+era,years,min_teams,max_teams,runs_per_game,top_franchise,top_franchise_win_pct,defining_features
+Pre-Modern,1876-1899,8,12,3.4,Pittsburgh Pirates,0.580,NL founded; 60-154 game schedules; no pitcher's mound; 1882 AA merger; 1890 Players League war; 1892 12-team expansion
+Dead Ball,1900-1919,8,8,3.4,Pittsburgh Pirates,0.580,Pitching dominant; first World Series 1903; 1906 Cubs 116-36 (.763 NL record); stolen base era
+Live Ball,1920-1945,8,8,4.7,St. Louis Cardinals,0.558,Home run surge (Ruth); 1947 Jackie Robinson integration; WWII impact; farm system development
+Post-War,1946-1968,10,12,4.3,LA Dodgers,0.580,Dodgers dynasty (5 pennants in 8 years); Braves move to Milwaukee 1953; early NL expansion 1962
+Modern Expansion,1969-1992,12,12,4.5,Cincinnati Reds,0.610,Two-division format; Big Red Machine (.610 Win% 1970-79); two expansion waves (Expos Padres Rockies Mets)
+Divisional,1993-2019,14,15,4.7,Atlanta Braves,0.560,Three-division + Wild Card era; Braves 14 consecutive division titles 1991-2005; 1994 strike
+COVID-Modern,2020-2024,15,15,4.5,LA Dodgers,0.650,60-game 2020 season; universal DH 2022; 12-team playoff format; Colorado Rockies decline
