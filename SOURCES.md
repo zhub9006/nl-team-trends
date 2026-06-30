@@ -1,42 +1,36 @@
 # Sources & Methodology
 
-## Research Sources
-
-### Primary Sources (Authoritative Baseball Data)
+## Primary Sources
 | Source | Coverage | URL | Reliability |
 |--------|----------|-----|-------------|
-| Baseball Reference | NL standings, team stats 1876–present | https://www.baseball-reference.com/leagues/NL/ | ★★★★★ |
-| Retrosheet | Play-by-play and box scores 1898–present | https://www.retrosheet.org/ | ★★★★★ |
-| Lahman Database (SABR) | Complete MLB stats 1871–present | https://sabr.org/lahman-database/ | ★★★★★ |
-| Baseball Almanac | Team-vs-team H2H | https://www.baseball-almanac.com/ | ★★★★ |
-| FBref.com | Advanced NL stats | https://fbref.com/en/comps/34/history/ | ★★★★★ |
-| Baseball Data Hub | All MLB seasons | https://baseballdatabank.github.io/ | ★★★★ |
-| StatsCrew | Historical standings | https://www.statscrew.com/baseball/l-NL | ★★★★ |
+| **Baseball Reference** | NL standings 1876–present | https://www.baseball-reference.com/leagues/NL/ | ★★★★★ |
+| **Retrosheet** | Play-by-play and box scores 1898–present | https://www.retrosheet.org/ | ★★★★★ |
+| **Lahman Database (SABR)** | Complete MLB stats 1871–present | https://sabr.org/lahman-database/ | ★★★★★ |
+| **FBref.com** | Advanced NL season statistics | https://fbref.com/en/comps/34/history/ | ★★★★★ |
+| **Baseball Almanac** | Team-vs-team H2H records | https://www.baseball-almanac.com/ | ★★★★ |
+| **StatsCrew** | Historical standings | https://www.statscrew.com/baseball/l-NL | ★★★★ |
 
-### Secondary Sources
-| Source | URL |
-|--------|-----|
-| Wikipedia — NL Pennant Winners | https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners |
-| Wikipedia — World Series Champions | https://en.wikipedia.org/wiki/List_of_World_Series_champions |
-| Baseball Hall of Fame | https://baseballhall.org/ |
+## Methodology
+1. Cross-referenced season-by-season NL standings across Baseball Reference, Retrosheet, and Baseballdatabank
+2. Franchise tracking uses modern team names; relocations/name changes are noted in all data files
+3. Championship data verified against multiple sources
+4. Era classification follows conventional baseball history periods with structural-change markers
 
-## Research Methodology
-1. Season-by-season NL standings cross-referenced across Baseball Reference, Retrosheet, and Baseballdatabank
-2. Franchise tracking uses modern names; historical relocations are noted
-3. Eras classified by significant league structural changes (expansion, format shifts, rule changes)
-4. Championship data verified against Wikipedia and Baseball Reference
+## Key Data Notes
+- **1962**: NL expanded to 10 teams | 1969: Two-division format + Wild Card
+- **1994**: Season canceled — no NL champion | 1998: Brewers moved AL→NL
+- **2005**: Expos relocated as Nationals | 2013: Astros left NL (15 teams) | 2020: COVID 60-game season
+- **2022**: 12-team playoff introduced; universal DH adopted
 
-## Key Source URLs
-- NL Standings: https://www.baseball-reference.com/leagues/NL/index.shtml
-- H2H Records: https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml
-- Year-by-Year: https://www.baseball-almanac.com/yearmenu.shtml
-- Lahman DB: https://sabr.org/lahman-database/
-- Retrosheet: https://www.retrosheet.org/
-- Baseballdatabank: https://github.com/chadwickbureau/baseballdatabank
-- Existing repos: github.com/zhub9006/nl-team-trends-research & nl-team-trends-v2
-
-## Data Notes
-- 1994 season canceled (no NL champion)
-- 2020 season shortened to 60 games (COVID)
-- 2022: 12-team playoff + universal DH adopted
-- Brewers moved AL→NL in 1998; Expos→Nationals in 2005; Astros left NL in 2013
+## Python Quick-Start
+```python
+import pandas as pd
+df = pd.read_csv('data/nl_historical_data.csv')
+franc = pd.read_csv('data/franchise_summary.csv')
+champs = pd.read_csv('nl_champions.csv')
+wins = pd.read_csv('nl_team_wins.csv')
+errors = pd.read_csv('data/era_analysis.csv')
+print(f"Seasons: {df['season'].min()}–{df['season'].max()}")
+print(f"Franchises: {franc['franchise'].nunique()}")
+print(franc[["franchise", "win_pct", "ws_titles"]].sort_values("win_pct", ascending=False))
+```
