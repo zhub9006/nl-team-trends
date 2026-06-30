@@ -1,0 +1,89 @@
+season,team,modern_name,division,wins,losses,win_pct,playoff_result,era,runs_scored,runs_allowed,run_differential,home_wins,away_wins,division_leader,pennant_winner,ws_champion,notable_milestones
+1876,Chicago Cubs,Chicago Cubs,N/A,52,14,0.788,NL Champions,Pre-Modern,5018,4160,858,31,11,N/A,N/A,N/A,NL founding season
+1877,Boston Braves,Boston Braves,N/A,62,33,0.653,NL Champions,Pre-Modern,4752,3428,1324,39,20,N/A,N/A,N/A
+1878,Providence Grays,Providence Grays,N/A,53,20,0.726,NL Champions,Pre-Modern,3912,2931,981,31,19,N/A,N/A,N/A
+1880,Chicago Cubs,Chicago Cubs,N/A,67,17,0.798,NL Champions,Pre-Modern,5018,4160,858,42,11,N/A,N/A,N/A
+1882,Cincinnati Reds,Cincinnati Reds,N/A,55,25,0.688,NL Champions,Pre-Modern,4147,2824,1323,33,17,N/A,N/A,N/A
+1883,Providence Grays,Providence Grays,N/A,58,26,0.690,NL Championships,Pre-Modern,4352,3134,1218,34,21,N/A,N/A,N/A
+1884,Providence Grays,Providence Grays,N/A,84,28,0.750,NL Championships,Pre-Modern,5993,4176,1817,46,32,N/A,N/A,N/A
+1885,Chicago Cubs,Chicago Cubs,N/A,87,25,0.777,NL Championships,Pre-Modern,6112,4633,1479,48,31,N/A,N/A,N/A
+1886,St. Louis Cardinals,St. Louis Cardinals,N/A,90,34,0.726,NL Championships,Pre-Modern,6172,3844,2328,49,34,N/A,N/A,N/A
+1888,New York Giants,New York Mets,N/A,84,47,0.641,NL Championships,Pre-Modern,5780,4256,1524,46,34,N/A,N/A,N/A
+1889,New York Giants,New York Mets,N/A,83,43,0.659,NL Championships,Pre-Modern,5610,4068,1542,45,34,N/A,N/A,N/A
+1890,Boston Braves,Boston Braves,N/A,81,48,0.629,NL Championships,Pre-Modern,5910,4582,1328,44,33,N/A,N/A,N/A
+1891,Boston Braves,Boston Braves,N/A,87,51,0.630,NL Championships,Pre-Modern,6320,4712,1608,47,35,N/A,N/A,N/A
+1893,Boston Beaneaters,Boston Braves,N/A,86,43,0.667,NL Championships,Pre-Modern,6238,4634,1604,47,34,N/A,N/A,N/A
+1897,Boston Beaneaters,Boston Braves,N/A,93,39,0.702,NL Championships,Pre-Modern,6630,4780,1850,52,36,N/A,N/A,N/A
+1898,Boston Beaneaters,Boston Braves,N/A,102,48,0.680,NL Championships,Pre-Modern,7120,5132,1988,58,38,N/A,N/A,N/A
+1899,Boston Beaneaters,Boston Braves,N/A,101,46,0.687,NL Championships,Pre-Modern,7082,5202,1880,57,38,N/A,N/A,N/A
+1900,Pittsburgh Pirates,Pittsburgh Pirates,N/A,79,60,0.568,NL Championships,Pre-Modern,5816,5021,795,42,33,N/A,N/A,N/A
+1901,Pittsburgh Pirates,Pittsburgh Pirates,N/A,90,49,0.646,NL Runner-Up,Dead Ball,6484,5658,826,48,38,N/A,N/A,N/A
+1902,Pittsburgh Pirates,Pittsburgh Pirates,N/A,103,36,0.741,NL Championships,Dead Ball,7632,5880,1752,53,43,N/A,N/A,N/A
+1904,New York Giants,New York Mets,N/A,106,47,0.693,NL Championships,Dead Ball,7850,5830,2020,56,44,N/A,N/A,N/A
+1905,New York Giants,New York Mets,N/A,105,48,0.686,NL Championships,Dead Ball,7650,5680,1970,55,44,N/A,N/A,N/A
+1906,Chicago Cubs,Chicago Cubs,N/A,116,36,0.763,NL Championships,Dead Ball,8688,5864,2824,60,30,N/A,N/A,N/A,All-time NL record
+1907,Chicago Cubs,Chicago Cubs,N/A,107,45,0.704,NL Championships,Dead Ball,7942,6102,1840,57,41,N/A,N/A,N/A
+1908,Chicago Cubs,Chicago Cubs,N/A,99,55,0.643,NL Championships,Dead Ball,7251,5738,1513,52,40,N/A,N/A,N/A
+1909,Pittsburgh Pirates,Pittsburgh Pirates,N/A,110,42,0.724,NL Championships,Dead Ball,7982,5990,1992,58,44,N/A,N/A,N/A,1909 WS champions
+1914,Boston Braves,Boston Braves,N/A,94,58,0.618,NL Championships,Dead Ball,6690,5730,960,50,39,N/A,N/A,N/A,Miracle Braves
+1919,Cincinnati Reds,Cincinnati Reds,N/A,96,44,0.686,NL Championships,Dead Ball,7014,5728,1286,49,42,N/A,N/A,N/A
+1921,New York Giants,New York Mets,N/A,94,59,0.614,NL Championships,Live Ball,7120,5780,1340,48,42,N/A,N/A,N/A
+1922,New York Giants,New York Mets,N/A,92,56,0.622,NL Championships,Live Ball,6980,5638,1342,48,40,N/A,N/A,N/A
+1925,Pittsburgh Pirates,Pittsburgh Pirates,N/A,95,58,0.620,NL Championships,Live Ball,7018,5766,1252,49,42,N/A,N/A,N/A
+1926,St. Louis Cardinals,St. Louis Cardinals,N/A,89,65,0.578,NL Championships,Live Ball,5980,5472,508,47,37,N/A,N/A,N/A
+1928,St. Louis Cardinals,St. Louis Cardinals,N/A,95,59,0.617,NL Runner-Up,Live Ball,6842,5758,1084,51,40,N/A,N/A,N/A
+1929,Chicago Cubs,Chicago Cubs,N/A,98,54,0.645,NL Championships,Live Ball,7208,6140,1068,52,42,N/A,N/A,N/A
+1930,St. Louis Cardinals,St. Louis Cardinals,N/A,92,62,0.597,NL Runner-Up,Live Ball,7128,6120,1008,48,41,N/A,N/A,N/A
+1931,St. Louis Cardinals,St. Louis Cardinals,N/A,101,53,0.658,NL Championships,Live Ball,7342,6230,1112,53,44,N/A,N/A,N/A
+1934,St. Louis Cardinals,St. Louis Cardinals,N/A,105,49,0.680,NL Runner-Up,Live Ball,7820,6380,1440,55,45,N/A,N/A,N/A,Gashouse Gang era
+1942,St. Louis Cardinals,St. Louis Cardinals,N/A,106,48,0.688,NL Championships,Live Ball,8240,6810,1430,56,46,N/A,N/A,N/A,1st of 3 WS in 5 years
+1943,St. Louis Cardinals,St. Louis Cardinals,N/A,105,49,0.682,NL Championships,Live Ball,7980,6540,1440,54,47,N/A,N/A,N/A
+1946,St. Louis Cardinals,St. Louis Cardinals,N/A,98,56,0.637,NL Championships,Live Ball,7200,5980,1220,51,44,N/A,N/A,N/A,Streetcar series
+1951,New York Giants,New York Mets,N/A,96,58,0.623,NL Runner-Up,Live Ball,8614,6920,1694,51,41,N/A,N/A,N/A,Bobby Thomson homer
+1953,Brooklyn Dodgers,Brooklyn Dodgers,N/A,105,49,0.681,NL Championships,Live Ball,8680,6860,1820,55,44,N/A,N/A,N/A,1955 WS champions
+1954,New York Giants,New York Mets,N/A,97,57,0.629,NL Championships,Live Ball,8520,7340,1180,51,42,N/A,N/A,N/A,1954 WS champions
+1955,Brooklyn Dodgers,Brooklyn Dodgers,N/A,98,55,0.640,NL Championships,Live Ball,8420,7180,1240,52,43,N/A,N/A,N/A,1955 WS champions
+1957,Milwaukee Braves,Milwaukee Braves,N/A,95,59,0.617,NL Championships,Live Ball,8080,6920,1160,50,42,N/A,N/A,N/A,Braves move to Milwaukee
+1959,Los Angeles Dodgers,Los Angeles Dodgers,N/A,88,68,0.564,NL Runner-Up,Live Ball,7980,6720,1260,46,40,N/A,N/A,N/A,Dodgers move to LA
+1960,Pittsburgh Pirates,Pittsburgh Pirates,N/A,95,59,0.617,NL Championships,Live Ball,7840,7720,1120,50,42,N/A,Pittsburgh Pirates,Pittsburgh Pirates
+1961,Cincinnati Reds,Cincinnati Reds,N/A,93,61,0.604,NL Runner-Up,Live Ball,8120,7280,840,48,42,N/A,N/A,N/A
+1962,San Francisco Giants,San Francisco Giants,N/A,100,64,0.610,NL Runner-Up,Live Ball,8764,7234,1530,53,44,N/A,N/A,N/A,First SF Giants season
+1963,Los Angeles Dodgers,Los Angeles Dodgers,N/A,99,63,0.611,NL Championships,Live Ball,7980,6870,1110,51,45,N/A,Los Angeles Dodgers,Los Angeles Dodgers
+1966,Los Angeles Dodgers,Los Angeles Dodgers,N/A,85,77,0.524,NL Championships,Live Ball,7400,6850,550,44,39,N/A,Los Angeles Dodgers,Los Angeles Dodgers
+1967,St. Louis Cardinals,St. Louis Cardinals,N/A,101,61,0.624,NL Championships,Expansion,9492,7498,1994,52,46,N/A,St. Louis Cardinals,St. Louis Cardinals
+1969,Cincinnati Reds,Cincinnati Reds,N/A,91,71,0.562,NL Runner-Up,Expansion,8570,7740,830,45,42,N/A,Cincinnati Reds,N/A
+1970,Cincinnati Reds,Cincinnati Reds,N/A,102,60,0.630,NL Championships,Expansion,8870,8340,530,54,44,N/A,Cincinnati Reds,Cincinnati Reds
+1971,Pittsburgh Pirates,Pittsburgh Pirates,N/A,96,66,0.593,NL Championships,Expansion,8740,7720,1020,50,44,N/A,Pittsburgh Pirates,Pittsburgh Pirates
+1975,Cincinnati Reds,Cincinnati Reds,N/A,108,54,0.667,NL Championships,Expansion,8830,7370,1460,56,48,N/A,Cincinnati Reds,Cincinnati Reds,Big Red Machine
+1976,Cincinnati Reds,Cincinnati Reds,N/A,102,60,0.630,NL Championships,Expansion,8680,7540,1140,53,46,N/A,Cincinnati Reds,Cincinnati Reds
+1980,Philadelphia Phillies,Philadelphia Phillies,N/A,91,71,0.562,NL Championships,Expansion,8420,7280,1140,47,42,N/A,Philadelphia Phillies,Philadelphia Phillies
+1981,Los Angeles Dodgers,Los Angeles Dodgers,West,63,47,0.573,NL Championships,Expansion,5240,4560,680,34,27,N/A,Los Angeles Dodgers,Los Angeles Dodgers,Split season
+1982,St. Louis Cardinals,St. Louis Cardinals,Central,92,70,0.568,NL Championships,Expansion,8140,7120,1020,48,42,N/A,St. Louis Cardinals,St. Louis Cardinals
+1983,Philadelphia Phillies,Philadelphia Phillies,East,90,72,0.556,NL Championships,Expansion,7962,7216,746,47,39,N/A,Philadelphia Phillies,Philadelphia Phillies
+1984,San Diego Padres,San Diego Padres,West,92,70,0.568,NL Runner-Up,Expansion,7880,7110,770,48,42,N/A,N/A,N/A
+1985,St. Louis Cardinals,St. Louis Cardinals,Central,101,61,0.623,NL Championships,Expansion,8920,7650,1270,52,46,N/A,St. Louis Cardinals,St. Louis Cardinals
+1986,New York Mets,New York Mets,East,108,54,0.667,NL Championships,Expansion,9782,8418,1364,56,49,N/A,New York Mets,New York Mets
+1987,St. Louis Cardinals,St. Louis Cardinals,Central,95,67,0.586,NL Championships,Expansion,8370,7400,970,49,43,N/A,St. Louis Cardinals,St. Louis Cardinals
+1988,Los Angeles Dodgers,Los Angeles Dodgers,West,94,67,0.584,NL Championships,Expansion,8472,7258,1214,49,43,N/A,Los Angeles Dodgers,Los Angeles Dodgers
+1989,San Francisco Giants,San Francisco Giants,West,92,70,0.568,NL Runner-Up,Expansion,8360,7252,1108,48,42,N/A,N/A,N/A
+1990,Cincinnati Reds,Cincinnati Reds,West,91,71,0.562,NL Championships,Expansion,8340,7290,1050,47,42,N/A,Cincinnati Reds,Cincinnati Reds
+1995,Atlanta Braves,Atlanta Braves,West,90,54,0.625,NL Championships,Divisional,8260,6700,1560,47,41,N/A,Atlanta Braves,Atlanta Braves
+1998,Atlanta Braves,Atlanta Braves,East,106,56,0.654,NL Runner-Up,Divisional,9420,7410,2010,55,47,N/A,N/A,N/A,14 consecutive division titles
+2000,New York Mets,New York Mets,East,94,68,0.580,NL Runner-Up,Divisional,8820,7640,1180,47,44,N/A,N/A,N/A
+2001,Arizona Diamondbacks,Arizona Diamondbacks,West,92,70,0.568,NL Championships,Divisional,8740,7580,1160,48,42,N/A,Arizona Diamondbacks,Arizona Diamondbacks
+2004,St. Louis Cardinals,St. Louis Cardinals,Central,105,57,0.648,NL Runner-Up,Divisional,9410,8100,1310,54,49,N/A,N/A,N/A
+2006,St. Louis Cardinals,St. Louis Cardinals,Central,83,78,0.516,NL Championships,Divisional,7970,7550,420,43,38,N/A,St. Louis Cardinals,St. Louis Cardinals
+2007,Colorado Rockies,Colorado Rockies,West,90,73,0.552,NL Wild Card,Divisional,8220,7460,760,46,40,N/A,N/A,N/A
+2008,Philadelphia Phillies,Philadelphia Phillies,East,92,70,0.568,NL Runner-Up,Divisional,8376,7454,922,48,42,N/A,N/A,N/A
+2010,San Francisco Giants,San Francisco Giants,West,92,70,0.568,NL Championships,Divisional,8692,7778,914,48,42,N/A,San Francisco Giants,San Francisco Giants
+2011,St. Louis Cardinals,St. Louis Cardinals,Central,90,72,0.556,NL Championships,Divisional,7684,6910,774,47,40,N/A,St. Louis Cardinals,St. Louis Cardinals
+2012,San Francisco Giants,San Francisco Giants,West,94,68,0.580,NL Championships,Divisional,8463,7520,943,49,43,N/A,San Francisco Giants,San Francisco Giants
+2014,San Francisco Giants,San Francisco Giants,West,88,74,0.543,NL Championships,Divisional,7496,7170,326,46,39,N/A,San Francisco Giants,San Francisco Giants
+2016,Chicago Cubs,Chicago Cubs,Central,103,58,0.642,NL Championships,Divisional,8820,7900,920,55,45,N/A,Chicago Cubs,Chicago Cubs,First WS in 108 years
+2017,Los Angeles Dodgers,Los Angeles Dodgers,West,104,58,0.642,NL Runner-Up,Divisional,9420,7820,1600,55,45,N/A,N/A,N/A
+2020,Los Angeles Dodgers,Los Angeles Dodgers,West,43,17,0.717,NL Championships,Modern,3630,2770,860,22,18,N/A,Los Angeles Dodgers,Los Angeles Dodgers,COVID 60-game season
+2021,San Francisco Giants,San Francisco Giants,West,107,55,0.659,NL Runner-Up,Modern,9410,8090,1320,55,48,N/A,N/A,N/A
+2022,Los Angeles Dodgers,Los Angeles Dodgers,West,111,51,0.685,NL Runner-Up,Modern,9992,8024,1968,58,49,N/A,N/A,N/A
+2023,Atlanta Braves,Atlanta Braves,East,104,58,0.642,NL Runner-Up,Modern,8840,7620,1220,54,47,N/A,N/A,N/A
+2024,Los Angeles Dodgers,Los Angeles Dodgers,West,98,64,0.605,NL Championships,Modern,8982,7654,1328,51,44,N/A,Los Angeles Dodgers,Los Angeles Dodgers
+2025,Los Angeles Dodgers,Los Angeles Dodgers,West,96,66,0.593,NL Championships,Modern,8720,7510,1210,50,43,N/A,Los Angeles Dodgers,Los Angeles Dodgers
