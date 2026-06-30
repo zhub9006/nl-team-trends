@@ -1,97 +1,128 @@
 season,team,modern_name,division,wins,losses,win_pct,playoff_result,era
 1876,Chicago Cubs,Chicago Cubs,N/A,52,14,0.788,NL Champions,Pre-Modern
-1876,Boston Braves,Boston Braves,N/A,59,31,0.656,NL 2nd,Pre-Modern
-1876, Louisville, Louisville,N/A,30,78,0.278,Dissolved/Replaced,Pre-Modern
-1876,Cincinnati Reds,Cincinnati Reds,N/A,15,42,0.263,Dissolved/Replaced,Pre-Modern
+1876,Boston Braves,Boston Braves,N/A,59,31,0.656,NL Runner-Up,Pre-Modern
 1876,Pittsburgh Pirates,Pittsburgh Pirates,N/A,39,55,0.417,NL 5th,Pre-Modern
 1876,St. Louis Cardinals,St. Louis Cardinals,N/A,29,59,0.333,NL 4th,Pre-Modern
-1876,Gary/Gothams,New York Mets,N/A,21,49,0.300,NL 6th,Pre-Modern
+1876,New York Gothams,New York Mets,N/A,21,49,0.300,NL 6th,Pre-Modern
 1877,Boston Braves,Boston Braves,N/A,62,33,0.653,NL Champions,Pre-Modern
-1877,Chicago Cubs,Chicago Cubs,N/A,48,39,0.552,NL 2nd,Pre-Modern
-1878,Chicago Cubs,Chicago Cubs,N/A,N/A,N/A,N/A,.U Sal NAS=Pre-Modern
+1878,Providence Grays,Providence Grays,N/A,53,20,0.726,NL Champions,Pre-Modern
 1879,Boston Braves,Boston Braves,N/A,76,37,0.672,NL Champions,Pre-Modern
 1880,Chicago Cubs,Chicago Cubs,N/A,67,17,0.798,NL Champions,Pre-Modern
-1881,Chicago Cubs,Chicago Cubs,N/A,56,28,0.667,NL 2nd,Pre-Modern
+1881,Chicago Cubs,Chicago Cubs,N/A,56,28,0.667,NL Runner-Up,Pre-Modern
 1882,Cincinnati Reds,Cincinnati Reds,N/A,55,25,0.688,NL Champions,Pre-Modern
-1883,Providence,Providence,N/A,58,26,0.690,NL Champions,Pre-Modern
-1884,Providence,Providence,N/A,84,28,0.750,NL Champions,Pre-Modern
+1883,Providence Grays,Providence Grays,N/A,58,26,0.690,NL Champions,Pre-Modern
+1884,Providence Grays,Providence Grays,N/A,84,28,0.750,NL Champions,Pre-Modern
 1885,Chicago Cubs,Chicago Cubs,N/A,87,25,0.777,NL Champions,Pre-Modern
-1886,Chicago Cubs,Chicago Cubs,N/A,90,34,0.726,NL Champions,Pre-Modern
-1887,Detroit Wolverines,Detroit=N/A,N/A,79,45,0.637,AL Pennant,Pre-Modern
+1886,St. Louis Cardinals,St. Louis Cardinals,N/A,90,34,0.726,NL Champions,Pre-Modern
 1888,New York Giants,New York Mets,N/A,84,47,0.641,NL Champions,Pre-Modern
 1889,New York Giants,New York Mets,N/A,83,43,0.659,NL Champions,Pre-Modern
 1890,Boston Reds,Boston Braves,N/A,81,48,0.629,NL Champions,Pre-Modern
 1891,Boston Reds,Boston Braves,N/A,87,51,0.630,NL Champions,Pre-Modern
-1892,Pittsburgh Pirates,Pittsburgh Pirates,N/A,80,73,0.523,NL 3rd,Pre-Modern
-1892,Cleveland Spiders,Cleveland=N/A,N/A,71,86,0.452,NL 9th,Pre-Modern
 1893,Boston Beaneaters,Boston Braves,N/A,86,43,0.667,NL Champions,Pre-Modern
-1894,Baltimore Orioles,Baltimore=N/A,N/A,89,39,0.694,NL 2nd,Pre-Modern
-1895,Baltimore Orioles,Baltimore=N/A,N/A,87,43,0.667,NL 2nd,Pre-Modern
-1896,Baltimore Orioles,Baltimore=N/A,N/A,90,39,0.698,NL 2nd,Pre-Modern
 1897,Boston Beaneaters,Boston Braves,N/A,93,39,0.702,NL Champions,Pre-Modern
 1898,Boston Beaneaters,Boston Braves,N/A,102,48,0.680,NL Champions,Pre-Modern
 1899,Boston Beaneaters,Boston Braves,N/A,101,46,0.687,NL Champions,Pre-Modern
 1900,Pittsburgh Pirates,Pittsburgh Pirates,N/A,79,60,0.568,NL Champions,Pre-Modern
-1901,Pittsburgh Pirates,Pittsburgh Pirates,N/A,90,49,0.646,NL 2nd,Dead Ball
+1901,Pittsburgh Pirates,Pittsburgh Pirates,N/A,90,49,0.646,NL Runner-Up,Dead Ball
 1902,Pittsburgh Pirates,Pittsburgh Pirates,N/A,103,36,0.741,NL Champions,Dead Ball
-1903,Pittsburgh Pirates,Pittsburgh Pirates,N/A,91,49,0.650,NL 2nd,Dead Ball
-1904,New York Giants,New York Mets,N/A,106,47,0.693,NL Champions (declined WS),Dead Ball
+1904,New York Giants,New York Mets,N/A,106,47,0.693,NL Champions,Dead Ball
 1905,New York Giants,New York Mets,N/A,105,48,0.686,NL Champions,Dead Ball
 1906,Chicago Cubs,Chicago Cubs,N/A,116,36,0.763,NL Champions (lost WS),Dead Ball
 1907,Chicago Cubs,Chicago Cubs,N/A,107,45,0.704,NL Champions,Dead Ball
-1908,Chicago Cubs,Chicago Cubs,N/A,99,55,0.643,NL Champions (playoff),Dead Ball
+1908,Chicago Cubs,Chicago Cubs,N/A,99,55,0.643,NL Champions,Dead Ball
 1909,Pittsburgh Pirates,Pittsburgh Pirates,N/A,110,42,0.724,NL Champions,Dead Ball
-1910,Chicago Cubs,Chicago Cubs,N/A,104,50,0.675,NL 2nd,Dead Ball
-1911,New York Giants,New York Mets,N/A,99,54,0.647,NL 2nd,Dead Ball
-1912,New York Giants,New York Mets,N/A,103,48,0.684,NL 2nd,Dead Ball
-1913,G braves,Boston Braves,N/A,69,82,0.457,NL 7th,Dead Ball
-1914,Boston Braves,Boston Braves,N/A,94,58,0.618,. NL Champions,Dead Ball
-1915,Philadelphia Phillies,Philadelphia Phillies,N/A,90,62,0.592,NL 2nd,Dead Ball
-1916,Brooklyn Dodgers,Brooklyn Dodgers,N/A,94,60,0.610,NL 3rd,Dead Ball
-1917,New York Giants,New York Mets,N/A,98,56,0.636,NL 3rd,Dead Ball
-1918,Brooklyn Dodgers,Brooklyn Dodgers,N/A,57,64,0.441,NL 6th,Dead Ball
-1919,Cincinnati Reds,Cincinnati Reds,N/A,96,44,0.686,NL Champions,NL Championship,Dead Ball
-1920,Brooklyn Dodgers,Brooklyn Dodgers,N/A,93,61,0.604,NL 3rd,Live Ball
+1914,Boston Braves,Boston Braves,N/A,94,58,0.618,NL Champions,Dead Ball
+1915,Philadelphia Phillies,Philadelphia Phillies,N/A,90,62,0.592,NL Runner-Up,Dead Ball
+1919,Cincinnati Reds,Cincinnati Reds,N/A,96,44,0.686,NL Champions,Dead Ball
+1920,Brooklyn Dodgers,Brooklyn Dodgers,N/A,93,61,0.604,NL Runner-Up,Live Ball
 1921,New York Giants,New York Mets,N/A,94,59,0.614,NL Champions,Live Ball
 1922,New York Giants,New York Mets,N/A,92,56,0.622,NL Champions,Live Ball
-1923,New York Giants,New York Mets,N/A,95,58,0.620,NL 4th,Live Ball
-1924,New York Giants,New York Mets,N/A,93,60,0.608,NL 3rd,Live Ball
 1925,Pittsburgh Pirates,Pittsburgh Pirates,N/A,95,58,0.620,NL Champions,Live Ball
-1926,high-Land,St. Louis Cardinals,N/A,89,65,0.578,NL Champions,Live Ball
+1926,St. Louis Cardinals,St. Louis Cardinals,N/A,89,65,0.578,NL Champions,Live Ball
+1928,St. Louis Cardinals,St. Louis Cardinals,N/A,95,59,0.617,NL Runner-Up,Live Ball
 1929,Chicago Cubs,Chicago Cubs,N/A,98,54,0.645,NL Champions,Live Ball
-1930,St. Louis Cardinals,St. Louis Cardinals,N/A,92,62,0.597,NL 4th,Live Ball
+1930,St. Louis Cardinals,St. Louis Cardinals,N/A,92,62,0.597,NL Runner-Up,Live Ball
 1931,St. Louis Cardinals,St. Louis Cardinals,N/A,101,53,0.658,NL Champions,Live Ball
-1932,Chicago Cubs,Chicago Cubs,N/A,90,64,0.584,NL 4th,Live Ball
-1935,Chicago Cubs,Chicago Cubs,N/A,100,54,0.649,NL 2nd,Live Ball
-1937,New York Giants,New York Mets,N/A,95,57,0.625,NL 2nd,Live Ball
-1938,Chicago Cubs,Chicago Cubs,N/A,89,63,0.586,NL 1st,Live Ball
-1939,Cincinnati Reds,Cincinnati Reds,N/A,1,62,0.269,NL 8th,Live Ball
+1934,St. Louis Cardinals,St. Louis Cardinals,N/A,105,49,0.680,NL Runner-Up,Live Ball
+1935,Chicago Cubs,Chicago Cubs,N/A,100,54,0.649,NL Runner-Up,Live Ball
+1937,New York Giants,New York Mets,N/A,95,57,0.625,NL Runner-Up,Live Ball
+1938,Chicago Cubs,Chicago Cubs,N/A,89,63,0.586,NL Runner-Up,Live Ball
 1940,Cincinnati Reds,Cincinnati Reds,N/A,100,53,0.654,NL Champions,Live Ball
-1941,Brooklyn Dodgers,Brooklyn Dodgers,N/A,100,54,0.649,NL 2nd,Live Ball
 1942,St. Louis Cardinals,St. Louis Cardinals,N/A,106,48,0.688,NL Champions,Live Ball
 1943,St. Louis Cardinals,St. Louis Cardinals,N/A,105,49,0.680,NL Champions,Live Ball
-1944,Location,St. Louis Cardinals,N/A,105,49,0.680,NL Champions,Post-War
-1945,Chicago Cubs,Chicago Cubs,N/A,98,56,0.636,NL 4th,Post-War
+1944,St. Louis Cardinals,St. Louis Cardinals,N/A,105,49,0.680,NL Champions,Post-War
+1945,Chicago Cubs,Chicago Cubs,N/A,98,56,0.636,NL Runner-Up,Post-War
 1946,St. Louis Cardinals,St. Louis Cardinals,N/A,96,58,0.623,NL Champions,Post-War
-1947,brooklyn Dodgers,Brooklyn Dodgers,N/A,94,60,0.610,NL 2nd,Post-War
-1948,boston Braves,Boston Braves,N/A,91,62,0.595,NL 2nd,Post-War
-1949,brooklyn Dodgers,Brooklyn Dodgers,N/A,97,57,0.630,NL 4th,Post-War
-1950,Rochester Red Wings,N/A,N/A,36,23,0.610,International League,Post-War
-1951,New York Giants,New York Mets,N/A,98,59,0.623,NL Champions,Post-War
-1952,Boston Braves,Boston Braves,N/A,86,68,0.558,NL 4th,Post-War
-1953,Brooklyn Dodgers,Brooklyn Dodgers,West/N/A,105,49,0.681,NL 1st,Post-War
-1954,New York Giants,New York Mets,N/A,97,57,0.630,NL 2nd,Post-War
-1955,Brooklyn Dodgers,Brooklyn Dodgers,West/N/A,98,55,0.641,NL Champions,Post-War
-1956,Brooklyn Dodgers,Brooklyn Dodgers,West/N/A,93,61,0.604,NL 1st,Post-War
-1957,Milwaukee Braves,Milwaukee Brewers,West/N/A,95,59,0.617,NL Champions,Post-War
-1958,Milwaukee Braves,Milwaukee Brewers,West/N/A,92,62,0.597,NL 1st,Post-War
-1959,Los Angeles Dodgers,Los Angeles Dodgers,West/N/A,88,68,0.568,NL Champions,Post-War
-1960,Pittsburgh Pirates,Pittsburgh Pirates,West/N/A,95,59,0.617,NL Champions,Post-War
-1961,Cincinnati Reds,Cincinnati Reds,N/A,93,61,0.604,NL Champions,Post-War
-1962,San Francisco Giants,San Francisco Giants,NL West,103,62,,NL Champions (lost WS),Expansion
-1962,Los Angeles Dodgers,Los Angeles Dodgers,NL West,76,86,0.469,NL 10th,Expansion
+1946,Brooklyn Dodgers,Brooklyn Dodgers,N/A,96,58,0.623,NL Runner-Up,Post-War
+1948,Boston Braves,Boston Braves,N/A,91,62,0.595,NL Runner-Up,Post-War
+1950,Philadelphia Phillies,Philadelphia Phillies,N/A,91,59,0.607,NL 2nd,Post-War
+1951,New York Giants,New York Mets,N/A,98,59,0.623,NL Champions (lost WS),Post-War
+1953,Brooklyn Dodgers,Brooklyn Dodgers,N/A,105,49,0.681,NL Champions,Post-War
+1955,Brooklyn Dodgers,Brooklyn Dodgers,N/A,98,55,0.641,NL Champions,Post-War
+1957,Milwaukee Braves,Milwaukee Brewers,N/A,95,59,0.617,NL Champions,Post-War
+1958,Milwaukee Braves,Milwaukee Brewers,N/A,92,62,0.597,NL Runner-Up,Post-War
+1959,Los Angeles Dodgers,Los Angeles Dodgers,N/A,88,68,0.568,NL Champions,Expansion
+1960,Pittsburgh Pirates,Pittsburgh Pirates,N/A,95,59,0.617,NL Champions,Expansion
+1961,Cincinnati Reds,Cincinnati Reds,N/A,93,61,0.604,NL Champions,Expansion
+1962,San Francisco Giants,San Francisco Giants,NL West,103,62,0.623,NL Champions (lost WS),Expansion
 1963,Los Angeles Dodgers,Los Angeles Dodgers,NL West,99,63,0.611,NL Champions,Expansion
-1964,St" Louis Cardinals,St. Louis Cardinals,NL Central,93,69,0.578,NL Champions,Expansion
+1964,St. Louis Cardinals,St. Louis Cardinals,NL Central,93,69,0.578,NL Champions,Expansion
 1965,Los Angeles Dodgers,Los Angeles Dodgers,NL West,97,65,0.599,NL Champions,Expansion
 1966,Los Angeles Dodgers,Los Angeles Dodgers,NL West,95,67,0.586,NL Champions,Expansion
-1967,St" Louis Cardinals,St. Louis Cardinals,NL Central,101,60,,NL Champions,Expan
+1967,St. Louis Cardinals,St. Louis Cardinals,NL Central,101,60,0.627,NL Champions,Expansion
+1968,St. Louis Cardinals,St. Louis Cardinals,NL Central,97,65,0.599,NL Champions,Expansion
+1969,New York Mets,New York Mets,NL East,100,62,0.617,NL Champions (won WS),Expansion
+1969,Chicago Cubs,Chicago Cubs,NL East,92,70,0.568,NL Runner-Up,Expansion
+1969,Atlanta Braves,Atlanta Braves,NL West,93,68,0.579,NL Runner-Up,Expansion
+1970,Cincinnati Reds,Cincinnati Reds,NL West,102,60,0.630,NL Champions,Expansion
+1971,Pittsburgh Pirates,Pittsburgh Pirates,NL East,97,65,0.599,NL Champions,Expansion
+1972,Cincinnati Reds,Cincinnati Reds,NL West,95,59,0.617,NL Champions,Expansion
+1973,New York Mets,New York Mets,NL East,82,79,0.509,NL Champions,Expansion
+1974,Pittsburgh Pirates,Pittsburgh Pirates,NL East,88,74,0.543,NL Runner-Up,Expansion
+1975,Cincinnati Reds,Cincinnati Reds,NL West,108,54,0.667,NL Champions,Expansion
+1976,Cincinnati Reds,Cincinnati Reds,NL West,102,60,0.630,NL Champions,Expansion
+1979,Pittsburgh Pirates,Pittsburgh Pirates,NL East,98,64,0.605,NL Champions,Expansion
+1980,Philadelphia Phillies,Philadelphia Phillies,NL East,91,71,0.562,NL Champions,Expansion
+1981,Los Angeles Dodgers,Los Angeles Dodgers,NL West,63,47,0.573,NL Champions (won WS),Expansion
+1982,St. Louis Cardinals,St. Louis Cardinals,NL East,92,70,0.568,NL Champions,Expansion
+1983,Philadelphia Phillies,Philadelphia Phillies,NL East,90,72,0.556,NL Champions,Expansion
+1984,San Diego Padres,San Diego Padres,NL West,92,70,0.568,NL Champions,Expansion
+1985,St. Louis Cardinals,St. Louis Cardinals,NL East,101,61,0.623,NL Champions,Expansion
+1986,New York Mets,New York Mets,NL East,108,54,0.667,NL Champions,Expansion
+1987,St. Louis Cardinals,St. Louis Cardinals,NL East,95,67,0.586,NL Champions,Expansion
+1988,Los Angeles Dodgers,Los Angeles Dodgers,NL West,94,67,0.584,NL Champions,Expansion
+1989,San Francisco Giants,San Francisco Giants,NL West,92,70,0.568,NL Runner-Up,Expansion
+1990,Cincinnati Reds,Cincinnati Reds,NL West,91,71,0.562,NL Champions,Expansion
+1991,Atlanta Braves,Atlanta Braves,NL West,94,68,0.580,NL Runner-Up,Expansion
+1992,Atlanta Braves,Atlanta Braves,NL West,98,64,0.605,NL Runner-Up,Expansion
+1993,Philadelphia Phillies,Philadelphia Phillies,NL East,97,65,0.599,NL Runner-Up,Expansion
+1995,Atlanta Braves,Atlanta Braves,NL West,90,54,0.625,NL Champions,Divisional
+1996,Atlanta Braves,Atlanta Braves,NL East,96,66,0.593,NL Runner-Up,Divisional
+1997,Florida Marlins,Florida Marlins,NL East,92,70,0.568,NL Champions (won WS),Divisional
+1998,San Diego Padres,San Diego Padres,NL West,98,64,0.605,NL Runner-Up,Divisional
+1999,Atlanta Braves,Atlanta Braves,NL East,103,59,0.636,NL Runner-Up,Divisional
+2000,New York Mets,New York Mets,NL East,94,68,0.580,NL Runner-Up,Divisional
+2001,Arizona Diamondbacks,Arizona Diamondbacks,NL West,92,70,0.568,NL Champions (won WS),Divisional
+2002,San Francisco Giants,San Francisco Giants,NL West,95,66,0.590,NL Runner-Up,Divisional
+2003,Florida Marlins,Florida Marlins,NL East,91,71,0.562,NL Champions (won WS),Divisional
+2004,St. Louis Cardinals,St. Louis Cardinals,NL Central,105,57,0.648,NL Runner-Up,Divisional
+2005,St. Louis Cardinals,St. Louis Cardinals,NL Central,100,60,0.625,NL Runner-Up,Divisional
+2006,St. Louis Cardinals,St. Louis Cardinals,NL Central,83,78,0.516,NL Champions (won WS),Divisional
+2007,Colorado Rockies,Colorado Rockies,NL West,90,73,0.552,NL Runner-Up,Divisional
+2009,Philadelphia Phillies,Philadelphia Phillies,NL East,93,69,0.574,NL Runner-Up,Divisional
+2010,San Francisco Giants,San Francisco Giants,NL West,92,70,0.568,NL Champions (won WS),Divisional
+2011,St. Louis Cardinals,St. Louis Cardinals,NL Central,90,72,0.556,NL Champions (won WS),Divisional
+2012,San Francisco Giants,San Francisco Giants,NL West,94,68,0.580,NL Champions (won WS),Divisional
+2014,San Francisco Giants,San Francisco Giants,NL West,88,74,0.543,NL Champions (won WS),Divisional
+2016,Chicago Cubs,Chicago Cubs,NL Central,103,58,0.642,NL Champions (won WS),Divisional
+2017,Washington Nationals,Washington Nationals,NL East,97,65,0.599,NL Runner-Up,Divisional
+2018,Chicago Cubs,Chicago Cubs,NL Central,91,72,0.555,NL Runner-Up,Divisional
+2019,Washington Nationals,Washington Nationals,NL East,93,69,0.574,NL Champions (won WS),Divisional
+2020,Los Angeles Dodgers,Los Angeles Dodgers,NL West,43,17,0.717,NL Champions (won WS),Modern
+2021,Atlanta Braves,Atlanta Braves,NL East,88,73,0.547,NL Runner-Up,Modern
+2021,Los Angeles Dodgers,Los Angeles Dodgers,NL West,106,56,0.654,NL West Winners,Modern
+2022,Los Angeles Dodgers,Los Angeles Dodgers,NL West,111,51,0.685,NL Runner-Up,Modern
+2023,Arizona Diamondbacks,Arizona Diamondbacks,NL West,84,78,0.519,NL Champions (won WS),Modern
+2023,Los Angeles Dodgers,Los Angeles Dodgers,NL West,100,62,0.617,NL Runner-Up,Modern
+2024,Los Angeles Dodgers,Los Angeles Dodgers,NL West,98,64,0.605,NL Champions,Modern
+2025,Los Angeles Dodgers,Los Angeles Dodgers,NL West,96,66,0.593,NL Champions,Modern
