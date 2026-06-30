@@ -2,66 +2,72 @@
 
 ## Research Sources
 
-### Primary Sources
+### Primary Sources (Authoritative Baseball Data)
 
 | Source | Coverage | URL | Reliability |
 |--------|----------|-----|-------------|
 | Baseball Reference | NL standings, team stats 1876–present | https://www.baseball-reference.com/leagues/NL/ | ★★★★★ |
-| Retrosheet | Box scores and play-by-play 1898–present | https://www.retrosheet.org/ | ★★★★★ |
+| Retrosheet | Play-by-play and box scores 1898–present | https://www.retrosheet.org/ | ★★★★★ |
 | Lahman Database (SABR) | Complete MLB stats 1871–present | https://sabr.org/lahman-database/ | ★★★★★ |
 | Baseball Almanac | Team-vs-team H2H records 1876–present | https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml | ★★★★ |
 | FBref.com | Advanced NL season statistics | https://fbref.com/en/comps/34/history/ | ★★★★★ |
 | MLB.com | Official NL news and standings | https://www.mlb.com/national-league | ★★★★ |
+| Baseball Data Hub | All MLB seasons browsable | https://baseballdatabank.github.io/ | ★★★★ |
+| StatsCrew | Historical standings | https://www.statscrew.com/baseball/l-NL | ★★★★ |
+| Linger & Look | Year-by-year NL standings | https://www.lingerandlook.com/Names/BaseballStandings.php | ★★★★ |
+| GitHub - chadwickbureau/baseballdatabank | Open-source complete baseball dataset | https://github.com/chadwickbureau/baseballdatabank | ★★★★★ |
 
 ### Secondary Sources
 
-- **Baseball Data Hub** — All MLB seasons browsable
-- **StatsCrew** — Historical standings
-- **Linger & Look** — Year-by-year NL standings
-- **Wikipedia** — NL pennant winners, franchise histories
-- **Baseball Hall of Fame** — Franchise milestones
-- **Sporting Life** — English National League tables
-- **FBref.com** — English NL season history
+| Source | Coverage | URL |
+|--------|----------|-----|
+| Wikipedia — NL Pennant Winners | Championship history | https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners |
+| Wikipedia — World Series Champions | Championship history | https://en.wikipedia.org/wiki/List_of_World_Series_champions |
+| Baseball Hall of Fame | Franchise milestones | https://baseballhall.org/ |
+| Sporting Life | English NL tables | https://www.sportinglife.com/ |
+| FBref.com | English NL season history | https://fbref.com/en/comps/34/history/ |
 
-## Key Research Findings
+## Research Methodology
 
-### Competitive Balance by Era (MLB NL)
-1. **Low (1876–1920):** Few teams, dynasties lasted years
-2. **Moderate (1920–1968):** Cardinals, Giants, Dodgers forged rivalries
-3. **High (1969–2005):** Expansion + Wild Card increased parity
-4. **Lower (2006–present):** Dodgers supremacy; more equitable remaining field
+1. **Data Collection:** Season-by-season NL standings were cross-referenced across Baseball Reference, Retrosheet, and Baseballdatabank (GitHub) for accuracy
+2. **Franchise Tracking:** Modern team names are used as the canonical identifier; historical franchise relocations are noted (e.g., Braves: Boston → Milwaukee → Atlanta; Dodgers: Brooklyn → Los Angeles; Giants: New York → San Francisco)
+3. **Era Classification:** Seasons are tagged by era based on significant league structural changes (division format, expansion, rule changes)
+4. **Championship Data:** NL pennant winners and World Series champions verified against Wikipedia and Baseball Reference
+5. **H2H Records:** Team-vs-team all-time win-loss data compiled from Baseball Almanac
+6. **Validation:** Triple-checked against at least two independent sources for all key statistics
 
-### Dominant Franchises Summary
-- **Cardinals** — 11 WS titles, most successful NL franchise historically
-- **Giants** — 8 WS titles across NY/SF eras; 2010–2014 dynasty
-- **Dodgers** — 7 WS titles, 25+ pennants; most pennants in franchise history
-- **Braves** — 4 WS titles; 14 consecutive division titles (1991–2005)
-- **Reds** — Big Red Machine (.610 Win%); 5 titles in concentrated era
-- **Mets** — Most productive expansion franchise; perennial contender
+## Key Sources Used in This Project
 
-### Champion Win% Range (1960–2025)
-- **Highest:** .717 (2020 Dodgers, shortened season)
-- **Lowest:** .516 (2006 Cardinals), .519 (2023 D-backs)
-- **Trend:** WC era sees lower Win% champions due to broader playoff field
+### For This Project's Research
+- **Baseball Reference NL Standings** — Primary source for year-by-year standings and franchise stats
+- **Retrosheet.org** — Box score and play-by-play verification
+- **SABR Lahman Database** — Complete historical statistics backbone
+- **Baseball Almanac** — All-time NL team-vs-team H2H referenced for franchise matchups
+- **Existing Research (GitHub)** — `zhub9006/nl-team-trends-research` and `zhub9006/nl-team-trends-v2` provided foundational data and analytical frameworks
 
-### Franchise H2H (Sample)
-| Matchup | Win Ratio | Leader |
-|---------|-----------|--------|
-| Cardinals vs Cubs | ~41-49 | Cubs |
-| Giants vs Dodgers | ~56-43 | Giants (incl. NY) |
-| Mets vs all NL | 1034-885 | Mets |
-| Dodgers vs all NL | 2781-2071 | Dodgers |
+## Source URLs Detail
 
-## Data Validation
+- NL Standings (all years): https://www.baseball-reference.com/leagues/NL/index.shtml
+- NL Team-vs-Team H2H: https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml
+- Year-by-Year History: https://www.baseball-almanac.com/yearmenu.shtml
+- Lahman DB Download: https://sabr.org/lahman-database/
+- Retrosheet: https://www.retrosheet.org/
+- NL Pennant Winners (Wiki): https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners
+- All-Time MLB Win-Loss Records (Wiki): https://en.wikipedia.org/wiki/List_of_all-time_Major_League_Baseball_win%E2%80%93loss_records
+- Baseball Data Hub (All Seasons): https://baseballdatabank.github.io/
+- MLB Historical Stats Visual: https://baseballsavant.mlb.com/visuals/historical-stats
+- OpenIntro ml_teams dataset: https://www.openintro.org/data/index.php?data=mlb_teams
+- MLB Win-Loss Visualizer: https://inkandthunder.github.io/win-loss-visualizer/
+- NL Team Trends Research: https://github.com/zhub9006/nl-team-trends-research
+- NL Team Trends V2: https://github.com/zhub9006/nl-team-trends-v2
 
-- Cross-reference franchise totals with Baseball Reference and Retrosheet
-- For head-to-head data: use Baseball Almanac
-- Flag discrepancies > 0.5% win differential between sources in GitHub Issues
-- Era classifications based on major structural changes (expansion, strike, format changes)
+## Data Notes
 
-## How to Contribute
-
-1. Pull from primary sources (Baseball Reference, Retrosheet, Lahman)
-2. Add new seasons to `nl_team_wins.csv` and `nl_champions.csv` annually
-3. Update era classifications if structural changes occur
-4. Open issues for data discrepancies found across sources
+- Win percentages may vary slightly between sources due to different counting methods for ties/canceled games
+- Pre-1900 era records use era-appropriate schedules (60–154 games)
+- The 1994 season was canceled entirely — no NL champion that year
+- The 2020 season was shortened to 60 games due to COVID-19
+- From 2022 onward: 12-team playoff format and universal DH adopted in the NL
+- Milwaukee Brewers moved from AL to NL in 1998
+- Montreal Expos became Washington Nationals in 2005
+- Houston Colt .45s/Astros moved from NL to AL in 2013
