@@ -1,0 +1,8 @@
+era,start_year,end_year,num_teams,num_seasons,avg_games_per_season,avg_win_pct,most_dominant_team,top_win_pct,ws_championships,notable_features
+Pre-Modern,1876,1899,8-12,150,60-154,0.550,Chicago White Stockings (Cubs),0.798,+,60-154 game schedule; no pitcher mound; AA merger 1892
+Dead Ball,1900,1919,8,30,140-154,0.570,Pittsburgh Pirates,0.741,3,Pitching dominant era; SH triple play; 1919 Black Sox controversy
+Live Ball,1920,1945,8,35,150-154,0.580,St. Louis Cardinals,0.688,8,Home run surge (Ruth 1920-30s); Jackie Robinson 1947; WWII roster depletion
+Post-War,1946,1968,10-12,33,150-162,0.565,Brooklyn Dodgers,0.681,8,Dodgers Dynasty 4 WS titles; Braves Milwaukee move 1953; 1962 expansion to 10 teams
+Expansion,1969,1992,12,35,162,0.545,Cincinnati Reds,0.667,4,Two expansion waves; two-division format; first Wild Card 1969; Big Red Machine
+Divisional,1993,2019,14-15,38,162,0.520,Atlanta Braves,0.636,3,Three-division + Wild Card 1994 (season canceled); Braves 14 consecutive division titles 1991-2005
+Modern,2020,2025,15,7,60-162,0.580,Los Angeles Dodgers,0.717,2,60-game COVID season 2020; universal DH 2022; 12-team playoff 2022; Dodgers 8 of last 10 NL pennants
