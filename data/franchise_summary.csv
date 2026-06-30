@@ -1,16 +1,30 @@
-franchise,founded_yr,nl_since,seasons_played,wins,losses,win_pct,penchants,ws_titles,div_titles,best_season_wins,best_win_pct
-St. Louis Cardinals,1882,1882,143,4723,4214,.529,19+,11,19+,116,.617
-San Francisco Giants,1883,1883,143,4512,4331,.514,21+,8,20+,112,.659
-Los Angeles Dodgers,1883,1883,137,4442,4256,.512,24+,7,22+,106,.659
-Pittsburgh Pirates,1882,1882,140,4134,4131,.500,9,5,7,110,.724
-Chicago Cubs,1876,1876,138,4108,4131,.499,17+,3,14,116,.763
-Cincinnati Reds,1882,1882,140,3745,3952,.487,9,5,5,102,.630
-Atlanta Braves,1871/1876,1876,132,3548,3765,.486,14+,4,17+,106,.654
-Philadelphia Phillies,1883,1883,140,3464,4235,.453,8+,2,5,108,.625
-New York Mets,1962,1962,62,3032,3568,.462,5,2,5,107,.647
-Washington Nationals,1969,1969,56,2834,3342,.458,1,1,1,105,.604
-Milwaukee Brewers,1969,1998,27,1265,1862,.403,1,0,1,97,.598
-San Diego Padres,1969,1969,55,1487,2115,.412,2,0,3,102,.615
-Colorado Rockies,1993,1993,30,1982,4438,.310,0,0,0,90,.549
-Arizona Diamondbacks,1998,1998,26,1074,1621,.399,2,1,1,100,.617
-Miami Marlins,1993,1993,32,767,1176,.394,2,2,2,101,.646
+franchise,modern_name,seasons,wins,losses,win_pct,ws_titles,pennants,division_titles,playoff_appearances,first_season,last_championship,era_dominance
+St. Louis Cardinals,St. Louis Cardinals,143,4723,4214,0.529,11,19,22,61,1882,2011,"Post-War/Modern"
+San Francisco Giants,San Francisco Giants,143,4512,4331,0.514,8,21,23,61,1883,2014,"Live Ball/Modern"
+Los Angeles Dodgers,Los Angeles Dodgers,137,4442,4256,0.512,7,24,25,63,1884,2024,"Post-War/Modern"
+Pittsburgh Pirates,Pittsburgh Pirates,140,4134,4131,0.500,5,9,10,41,1882,2013,"Dead Ball/Post-War"
+Chicago Cubs,Chicago Cubs,138,4108,4131,0.499,3,17,17,43,1876,2016,"Dead Ball/Post-War"
+Cincinnati Reds,Cincinnati Reds,137,3982,4214,0.487,5,10,12,33,1882,1990,"Dead Ball/Post-War"
+Atlanta Braves,Atlanta Braves,138,3905,4121,0.487,4,18,29,53,1876,2021,"Post-War/Divisional"
+Philadelphia Phillies,Philadelphia Phillies,137,3746,4074,0.479,2,8,8,34,1883,2008,"Modern"
+New York Mets,New York Mets,59,4332,4028,0.519,2,5,6,22,1962,2000,"Expansion/Modern"
+Boston Braves/Braves,Boston Braves,68,4834,4285,0.531,0,0,0,0,1876,1957,"Pre-Modern/Dead Ball"
+Brooklyn/Los Angeles Dodgers,Brooklyn Dodgers,87,6426,5987,0.518,0,12,14,18,1884,1955,"Live Ball/Post-War"
+Houston Colt .45's/Astros,World Series Only (NL 1962-),63,4602,4831,0.488,0,0,5,5,1962,—,"Expansion"
+Montreal Expos,WHO Comics Only NL 1969-2004,36,2345,2600,0.473,0,0,0,0,1969,—,"Expansion"
+Colorado Rockies,Colorado Rockies,33,2618,3292,0.443,0,0,0,5,1993,—"Modern"
+Florida Marlins/Miami Marlins,Florida Marlins,31,2348,2501,0.484,2,2,0,5,1993,2003,"Expansion/Modern"
+San Diego Padres,San Diego Padres,45,3342,3658,0.478,0,2,4,18,1969,—"Expansion/Modern"
+Arizona Diamondbacks,Arizona Diamondbacks,26,1872,2197,0.459,1,1,0,5,1998,2001,"Expansion/Modern"
+Milwaukee Brewers,Milwaukee Brewers,49,3342,3708,0.473,0,0,5,8,1998,—"Expansion"
+Washington Nationals,Montreal Expos→ Nationals,53,3789,3988,0.488,1,1,2,8,2005,2019,"Modern"
+Los Angeles Angels,Los Angeles Angels,63,4414,4755,0.482,0,0,6,7,1961,—"Expansion (AL)"
+New York Mets,New York Mets (original 1883),141,4332,4028,0.519,2,5,6,22,1962,2000,"Expansion/Modern"
+San Francisco Giants,New York Giants,78,5630,4818,0.539,5,14,16,33,1883,1954,"Live Ball"
+St. Louis Cardinals,St. Louis Cardinals (original 1882),70,4391,3832,0.534,0,0,0,0,1882,—"Dead Ball"
+Chicago Cubs,Chicago White Stockings/Colts (original 1876),63,3114,2840,0.522,0,0,0,0,1876,—"Pre-Modern"
+Pittsburgh Pirates,Pittsburgh Alleghenys (original 1882),58,3663,3322,0.525,0,0,0,0,1882,—"Dead Ball"
+Cincinnati Reds,Cincinnati Red Stockings (original 1882),55,4113,3356,0.550,0,0,0,0,1882,—"Pre-Modern"
+Philadelphia Phillies,Philadelphia Quakers (original 1883),137,3746,4074,0.479,2,8,8,34,1883,2008,"Modern"
+Boston Braves,Boston Braves (original 1876),68,4834,4285,0.531,0,0,0,0,1876,1957,"Pre-Modern"
+New York Giants,New York Gothams/Giants (original 1883),66,4181,4631,0.475,0,0,0,0,1883,—"Live Ball"

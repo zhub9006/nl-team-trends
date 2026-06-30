@@ -1,256 +1,97 @@
-season,team,founded_as,modern_name,division,wins,losses,win_pct,playoff_result,era
-1876,Chicago White Stockings,Chicago White Stockings,Chicago Cubs,N/A,52,14,.786,League Leaders,Pre-Modern
-1876,Boston Red Stockings,Boston Red Stockings,Atlanta Braves,N/A,39,31,.557,N/A,Pre-Modern
-1876,St. Louis Brown Stockings,St. Louis Brown Stockings,St. Louis Cardinals,N/A,64,28,.696,N/A,Pre-Modern
-1876,Providence Grays,Providence Grays,N/A,N/A,28,31,.475,N/A,Pre-Modern
-1876,Chicago White Stockings,Chicago White Stockings,Chicago Cubs,N/A,52,14,.786,League Leaders,Pre-Modern
-1877,Boston Red Stockings,Boston Red Stockings,Atlanta Braves,N/A,42,18,.700,League Leaders,Pre-Modern
-1877,Providence Grays,Providence Grays,N/A,N/A,47,25,.653,N/A,Pre-Modern
-1877,Louisville Grays,Louisville Grays,N/A,N/A,32,19,.627,N/A,Pre-Modern
-1878,Boston Red Stockings,Boston Red Stockings,Atlanta Braves,N/A,41,17,.707,League Leaders,Pre-Modern
-1878,Providence Grays,Providence Grays,N/A,N/A,33,27,.550,N/A,Pre-Modern
-1879,Providence Grays,Providence Grays,N/A,N/A,59,25,.702,League Leaders,Pre-Modern
-1879,Boston Red Stockings,Boston Red Stockings,Atlanta Braves,N/A,36,32,.529,N/A,Pre-Modern
-1880,Chicago White Stockings,Chicago White Stockings,Chicago Cubs,N/A,67,17,.798,League Leaders,Pre-Modern
-1880,Providence Grays,Providence Grays,N/A,N/A,52,20,.722,N/A,Pre-Modern
-1881,Chicago White Stockings,Chicago White Stockings,Chicago Cubs,N/A,56,28,.667,League Leaders,Pre-Modern
-1881,Providence Grays,Providence Grays,N/A,N/A,47,25,.653,N/A,Pre-Modern
-1882,Pittsburgh Alleghenys,Pittsburgh Alleghenys,Pittsburgh Pirates,N/A,39,37,.513,N/A,Pre-Modern
-1882,Chicago White Stockings,Chicago White Stockings,Chicago Cubs,N/A,55,28,.661,League Leaders,Pre-Modern
-1882,Providence Grays,Providence Grays,N/A,N/A,52,20,.722,N/A,Pre-Modern
-1882,St. Louis Brown Stockings,St. Louis Brown Stockings,St. Louis Cardinals,N/A,37,43,.463,N/A,Pre-Modern
-1883,New York Gothams,New York Gothams,San Francisco Giants,N/A,46,32,.589,N/A,Pre-Modern
-1883,Philadelphia Quakers,Philadelphia Quakers,Philadelphia Phillies,N/A,17,81,.173,N/A,Pre-Modern
-1883,Chicago White Stockings,Chicago White Stockings,Chicago Cubs,N/A,59,32,.646,N/A,Pre-Modern
-1883,Boston Beaneaters,Boston Red Stockings,Atlanta Braves,N/A,63,35,.643,N/A,Pre-Modern
-1883,St. Louis Brown Stockings,St. Louis Brown Stockings,St. Louis Cardinals,N/A,65,33,.663,N/A,Pre-Modern
-1883,Providence Grays,Providence Grays,N/A,N/A,58,26,.690,N/A,Pre-Modern
-1884,Providence Grays,Providence Grays,N/A,N/A,84,28,.750,League Leaders,Pre-Modern
-1884,Chicago White Stockings,Chicago White Stockings,Chicago Cubs,N/A,62,50,.554,N/A,Pre-Modern
-1884,Boston Beaneaters,Boston Red Stockings,Atlanta Braves,N/A,73,38,.658,N/A,Pre-Modern
-1885,Chicago White Stockings,Chicago White Stockings,Chicago Cubs,N/A,87,25,.777,League Leaders,Pre-Modern
-1885,Boston Beaneaters,Boston Red Stockings,Atlanta Braves,N/A,41,54,.430,N/A,Pre-Modern
-1885,St. Louis Brown Stockings,St. Louis Brown Stockings,St. Louis Cardinals,N/A,53,49,.519,N/A,Pre-Modern
-1886,Chicago White Stockings,Chicago White Stockings,Chicago Cubs,N/A,90,34,.727,League Leaders,Pre-Modern
-1886,Boston Beaneaters,Boston Red Stockings,Atlanta Braves,N/A,56,40,.583,N/A,Pre-Modern
-1886,St. Louis Brown Stockings,St. Louis Brown Stockings,St. Louis Cardinals,N/A,66,53,.554,N/A,Pre-Modern
-1887,Detroit Wolverines,Detroit Wolverines,N/A,N/A,79,45,.637,N/A,Pre-Modern
-1887,Louisville Colonels,Louisville Grays,N/A,N/A,76,42,.645,N/A,Pre-Modern
-1887,St. Louis Browns,St. Louis Brown Stockings,St. Louis Cardinals,N/A,68,55,.553,N/A,Pre-Modern
-1888,New York Giants,New York Gothams,San Francisco Giants,N/A,84,47,.641,League Leaders,Pre-Modern
-1888,Chicago White Stockings,Chicago White Stockings,Chicago Cubs,N/A,77,58,.571,N/A,Pre-Modern
-1888,St. Louis Browns,St. Louis Brown Stockings,St. Louis Cardinals,N/A,83,53,.610,N/A,Pre-Modern
-1889,New York Giants,New York Gothams,San Francisco Giants,N/A,83,43,.659,League Leaders,Pre-Modern
-1889,Chicago White Stockings,Chicago White Stockings,Chicago Cubs,N/A,67,57,.540,N/A,Pre-Modern
-1889,St. Louis Browns,St. Louis Brown Stockings,St. Louis Cardinals,N/A,90,50,.643,N/A,Pre-Modern
-1890,Boston Beaneaters,Boston Red Stockings,Atlanta Braves,N/A,81,45,.643,League Leaders,Live Ball
-1890,Chicago White Stockings,Chicago White Stockings,Chicago Cubs,N/A,62,49,.559,N/A,Live Ball
-1890,Louisville Colonels,Louisville Grays,N/A,N/A,88,44,.667,N/A,Live Ball
-1890,St. Louis Browns,St. Louis Brown Stockings,St. Louis Cardinals,N/A,78,58,.574,N/A,Live Ball
-1891,Boston Beaneaters,Boston Red Stockings,Atlanta Braves,N/A,87,51,.630,League Leaders,Live Ball
-1891,Chicago Colts,Chicago White Stockings,Chicago Cubs,N/A,61,61,.500,N/A,Live Ball
-1891,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,55,80,.407,N/A,Live Ball
-1891,St. Louis Browns,St. Louis Brown Stockings,St. Louis Cardinals,N/A,54,78,.409,N/A,Live Ball
-1892,Boston Beaneaters,Boston Red Stockings,Atlanta Braves,N/A,102,48,.682,League Leaders,Live Ball
-1892,Chicago Colts,Chicago White Stockings,Chicago Cubs,N/A,70,76,.477,N/A,Live Ball
-1892,Cincinnati Reds,Cincinnati Red Stockings,Cincinnati Reds,N/A,82,68,.545,N/A,Live Ball
-1892,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,80,73,.523,N/A,Live Ball
-1892,St. Louis Browns,St. Louis Brown Stockings,St. Louis Cardinals,N/A,56,94,.373,N/A,Live Ball
-1893,Boston Beaneaters,Boston Red Stockings,Atlanta Braves,N/A,86,43,.667,N/A,Live Ball
-1893,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,81,48,.629,N/A,Live Ball
-1893,St. Louis Browns,St. Louis Brown Stockings,St. Louis Cardinals,N/A,72,57,.558,N/A,Live Ball
-1894,Boston Beaneaters,Boston Red Stockings,Atlanta Braves,N/A,83,49,.629,N/A,Live Ball
-1894,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,72,60,.545,N/A,Live Ball
-1894,Chicago Colts,Chicago White Stockings,Chicago Cubs,N/A,57,75,.432,N/A,Live Ball
-1895,Boston Beaneaters,Boston Red Stockings,Atlanta Braves,N/A,71,60,.541,N/A,Live Ball
-1895,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,71,61,.538,N/A,Live Ball
-1895,Chicago Colts,Chicago White Stockings,Chicago Cubs,N/A,72,58,.554,N/A,Live Ball
-1896,Boston Beaneaters,Boston Red Stockings,Atlanta Braves,N/A,74,62,.544,N/A,Live Ball
-1896,Cincinnati Reds,Cincinnati Red Stockings,Cincinnati Reds,N/A,77,50,.606,N/A,Live Ball
-1896,Louisville Colonels,Louisville Grays,N/A,N/A,75,58,.564,N/A,Live Ball
-1897,Boston Beaneaters,Boston Red Stockings,Atlanta Braves,N/A,93,39,.704,League Leaders,Live Ball
-1897,Cincinnati Reds,Cincinnati Red Stockings,Cincinnati Reds,N/A,76,56,.576,N/A,Live Ball
-1898,Boston Beaneaters,Boston Red Stockings,Atlanta Braves,N/A,103,47,N/A,N/A,Live Ball
-1898,Brooklyn Superbas,Brooklyn Superbas,N/A,N/A,102,47,.685,N/A,Live Ball
-1898,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,99,54,.647,N/A,Live Ball
-1898,St. Louis Perfectos,St. Louis Brown Stockings,St. Louis Cardinals,N/A,86,68,.558,N/A,Live Ball
-1899,Boston Beaneaters,Boston Red Stockings,Atlanta Braves,N/A,95,57,.625,N/A,Live Ball
-1899,Brooklyn Superbas,Brooklyn Superbas,N/A,N/A,102,47,.685,N/A,Live Ball
-1899,Philadelphia Phillies,Philadelphia Quakers,Philadelphia Phillies,N/A,94,58,.618,N/A,Live Ball
-1899,St. Louis Perfectos,St. Louis Brown Stockings,St. Louis Cardinals,N/A,84,67,.556,N/A,Live Ball
-1900,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,79,60,.567,N/A,Dead Ball
-1900,Brooklyn Superbas,Brooklyn Superbas,N/A,N/A,78,62,.557,N/A,Dead Ball
-1900,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,79,60,.567,N/A,Dead Ball
-1901,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,90,49,.647,N/A,Dead Ball
-1901,Brooklyn Superbas,Brooklyn Superbas,N/A,N/A,79,57,.581,N/A,Dead Ball
-1901,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,76,64,.542,N/A,Dead Ball
-1902,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,103,36,.741,N/A,Dead Ball
-1902,Brooklyn Superbas,Brooklyn Superbas,N/A,N/A,75,63,.543,N/A,Dead Ball
-1902,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,76,64,.542,N/A,Dead Ball
-1903,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,91,49,.650,N/A,Dead Ball
-1903,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,74,62,.544,N/A,Dead Ball
-1904,New York Giants,New York Gothams,San Francisco Giants,N/A,106,47,.691,N/A,Dead Ball
-1904,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,91,49,.650,N/A,Dead Ball
-1905,New York Giants,New York Gothams,San Francisco Giants,N/A,105,48,.686,N/A,Dead Ball
-1905,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,96,57,.627,N/A,Dead Ball
-1906,Chicago Cubs,Chicago White Stockings,Chicago Cubs,N/A,116,36,.763,N/A,Dead Ball
-1906,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,93,56,.622,N/A,Dead Ball
-1906,New York Giants,New York Gothams,San Francisco Giants,N/A,87,67,.566,N/A,Dead Ball
-1907,Chicago Cubs,Chicago White Stockings,Chicago Cubs,N/A,107,45,.704,N/A,Dead Ball
-1907,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,91,63,.591,N/A,Dead Ball
-1908,Chicago Cubs,Chicago White Stockings,Chicago Cubs,N/A,99,55,.643,N/A,Dead Ball
-1908,New York Giants,New York Gothams,San Francisco Giants,N/A,98,56,.636,N/A,Dead Ball
-1909,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,110,42,.724,N/A,Dead Ball
-1909,Chicago Cubs,Chicago White Stockings,Chicago Cubs,N/A,104,49,.680,N/A,Dead Ball
-1910,Chicago Cubs,Chicago White Stockings,Chicago Cubs,N/A,90,64,.584,N/A,Dead Ball
-1911,New York Giants,New York Gothams,San Francisco Giants,N/A,99,54,.647,N/A,Dead Ball
-1911,Chicago Cubs,Chicago White Stockings,Chicago Cubs,N/A,92,62,.597,N/A,Dead Ball
-1912,New York Giants,New York Gothams,San Francisco Giants,N/A,103,48,.683,N/A,Dead Ball
-1912,Chicago Cubs,Chicago White Stockings,Chicago Cubs,N/A,91,59,.607,N/A,Dead Ball
-1913,New York Giants,New York Gothams,San Francisco Giants,N/A,101,51,.664,N/A,Dead Ball
-1913,Chicago Cubs,Chicago White Stockings,Chicago Cubs,N/A,88,65,.575,N/A,Dead Ball
-1914,Boston Braves,Boston Red Stockings,Atlanta Braves,N/A,94,59,.614,N/A,Dead Ball
-1915,Brooklyn Superbas,Brooklyn Superbas,N/A,N/A,86,66,.566,N/A,Dead Ball
-1916,Brooklyn Robins,Brooklyn Superbas,N/A,N/A,94,60,.610,N/A,Dead Ball
-1917,Philadelphia Phillies,Philadelphia Quakers,Philadelphia Phillies,N/A,87,66,.569,N/A,Dead Ball
-1918,Cincinnati Reds,Cincinnati Red Stockings,Cincinnati Reds,N/A,96,44,.686,N/A,Dead Ball
-1919,Cincinnati Reds,Cincinnati Red Stockings,Cincinnati Reds,N/A,96,44,.686,N/A,Dead Ball
-1920,Brooklyn Robins,Brooklyn Superbas,N/A,N/A,93,61,.604,N/A,Live Ball
-1920,New York Giants,New York Gothams,San Francisco Giants,N/A,86,68,.558,N/A,Live Ball
-1921,New York Giants,New York Gothams,San Francisco Giants,N/A,94,59,.614,N/A,Live Ball
-1922,New York Giants,New York Gothams,San Francisco Giants,N/A,93,61,.604,N/A,Live Ball
-1923,New York Giants,New York Gothams,San Francisco Giants,N/A,95,58,.621,N/A,Live Ball
-1924,New York Giants,New York Gothams,San Francisco Giants,N/A,93,60,.608,N/A,Live Ball
-1925,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,95,58,.623,N/A,Live Ball
-1926,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,89,65,.578,N/A,Live Ball
-1927,New York Giants,New York Gothams,San Francisco Giants,N/A,92,62,.597,N/A,Live Ball
-1928,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,95,59,.617,N/A,Live Ball
-1929,Chicago Cubs,Chicago White Stockings,Chicago Cubs,N/A,98,54,.645,N/A,Live Ball
-1930,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,92,62,.597,N/A,Live Ball
-1931,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,101,53,.654,N/A,Live Ball
-1932,Chicago Cubs,Chicago White Stockings,Chicago Cubs,N/A,90,64,.584,N/A,Live Ball
-1933,New York Giants,New York Gothams,San Francisco Giants,N/A,87,67,.566,N/A,Live Ball
-1934,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,95,58,.622,N/A,Live Ball
-1935,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,96,58,.623,N/A,Live Ball
-1936,New York Giants,New York Gothams,San Francisco Giants,N/A,92,62,.597,N/A,Live Ball
-1937,New York Giants,New York Gothams,San Francisco Giants,N/A,95,57,.625,N/A,Live Ball
-1938,Chicago Cubs,Chicago White Stockings,Chicago Cubs,N/A,89,63,.585,N/A,Live Ball
-1939,Brooklyn Dodgers,Brooklyn Robins,N/A,N/A,84,69,.549,N/A,Live Ball
-1939,Cincinnati Reds,Cincinnati Red Stockings,Cincinnati Reds,N/A,97,57,.630,N/A,Live Ball
-1940,Brooklyn Dodgers,Brooklyn Robins,N/A,N/A,88,66,.571,N/A,Live Ball
-1940,Cincinnati Reds,Cincinnati Red Stockings,Cincinnati Reds,N/A,100,53,.652,N/A,Live Ball
-1941,Brooklyn Dodgers,Brooklyn Robins,N/A,N/A,100,54,.649,N/A,Live Ball
-1942,Brooklyn Dodgers,Brooklyn Robins,N/A,N/A,104,50,.674,N/A,Live Ball
-1942,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,106,48,.688,N/A,Live Ball
-1943,Brooklyn Dodgers,Brooklyn Robins,N/A,N/A,81,72,.529,N/A,Live Ball
-1943,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,105,49,.682,N/A,Live Ball
-1944,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,105,49,.682,N/A,Live Ball
-1945,Chicago Cubs,Chicago White Stockings,Chicago Cubs,N/A,98,56,.636,N/A,Live Ball
-1946,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,98,56,.637,N/A,Post-War
-1946,Brooklyn Dodgers,Brooklyn Robins,N/A,N/A,96,57,.627,N/A,Post-War
-1947,Brooklyn Dodgers,Brooklyn Robins,N/A,N/A,89,61,.592,N/A,Post-War
-1948,Brooklyn Dodgers,Brooklyn Robins,N/A,N/A,84,68,.553,N/A,Post-War
-1948,Boston Braves,Boston Red Stockings,Atlanta Braves,N/A,91,62,.596,N/A,Post-War
-1949,Brooklyn Dodgers,Brooklyn Robins,N/A,N/A,97,57,.629,N/A,Post-War
-1950,Brooklyn Dodgers,Brooklyn Robins,N/A,N/A,89,65,.578,N/A,Post-War
-1950,Cincinnati Reds,Cincinnati Red Stockings,Cincinnati Reds,N/A,96,59,.620,N/A,Post-War
-1951,New York Giants,New York Gothams,San Francisco Giants,N/A,98,59,.623,N/A,Post-War
-1951,Brooklyn Dodgers,Brooklyn Robins,N/A,N/A,96,57,.627,N/A,Post-War
-1953,Brooklyn Dodgers,Brooklyn Robins,N/A,N/A,105,49,.681,N/A,Post-War
-1954,New York Giants,New York Gothams,San Francisco Giants,N/A,97,57,.630,N/A,Post-War
-1955,Brooklyn Dodgers,Brooklyn Robins,N/A,N/A,98,55,.640,N/A,Post-War
-1956,Brooklyn Dodgers,Brooklyn Robins,N/A,N/A,93,61,.604,N/A,Post-War
-1957,Milwaukee Braves,Boston Red Stockings,Atlanta Braves,N/A,95,59,.617,N/A,Post-War
-1958,Milwaukee Braves,Boston Red Stockings,Atlanta Braves,N/A,84,71,.542,N/A,Post-War
-1959,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,88,68,.564,N/A,Post-War
-1960,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,95,59,.617,N/A,Post-War
-1961,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,89,65,.578,N/A,Post-War
-1961,Cincinnati Reds,Cincinnati Red Stockings,Cincinnati Reds,N/A,93,61,.604,N/A,Post-War
-1962,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,102,80,.562,N/A,Expansion
-1962,San Francisco Giants,New York Gothams,N/A,N/A,100,62,.617,N/A,Expansion
-1962,Cincinnati Reds,Cincinnati Red Stockings,Cincinnati Reds,N/A,98,64,.605,N/A,Expansion
-1962,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,84,69,.549,N/A,Expansion
-1962,New York Mets,New York Mets,N/A,N/A,40,120,.250,N/A,Expansion
-1963,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,99,63,.611,N/A,Expansion
-1963,San Francisco Giants,New York Gothams,N/A,N/A,88,74,.542,N/A,Expansion
-1963,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,93,69,.574,N/A,Expansion
-1964,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,93,69,.574,N/A,Expansion
-1965,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,97,65,.599,N/A,Expansion
-1965,San Francisco Giants,New York Gothams,N/A,N/A,95,67,.586,N/A,Expansion
-1966,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,95,67,.586,N/A,Expansion
-1966,San Francisco Giants,New York Gothams,N/A,N/A,93,68,.578,N/A,Expansion
-1967,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,73,89,.451,N/A,Expansion
-1968,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,76,86,.469,N/A,Expansion
-1969,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,85,77,.525,N/A,Divisional
-1969,San Francisco Giants,New York Gothams,N/A,N/A,90,72,.556,N/A,Divisional
-1969,Chicago Cubs,Chicago White Stockings,Chicago Cubs,N/A,92,70,.568,N/A,Divisional
-1969,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,88,74,.543,N/A,Divisional
-1969,New York Mets,New York Mets,N/A,N/A,100,62,.617,Division Champion,Divisional
-1969,Atlanta Braves,Boston Red Stockings,Atlanta Braves,N/A,86,76,.531,N/A,Divisional
-1969,San Diego Padres,New York Mets,N/A,N/A,52,110,.321,N/A,Divisional
-1969,Montreal Expos,Washington Nationals,N/A,N/A,52,110,.321,N/A,Divisional
-1970,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,87,75,.537,N/A,Divisional
-1970,Pittsburgh Pirates,Pittsburgh Burghers,Pittsburgh Pirates,N/A,89,73,.549,N/A,Divisional
-1970,Cincinnati Reds,Cincinnati Red Stockings,Cincinnati Reds,N/A,102,60,.630,Division Champion,Divisional
-1970,San Francisco Giants,New York Gothams,N/A,N/A,86,76,.531,N/A,Divisional
-1970,Atlanta Braves,Boston Red Stockings,Atlanta Braves,N/A,76,86,.469,N/A,Divisional
-1970,New York Mets,New York Mets,N/A,N/A,83,79,.515,N/A,Divisional
-1970,San Diego Padres,New York Mets,N/A,N/A,63,99,.389,N/A,Divisional
-1980,Philadelphia Phillies,Philadelphia Quakers,Philadelphia Phillies,N/A,91,71,.562,N/A,Post-War
-1981,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,63,47,.573,N/A,Post-War
-1982,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,92,70,.568,N/A,Post-War
-1983,Philadelphia Phillies,Philadelphia Quakers,Philadelphia Phillies,N/A,90,72,.556,N/A,Post-War
-1984,San Diego Padres,New York Mets,N/A,N/A,92,70,.568,N/A,Post-War
-1985,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,101,61,.623,N/A,Post-War
-1986,New York Mets,New York Mets,N/A,N/A,108,54,.667,N/A,Post-War
-1987,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,95,67,.586,N/A,Post-War
-1988,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,94,67,.584,N/A,Post-War
-1989,San Francisco Giants,New York Gothams,N/A,N/A,92,70,.568,N/A,Post-War
-1990,Cincinnati Reds,Cincinnati Red Stockings,Cincinnati Reds,N/A,91,71,.562,N/A,Divisional
-1991,Atlanta Braves,Boston Red Stockings,Atlanta Braves,N/A,94,68,.580,N/A,Divisional
-1992,Atlanta Braves,Boston Red Stockings,Atlanta Braves,N/A,98,64,.605,N/A,Divisional
-1993,Philadelphia Phillies,Philadelphia Quakers,Philadelphia Phillies,N/A,97,65,.599,N/A,Divisional
-1994,Season Canceled,Season Canceled,N/A,N/A,,,N/A,Divisional
-1995,Atlanta Braves,Boston Red Stockings,Atlanta Braves,N/A,90,54,.625,N/A,Divisional
-1996,Atlanta Braves,Boston Red Stockings,Atlanta Braves,N/A,96,66,.593,N/A,Divisional
-1997,Florida Marlins,Philadelphia Quakers,Miami Marlins,N/A,92,70,.562,N/A,Divisional
-1998,San Diego Padres,New York Mets,N/A,N/A,98,64,.605,N/A,Divisional
-1998,Atlanta Braves,Boston Red Stockings,Atlanta Braves,N/A,106,56,.654,N/A,Divisional
-1999,Atlanta Braves,Boston Red Stockings,Atlanta Braves,N/A,103,59,.636,N/A,Divisional
-2000,New York Mets,New York Mets,N/A,N/A,94,68,.580,N/A,Divisional
-2001,Arizona Diamondbacks,New York Mets,N/A,N/A,92,70,.568,N/A,Divisional
-2002,San Francisco Giants,New York Gothams,N/A,N/A,95,66,.590,N/A,Divisional
-2003,Florida Marlins,Philadelphia Quakers,Miami Marlins,N/A,91,71,.562,N/A,Divisional
-2004,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,105,57,.648,N/A,Divisional
-2005,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,100,62,.617,N/A,Divisional
-2006,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,83,78,.516,N/A,Divisional
-2007,Colorado Rockies,New York Mets,N/A,N/A,90,73,.552,N/A,Divisional
-2008,Philadelphia Phillies,Philadelphia Quakers,Philadelphia Phillies,N/A,92,70,.568,N/A,Divisional
-2009,Philadelphia Phillies,Philadelphia Quakers,Philadelphia Phillies,N/A,93,69,.574,N/A,Divisional
-2010,San Francisco Giants,New York Gothams,N/A,N/A,92,70,.568,N/A,Divisional
-2011,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,90,72,.556,N/A,Divisional
-2012,San Francisco Giants,New York Gothams,N/A,N/A,94,68,.580,N/A,Divisional
-2013,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,97,65,.599,N/A,Divisional
-2014,San Francisco Giants,New York Gothams,N/A,N/A,88,74,.543,N/A,Divisional
-2015,St. Louis Cardinals,St. Louis Perfectos,St. Louis Cardinals,N/A,100,62,.617,N/A,Divisional
-2015,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,92,70,.568,N/A,Divisional
-2016,Chicago Cubs,Chicago White Stockings,Chicago Cubs,N/A,103,58,.642,N/A,Divisional
-2017,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,104,58,.642,N/A,Divisional
-2018,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,92,71,.562,N/A,Divisional
-2019,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,106,56,.654,N/A,Divisional
-2019,Washington Nationals,Montreal Expos,N/A,N/A,97,65,.593,N/A,Divisional
-2020,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,43,17,.717,N/A,Modern
-2020,Atlanta Braves,Boston Red Stockings,Atlanta Braves,N/A,35,25,.583,N/A,Modern
-2021,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,106,56,.654,N/A,Modern
-2021,Atlanta Braves,Boston Red Stockings,Atlanta Braves,N/A,88,73,.547,N/A,Modern
-2022,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,111,51,.685,N/A,Modern
-2022,Atlanta Braves,Boston Red Stockings,Atlanta Braves,N/A,101,61,.623,N/A,Modern
-2022,Philadelphia Phillies,Philadelphia Quakers,Philadelphia Phillies,N/A,87,75,.537,N/A,Modern
-2023,Atlanta Braves,Boston Red Stockings,Atlanta Braves,N/A,104,58,.642,N/A,Modern
-2023,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,100,62,.617,N/A,Modern
-2023,Arizona Diamondbacks,New York Mets,N/A,N/A,84,78,.519,N/A,Modern
-2024,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,98,64,.605,N/A,Modern
-2024,Atlanta Braves,Boston Red Stockings,Atlanta Braves,N/A,94,68,.580,N/A,Modern
-2025,Los Angeles Dodgers,Brooklyn Robins,N/A,N/A,96,66,.593,N/A,Modern
-2025,Atlanta Braves,Boston Red Stockings,Atlanta Braves,N/A,90,72,.600,N/A,Modern
-2025,Philadelphia Phillies,Philadelphia Quakers,Philadelphia Phillies,N/A,90,72,.593,N/A,Modern
+season,team,modern_name,division,wins,losses,win_pct,playoff_result,era
+1876,Chicago Cubs,Chicago Cubs,N/A,52,14,0.788,NL Champions,Pre-Modern
+1876,Boston Braves,Boston Braves,N/A,59,31,0.656,NL 2nd,Pre-Modern
+1876, Louisville, Louisville,N/A,30,78,0.278,Dissolved/Replaced,Pre-Modern
+1876,Cincinnati Reds,Cincinnati Reds,N/A,15,42,0.263,Dissolved/Replaced,Pre-Modern
+1876,Pittsburgh Pirates,Pittsburgh Pirates,N/A,39,55,0.417,NL 5th,Pre-Modern
+1876,St. Louis Cardinals,St. Louis Cardinals,N/A,29,59,0.333,NL 4th,Pre-Modern
+1876,Gary/Gothams,New York Mets,N/A,21,49,0.300,NL 6th,Pre-Modern
+1877,Boston Braves,Boston Braves,N/A,62,33,0.653,NL Champions,Pre-Modern
+1877,Chicago Cubs,Chicago Cubs,N/A,48,39,0.552,NL 2nd,Pre-Modern
+1878,Chicago Cubs,Chicago Cubs,N/A,N/A,N/A,N/A,.U Sal NAS=Pre-Modern
+1879,Boston Braves,Boston Braves,N/A,76,37,0.672,NL Champions,Pre-Modern
+1880,Chicago Cubs,Chicago Cubs,N/A,67,17,0.798,NL Champions,Pre-Modern
+1881,Chicago Cubs,Chicago Cubs,N/A,56,28,0.667,NL 2nd,Pre-Modern
+1882,Cincinnati Reds,Cincinnati Reds,N/A,55,25,0.688,NL Champions,Pre-Modern
+1883,Providence,Providence,N/A,58,26,0.690,NL Champions,Pre-Modern
+1884,Providence,Providence,N/A,84,28,0.750,NL Champions,Pre-Modern
+1885,Chicago Cubs,Chicago Cubs,N/A,87,25,0.777,NL Champions,Pre-Modern
+1886,Chicago Cubs,Chicago Cubs,N/A,90,34,0.726,NL Champions,Pre-Modern
+1887,Detroit Wolverines,Detroit=N/A,N/A,79,45,0.637,AL Pennant,Pre-Modern
+1888,New York Giants,New York Mets,N/A,84,47,0.641,NL Champions,Pre-Modern
+1889,New York Giants,New York Mets,N/A,83,43,0.659,NL Champions,Pre-Modern
+1890,Boston Reds,Boston Braves,N/A,81,48,0.629,NL Champions,Pre-Modern
+1891,Boston Reds,Boston Braves,N/A,87,51,0.630,NL Champions,Pre-Modern
+1892,Pittsburgh Pirates,Pittsburgh Pirates,N/A,80,73,0.523,NL 3rd,Pre-Modern
+1892,Cleveland Spiders,Cleveland=N/A,N/A,71,86,0.452,NL 9th,Pre-Modern
+1893,Boston Beaneaters,Boston Braves,N/A,86,43,0.667,NL Champions,Pre-Modern
+1894,Baltimore Orioles,Baltimore=N/A,N/A,89,39,0.694,NL 2nd,Pre-Modern
+1895,Baltimore Orioles,Baltimore=N/A,N/A,87,43,0.667,NL 2nd,Pre-Modern
+1896,Baltimore Orioles,Baltimore=N/A,N/A,90,39,0.698,NL 2nd,Pre-Modern
+1897,Boston Beaneaters,Boston Braves,N/A,93,39,0.702,NL Champions,Pre-Modern
+1898,Boston Beaneaters,Boston Braves,N/A,102,48,0.680,NL Champions,Pre-Modern
+1899,Boston Beaneaters,Boston Braves,N/A,101,46,0.687,NL Champions,Pre-Modern
+1900,Pittsburgh Pirates,Pittsburgh Pirates,N/A,79,60,0.568,NL Champions,Pre-Modern
+1901,Pittsburgh Pirates,Pittsburgh Pirates,N/A,90,49,0.646,NL 2nd,Dead Ball
+1902,Pittsburgh Pirates,Pittsburgh Pirates,N/A,103,36,0.741,NL Champions,Dead Ball
+1903,Pittsburgh Pirates,Pittsburgh Pirates,N/A,91,49,0.650,NL 2nd,Dead Ball
+1904,New York Giants,New York Mets,N/A,106,47,0.693,NL Champions (declined WS),Dead Ball
+1905,New York Giants,New York Mets,N/A,105,48,0.686,NL Champions,Dead Ball
+1906,Chicago Cubs,Chicago Cubs,N/A,116,36,0.763,NL Champions (lost WS),Dead Ball
+1907,Chicago Cubs,Chicago Cubs,N/A,107,45,0.704,NL Champions,Dead Ball
+1908,Chicago Cubs,Chicago Cubs,N/A,99,55,0.643,NL Champions (playoff),Dead Ball
+1909,Pittsburgh Pirates,Pittsburgh Pirates,N/A,110,42,0.724,NL Champions,Dead Ball
+1910,Chicago Cubs,Chicago Cubs,N/A,104,50,0.675,NL 2nd,Dead Ball
+1911,New York Giants,New York Mets,N/A,99,54,0.647,NL 2nd,Dead Ball
+1912,New York Giants,New York Mets,N/A,103,48,0.684,NL 2nd,Dead Ball
+1913,G braves,Boston Braves,N/A,69,82,0.457,NL 7th,Dead Ball
+1914,Boston Braves,Boston Braves,N/A,94,58,0.618,. NL Champions,Dead Ball
+1915,Philadelphia Phillies,Philadelphia Phillies,N/A,90,62,0.592,NL 2nd,Dead Ball
+1916,Brooklyn Dodgers,Brooklyn Dodgers,N/A,94,60,0.610,NL 3rd,Dead Ball
+1917,New York Giants,New York Mets,N/A,98,56,0.636,NL 3rd,Dead Ball
+1918,Brooklyn Dodgers,Brooklyn Dodgers,N/A,57,64,0.441,NL 6th,Dead Ball
+1919,Cincinnati Reds,Cincinnati Reds,N/A,96,44,0.686,NL Champions,NL Championship,Dead Ball
+1920,Brooklyn Dodgers,Brooklyn Dodgers,N/A,93,61,0.604,NL 3rd,Live Ball
+1921,New York Giants,New York Mets,N/A,94,59,0.614,NL Champions,Live Ball
+1922,New York Giants,New York Mets,N/A,92,56,0.622,NL Champions,Live Ball
+1923,New York Giants,New York Mets,N/A,95,58,0.620,NL 4th,Live Ball
+1924,New York Giants,New York Mets,N/A,93,60,0.608,NL 3rd,Live Ball
+1925,Pittsburgh Pirates,Pittsburgh Pirates,N/A,95,58,0.620,NL Champions,Live Ball
+1926,high-Land,St. Louis Cardinals,N/A,89,65,0.578,NL Champions,Live Ball
+1929,Chicago Cubs,Chicago Cubs,N/A,98,54,0.645,NL Champions,Live Ball
+1930,St. Louis Cardinals,St. Louis Cardinals,N/A,92,62,0.597,NL 4th,Live Ball
+1931,St. Louis Cardinals,St. Louis Cardinals,N/A,101,53,0.658,NL Champions,Live Ball
+1932,Chicago Cubs,Chicago Cubs,N/A,90,64,0.584,NL 4th,Live Ball
+1935,Chicago Cubs,Chicago Cubs,N/A,100,54,0.649,NL 2nd,Live Ball
+1937,New York Giants,New York Mets,N/A,95,57,0.625,NL 2nd,Live Ball
+1938,Chicago Cubs,Chicago Cubs,N/A,89,63,0.586,NL 1st,Live Ball
+1939,Cincinnati Reds,Cincinnati Reds,N/A,1,62,0.269,NL 8th,Live Ball
+1940,Cincinnati Reds,Cincinnati Reds,N/A,100,53,0.654,NL Champions,Live Ball
+1941,Brooklyn Dodgers,Brooklyn Dodgers,N/A,100,54,0.649,NL 2nd,Live Ball
+1942,St. Louis Cardinals,St. Louis Cardinals,N/A,106,48,0.688,NL Champions,Live Ball
+1943,St. Louis Cardinals,St. Louis Cardinals,N/A,105,49,0.680,NL Champions,Live Ball
+1944,Location,St. Louis Cardinals,N/A,105,49,0.680,NL Champions,Post-War
+1945,Chicago Cubs,Chicago Cubs,N/A,98,56,0.636,NL 4th,Post-War
+1946,St. Louis Cardinals,St. Louis Cardinals,N/A,96,58,0.623,NL Champions,Post-War
+1947,brooklyn Dodgers,Brooklyn Dodgers,N/A,94,60,0.610,NL 2nd,Post-War
+1948,boston Braves,Boston Braves,N/A,91,62,0.595,NL 2nd,Post-War
+1949,brooklyn Dodgers,Brooklyn Dodgers,N/A,97,57,0.630,NL 4th,Post-War
+1950,Rochester Red Wings,N/A,N/A,36,23,0.610,International League,Post-War
+1951,New York Giants,New York Mets,N/A,98,59,0.623,NL Champions,Post-War
+1952,Boston Braves,Boston Braves,N/A,86,68,0.558,NL 4th,Post-War
+1953,Brooklyn Dodgers,Brooklyn Dodgers,West/N/A,105,49,0.681,NL 1st,Post-War
+1954,New York Giants,New York Mets,N/A,97,57,0.630,NL 2nd,Post-War
+1955,Brooklyn Dodgers,Brooklyn Dodgers,West/N/A,98,55,0.641,NL Champions,Post-War
+1956,Brooklyn Dodgers,Brooklyn Dodgers,West/N/A,93,61,0.604,NL 1st,Post-War
+1957,Milwaukee Braves,Milwaukee Brewers,West/N/A,95,59,0.617,NL Champions,Post-War
+1958,Milwaukee Braves,Milwaukee Brewers,West/N/A,92,62,0.597,NL 1st,Post-War
+1959,Los Angeles Dodgers,Los Angeles Dodgers,West/N/A,88,68,0.568,NL Champions,Post-War
+1960,Pittsburgh Pirates,Pittsburgh Pirates,West/N/A,95,59,0.617,NL Champions,Post-War
+1961,Cincinnati Reds,Cincinnati Reds,N/A,93,61,0.604,NL Champions,Post-War
+1962,San Francisco Giants,San Francisco Giants,NL West,103,62,,NL Champions (lost WS),Expansion
+1962,Los Angeles Dodgers,Los Angeles Dodgers,NL West,76,86,0.469,NL 10th,Expansion
+1963,Los Angeles Dodgers,Los Angeles Dodgers,NL West,99,63,0.611,NL Champions,Expansion
+1964,St" Louis Cardinals,St. Louis Cardinals,NL Central,93,69,0.578,NL Champions,Expansion
+1965,Los Angeles Dodgers,Los Angeles Dodgers,NL West,97,65,0.599,NL Champions,Expansion
+1966,Los Angeles Dodgers,Los Angeles Dodgers,NL West,95,67,0.586,NL Champions,Expansion
+1967,St" Louis Cardinals,St. Louis Cardinals,NL Central,101,60,,NL Champions,Expan
