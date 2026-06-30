@@ -1,16 +1,16 @@
-franchise,founded,nl_since,seasons_played,total_wins,total_losses,win_pct,pennants,world_series_titles,division_titles,best_season_wins,best_win_pct,stadium
-St. Louis Cardinals,1882,1882,143,4723,4214,.529,19+,11,19+,116,.617,Busch Stadium
-San Francisco Giants,1883,1883,143,4512,4331,.514,23+,8,20+,112,.659,Oracle Park
-Los Angeles Dodgers,1883,1883,137,4442,4256,.512,24+,7,22+,106,.659,Dodger Stadium
-Pittsburgh Pirates,1882,1882,140,4134,4131,.500,9,5,7,110,.724,PPG Paints Arena
-Chicago Cubs,1876,1876,138,4108,4131,.499,17+,3,14,116,.763,Wrigley Field
-Cincinnati Reds,1882,1882,140,3745,3952,.487,9,5,5,102,.630,Great American Ball Park
-Atlanta Braves,1871/1876,1876,132,3548,3765,.486,17+,4,17+,106,.654,Truist Park
-Philadelphia Phillies,1883,1883,140,3464,4235,.453,8+,2,5,108,.625, Citizens Bank Park
-New York Mets,1962,1962,62,3032,3568,.462,5,2,5,107,.647,Citi Field
-Washington Nationals,1969,1969,56,2834,3342,.458,1,1,1,105,.604,Springfield Bank Park
-Milwaukee Brewers,1969/1998,1998,27,1265,1862,.403,1,0,1,97,.598American Family Field
-San Diego Padres,1969,1969,55,1487,2115,.412,2,0,3,102,.615,Petco Park
-Colorado Rockies,1993,1993,30,1982,4438,.310,0,0,0,90,.549,Coors Field
-Arizona Diamondbacks,1998,1998,26,1074,1621,.399,2,1,1,100,.617,Chase Field
-Miami Marlins,1993,1993,32,767,1176,.394,2,2,2,101,.646,Dollar Loan Center
+franchise,founded_yr,nl_since,seasons_played,wins,losses,win_pct,penchants,ws_titles,div_titles,best_season_wins,best_win_pct
+St. Louis Cardinals,1882,1882,143,4723,4214,.529,19+,11,19+,116,.617
+San Francisco Giants,1883,1883,143,4512,4331,.514,21+,8,20+,112,.659
+Los Angeles Dodgers,1883,1883,137,4442,4256,.512,24+,7,22+,106,.659
+Pittsburgh Pirates,1882,1882,140,4134,4131,.500,9,5,7,110,.724
+Chicago Cubs,1876,1876,138,4108,4131,.499,17+,3,14,116,.763
+Cincinnati Reds,1882,1882,140,3745,3952,.487,9,5,5,102,.630
+Atlanta Braves,1871/1876,1876,132,3548,3765,.486,14+,4,17+,106,.654
+Philadelphia Phillies,1883,1883,140,3464,4235,.453,8+,2,5,108,.625
+New York Mets,1962,1962,62,3032,3568,.462,5,2,5,107,.647
+Washington Nationals,1969,1969,56,2834,3342,.458,1,1,1,105,.604
+Milwaukee Brewers,1969,1998,27,1265,1862,.403,1,0,1,97,.598
+San Diego Padres,1969,1969,55,1487,2115,.412,2,0,3,102,.615
+Colorado Rockies,1993,1993,30,1982,4438,.310,0,0,0,90,.549
+Arizona Diamondbacks,1998,1998,26,1074,1621,.399,2,1,1,100,.617
+Miami Marlins,1993,1993,32,767,1176,.394,2,2,2,101,.646
