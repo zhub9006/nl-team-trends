@@ -1,0 +1,32 @@
+metric,year,team,value,context,source
+NL_season_record,wins,1906,Chicago Cubs,116,.763 win%,154-game season; all-time NL single-season record,Baseball Reference
+NL_season_record,wins,modern,St. Louis Cardinals,105,.646 win%,162-game season context; 2005 Cardinals,Baseball Reference
+NL_season_record,pct,1906,Chicago Cubs,.763,116-36; highest NL win% in 100+ game era,Baseball Reference
+NL_season_record,pct,modern,St. Louis Cardinals,.646,2005: 105-57; highest in 162-game era,Baseball Reference
+WS_champion_winpct,highest,2020,Los Angeles Dodgers,.717,60-game COVID season; 43-17,Baseball Reference
+WS_champion_winpct,lowest_modern,2006,St. Louis Cardinals,.516,83-78; lowest modern WS champion win%,Baseball Reference
+WS_champion_winpct,lowest_extreme,2023,Arizona Diamondbacks,.519,84-78; won WS with fewest wins in modern era,Baseball Reference
+nl_pennants_alltime,count,—,Los Angeles Dodgers,25+,Most NL pennants all-time including Brooklyn era,Baseball Reference
+nl_pennants_alltime,count,—,Atlanta Braves,18+,14 consecutive division titles 1991-2005,Baseball Reference
+nl_ws_titles_alltime,count,—,St. Louis Cardinals,11,Most NL World Series championships,Baseball Reference
+nl_ws_titles_alltime,count,ny_sf_combined,San Francisco Giants,12,NY Giants 5 + SF Giants 7 combined championships,Baseball Reference
+franchise_winpct,worst,Colorado Rockies,.443,2618 wins vs 3292 losses over 33 seasons,Baseball Reference / franchise_summary.csv
+franchise_winpct,best,St. Louis Cardinals,.529,4723 wins vs 4214 losses over 143 seasons,Baseball Reference / franchise_summary.csv
+division_streak_longest,team,Atlanta Braves,14 consecutive division titles,1991-2005; unprecedented in NL history,Baseball Reference
+pennant_streak_recent,team,Los Angeles Dodgers,8 of last 10 NL pennants,2014-2025; modern-era dominance,Baseball Reference
+expansion_disruption,1962,Mets added,10th NL team; broke 8-team monopoly 1876-1961,New York Mets went 40-120 in inaugural season,Baseball Almanac
+expansion_disruption,1969,Two-division + Wild Card,First ever NL Wild Card team; Mets won 1969 WS,Structural change to NL competitive format,Retrosheet
+expansion_disruption,1998,Brewers moved to NL,15 teams established; balanced leagues,Some franchises gained new divisional rivals,Baseball Reference
+era_winpct_pre_modern,avg,1876-1899,NL teams,.550,60-154 game schedule variation; no pitcher mound,era_analysis.csv
+era_winpct_dead_ball,avg,1900-1919,NL teams,.570,Pitching dominant era; SH triple plays,era_analysis.csv
+era_winpct_live_ball,avg,1920-1945,NL teams,.580,Home run surge; Jackie Robinson 1947,era_analysis.csv
+era_winpct_post_war,avg,1946-1968,NL teams,.565,Dodgers dynasty 4 WS titles; expansion,era_analysis.csv
+era_winpct_expansion,avg,1969-1992,NL teams,.545,Two-division format; Big Red Machine,era_analysis.csv
+era_winpct_divisional,avg,1993-2019,NL teams,.520,Braves 14-year streak; 3-division + WC,era_analysis.csv
+era_winpct_covid_modern,avg,2020-2025,NL teams,.580,60-game 2020; universal DH 2022; 12-team playoff,era_analysis.csv
+championship_drought,diamondbacks,24+,Arizona Diamondbacks,Last NL title: 2001 WS; 24+ years drought,Baseball Almanac
+championship_drought,rockies,33+,Colorado Rockies,No NL or WS title in 33 seasons (1993-present),Baseball Almanac
+championship_drought,marlins,22+,Miami Marlins,Last NL title: 2003 WS; 22+ years drought,Baseball Almanac
+interleague_play,start_year,1997,Regular season NL vs AL games,Shifted competitive dynamics; H2H data now cross-league,Baseball Reference
+mound_height_change,year,1969,Height reduced 15→10 inches,Offensive boost expected; some ERA+ shift in late-1960s data,Historical rule change
+draft_introduction,year,1965,First baseball draft,Long-term competitive impact on small-market franchises,Historical rule change
