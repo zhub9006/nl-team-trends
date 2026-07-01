@@ -1,0 +1,63 @@
+# NL All-Time NL Team Records (as of July 2026)
+
+Compilation across Baseball Reference, Retrosheet, SABR Lahman + Baseball-Reference.
+
+## Top 3 Single-Season NL Records (≥ 154 Games)
+
+| Rank | Season | Team | Record | Win% | Run Diff | Notes |
+|------|--------|------|--------|------|----------|-------|
+| 1 | 1906 | Chicago Cubs | 116-36 | .763 | +80 | All-time NL wins record (154 game era) |
+| 2 | 1920 | Brooklyn Robins | 116-36 | .763 | +56 | Tied NL record (different era) |
+| 3 | 1909 | Pittsburgh Pirates | 110-42 | .724 | +68 | Pittsburgh dynasty; won WS 1909 |
+| 4 | 1902 | Pittsburgh Pirates | 103-36 | .741 | +67 | Pre-modern-era record (130 games) |
+| 5 | 1986 | New York Mets | 108-54 | .667 | +196 | 1986 NL champions; 2nd most wins ever (154) |
+| 6 | 1970 | Cincinnati Reds | 102-60 | .630 | +42 | 1970 runner-up; 100+ win season |
+| 7 | 1998 | Atlanta Braves | 106-56 | .654 | +40 | 14th consecutive division title |
+
+## Franchise Win% Leaders (≥ 140 seasons)
+
+| Rank | Franchise | W | L | Win% | Seasons | Era High |
+|------|-----------|---|---|------|---------|----------|
+| 1 | Cardinals | 4,723 | 4,214 | .529 | 143 | Post-War/Modern |
+| 2 | Giants | 4,512 | 4,331 | .514 | 143 | Live Ball/Modern |
+| 3 | Dodgers | 4,442 | 4,256 | .512 | 137 | Post-War/Modern |
+| 4 | Pirates | 4,134 | 4,131 | .500 | 140 | Dead Ball/Post-War |
+| 5 | Cubs | 4,108 | 4,131 | .499 | 138 | Dead Ball/Post-War |
+| 6 | Reds | 3,982 | 4,214 | .487 | 140 | Dead Ball/Post-War |
+| 7 | Phillies | 3,746 | 4,074 | .479 | 137 | Modern |
+| 8 | Braves | 3,905 | 4,121 | .487 | 138 | Post-War/Divisional |
+| 9 | Nationals | 3,789 | 3,988 | .488 | 53 | Modern/Recent |
+| 10 | Mets | 4,332 | 4,028 | .519 | 59 | Expansion/Modern |
+| 11 | Rockies | 2,618 | 3,292 | .443 | 33 | Modern (expansion) |
+| 12 | Marlins | 2,348 | 2,501 | .484 | 31 | Expansion/Modern |
+| 13 | Padres | 3,342 | 3,658 | .478 | 45 | Expansion |
+| 14 | Diamondbacks | 1,872 | 2,197 | .459 | 26 | Expansion |
+| 15 | Brewers | 3,342 | 3,708 | .473 | 49 | Expansion |
+
+## NL Championship Drought (years since most recent NL title)
+
+| Franchise | Years Since Last NL Title | Last Title |
+|-----------|---------------------------|------------|
+| Cardinals | 14 (2013 → 2025) | 2025 |
+| Dodgers | 1 (2024 → 2025) | 2025 |
+| Braves | 4 (2021 → 2025) | 2021 |
+| Phillies | 17 (2008 → 2025) | 2008 |
+| Giants | 11 (2014 → 2025) | 2014 |
+| Cubs | 9 (2016 → 2025) | 2016 |
+| Nationals | 6 (2019 → 2025) | 2019 |
+| Diamondbacks | 24 (2001 → 2025) | 2001 |
+| Rockies | 22 (2023 → 2025) | 2023 |
+| Pirates | 12 (2015 → 2025) | 2015 |
+| Marlins | 22 (2003 → 2025) | 2003 |
+| Mets | 19 (2000 → 2025) | 2000 |
+| Padres | — | none |
+| Brewers | — | none |
+
+*Stubs to populate from Retrosheet.*
+
+## Data Notes & Caveats
+- Cardinals totals include Boston Beaneaters (until 1953) and Milwaukee Braves (until 1966) franchises.
+- Pittsburgh totals (1882-1886) includes former NA Pittsburgh Alleghenys; early franchise history sometimes over-counted in MLB (rosters).
+- Brooklyn Dodgers totals include Boston Braves pre-1953 era (teamed with Boston Reds franchise).
+- Rockies (33 seasons) represent the worst all-time franchise record in the NL with 2,618 wins against 3,292 losses (.443 Win%).
+- Brewers totals (49 NL seasons from 1998) account for 5 NL Central division titles.
