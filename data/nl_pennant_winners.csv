@@ -1,0 +1,63 @@
+year,champion,champion_abbrev,runner_up,runner_up_abbrev,ws_winner
+1876,Chicago White Stockings,CHN,Boston Red Stockings,ATL,CHN
+1877,Boston Red Stockings,ATL,St. Louis Brown Stockings,STL,ATL
+1878,Boston Red Stockings,ATL,Indianapolis Blues,IND,ATL
+1879,Boston Red Stockings,ATL,Cleveland Blues,CLE,ATL
+1880,Chicago White Stockings,CHN,Cleveland Blues,CLE,CHN
+1881,Chicago White Stockings,CHN,Providence Grays,PRV,CHN
+1882,Chicago White Stockings,CHN,Providence Grays,PRV,CHN
+1883,Boston Beaneaters,ATL,Philadelphia Quakers,PHI,ATL
+1884,Providence Grays,PRV,New York Metropolitans,NYM,PRV
+1885,Chicago White Stockings,CHN,St. Louis Browns,STL,CHN
+1886,St. Louis Browns,STL,Chicago White Stockings,CHN,STL
+1887,Detroit Wolverines,DET,St. Louis Browns,STL,DET
+1888,New York Giants,NYG,St. Louis Browns,STL,NYG
+1889,New York Giants,NYG,St. Louis Browns,STL,NYG
+1890,Boston Beaneaters,ATL,Brooklyn Superbas,BKN,ATL
+1891,Boston Beaneaters,ATL,Chicago Colts,CHN,ATL
+1892,Boston Beaneaters,ATL,Cleveland Spiders,CLE,ATL
+1893,Boston Beaneaters,ATL,Cleveland Spiders,CLE,ATL
+1894,Baltimore Orioles,BAL,Boston Beaneaters,ATL,BAL
+1895,Baltimore Orioles,BAL,Cleveland Spiders,CLE,BAL
+1896,Baltimore Orioles,BAL,Cleveland Spiders,CLE,BAL
+1897,Boston Beaneaters,ATL,Baltimore Orioles,BAL,ATL
+1898,Boston Beaneaters,ATL,Baltimore Orioles,BAL,ATL
+1899,Brooklyn Superbas,BKN,Baltimore Orioles,BAL,BKN
+1900,Brooklyn Superbas,BKN,Pittsburgh Pirates,PIT,BKN
+1903,Pittsburgh Pirates,PIT,Boston Americans (AL),BOS,PIT
+1906,Chicago Cubs,CHN,No WS held,AL,CHN
+1907,Chicago Cubs,CHN,Detroit Tigers (AL),DET,CHN
+1908,Chicago Cubs,CHN,Detroit Tigers (AL),DET,CHN
+1909,Pittsburgh Pirates,PIT,Detroit Tigers (AL),DET,PIT
+1911,New York Giants,NYG,Philadelphia Athletics (AL),PHA,NYG
+1914,Boston Braves,ATL,Philadelphia Athletics (AL),PHA,ATL
+1915,Philadelphia Phillies,PHI,Boston Red Sox (AL),BOS,PHI
+1919,Cincinnati Reds,CIN,Chicago White Sox (AL),CHW,CIN
+1921,New York Giants,NYG,New York Yankees (AL),NYY,NYG
+1925,Pittsburgh Pirates,PIT,Washington Senators (AL),WSH,PIT
+1930,St. Louis Cardinals,STL,Philadelphia Athletics (AL),PHA,STL
+1940,Cincinnati Reds,CIN,Detroit Tigers (AL),DET,CIN
+1954,New York Giants,NYG,Cleveland Indians (AL),CLE,NYG
+1957,Milwaukee Braves,MIL,New York Yankees (AL),NYY,MIL
+1959,Los Angeles Dodgers,LAD,Chicago White Sox (AL),CWS,LAD
+1960,Pittsburgh Pirates,PIT,New York Yankees (AL),NYY,PIT
+1965,Los Angeles Dodgers,LAD,Minnesota Twins (AL),MIN,LAD
+1969,New York Mets,NYM,Baltimore Orioles (AL),BAL,NYM
+1975,Cincinnati Reds,CIN,Boston Red Sox (AL),BOS,CIN
+1980,Philadelphia Phillies,PHI,Kansas City Royals (AL),KC,PHI
+1982,St. Louis Cardinals,STL,Milwaukee Brewers (AL),MLN,STL
+1986,New York Mets,NYM,Boston Red Sox (AL),BOS,NYM
+1988,Los Angeles Dodgers,LAD,Oakland Athletics (AL),OAK,LAD
+1990,Cincinnati Reds,CIN,Oakland Athletics (AL),OAK,CIN
+1993,Philadelphia Phillies,PHI,Toronto Blue Jays (AL),TOR,PHI
+1995,Atlanta Braves,ATL,Cleveland Indians (AL),CLE,ATL
+1997,Florida Marlins,MIA,Cleveland Indians (AL),CLE,MIA
+2001,Arizona Diamondbacks,ARI,New York Yankees (AL),NYY,ARI
+2012,San Francisco Giants,SFN,Detroit Tigers (AL),DET,SFN
+2014,San Francisco Giants,SFN,Kansas City Royals (AL),KC,SFN
+2016,Chicago Cubs,CHN,Cleveland Indians (AL),CLE,CHN
+2020,Los Angeles Dodgers,LAD,Tampa Bay Rays (AL),TB,LAD
+2021,Atlanta Braves,ATL,Houston Astros (AL),HOU,ATL
+2023,Arizona Diamondbacks,ARI,Philadelphia Phillies,PHI,N/A
+2024,Los Angeles Dodgers,LAD,New York Mets,NYM,LAD
+2025,Los Angeles Dodgers,LAD,Milwaukee Brewers,MIL,LAD
