@@ -1,0 +1,28 @@
+row_team,col_team,row_wins,col_losses,total_games
+Atlanta Braves,Chicago Cubs,48,43,91
+Atlanta Braves,Cincinnati Reds,46,42,88
+Atlanta Braves,Los Angeles Dodgers,45,55,100
+Atlanta Braves,St. Louis Cardinals,52,48,100
+Atlanta Braves,New York Mets,42,38,80
+Atlanta Braves,Philadelphia Phillies,46,44,90
+Atlanta Braves,Pittsburgh Pirates,42,36,78
+Chicago Cubs,Cincinnati Reds,55,33,88
+Chicago Cubs,Los Angeles Dodgers,46,50,96
+Chicago Cubs,St. Louis Cardinals,47,45,92
+Chicago Cubs,New York Mets,34,26,60
+Cincinnati Reds,Pittsburgh Pirates,58,54,112
+Cincinnati Reds,St. Louis Cardinals,46,54,100
+Colorado Rockies,Los Angeles Dodgers,10,22,32
+Colorado Rockies,San Francisco Giants,12,14,26
+Los Angeles Dodgers,San Francisco Giants,55,35,90
+Los Angeles Dodgers,St. Louis Cardinals,50,52,102
+Los Angeles Dodgers,New York Mets,56,42,98
+Miami Marlins,New York Mets,16,24,40
+Milwaukee Brewers,St. Louis Cardinals,12,14,26
+New York Mets,Philadelphia Phillies,38,44,82
+New York Mets,St. Louis Cardinals,28,24,52
+Philadelphia Phillies,St. Louis Cardinals,18,20,38
+San Diego Padres,Los Angeles Dodgers,18,62,80
+San Francisco Giants,St. Louis Cardinals,40,42,82
+St. Louis Cardinals,Pittsburgh Pirates,56,50,106
+Washington Nationals,Los Angeles Dodgers,8,28,36
