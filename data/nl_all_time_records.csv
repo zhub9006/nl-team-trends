@@ -1,0 +1,16 @@
+Team,First_MLB_Year,Division,AllTime_W,AllTime_L,AllTime_T,Games_Played,Win_Pct,Pennants,Wins_Championship,Last_Pennant_Year,Last_WS_Title_Year,Active_Status
+San Francisco Giants,1883,NL West,11622,10100,163,21885,0.535,23,8,2014,2014,Yes
+Los Angeles Dodgers,1883,NL West,11525,10137,139,21801,0.531,26,8,2025,2025,Yes
+St. Louis Cardinals,1882,NL Central,11363,10486,152,22001,0.520,19,11,2024,2011,Yes
+Chicago Cubs,1876,NL Central,11419,10837,161,22417,0.516,17,3,2016,2016,Yes
+Cincinnati Reds,1882,NL Central,11017,10845,139,22001,0.505,10,5,1995,1990,Yes
+Atlanta Braves,1871,NL East,11190,11035,154,22379,0.504,18,4,2021,1995,Yes
+Pennsylvania Pirates,1882,NL Central,10910,10910,140,21960,0.500,9,5,1979,1979,Yes
+Philadelphia Phillies,1883,NL East,10303,11392,115,21810,0.475,8,2,2025,2025,Yes
+New York Mets,1962,NL East,4899,5227,8,10134,0.485,2,2,1986,1986,Yes
+Milwaukee Brewers,1901,NL Central,4405,4595,4,9004,0.489,0,0,0,0,Yes
+Washington Nationals,1969,NL East,4331,4665,4,9000,0.481,1,1,1981,1981,Yes
+Miami Marlins,1993,NL East,2382,2792,0,5174,0.460,2,2,2023,2023,Yes
+Arizona Diamondbacks,1998,NL West,2167,2267,0,4434,0.489,1,1,2023,2001,Yes
+San Diego Padres,1969,NL West,4217,4789,2,9008,0.468,2,0,0,0,Yes
+Colorado Rockies,1993,NL West,2364,2818,0,5182,0.456,0,0,0,0,Yes
