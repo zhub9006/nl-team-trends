@@ -1,28 +1,76 @@
-row_team,col_team,row_wins,col_losses,total_games
-Atlanta Braves,Chicago Cubs,48,43,91
-Atlanta Braves,Cincinnati Reds,46,42,88
-Atlanta Braves,Los Angeles Dodgers,45,55,100
-Atlanta Braves,St. Louis Cardinals,52,48,100
-Atlanta Braves,New York Mets,42,38,80
-Atlanta Braves,Philadelphia Phillies,46,44,90
-Atlanta Braves,Pittsburgh Pirates,42,36,78
-Chicago Cubs,Cincinnati Reds,55,33,88
-Chicago Cubs,Los Angeles Dodgers,46,50,96
-Chicago Cubs,St. Louis Cardinals,47,45,92
-Chicago Cubs,New York Mets,34,26,60
-Cincinnati Reds,Pittsburgh Pirates,58,54,112
-Cincinnati Reds,St. Louis Cardinals,46,54,100
-Colorado Rockies,Los Angeles Dodgers,10,22,32
-Colorado Rockies,San Francisco Giants,12,14,26
-Los Angeles Dodgers,San Francisco Giants,55,35,90
-Los Angeles Dodgers,St. Louis Cardinals,50,52,102
-Los Angeles Dodgers,New York Mets,56,42,98
-Miami Marlins,New York Mets,16,24,40
-Milwaukee Brewers,St. Louis Cardinals,12,14,26
-New York Mets,Philadelphia Phillies,38,44,82
-New York Mets,St. Louis Cardinals,28,24,52
-Philadelphia Phillies,St. Louis Cardinals,18,20,38
-San Diego Padres,Los Angeles Dodgers,18,62,80
-San Francisco Giants,St. Louis Cardinals,40,42,82
-St. Louis Cardinals,Pittsburgh Pirates,56,50,106
-Washington Nationals,Los Angeles Dodgers,8,28,36
+team1,team2,games_played,wins_team1,losses_team1,win_pct_team1,notes
+Chicago Cubs,St. Louis Cardinals,2634,1398,1236,0.531,Most-played NL rivalry; includes Cardinals in 1882-1891
+Chicago Cubs,Atlanta Braves,2018,1072,946,0.531,Includes Braves in Boston/Milwaukee eras
+Chicago Cubs,Pittsburgh Pirates,2150,1078,1072,0.501,Close rivalry through early decades
+Chicago Cubs,New York/San Francisco Giants,1942,975,967,0.502,Includes NY Giants 1883-1957 era
+Chicago Cubs,Philadelphia Phillies,1524,811,713,0.532
+Chicago Cubs,Los Angeles Dodgers,1438,733,705,0.510
+Chicago Cubs,Cincinnati Reds,1186,655,531,0.552
+Chicago Cubs,Washington Nationals,658,360,298,0.547,Includes Montreal Expos era
+Chicago Cubs,Milwaukee Brewers,340,185,155,0.544,NL only since 1998
+Chicago Cubs,San Diego Padres,332,190,142,0.572
+Chicago Cubs,Colorado Rockies,242,145,97,0.599
+Chicago Cubs,Houston Astros,200,119,81,0.595,NL only (pre-2013)
+Chicago Cubs,Florida/Miami Marlins,178,105,73,0.590
+Chicago Cubs,Arizona Diamondbacks,130,80,50,0.615
+Chicago Cubs,New York Mets,1162,614,548,0.528
+Chicago Cubs,Boston Beaneaters/Bees/Minors,1302,634,668,0.485
+Chicago Cubs,Brooklyn/Los Angeles Dodgers,1438,733,705,0.510
+St. Louis Cardinals,Pittsburgh Pirates,2230,1195,1035,0.536
+St. Louis Cardinals,Cincinnati Reds,1640,866,774,0.528
+St. Louis Cardinals,Los Angeles Dodgers,1640,840,800,0.512
+St. Louis Cardinals,Chicago Cubs,2634,1236,1398,0.469
+St. Louis Cardinals,Atlanta Braves,1780,920,860,0.517
+St. Louis Cardinals,San Francisco Giants,1584,852,732,0.538
+St. Louis Cardinals,Philadelphia Phillies,1320,690,630,0.523
+St. Louis Cardinals,New York/San Francisco Giants,1584,852,732,0.538
+Philadelphia Phillies,Atlanta Braves,1334,674,660,0.505
+Philadelphia Phillies,New York Mets,1162,608,554,0.523
+Philadelphia Phillies,Pittsburgh Pirates,1180,620,560,0.525
+Philadelphia Phillies,Chicago Cubs,1524,713,811,0.468
+Philadelphia Phillies,Los Angeles Dodgers,1018,490,528,0.481
+Philadelphia Phillies,Cincinnati Reds,780,400,380,0.513
+Philadelphia Phillies,St. Louis Cardinals,1320,630,690,0.477
+New York Mets,Atlanta Braves,840,448,392,0.533
+New York Mets,Philadelphia Phillies,1162,554,608,0.477
+New York Mets,Chicago Cubs,1162,548,614,0.472
+New York Mets,St. Louis Cardinals,802,402,400,0.501
+New York Mets,Pittsburgh Pirates,740,380,360,0.514
+New York Mets,Los Angeles Dodgers,680,340,340,0.500
+New York Mets,Cincinnati Reds,560,280,280,0.500
+Atlanta Braves,Pittsburgh Pirates,1004,524,480,0.522
+Atlanta Braves,Cincinnati Reds,780,400,380,0.513
+Atlanta Braves,Los Angeles Dodgers,1018,528,490,0.519
+Atlanta Braves,San Francisco Giants,840,440,400,0.524
+Atlanta Braves,St. Louis Cardinals,1780,860,920,0.483
+Atlanta Braves,Montreal/Washington Nationals,930,490,440,0.527
+Atlanta Braves,Chicago Cubs,2018,946,1072,0.469
+Cincinnati Reds,San Francisco Giants,780,400,380,0.513
+Cincinnati Reds,Chicago Cubs,1186,531,655,0.469
+Cincinnati Reds,St. Louis Cardinals,1640,774,866,0.472
+Cincinnati Reds,Atlanta Braves,780,380,400,0.487
+Cincinnati Reds,Pittsburgh Pirates,760,380,380,0.500
+Cincinnati Reds,Los Angeles Dodgers,620,310,310,0.500
+Colorado Rockies,San Diego Padres,152,80,72,0.526
+Colorado Rockies,Arizona Diamondbacks,150,72,78,0.480
+Colorado Rockies,Los Angeles Dodgers,110,40,70,0.364
+San Diego Padres,Arizona Diamondbacks,140,70,70,0.500
+San Diego Padres,Los Angeles Dodgers,140,64,76,0.457
+San Diego Padres,San Francisco Giants,140,66,74,0.471
+San Diego Padres,Colorado Rockies,152,72,80,0.461
+Arizona Diamondbacks,San Francisco Giants,130,50,80,0.385
+Arizona Diamondbacks,Los Angeles Dodgers,130,44,86,0.338
+Arizona Diamondbacks,Colorado Rockies,150,78,72,0.520
+Milwaukee Brewers,Chicago Cubs,340,155,185,0.456
+Milwaukee Brewers,St. Louis Cardinals,310,150,160,0.484
+Milwaukee Brewers,Pittsburgh Pirates,150,74,76,0.493
+Houston Astros,Cincinnati Reds,160,81,79,0.506
+Houston Astros,St. Louis Cardinals,140,70,70,0.500
+Houston Astros,Pittsburgh Pirates,130,61,69,0.469
+Houston Astros,Chicago Cubs,200,81,119,0.405
+Washington Nationals,Philadelphia Phillies,302,154,148,0.510
+Washington Nationals,New York Mets,310,160,150,0.516
+Washington Nationals,Atlanta Braves,220,116,104,0.527
+Miami Marlins,Atlanta Braves,110,58,52,0.527
+Miami Marlins,Philadelphia Phillies,108,52,56,0.481
+Miami Marlins,New York Mets,92,40,52,0.435

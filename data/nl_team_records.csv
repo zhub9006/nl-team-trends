@@ -1,16 +1,17 @@
-team,abbreviation,franchise_since,first_season,wins,losses,ties,win_pct,games_played,notes
-San Francisco Giants,SFN,1883,1883,11663,10155,246,0.535,22064,Includes NY Giants 1883-1957; Lead NL in total wins
-St. Louis Cardinals,STL,1882,1882,11245,10071,183,0.528,21546,Founded as St. Louis Brown Stockings
-Chicago Cubs,CHN,1876,1876,11473,10879,261,0.514,22613,1906 Cubs won 116 games; 2 oldest NL franchise still playing
-Atlanta Braves,ATL,1871,1871,11245,11075,194,0.504,22474,Oldest continuously operating franchise; Boston to ATL
-Cincinnati Reds,CIN,1882,1882,11060,10897,239,0.503,22196,5 WS titles
-Los Angeles Dodgers,LAD,1884,1884,11087,9410,231,0.541,20728,Includes Brooklyn Dodgers; 7 WS titles; Highest win% in NL
-Pittsburgh Pirates,PIT,1882,1882,10960,10957,217,0.500,22177,5 WS titles
-Philadelphia Phillies,PHI,1883,1883,11010,11392,198,0.475,22598,Most losses of any MLB franchise
-New York Mets,NYM,1962,1962,4730,4873,4,0.493,9643,Won 1969 & 1986 WS
-Arizona Diamondbacks,ARI,1998,1998,4260,4323,1,0.496,8607,2001 WS champions; Fastest expansion team
-Milwaukee Brewers,MIL,1969,1969,3610,3735,3,0.493,7377,Orig. Seattle Pilots; Joined NL 1998
-San Diego Padres,SDN,1969,1969,4715,5521,5,0.460,10262,2 NL pennants
-Colorado Rockies,COL,1993,1993,2650,3185,3,0.455,5840,Lowest NL win%; 2007 WS runner-up
-Miami Marlins,MIA,1993,1993,2219,2761,1,0.445,5003,Orig. Florida Marlins; 2 WS titles (1997,2003)
-Washington Nationals,WAS,1969,1969,4157,5057,9,0.451,9230,Orig. Montreal Expos; Won 2019 WS
+team,franchise_start,seasons_played,total_wins,total_losses,win_pct,pennants,pennant_pct,ws_titles,ws_pct,last_pennant,last_ws,notes
+Atlanta Braves,1871,154,11315,11010,0.507,18,0.117,4,0.026,1999,1995,Includes Boston era (1871-1952) and Milwaukee era (1953-1965)
+Chicago Cubs,1876,150,10645,9455,0.529,17,0.113,3,0.020,1984,1908,Historic 108-year WS drought ended in 2016
+Cincinnati Reds,1876,150,9230,8739,0.513,10,0.067,5,0.033,1995,1990,Includes 1882 American Association and 1975-76 Big Red Machine
+Colorado Rockies,1993,33,1380,1817,0.432,1,0.030,0,0.000,2007,—,Only NL team with sub-.500 all-time win%
+Dallas-Fort Worth (historical),—,—,—,—,—,—,—,—,—,—,—,Not an NL franchise
+Houston Astros,1862,163,9130,9285,0.496,6,0.037,0,0.000,2023,—,Moved to AL in 2013; only 1962-era NL data
+Los Angeles Dodgers,1883,142,10067,8057,0.556,19,0.134,7,0.049,2020,2020,Boston/Montreal/LA franchise; 7 WS titles
+Miami Marlins,1993,33,1245,1812,0.406,2,0.061,2,0.061,2003,2003,Marlins won 2 WS titles in 11 seasons
+Milwaukee Brewers,1970,56,3680,4074,0.475,1,0.018,0,0.000,2018,—,Moved to NL West in 1998; AL history before 1998
+New York Mets,1862,62,3540,3818,0.480,5,0.081,2,0.032,2024,2000,Miracle expansion team; 2 WS titles
+Philadelphia Phillies,1883,143,11392,10650,0.517,11,0.077,2,0.014,2022,2022,Most all-time NL losses (11,392)
+Pittsburgh Pirates,1882,144,9140,8393,0.520,9,0.063,5,0.035,1979,1979,Historic NL powerhouse; 5 WS titles
+San Diego Padres,1969,56,2010,2317,0.465,0,0.000,0,0.000,—,—,No pennants or WS titles yet
+San Francisco Giants,1883,142,11663,9740,0.544,23,0.162,8,0.056,2014,2014,Most all-time NL wins; 3 WS titles since moving to SF (2010-2014 era)
+St. Louis Cardinals,1882,144,10710,8245,0.565,19,0.132,11,0.076,2006,2011,Most NL pennants (19) and most WS titles of any NL team
+Washington Nationals,1969,56,2680,3033,0.469,1,0.018,1,0.018,1981,2019,As Montreal Expos: 1 pennant; as Nationals: 1 WS title
