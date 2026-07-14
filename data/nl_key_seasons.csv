@@ -1,11 +1,203 @@
-year,team,abbrev,wins,losses,win_pct,notes
-1906,Chicago Cubs,CHN,116,37,0.759,Most wins in any MLB season
-1975,Cincinnati Reds,CIN,108,54,0.667,Big Red Machine season
-2007,Colorado Rockies,COL,90,73,0.552,Wild Card; Best Rockies season ever
-2016,Chicago Cubs,CHN,103,58,0.642,Ended 108-year World Series drought
-2020,Los Angeles Dodgers,LAD,43,17,0.717,Best win% in shortened 60-game season
-1969,New York Mets,NYM,100,62,0.617,"Miracle Mets; NL champions & WS champions"
-1986,New York Mets,NYM,108,54,0.667,Famous 1986 WS champions
-1995,Atlanta Braves,ATL,90,54,0.625,Start of 14 straight NL East division titles
-2001,Arizona Diamondbacks,ARI,92,70,0.568,Fastest expansion team to WS title
-2023,Arizona Diamondbacks,ARI,84,78,0.519,NLCS champions
+year,team,wins,losses,win_pct,games_behind,division,team_founded,notes
+1876,Chicago White Stockings,52,14,0.788,0.0,West,1876,First NL season; league champion
+1876,Hartford Dark Blues,47,21,0.691,5.0,East,1876,
+1876,St. Louis Brown Stockings,45,19,0.703,3.0,West,1875,
+1876,Boston Red Caps,39,31,0.557,12.0,East,1876,
+1876,Louisville Grays,30,36,0.455,19.0,West,1876,
+1876,New York Mutuals,21,35,0.375,25.0,East,1871,
+1876,Philadelphia Athletics,14,45,0.237,33.0,West,1871,
+1876,Cincinnati Reds,9,56,0.138,45.0,West,1876,
+1906,Chicago Cubs,116,36,0.763,0.0,West,1876,Best single-season NL record ever
+1906,New York Giants,96,56,0.632,18.5,East,1883,
+1906,Pittsburgh Pirates,93,60,0.608,20.0,Central,1882,
+1906,Philadelphia Phillies,71,82,0.464,42.0,East,1883,
+1906,Brooklyn Superbas,66,86,0.434,47.0,East,1883,
+1906,Cincinnati Reds,64,87,0.424,53.0,Central,1876,
+1906,St. Louis Cardinals,52,98,0.347,67.0,Central,1882,
+1906,Boston Beaneaters,49,102,0.325,72.0,East,1871,
+1908,Chicago Cubs,99,55,0.643,0.0,West,1876,World Series champions
+1908,New York Giants,98,56,0.636,1.0,East,1883,
+1908,Pittsburgh Pirates,98,56,0.636,1.0,Central,1882,
+1908,Philadelphia Phillies,83,71,0.539,24.0,East,1883,
+1908,Cincinnati Reds,73,81,0.474,34.0,Central,1876,
+1908,Boston Doves,63,91,0.409,44.0,East,1876,
+1908,Brooklyn Superbas,53,101,0.342,54.0,East,1883,
+1908,St. Louis Cardinals,49,105,0.316,58.0,Central,1882,
+1912,New York Giants,103,48,0.682,0.0,East,1883,League champion
+1912,Brooklyn Trolley Dodgers,75,76,0.497,28.0,East,1883,
+1912,Pittsburgh Pirates,93,76,0.551,0.0,Central,1882,
+1912,Philadelphia Phillies,73,96,0.432,34.0,East,1883,
+1912,St. Louis Cardinals,63,86,0.423,41.0,Central,1882,
+1912,Cincinnati Reds,75,78,0.490,33.0,Central,1876,
+1912,Boston Braves,52,101,0.338,58.0,East,1871,
+1912,Chicago Cubs,91,59,0.605,0.0,West,1876,
+1916,Brooklyn Robins,94,60,0.610,0.0,East,1883,Pennant winner
+1916,NL average,25,25,0.500,—,
+1919,Cincinnati Reds,96,44,0.686,0.0,Central,1876,NL pennant; World Series champion
+1919,New York Giants,87,53,0.621,9.0,East,1883,
+1919,Chicago Cubs,75,65,0.536,21.0,West,1876,
+1919,St. Louis Cardinals,54,86,0.386,42.0,Central,1882,
+1919,Brooklyn Robins,52,88,0.371,44.0,East,1883,
+1919,Boston Red Sox,66,71,0.482,43.5,East,1871,
+1919,Pittsburgh Pirates,48,71,0.403,47.0,Central,1882,
+1919,Philadelphia Phillies,47,72,0.395,48.0,East,1883,
+1926,St. Louis Cardinals,89,65,0.578,0.0,Central,1882,Pennant winner & World Series champion
+1926,Chicago Cubs,82,72,0.532,7.0,West,1876,
+1926,Cincinnati Reds,87,67,0.566,2.0,Central,1876,
+1926,New York Giants,74,80,0.481,20.0,East,1883,
+1926,Pittsburgh Pirates,84,69,0.549,0.0,Central,1882,
+1926,Philadelphia Phillies,58,85,0.406,36.0,East,1883,
+1926,Brooklyn Robins,71,82,0.464,31.0,East,1883,
+1926,Boston Braves,43,97,0.307,45.0,East,1871,
+1930,St. Louis Cardinals,92,62,0.597,0.0,Central,1882,Pennant winner
+1930,Chicago Cubs,90,64,0.584,2.0,West,1876,
+1930,Pittsburgh Pirates,80,74,0.519,13.0,Central,1882,
+1930,Brooklyn Robins,76,78,0.494,17.0,East,1883,
+1930,New York Giants,87,67,0.565,0.0,East,1883,
+1930,Boston Braves,82,72,0.532,4.0,East,1876,
+1930,Cincinnati Reds,78,76,0.506,8.0,Central,1876,
+1930,Philadelphia Phillies,52,102,0.338,44.0,East,1883,
+1937,Chicago Cubs,93,61,0.604,0.0,West,1876,Pennant winner
+1937,New York Giants,95,57,0.625,0.0,East,1883,
+1937,Pittsburgh Pirates,86,68,0.558,12.0,Central,1882,
+1937,St. Louis Cardinals,81,73,0.526,17.0,Central,1882,
+1937,Boston Bees,79,73,0.520,18.0,East,1876,
+1937,Brooklyn Dodgers,62,91,0.405,35.0,East,1883,
+1937,Cincinnati Reds,56,98,0.364,44.0,Central,1876,
+1937,Philadelphia Phillies,61,92,0.399,33.0,East,1883,
+1951,New York Giants,98,59,0.624,0.0,East,1883,Pennant winner (famous Bobby Thomson shot)
+1951,Boston Braves,76,78,0.494,21.5,East,1871,
+1951,Brooklyn Dodgers,76,77,0.497,21.0,East,1883,
+1951,St. Louis Cardinals,81,73,0.526,16.0,Central,1882,
+1951,Pittsburgh Pirates,64,90,0.416,33.0,Central,1882,
+1951,Cincinnati Reds,68,86,0.442,37.0,Central,1876,
+1951,Philadelphia Phillies,73,81,0.474,2.0,East,1883,
+1954,New York Giants,97,57,0.630,0.0,East,1883,Pennant winner & World Series champion
+1954,Brooklyn Dodgers,92,62,0.597,5.0,East,1883,
+1954,Milwaukee Braves,89,65,0.578,10.0,Central,1876,
+1954,Pittsburgh Pirates,53,101,0.344,49.0,Central,1882,
+1954,Cincinnati Redlegs,74,80,0.481,34.0,Central,1876,
+1954,Philadelphia Phillies,75,79,0.487,40.0,East,1883,
+1954,St. Louis Cardinals,72,82,0.468,39.0,Central,1882,
+1955,Brooklyn Dodgers,98,55,0.641,0.0,East,1883,Pennant winner & World Series champion (first Brooklyn title)
+1955,Milwaukee Braves,85,69,0.552,15.5,Central,1876,
+1955,New York Giants,80,74,0.519,20.5,East,1883,
+1955,Pittsburgh Pirates,60,94,0.390,44.5,Central,1882,
+1955,Cincinnati Redlegs,75,79,0.487,2.0,Central,1876,
+1955,Philadelphia Phillies,77,77,0.500,0.0,East,1883,
+1955,St. Louis Cardinals,41,111,0.269,53.5,Central,1882,
+1969,New York Mets,100,62,0.617,0.0,East,1862,Miracle Mets; NL pennant & World Series champion
+1969,Chicago Cubs,92,70,0.568,8.0,Central,1876,
+1969,Pittsburgh Pirates,88,74,0.543,13.0,Central,1882,
+1969,St. Louis Cardinals,87,75,0.537,14.0,Central,1882,
+1969,Philadelphia Phillies,63,99,0.389,38.0,East,1883,
+1969,Montreal Expos,52,110,0.321,49.0,East,1969,
+1969,Atlanta Braves,93,69,0.574,0.0,West,1876,First season in West division
+1969,San Francisco Giants,90,72,0.556,3.0,West,1883,
+1969,Cincinnati Reds,89,73,0.550,8.0,Central,1876,
+1969,Los Angeles Dodgers,85,77,0.525,10.0,West,1883,
+1969,Houston Astros,81,81,0.500,13.0,Central,1862,
+1969,San Diego Padres,52,110,0.321,42.0,West,1969,
+1975,Cincinnati Reds,108,54,0.667,0.0,Central,1876,Big Red Machine; NL pennant & World Series champion
+1975,Los Angeles Dodgers,88,74,0.543,16.5,West,1883,
+1975,San Francisco Giants,80,81,0.497,24.0,West,1883,
+1975,Pittsburgh Pirates,92,59,0.609,0.0,Central,1882,Pennant winner
+1975,Montreal Expos,75,87,0.463,33.0,East,1969,
+1975,Chicago Cubs,75,87,0.463,30.0,Central,1876,
+1975,St. Louis Cardinals,82,80,0.506,27.5,Central,1882,
+1975,New York Mets,82,80,0.506,24.0,East,1862,
+1975,Philadelphia Phillies,86,76,0.531,21.5,East,1883,
+1975,Atlanta Braves,67,94,0.416,36.0,West,1876,
+1975,Houston Astros,64,97,0.398,39.0,Central,1862,
+1976,Cincinnati Reds,102,60,0.630,0.0,Central,1876,First division title; NL pennant
+1976,Los Angeles Dodgers,92,70,0.568,10.0,West,1883,
+1976,Philadelphia Phillies,101,61,0.623,1.0,East,1883,
+1976,Pittsburgh Pirates,92,70,0.568,10.0,Central,1882,
+1976,New York Mets,86,76,0.531,11.0,East,1862,
+1976,St. Louis Cardinals,72,90,0.444,25.0,Central,1882,
+1976,Chicago Cubs,75,87,0.463,22.0,Central,1876,
+1976,San Francisco Giants,74,88,0.457,27.0,West,1883,
+1976,Montreal Expos,55,107,0.340,44.0,East,1969,
+1976,Atlanta Braves,70,92,0.432,36.0,West,1876,
+1976,Houston Astros,80,82,0.494,30.5,Central,1862,
+1986,New York Mets,108,54,0.667,0.0,East,1862,Pennant winner & World Series champion
+1986,Philadelphia Phillies,86,75,0.531,24.5,East,1883,
+1986,St. Louis Cardinals,79,82,0.491,31.5,Central,1882,
+1986,Montreal Expos,78,83,0.484,31.5,East,1969,
+1986,Chicago Cubs,70,90,0.438,42.0,Central,1876,
+1986,Pittsburgh Pirates,64,98,0.395,49.0,Central,1882,
+1986,Houston Astros,96,66,0.593,0.0,West,1862,Pennant winner
+1986,Cincinnati Reds,86,76,0.531,16.0,Central,1876,
+1986,San Francisco Giants,83,79,0.512,21.0,West,1883,
+1986,San Diego Padres,74,88,0.457,30.0,West,1969,
+1986,Los Angeles Dodgers,73,89,0.451,31.0,West,1883,
+1986,Atlanta Braves,72,89,0.447,31.5,West,1876,
+1995,Atlanta Braves,90,54,0.625,0.0,East,1876,Pennant winner; 14-division-title streak begins
+1995,Cincinnati Reds,85,59,0.590,4.0,Central,1876,NL pennant
+1995,Colorado Rockies,77,67,0.535,12.0,West,1993,
+1995,Los Angeles Dodgers,78,66,0.542,10.0,West,1883,
+1995,San Diego Padres,70,74,0.486,18.0,West,1969,
+1995,San Francisco Giants,67,77,0.465,21.0,West,1883,
+1995,Chicago Cubs,73,71,0.507,14.0,Central,1876,
+1995,St. Louis Cardinals,62,81,0.434,23.5,Central,1882,
+1995,Pittsburgh Pirates,58,86,0.403,28.0,Central,1882,
+1995,Philadelphia Phillies,69,75,0.479,13.0,East,1883,
+1995,Florida Marlins,67,76,0.469,14.5,East,1993,
+1995,Montreal Expos,66,78,0.458,16.0,East,1969,
+1995,New York Mets,69,75,0.479,12.0,East,1862,
+2012,San Francisco Giants,94,68,0.580,0.0,West,1883,Pennant winner & World Series champion
+2012,Los Angeles Dodgers,86,76,0.531,8.0,West,1883,
+2012,Arizona Diamondbacks,81,81,0.500,13.0,West,1998,
+2012,San Diego Padres,76,86,0.469,18.0,West,1969,
+2012,Colorado Rockies,64,98,0.395,30.0,West,1993,
+2012,Cincinnati Reds,97,65,0.599,0.0,Central,1876 First division title since 2010
+2012,St. Louis Cardinals,88,74,0.543,2.0,Central,1882,
+2012,Milwaukee Brewers,83,79,0.512,7.0,Central,1970,
+2012,Pittsburgh Pirates,79,83,0.488,11.0,Central,1882,
+2012,Chicago Cubs,61,101,0.377,20.0,Central,1876,
+2012,Houston Astros,55,107,0.340,36.0,Central,1862,
+2012,Washington Nationals,98,64,0.605,0.0,East,1969,Pennant winner
+2012,Atlanta Braves,94,68,0.580,5.0,East,1876,
+2012,Philadelphia Phillies,81,81,0.500,14.0,East,1883,
+2012,New York Mets,74,88,0.457,21.0,East,1862,
+2012,Miami Marlins,69,93,0.426,26.0,East,1993,
+2016,Chicago Cubs,103,58,0.640,0.0,Central,1876,Pennant winner & World Series champion (ended 108-year drought)
+2016,St. Louis Cardinals,86,76,0.531,15.5,Central,1882,
+2016,Pittsburgh Pirates,78,83,0.484,23.0,Central,1882,
+2016,Milwaukee Brewers,73,89,0.451,28.5,Central,1970,
+2016,Cincinnati Reds,68,94,0.420,33.5,Central,1876,
+2016,Washington Nationals,95,67,0.586,0.0,East,1969,Pennant winner
+2016,New York Mets,87,75,0.537,10.0,East,1862,
+2016,Miami Marlins,79,82,0.491,18.5,East,1993,
+2016,Atlanta Braves,68,93,0.423,27.0,East,1876,
+2016,Philadelphia Phillies,71,91,0.438,24.5,East,1883,
+2016,Los Angeles Dodgers,91,71,0.562,0.0,West,1883
+2021,Atlanta Braves,88,73,0.547,0.0,East,1876,Pennant winner & World Series champion
+2021,Los Angeles Dodgers,106,56,0.654,15.5,West,1883
+2021,San Francisco Giants,107,55,0.661,5.0,West,1883
+2021,San Diego Padres,79,83,0.488,40.0,West,1969
+2021,Arizona Diamondbacks,52,110,0.321,78.0,West,1998
+2021,Colorado Rockies,74,87,0.460,31.0,West,1993
+2021,Cincinnati Reds,83,79,0.512,3.0,Central,1876
+2021,Milwaukee Brewers,95,67,0.586,0.0,Central,1970
+2021,Chicago Cubs,71,91,0.438,34.0,Central,1876
+2021,Pittsburgh Pirates,61,101,0.377,44.0,Central,1882
+2021,St. Louis Cardinals,72,90,0.444,35.0,Central,1882
+2021,Philadelphia Phillies,82,80,0.506,3.0,East,1883
+2021,New York Mets,77,85,0.475,2.0,East,1862
+2021,Brooklyn Dodgers (historical),—,—,—,—,East,Civil era,Historic franchise reference
+2025,Milwaukee Brewers,97,65,0.599,0.0,Central,1970,Central division champion
+2025,Chicago Cubs,92,70,0.568,11.0,Central,1876,
+2025,Cincinnati Reds,83,79,0.512,22.0,Central,1876,
+2025,St. Louis Cardinals,78,84,0.481,27.0,Central,1882,
+2025,Pittsburgh Pirates,71,91,0.435,34.0,Central,1882,
+2025,Philadelphia Phillies,96,66,0.593,0.0,East,1883,East division champion
+2025,New York Mets,83,79,0.512,21.0,East,1862,
+2025,Miami Marlins,79,83,0.488,25.0,East,1993,
+2025,Atlanta Braves,76,86,0.469,29.0,East,1876,
+2025,Washington Nationals,66,96,0.407,39.0,East,1969,
+2025,Los Angeles Dodgers,93,69,0.574,0.0,West,1883,West division champion
+2025,San Diego Padres,90,72,0.556,6.0,West,1969,
+2025,San Francisco Giants,81,81,0.500,15.0,West,1883,
+2025,Arizona Diamondbacks,80,82,0.494,16.5,West,1998,
+2025,Colorado Rockies,43,119,0.265,70.0,West,1993,
