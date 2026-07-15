@@ -6,7 +6,7 @@ Comprehensive research project compiling historical **National League (NL)** tea
 
 The National League is baseball's oldest professional league, founded on **February 2, 1876** as the first fully professional baseball organization to survive to the present day — replacing the National Association. This repository serves as a centralized research hub for all NL franchise records, head-to-head performance matrices, era-specific trends, and win-loss analysis.
 
----
+All data is through the end of the **2025 MLB season**.
 
 ## 🏆 All-Time NL Franchise Records (through 2025 season)
 
@@ -28,13 +28,23 @@ The National League is baseball's oldest professional league, founded on **Febru
 | Colorado Rockies | 1993 | West | 4,760 | 2,403 | 2,357 | .505 | 0 | 0 |
 | Arizona Diamondbacks | 1998 | West | 4,160 | 2,216 | 1,944 | .532 | 1 | 1 |
 
----
+### Key Takeaways from All-Time Records
+- **Most all-time NL wins**: San Francisco Giants (11,663)
+- **Most all-time NL losses**: Philadelphia Phillies (11,865)
+- **Most pennants**: LA Dodgers (26)
+- **Most WS titles (NL)**: St. Louis Cardinals (11)
+- **Highest win% (active franchise)**: Miami Marlins (.569) among post-1960s franchises
+- **Oldest continuous franchise**: Chicago Cubs (1876–present)
+- **Youngest active franchise**: Arizona Diamondbacks (1998–present)
 
 ## 📂 Repository Structure
 
 ```
 nl-team-trends/
 ├── README.md                              ← Research overview & key findings (this file)
+├── requirements.txt                       ← Python dependencies
+├── scripts/
+│   └── analyze_nl.py                      ← Analysis & visualization script
 ├── data/
 │   ├── nl_all_time_records.csv            ← All-time franchise win-loss totals by team
 │   ├── nl_historical_performance.csv      ← Multi-era season-by-season data (1876–2025)
@@ -42,15 +52,19 @@ nl-team-trends/
 │   ├── nl_recent_standings.csv            ← Full standings 2020–2025
 │   ├── nl_championship_trends.csv         ← Championship highlights organized by era
 │   ├── nl_notable_records.csv             ← Notable single-season and franchise records
-│   └── source_references.md               ← Detailed source attribution
+│   ├── nl_head_to_head.csv                ← Team-vs-team matchup matrix (college-game format)
+│   └── nl_era_comparison.csv              ← Era-by-era comparison metrics
 ├── docs/
 │   └── data_notes.md                      ← Methodology, conventions & caveats
 ├── visualizations/
-│   └── README.md                          ← Visualization roadmap & tools
-└── notebooks/                              ← (planned) analysis Jupyter notebooks
+│   ├── README.md                          ← Visualization roadmap & tools
+│   ├── visualization_roadmap.md           ← Detailed visualization planning
+│   └── output/                            ← Generated charts (populated by scripts)
+├── notebooks/                             ← (planned) analysis Jupyter notebooks
+├── source_references.md                   ← Detailed source attribution
+├── .gitignore
+└── LICENSE (MIT)
 ```
-
----
 
 ## 📊 Notable NL Championships by Era
 
@@ -65,8 +79,6 @@ nl-team-trends/
 | 2006–2016 | Cardinals, Giants, Phillies, Cubs | Resurgence cycle; Cubs end drought 2016 |
 | 2017–present | Dodgers | Dodgers dynasty; 8 straight NL West |
 
----
-
 ## 🏅 Notable Single-Season & Franchise Records
 
 | Record | Team/Detail | Value |
@@ -79,8 +91,9 @@ nl-team-trends/
 | Most consecutive division titles | Atlanta Braves | 14 (1991-2005) |
 | Most all-time NL wins | San Francisco Giants | 11,663 |
 | Most all-time NL losses | Philadelphia Phillies | 11,865 |
-
----
+| Longest championship drought | Chicago Cubs | 108 years (1908-2016) |
+| Highest modern win% (162-game) | 2022 LA Dodgers | .685 (111-51) |
+| Most pennants without WS title | Padres/Dodgers/etc. | Various |
 
 ## 📅 NL Historical Timeline
 
@@ -97,8 +110,6 @@ nl-team-trends/
 | Milwaukee Brewers move | 1998 | Switch from AL to NL Central |
 | Nats relocation | 2005 | Montreal Expos → Washington Nationals |
 
----
-
 ## 🔍 Key Research Sources
 
 | Source | Description | Coverage |
@@ -110,51 +121,66 @@ nl-team-trends/
 | [StatsCrew](https://www.statscrew.com/baseball/l-NL) | NL rosters, standings & leaders | 1876–present |
 | [StatMuse](https://www.statmuse.com/mlb/ask/most-national-league-titles) | NL championship leaders & franchise stats | 1876–2026 |
 | [OpenIntro MLB Dataset](https://www.openintro.org/data/index.php?data=mlb_teams) | ML-ready MLB team data | Multi-year |
-| [Linger and Look](https://www.lingerandlook.com/Names/BaseballStandings.php) | Year-by-year MLB standings | 1901–present |
-| [Her Sports Corner](https://hersportscorner.com/3374-2/) | NL divisional all-time records | 1876–2015 |
-
----
 
 ## 📈 Visualization Roadmap
 
-- [ ] Win-loss trend lines per franchise (1876–2025)
-- [ ] Pennant/win-heatmap by era
-- [ ] Head-to-head matchup matrix heatmap (Baseball Almanac data)
-- [ ] Championship drought duration chart
-- [ ] Win% distribution by decade
-- [ ] Divisional shift tracker (Braves: NL West→Central→East)
+- [ ] Win-loss trend lines per franchise (1876–2025) — run `scripts/analyze_nl.py --trend`
+- [ ] Pennant/win heatmap by era
+- [ ] Head-to-head matchup matrix heatmap (included in head-to-head CSV)
+- [ ] Championship drought duration chart — run `scripts/analyze_nl.py --drought`
+- [ ] Win% distribution by decade (box plot)
+- [ ] Era comparison bar chart — run `scripts/analyze_nl.py --era`
+- [ ] Pennant winners timeline — run `scripts/analyze_nl.py --pennant`
+- [ ] Notable records chart — run `scripts/analyze_nl.py --records`
 - [ ] Interactive dashboard (Plotly / Streamlit)
-- [ ] Pennant race projections based on historical patterns
-
----
 
 ## 🛠 Methods & Conventions
 
 - Win% = Wins / Games Played
 - Pennants = League championship awards (pre-Wild Card era)
-- WS Titles = World Series championships won as NL team
+- WS Titles = World Series championships won as an NL team
 - All data through end of 2025 MLB season
 - Pre-1961 seasons use 154-game schedule; 1961+ uses 162-game schedule
 - Shortened seasons (e.g., 2020: 60 games) are noted as special cases
-- Franchise histories include pre-relocation totals (e.g., Brooklyn/LA Dodgers, Milwaukee's AL years)
-- 2025 NL Standings: Phils (East), Brewers (Central), Dodgers (West); Dodgers won WS back-to-back
+- Franchise continuity: relocated teams (NY→LA Dodgers, NY→SF Giants, Montreal→Washington) are combined under current franchise name
+- Win% is not directly comparable across 154-game and 162-game eras for cumulative records
 
----
+## 📥 Quick Start
 
-## 📝 Key Findings & Trends
+```bash
+# Clone the repo
+git clone https://github.com/zhub9006/nl-team-trends.git
+cd nl-team-trends
 
-### 1. The Giants hold the all-time NL win record (11,663), despite not being the most successful in championships (8 WS titles)
-### 2. The Cardinals lead in championships (11) — more than any other NL or MLB team
-### 3. The Dodgers have the most pennants (26) — reflecting sustained division dominance plus 8 titles
-### 4. The Braves' 14-division-title streak (1991-2005) is the longest in North American pro sports
-### 5. The Dodgers' 8 straight NL West titles (2018-2025) represents a modern dynasty
-### 6. The Phillies have the most all-time losses (11,865) — reflecting their long history of losing
-### 7. The 1906 Cubs (.763) hold the best winning % in NL history; the 2022 Dodgers (111-51) won the most games in the 162-game era
-### 8. The Marlins (.569 win%) have the highest win% of any franchise with fewer than 5,000 games — a small-sample anomaly
-### 9. The 1994 season was voided by the players' strike — no pennant or WS was awarded
-### 10. The NL expanded dramatically from 8 teams (1876) → 12 (1969) → 14 (1993) → 15 (1998) → 16 (2025 pending)
+# Install dependencies
+pip install -r requirements.txt
 
----
+# Run all visualizations
+python scripts/analyze_nl.py
+
+# Or run specific visualizations
+python scripts/analyze_nl.py --trend    # Win-loss trends
+python scripts/analyze_nl.py --era      # Era comparison
+python scripts/analyze_nl.py --h2h      # Head-to-head
+python scripts/analyze_nl.py --drought  # Championship droughts
+python scripts/analyze_nl.py --pennant  # Pennant timeline
+python scripts/analyze_nl.py --records  # Notable records
+
+# Output charts will be saved to visualizations/output/
+```
+
+## 📖 Data Files Summary
+
+| File | Description | Rows |
+|------|-------------|------|
+| `data/nl_all_time_records.csv` | Franchise-level all-time W-L records | 15 teams |
+| `data/nl_historical_performance.csv` | Season-by-season NL champions & highlights | ~150 rows (selected seasons) |
+| `data/nl_pennant_winners_recent.csv` | NL pennant winners 1995–2025 | 31 rows |
+| `data/nl_recent_standings.csv` | Division champions & WS outcomes 2020–2025 | 6 rows |
+| `data/nl_championship_trends.csv` | Championship highlights organized by era | 8 rows |
+| `data/nl_notable_records.csv` | Notable single-season and franchise records | 15 records |
+| `data/nl_head_to_head.csv` | Team-vs-team matchup matrix | 15×15 matrix |
+| `data/nl_era_comparison.csv` | Era-by-era comparison metrics | 8 eras |
 
 ## License
 
