@@ -1,51 +1,60 @@
-# Data Notes & Methodology
+# Data Notes: Methodology, Conventions & Caveats
 
-## Overview
+## Birth & Evolution of the National League
+- Founded: February 2, 1876 as replacement for the National Association (1871-1875)
+- Original 8 teams: Chicago White Stockings, Boston Red Stockings, Hartford Dark Blues, Mutuals of New York, Philadelphia Athletics, St. Louis Brown Stockings, Cincinnati Red Stockings, Louisville Grays
+- 2026: The NL will celebrate its 150th anniversary
 
-This document explains the conventions, methodologies, and caveats for all datasets in the `data/` directory.
+## Data Conventions & Definitions
+### Win-Loss Records
+- Shown as Wins-Losses (e.g., 93-69)
+- Win% = Wins / Games Played
+- Pre-1961: 154-game schedule; 1961+: 162-game schedule; 2020: 60-game season (COVID)
 
-## Key Conventions
+### Pennants
+- Pre-1969: Awarded to best regular-season record
+- 1969+: LCS determines pennant winner
+- 1994: Season voided by players' strike
+- Warren C. Giles Trophy awarded to NL pennant winners
 
-| Convention | Description |
-|------------|-------------|
-| Win% | Wins / Games Played |
-| Pennants | League championship awards (pre-Wild Card era, typically best record) |
-| WS Titles | World Series championships won while representing the NL |
-| All-time records | Through end of 2025 MLB season |
-| Franchise continuity | Relocated teams (NY→LA Dodgers, NY→SF Giants, Montreal→Washington) are combined under current franchise name |
+### World Series Titles
+- Counts only WS titles won as an NL team
+- Franchise histories merged: Brooklyn + LA Dodgers; Seattle Pilots + Milwaukee Brewers
 
-## Era Boundaries
+## Era Definitions
+| Era | Period | Defining Characteristic |
+|-----|--------|------------------------|
+| Founding Era | 1876-1892 | 8 teams; first professional organization |
+| Dead Ball Era | 1893-1919 | Low-scoring; record-setting wins |
+| Power Transition Era | 1920-1950 | Cardinals emerge; franchise migrations |
+| Relocation Era | 1951-1969 | Dodgers/Giants move West; Miracle Mets |
+| Parity Era | 1970-1989 | Big Red Machine; competitive balance |
+| Braves Dynasty Era | 1990-2005 | Atlanta's 14-division streak |
+| Resurgence Cycle | 2006-2016 | Cubs end 108-year drought |
+| Dodgers Dynasty Era | 2017-2025 | Dodgers dominant; back-to-back WS |
 
-Eras are delineated by major structural changes:
+## Historical Anomalies
+- 1994: Season voided by players' strike; Expos had best record at cancellation
+- 2020: 60-game season (COVID-19)
+- 1981: Split season due to midseason strike
 
-| Boundary | Change |
-|----------|--------|
-| 1876 | NL founding (8 original teams) |
-| 1892 | First 154-game season; schedule standardization |
-| 1903 | First World Series (NL vs AL) |
-| 1961 | 162-game schedule adopted |
-| 1969 | Divisions created (E/W); LCS introduced |
-| 1994 | 3 divisions + Wild Card playoff format |
-| 1997 | Interleague play begins |
-| 2023 | Full interleague schedule (every team plays every other) |
+## Key Statistical Insights
+- Most all-time NL wins: SF Giants (11,663)
+- Most all-time NL losses: Philadelphia Phillies (11,865)
+- Most WS titles: St. Louis Cardinals (11)
+- Most pennants: LA Dodgers (26)
+- Longest drought: Chicago Cubs (108 years, 1908-2016)
 
-## Historical Notes
+## Conventions for Future Additions
+- Always cite source year (data through 2025 season)
+- Use W-L format for records
+- Separate historical/combined franchise records from single-location
+- Mark interleague-scheduled seasons separately
+- Flag 2020 COVID season as 60-game anomaly
 
-- **Pre-1961 seasons**: 154-game schedule means win totals and percentages are not directly comparable with the modern 162-game era.
-- **Shortened seasons**: 2020 was a 60-game season due to COVID-19. Records are noted as special cases.
-- **Milwaukee Brewers**: Switched from AL to NL Central in 1998. NL data from 1998 onward includes them.
-- **Washington Nationals**: Continental franchise began as Montreal Expos in 1969; relocated to DC in 2005.
-- **Early NL (1876–1892)**: 8-team league with no divisions. Some box scores from this era are incomplete in certain sources.
-
-## Data Gap Warnings
-
-- **1876–1892**: Some early-season records have gaps; the Lahman Database is the most comprehensive source for this period.
-- **Pre-1903**: No World Series existed; "pennants" = best regular-season record.
-- **1994 strike**: Season was cut short; no pennant was awarded that year.
-
-## Chart Intent
-
-For visualizations, consider these transformations:
-- Win% trends: Calculate rolling 5-year or 10-year averages for smoother trend lines.
-- Head-to-head matrices: Normalize by total games played between each pair to get matchup percentages.
-- Era comparison: Use 162-game adjusted win totals for any era comparison from 1961 onward.
+## Calculation Methods
+- Win% = Wins / (Wins + Losses); ties eliminated by 1920s
+- Pennants count NL championship awards only
+- Playoff appearances include all postseason series
+- Consecutive division titles counted only when consecutive
+- All-time records include all franchise NL competition games
