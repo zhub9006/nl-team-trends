@@ -6,11 +6,11 @@
 |--------|-----|----------|-------|
 | **Baseball Almanac** | baseball-almanac.com/teams/teamvsteam-nl | 1876–2026 | Team-vs-team W-L matrices updated daily |
 | **Baseball Reference** | baseball-reference.com/leagues/NL | 1876–present | Season-by-season standings, leaders & stats |
-| **Baseball Data Hub** | baseballdatahub.com/seasons | 1871–2026 | 156 MLB seasons with full stats |
-| **Grokipedia** | grokipedia.com | 1876–2025 | All-time franchise W-L records, verified 2025 season |
+| **Baseball Data Hub** | baseballdatahub.com/seasons | 1871–2026 | 156 MLB seasons with full stats <br>*(Sampled: 1876, 1900, 1920, 1930, 1940, 1950, 1960, 1970, 1980, 1990, 2000, 2010, 2015, 2020)* |
 | **SABR Lahman DB** | sabr.org/lahman-database | 1871–2025 | Complete historical team, batting, pitching stats |
 | **StatsCrew** | statscrew.com/baseball/l-NL | 1876–present | NL rosters, standings & statistical leaders |
 | **Everything Explained** | everything.explained.today | 1876–2025 | Franchise records, postseason analysis |
+| **Wikipedia** | wikipedia.org | 1876–present | Pennant winners, franchise histories, all-time records |
 
 ## National League Historical Context
 
@@ -48,22 +48,14 @@
 ## Known Data Quality Issues
 
 1. **Pre-1900 records** may contain inconsistencies from variable scheduling and incomplete logs
-2. **Tie games** more frequent pre-1920; inconsistent early census
-3. **Houston Astros**: Only 1962–2012 in NL; after 2012 in AL West
-4. **1904**: No World Series played (Giants boycott)
-5. **1876**: 2 of 8 original franchises folded mid-season
-6. **Negro Leagues (1876–1948)**: SABR Lahman includes some stats but NL standard records treat as separate era
+2. **Dead-ball era stats** (pre-1920) may not be directly comparable to modern seasons due to different ball construction
+3. **Shortened seasons** (1994, 2020) require careful normalization for cross-era analysis
+4. **1876–1882 seasons** used unbalanced schedules (40–80 games), making W-L percentages unreliable for cross-era comparison
 
-## Visualization Roadmap
+## Recommended Analysis Approaches
 
-| Plot | Description | Status |
-|------|-------------|--------|
-| Franchise Win Trajectory by Era | Dead Ball → Live Ball → Islanders → Modern | Planned |
-| Pennant Frequency Heatmaps | 5-yr rolling dominance illustrated | Planned |
-| Win% Distribution by Division | Competitive balance over time | Planned |
-| Run Differential Correlation | Rdiff vs pennant across eras | Planned |
-| Expansion Adjustment Curves | New franchise ramp-up shows | Planned |
-| H2H Matrix Heatmap | Cross-franchise win-loss network | Planned |
-
-## Contributing
-Corrections and additions welcome! Always cite the primary SABR/Lahman source when adding new data.
+- Use **ERA-adjusted win percentage** for cross-era comparisons
+- Normalize by **games played** for pre-1962 data
+- Apply **Elo ratings** for ordinal team strength across eras
+- Segment analysis by **era** (Dead Ball → Live Ball → Expansion → Modern)
+- Account for **division alignment changes** when analyzing competitive balance
