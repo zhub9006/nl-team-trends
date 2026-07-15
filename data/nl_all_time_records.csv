@@ -1,16 +1,1 @@
-franchise,first_season,division,games,wins,losses,win_percentage,pennants,ws_titles,notable_years
-San Francisco Giants,1883,West,21722,11663,10059,0.535,23,8,"1905 WS, 1921 WS, 1922 WS, 1933 WS, 1954 WS, 2010 WS, 2012 WS, 2014 WS"
-Los Angeles Dodgers,1884,West,21722,11586,10136,0.531,26,8,"1955 WS, 1959 WS, 1963 WS, 1965 WS, 1981 WS, 2020 WS, 2024 WS, 2025 WS"
-St. Louis Cardinals,1882,Central,22486,11413,11073,0.509,19,11,"1926 WS, 1931 WS, 1934 WS, 1942 WS, 1944 WS, 1946 WS, 1964 WS, 1967 WS, 1982 WS, 2006 WS, 2011 WS"
-Chicago Cubs,1876,Central,22222,11474,10748,0.516,17,3,"1907 WS, 1908 WS, 2016 WS"
-Cincinnati Reds,1882,Central,22222,11060,11162,0.498,10,5,"1919 WS, 1940 WS, 1975 WS, 1976 WS, 1990 WS"
-Atlanta Braves,1876,East,22070,11245,10825,0.504,18,4,"1914 WS, 1957 WS, 1995 WS, 2021 WS"
-Pittsburgh Pirates,1882,Central,21820,10959,10861,0.501,9,5,"1903 WS, 1909 WS, 1925 WS, 1960 WS, 1971 WS"
-Philadelphia Phillies,1883,East,22222,10357,11865,0.466,8,2,"1980 WS, 2008 WS"
-New York Mets,1962,East,9520,4899,4621,0.514,2,2,"1969 WS, 1986 WS"
-Washington Nationals,1969,East,8230,4379,3851,0.532,0,0,"2019 WS (as Expos), relocated 2005"
-San Diego Padres,1969,West,7980,4265,3715,0.533,0,0,"1984 pennant, 1998 pennant, 2022 pennant"
-Milwaukee Brewers,1969,Central,8920,4464,4456,0.503,0,0,"Moved from AL in 1998"
-Miami Marlins,1993,East,4280,2435,1845,0.569,2,2,"1997 WS, 2003 WS"
-Colorado Rockies,1993,West,4760,2403,2357,0.505,0,0,"2007 pennant"
-Arizona Diamondbacks,1998,West,4160,2216,1944,0.532,1,1,"2001 WS"
+"Team","First_Season","Division","Games_Played","Wins","Losses","WinPct","Pennants","WS_Won","WS_Lost"\n"Atlanta Braves (Boston/Milwaukee)","1876","East/NL West","22070","11245","10825",".504","18","4","3"\n"Chicago Cubs (White Stockings/Colts)","1876","Central","22222","11474","10748",".516","17","3","2"\n"St. Louis Cardinals","1882","Central","22486","11413","11073",".509","19","11","9"\n"Cincinnati Reds","1882","Central","22222","11060","11162",".498","10","5","4"\n"Pittsburgh Pirates","1882","Central","21820","10959","10861",".501","9","5","3"\n"San Francisco Giants (NY Giants)","1883","West","21722","11663","10059",".535","23","8","7"\n"Philadelphia Phillies","1883","East","22222","10357","11865",".466","8","2","3"\n"Los Angeles Dodgers (Brooklyn/NY)","1884","West","21722","11586","10136",".531","26","8","6"\n"New York Mets","1962","East","9520","4899","4621",".514","2","2","0"\n"San Diego Padres","1969","West","7980","4265","3715",".533","0","0","0"\n"Washington Nationals (Montreal)","1969","East","8230","4379","3851",".532","0","0","0"\n"Milwaukee Brewers (AL/NL)","1969","Central","8920","4464","4456",".503","0","0","0"\n"Miami Marlins/Florida","1993","East","4280","2435","1845",".569","2","2","0"\n"Colorado Rockies","1993","West","4760","2403","2357",".505","0","0","0"\n"Arizona Diamondbacks","1998","West","4160","2216","1944",".532","1","1","0"\n"Houston Astros (NL 2013+)","2013","West","4600","2200","2400",".478","0","0","0"\n
