@@ -1,18 +1,15 @@
-record,team_detail,value,season/year
-Best NL winning percentage,1906 Chicago Cubs,0.763 (116-36),1906
-Best 162-game NL record,2022 LA Dodgers,0.685 (111-51),2022
-Best shortened NL record,2020 LA Dodgers,0.717 (43-17),2020
-Most NL pennants,LA Dodgers,26 (through 2025),Through 2025
-Most WS titles (NL),St. Louis Cardinals,11,Through 2025
+record,team,details,year
+Best NL winning percentage,Chicago Cubs,.763 (116-37),1906
+Best 162-game NL record,Los Angeles Dodgers,111-51 (.685),2022
+Best shortened NL record,Los Angeles Dodgers,43-17 (.717),2020
+Most NL pennants,Los Angeles Dodgers,26,through 2025
+Most WS titles (NL),St. Louis Cardinals,11,through 2025
 Most consecutive division titles,Atlanta Braves,14 (1991-2005),1991-2005
-Most consecutive pennants,New York Giants,6 (1921-1924 + 1936-1937),1921-1924
-Most all-time NL wins,San Francisco Giants,11663,Through 2025
-Most all-time NL losses,Philadelphia Phillies,11865,Through 2025
-Highest franchise win%,Miami Marlins,0.569,Through 2025
-Lowest franchise win%,Philadelphia Phillies,0.466,Through 2025
+Most all-time NL wins,San Francisco Giants,11663,through 2025
+Most all-time NL losses,Philadelphia Phillies,11865,through 2025
+Most pennants in 20th century,New York/SF Giants,23,through 2025
+Most consecutive pennants,New York Giants,4 (1921-1924),1921-1924
 Longest WS drought,Chicago Cubs,108 years (1908-2016),1908-2016
-Most WS appearances (NL),St. Louis Cardinals,19,Through 2025
-Most 100-win seasons (NL),St. Louis Cardinals / LA Dodgers,5 each (shared),Through 2025
-Most NO-HITTERS in a season,1990 NL (multiple teams),7 no-hitters in one season,1990
-Most consecutive NL Central titles,St. Louis Cardinals,8 (2013-2019),2013-2019
-Most consecutive NL West titles,Los Angeles Dodgers,8 (2018-2025),2018-2025
+Largest pennant margin (W),Chicago Cubs,21 games (over Giants),1906
+Most 100-win seasons (NL),St. Louis Cardinals,15,through 2025
+Fastest expansion team to win NL,Arizona Diamondbacks,2 seasons (1998 title),1998
