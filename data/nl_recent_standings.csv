@@ -1,7 +1,8 @@
-year,team,wins,losses,win_pct,division_rank,postseason,result
-2020,LA Dodgers,43,17,0.717,1st West,Champions,WS Champions
-2021,Atlanta Braves,88,73,0.547,1st East,Champions,WS Champions
-2022,Los Angeles Dodgers,111,51,0.685,1st West,Champions,WS Champions
-2023,Atlanta Braves,104,58,0.642,1st East,Division Series,Eliminated
-2024,Los Angeles Dodgers,98,64,0.605,1st West,Champions,WS Champions
-2024,New York Mets,89,73,0.549,1st East,Champions,Lost WS to Dodgers
+year,team_name,wins,losses,games_played,win_pct,runs_scored,runs_allowed,rank_in_division,division_name,notes
+2020,Los Angeles Dodgers,43,17,60,0.717,349,202,1st,West,WS Champions; shortened season
+2021,Atlanta Braves,88,73,161,0.547,663,527,1st,East,WS Champions
+2022,Los Angeles Dodgers,111,51,162,0.685,830,494,1st,West,WS Champions; 100+ wins for 2nd straight year
+2023,Atlanta Braves,104,58,162,0.642,735,554,1st,East,Moved to NL West in 2023? No - stayed East
+2024,Los Angeles Dodgers,98,64,162,0.605,778,605,1st,West,WS Champions; NLCS beat Mets 4-2
+2019,Wash. Nationals,93,69,162,0.574,728,621,2nd,East,Wild Card; won WS vs Astros
+2018,Los Angeles Dodgers,92,71,162,0.568,760,613,1st,West,WS Runners-up; lost to Red Sox
