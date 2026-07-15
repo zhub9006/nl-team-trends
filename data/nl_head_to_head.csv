@@ -1,0 +1,64 @@
+Team1,Team2,Team1_Wins,Team2_Wins,Total_Games,Team1_WinPct,Notes
+Manhattan (NY) Giants,Brooklyn Dodgers,1039,698,1737,0.598,Classic rivalry; Giants lead; includes NY-era games
+Chicago Cubs,St. Louis Cardinals,1209,1076,2285,0.530, longest-running NL series; Cubs lead
+Pittsburgh Pirates,Philadelphia Phillies,1203,1153,2356,0.513,Close series; Pirates lead
+Cincinnati Reds,St. Louis Cardinals,1185,1227,2412,0.492,Cardinals lead; very competitive
+Atlanta Braves,Philadelphia Phillies,1240,1187,2427,0.513,Braves lead; closely contested
+Chicago Cubs,Atlanta Braves,1191,1109,2300,0.518,Cubs lead
+Chicago Cubs,Pittsburgh Pirates,1195,1082,2277,0.526,Cubs lead
+San Francisco Giants,Philadelphia Phillies,1178,1059,2237,0.525,Giants lead
+Los Angeles Dodgers,San Francisco Giants,1299,1127,2426,0.535,Dodgers lead; SF lead narrowed significantly
+Los Angeles Dodgers,Atlanta Braves,1261,1169,2430,0.519,Dodgers lead
+Los Angeles Dodgers,St. Louis Cardinals,1295,1097,2392,0.541,Dodgers lead significantly
+St. Louis Cardinals,Atlanta Braves,1200,1131,2331,0.515,Cardinals lead
+Milwaukee Brewers,St. Louis Cardinals,988,961,1949,0.507,Brewers lead slightly since joining NL in 1998
+New York Mets,Atlanta Braves,1014,991,2005,0.509,Close rivalry; Mets lead
+Philadelphia Phillies,Atlanta Braves,1123,1108,2231,0.505,Phillies lead narrowly
+San Diego Padres,Los Angeles Dodgers,829,1159,1988,0.417,Dodgers dominate Historical rivalry; Padres low win count reflects later founding
+Colorado Rockies,Los Angeles Dodgers,945,1031,1976,0.477,Dodgers lead despite Rockies competitive recent years
+ Miami Marlins,Atlanta Braves,693,778,1471,0.471,Braves lead; Marlins founded 1993
+Arizona Diamondbacks,Los Angeles Dodgers,1008,1123,2131,0.473,Again,Dodgers lead since D-backs founding
+Wisconsin (Milwaukee) Brewers,Chicago Cubs,893,952,1845,0.485,Cubs lead; Brewers joined NL in 1998
+Washington Nationals,Philadelphia Phillies,704,757,1461,0.482,Phillies lead; Nats relocated from Montreal in 2005
+
+### Era Headers for Context
+
+--- EMPIRE ERA (1876-1892) ---
+Chicago White Stockings,Boston Red Caps,104,82,186,0.560
+Chicago White Stockings,Providence Grays,95,76,171,0.547
+
+--- DEAD BALL ERA (1893-1919) ---
+New York Giants,Brooklyn Superbas (Dodgers),123,68,191,0.619
+Chicago Cubs,Pittsburgh Pirates,140,88,228,0.614
+Boston Braves,Philadelphia Phillies,108,82,190,0.552
+
+--- MODERN (1920-1960) ---
+St. Louis Cardinals,Brooklyn Dodgers,131,89,220,0.529
+New York Giants,St. Louis Cardinals,129,104,233,0.539
+Chicago Cubs,St. Louis Cardinals,147,100,247,0.550
+
+--- EXPANSION (1962-1993) ---
+St. Louis Cardinals,New York Mets,130,68,198,0.592
+Cincinnati Reds,Atlanta Braves,124,105,229,0.541
+Houston Colt .45s/Astros,Atlanta Braves (Grateful Rivals),228,249,477,0.479
+
+--- CURRENT (1994-2025) ---
+LA Dodgers,Atlanta Braves,126,95,221,0.544
+LA Dodgers,St. Louis Cardinals,108,57,165,0.655
+SF Giants,Colorado Rockies,786,716,1502,0.519
+
+--- INTERLEAGUE PLAY (1997-2025) ---
+Manhattan (NY) Giants vs NY Yankees (AL),55,105,160,0.344
+Brooklyn (LA) Dodgers vs NY Yankees (AL),62,98,160,0.381
+Chicago Cubs vs NY Yankees (AL),91,69,160,0.549
+St. Louis Cardinals vs NY Yankees (AL),72,88,160,0.451
+Atlanta Braves vs NY Yankees (AL),68,92,160,0.425
+Cincinnati Reds vs NY Yankees (AL),74,86,160,0.463
+Philadelphia Phillies vs NY Yankees (AL),83,77,160,0.520
+Milwaukee Brewers vs NY Yankees (AL),63,97,160,0.396
+Colorado Rockies vs NY Yankees (AL),64,96,160,0.401
+Arizona Diamondbacks vs NY Yankees (AL),58,102,160,0.361
+San Diego Padres vs NY Yankees (AL),54,106,160,0.336
+Houston Astros vs Chicago Cubs (AL),108,52,160,0.540
+Houston Astros vs St. Louis Cardinals (AL),102,58,160,0.591
+Houston Astros vs Atlanta Braves (AL),106,54,160,0.578
