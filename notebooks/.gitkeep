@@ -1,0 +1,12 @@
+# NL Team Trends - Analysis Notebooks
+
+This directory will contain Jupyter notebooks for statistical analysis and visualization of National League team performance data.
+
+## Planned Notebooks
+
+1. `01_all_time_trends.ipynb` - Franchise win-loss trends and win% trajectories
+2. `02_era_analysis.ipynb` - Era-by-era comparison and competitive balance metrics
+3. `03_head_to_head.ipynb` - Inter-team matchup analysis and heatmaps
+4. `04_championship_droughts.ipynb` - Championship drought duration and analysis
+5. `05_predictive_model.ipynb` - Simple predictive models for season outcomes
+6. `06_interactive_dashboard.ipynb` - Streamlit/Dash dashboard prototype

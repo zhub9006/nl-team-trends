@@ -1,0 +1,9 @@
+era,start_year,end_year,games_per_season,num_teams,top_team,top_win_pct,top_wins,ws_champion,avg_win_pct,competitive_balance_note
+Founding Era,1876,1892,70-154,8,Chicago White Stockings / Boston,.763,116,Chicago (7),.615,High variance; dominant teams win 55%+ games
+Dead Ball Era,1893,1919,154,8-10,Chicago Cubs / NY Giants,.763,116,Chicago (7),.555,Balanced league; many teams contend
+Power Transition,1920,1950,154,8-10,St. Louis Cardinals / NY Giants,.622,96,Cardinals (5),.525,Cardinals emerge as NL powerhouse
+Relocation Era,1951,1969,162,10,NY Giants / LA Dodgers,.603,98,Lakers Dodgers / Mets (2),.520,Parity begins; expansion adds 1969
+Expansion Era,1970,1989,162,12,Cincinnati Reds / St. Louis Cardinals,.646,108,Cincinnati (2) / Cardinals (4),.515,Big Red Machine; competitive balance
+Braves Dynasty,1990,2005,162,14-16,Atlanta Braves,.610,103,Braves (1) / Marlins (2) / D-backs (1),.510,Braves 14-division streak; parity peaks
+Resurgence,2006,2016,162,15,St. Louis Cardinals / San Francisco Giants,.646,105,Cardinals (3) / Giants (3) / Cubs (1),.510,Cycle of different champions; Cubs drought ends
+Dodgers Dynasty,2017,2025,162,15,LA Dodgers,.685,111,Dodgers (3) / Astros (2 AL),.530,Dodgers dominance; highest avg win_pct
