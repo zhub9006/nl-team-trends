@@ -1,36 +1,16 @@
-# All-Time National League Franchise Win-Loss Records (1876-2025)
-# Source: StatMuse, Baseball Almanac, Baseball Reference
-# Data through end of 2025 MLB season
-# Win% = Wins / Games Played
-# Note: Franchise includes pre-relocation history (e.g., Brooklyn → LA Dodgers)
-
-team,first_season,division,games,wins,losses,win_pct,pennants,ws_titles,active_since
-San Francisco Giants,1883,West,21722,11663,10059,.535,23,8,1883
-Los Angeles Dodgers,1884,West,21722,11586,10136,.531,26,8,1884
-St. Louis Cardinals,1882,Central,22486,11413,11073,.509,19,11,1882
-Chicago Cubs,1876,Central,22222,11474,10748,.516,17,3,1876
-Cincinnati Reds,1882,Central,22222,11060,11162,.498,10,5,1882
-Atlanta Braves,1876,East,22070,11245,10825,.504,18,4,1876
-Pittsburgh Pirates,1882,Central,21820,10959,10861,.501,9,5,1882
-Philadelphia Phillies,1883,East,22222,10357,11865,.466,8,2,1883
-New York Mets,1962,East,9520,4899,4621,.514,2,2,1962
-Washington Nationals,1969,East,8230,4379,3851,.532,0,0,1969
-San Diego Padres,1969,West,7980,4265,3715,.533,0,0,1969
-Milwaukee Brewers,1969,Central,8920,4464,4456,.503,0,0,1969
-Miami Marlins,1993,East,4280,2435,1845,.569,2,2,1993
-Colorado Rockies,1993,West,4760,2403,2357,.505,0,0,1993
-Arizona Diamondbacks,1998,West,4160,2216,1944,.532,1,1,1998
-
-# Historical notes:
-# - Brave/Braves played as Boston/Milwaukee then Atlanta franchise (1876-present)
-# - Dodgers franchise includes Brooklyn Dodgers history (Superbas/Robins/Bridegrooms)
-# - Giants franchise includes New York Giants history
-# - Reds franchise includes Cincinnati Red Stockings/Redlegs
-# - Cardinals franchise includes St. Louis Brown Stockings/Browns/Reds
-# - Cubs franchise includes Chicago White Stockings/Colts/Orphans
-# - Pittsburgh franchise includes Alleghenys/Pirates
-# - Atlanta franchise is oldest NL franchise (1871 as Boston in NA, 1876 in NL)
-# - Brewers moved from AL to NL Central in 1998
-# - Nationals relocated from Montreal Expos in 2005
-# - Marlins were Florida Marlins until 2012
-# - Diamondbacks have been in NL West since 1998
+Franchise,First_Season,Division,Games_Played,Wins,Losses,Win_Pct,Pennants,WS_Titles,Active_Flag
+San Francisco Giants,1883,West,21722,11663,10059,0.535,23,8,TRUE
+Los Angeles Dodgers,1884,West,21722,11586,10136,0.531,26,8,TRUE
+St. Louis Cardinals,1882,Central,22486,11413,11073,0.509,19,11,TRUE
+Chicago Cubs,1876,Central,22222,11474,10748,0.516,17,3,TRUE
+Cincinnati Reds,1882,Central,22222,11060,11162,0.498,10,5,TRUE
+Atlanta Braves,1876,East,22070,11245,10825,0.504,18,4,TRUE
+Pittsburgh Pirates,1882,Central,21820,10959,10861,0.501,9,5,TRUE
+Philadelphia Phillies,1883,East,22222,10357,11865,0.466,8,2,TRUE
+New York Mets,1962,East,9520,4899,4621,0.514,2,2,TRUE
+Washington Nationals,1969,East,8230,4379,3851,0.532,0,0,TRUE
+San Diego Padres,1969,West,7980,4265,3715,0.533,0,0,TRUE
+Milwaukee Brewers,1969,Central,8920,4464,4456,0.503,0,0,TRUE
+Colorado Rockies,1993,West,4760,2403,2357,0.505,0,0,TRUE
+Miami Marlins,1993,East,4280,2435,1845,0.569,2,2,TRUE
+Arizona Diamondbacks,1998,West,4160,2216,1944,0.532,1,1,TRUE

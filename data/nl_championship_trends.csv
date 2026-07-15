@@ -1,33 +1,21 @@
-# NL Championship Trends Organized by Era
-# Compiled from Baseball Reference, Baseball Almanac, StatMuse
-
-Era,Start_Year,End_Year,Num_Seasons,Dominant_Franchise,Key_Trend,Notable_Champion,Era_Highlights
-Pre-Modern,1876,1902,27,Chicago White Stockings / Boston,8-team league; Chicago & Boston dominate,Chicago White Stockings,Chicago won 6 pennants in first decade
-Dead Ball,1903,1919,17,New York Giants / Chicago Cubs / Pittsburgh,Record-setting wins; Giants win 4 of 5,Detroit Senators,1906 Cubs: 116-36 (.763) - all-time NL record
-Live Ball,1920,1945,26,St. Louis Cardinals / New York / Brooklyn,Power transition; franchise migration begins,St. Louis Cardinals,Braves 1914 Miracle; Cardinals 1926 first WS
-Integration,1946,1969,24,Dodgers / Giants / Cardinals / Mets,Jackie Robinson (1947); expansion era,New York Mets,1969 Miracle Mets; 1969 expansion
-Expansion,1970,1989,20,Cincinnati / Philadelphia / Cardinals / Mets,Big Red Machine; competitive parity,St. Louis Cardinals,Cubs 1984 NLCS collapse; 1986 Met series
-Modern-First Cycle,1990,2005,16,Atlanta / Cardinals / Marlins / D-backs,Braves dynasty; first expansion champions,Atlanta Braves,14 straight division titles; 3 wild card WS
-Modern-Resurgence,2006,2016,11,Cardinals / Giants / Phillies / Cubs,Resurgence cycle; Cubs end drought,Chicago Cubs,2016 Cubs end 108-year drought
-Modern-Dodgers,2017,2025,9,Los Angeles Dodgers,Dodgers dynasty; 8 straight NL West,Los Angeles Dodgers,Back-to-back WS (2024-25); 8 straight division
-
-# Era Summary Statistics:
-# Pre-Modern (1876-1902): 8 teams, ~126 games/season. Chicago 6 pennants, Boston 4 + 1 more.
-# Dead Ball (1903-1919): 8 teams, ~154 games. Giants 4 pennants (1904-05, 1911-13). 1906 Cubs record.
-# Live Ball (1920-1945): Increasing competition. Cardinals 6 pennants. 1944: Both NL in WS.
-# Integration (1946-1969): Dodgers 6 pennants. Expansion adds Padres/Expos (1969).
-# Expansion (1970-1989): 12 teams. Reds 5 pennants. 1981 split season.
-# Modern-First (1990-2005): 14-15 teams. Braves 14 straight. 1997/2003 Marlins WS.
-# Modern-Resurgence (2006-2016): 15 teams. Cardinals 5 pennants. 2016 Cubs end drought.
-# Modern-Dodgers (2017-2025): Dodgers 8 straight NL West. Back-to-back WS. 8 competitive titles.
-
-# Key Franchise Trends:
-# Cardinals: Won titles in 6 of last 7 complete decades (1930s,40s,60s,80s,2000s,2010s)
-# Dodgers: Most pennants (26), most titles in Eras (Live Ball, Integration, Modern-Dodgers)
-# Giants: 23 pennants from NY era; strong both in NY and SF
-# Braves: Atlanta dynasty (1991-2005) most dominant in 1990s
-# Cubs: 2016 ended longest WS drought; 17 total pennants
-# Reds: 10 pennants; Big Red Machine (1975-76); last title 2005
-# Phillies: 8 pennants; 1st title 1980; 2nd 2008
-# Marlins: 2 pennants, 2 WS as youngest franchise with fewest games
-# Diamondbacks: 1 pennant, 1 WS (2001) as youngest champion
+Era,Team,Key_Trend,Championship_Wins,Consecutive_Seasons
+1876-1892,Chicago White Stockings/Cubs,Founding era NL champion 3 straight (1880-82),3,3
+1876-1892,Boston Beaneaters,Dominated late 1890s NL,4,4
+1893-1919,Pittsburgh Pirates,Power of Dead Ball Era,2,2
+1893-1919,New York Giants,Rise of NL's most franchise,3,3
+1920-1950,St. Louis Cardinals,Emergence as NL powerhouse,1,1
+1920-1950,Brooklyn Dodgers,First American migration success,1,1
+1951-1969,New York Mets,Miracle Mets 1969 expansion WS champion,1,1
+1951-1969,Los Angeles Dodgers,Relocation success; 3 pennants,3,3
+1961-1968,Pittsburgh Pirates,Golden era with Clemente,3,3
+1970-1989,Cincinnati Reds,Big Red Machine; back-to-back division titles,2,2
+1970-1989,New York Mets,Golden-age NL franchise,2,2
+1990-2005,Atlanta Braves,Megadynasty 14 straight division titles,5,14
+1990-2005,St. Louis Cardinals,Core championship dynasty,3,3
+1990-2005,Florida Marlins,Two WS titles as expansion team,2,2
+1990-2005,Arizona Diamondbacks,One title in franchise history,1,1
+2006-2016,St. Louis Cardinals,Resurgence; 3 titles in 7 years,3,3
+2006-2016,San Francisco Giants,Three titles in 5 years,3,3
+2006-2016,Philadelphia Phillies,First NL title since 1980,1,1
+2006-2016,Chicago Cubs,Ended 108-year championship drought,1,1
+2017-Present,Los Angeles Dodgers,8 straight NL West; 5 titles; back-to-back WS,5,8

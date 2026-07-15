@@ -1,32 +1,32 @@
-year,champion,record,ws_champion,ws_opponent,ws_result,notes
-1995,Atlanta Braves,90-54,Atlanta Braves,Cleveland Indians,L,"Start of 14-division title streak"
-1996,Atlanta Braves,96-66,Atlanta Braves,New York Yankees,L,"10th consecutive division title"
-1997,Florida Marlins,92-70,Florida Marlins,Cleveland Indians,W,"1st expansion team to win WS"
-1998,Arizona Diamondbacks,100-62,Arizona Diamondbacks,New York Yankees,L,"2nd-year team wins NL"
-1999,Atlanta Braves,103-59,New York Yankees,None,L,"11th consecutive division title"
-2000,Atlanta Braves,95-67,New York Yankees,None,L,"12th consecutive division title"
-2001,Arizona Diamondbacks,92-70,Arizona Diamondbacks,New York Yankees,W,"Luis Gonzalez walk-off single"
-2002,San Francisco Giants,95-66,Anaheim Angels,None,L,"Rich Aurilia; Bonds era rivalry"
-2003,Atlanta Braves,101-61,Florida Marlins,None,L,"Bartman game; Marlins sweep"
-2004,St. Louis Cardinals,105-57,St. Louis Cardinals,Boston Red Sox,W,"Pujols era; first title in 4 years"
-2005,Houston Astros,89-73,Houston Astros,None,W,"1st team from both leagues in WS"
-2006,St. Louis Cardinals,83-78,St. Louis Cardinals,Detroit Tigers,W,"Cards as best 5th seed"
-2007,Colorado Rockies,90-73,Colorado Rockies,Boston Red Sox,L,"Rockies sweep league; lost WS"
-2008,Philadelphia Phillies,92-70,Philadelphia Phillies,Tampa Bay Rays,W,"First Phils title in 28 years"
-2009,Philadelphia Phillies,93-69,Philadelphia Phillies,New York Yankees,W,"2nd consecutive Phils title"
-2010,Cincinnati Reds,91-71,San Francisco Giants,None,L,"Diamondbacks sweep NLCS"
-2011,St. Louis Cardinals,90-72,St. Louis Cardinals,Texas Rangers,W,"One of greatest October runs"
-2012,San Francisco Giants,94-68,San Francisco Giants,Detroit Tigers,W,"Buster Posey; 2nd title in 3 years"
-2013,St. Louis Cardinals,97-65,St. Louis Cardinals,Boston Red Sox,W,"Tape-measure HRs"
-2014,San Francisco Giants,88-74,San Francisco Giants,Kansas City Royals,W,"Madison Bumgarner WS MVP"
-2015,Chicago Cubs,97-65,Kansas City Royals,None,L,"Cubs lose WS to AL's Royals"
-2016,Chicago Cubs,103-58,Chicago Cubs,Cleveland Indians,W,"Ended 108-year drought; never trailed"
-2017,Los Angeles Dodgers,104-58,Los Angeles Dodgers,Houston Astros,L,"Best regular season; 3-1 lead lost"
-2018,Los Angeles Dodgers,92-71,Los Angeles Dodgers,Boston Red Sox,L,"NHRA walk-off; 4-1 US"
-2019,Los Angeles Dodgers,106-56,Los Angeles Dodgers,Houston Astros,L,"Best regular season record lost"
-2020,Los Angeles Dodgers,43-17,Los Angeles Dodgers,Tampa Bay Rays,W,"Best shortened-season record (.717)"
-2021,Los Angeles Dodgers,106-56,Atlanta Braves,None,L,"Dodgers lose in LCS to Braves"
-2022,Los Angeles Dodgers,111-51,Los Angeles Dodgers,Houston Astros,L,"Best 162-game NL record (111 wins)"
-2023,Los Angeles Dodgers,100-62,Los Angeles Dodgers,Arizona Diamondbacks,W,"Throwback jerseys; Kershaw final WS"
-2024,Los Angeles Dodgers,98-64,Los Angeles Dodgers,New York Yankees,W,"Historic late-season turnaround"
-2025,Los Angeles Dodgers,100-62,Los Angeles Dodgers,Chicago Cubs,W,"Dodgers continue dynasty"
+Year,NL_Champion,Champion_W,Champion_L,UMP_Winner,UMP_When,2nd_Place,WS_Result,Notes
+1995,Atlanta Braves,90,54,Atlanta Braves,Won vs Indians 4-2,Los Angeles Dodgers,Los Angeles Dodgers,Shortened 144-game season
+1996,Atlanta Braves,96,66,New York Yankees,Won vs Braves 4-2,St. Louis Cardinals,Los Angeles Dodgers,
+1997,Florida Marlins,92,70,Florida Marlins,Won vs Indians 4-3,San Francisco Giants,Florida Marlins,First expansion team WS champion
+1998,San Francisco Giants,89,74,New York Yankees,Won vs Padres 3-0,San Diego Padres,San Diego Padres,
+1999,Atlanta Braves,103,59,New York Yankees,Won vs Braves 4-0,New York Mets,Los Angeles Dodgers,
+2000,St. Louis Cardinals,95,67,New York Yankees,Won vs Mets 4-1,New York Mets,Los Angeles Dodgers,
+2001,Arizona Diamondbacks,92,70,Arizona Diamondbacks,Won vs Yankees 4-3,Houston Astros,Arizona Diamondbacks,Expansion team WS champion
+2002,San Francisco Giants,95,66,Anaheim Angels,Won vs Giants 4-3,Los Angeles Dodgers,San Francisco Giants,
+2003,Chicago Cubs,88,74,Florida Marlins,Won vs Yankees 4-2,Florida Marlins,Florida Marlins,Wild Card upset champions
+2004,St. Louis Cardinals,105,57,Boston Red Sox,Won vs Cardinals 4-0,Atlanta Braves,Los Angeles Dodgers,
+2005,Atlanta Braves,90,72,Chicago White Sox,Won vs Astros 4-0,Houston Astros,Houston Astros,Astros moved to AL for 2013
+2006,St. Louis Cardinals,83,78,St. Louis Cardinals,Won vs Tigers 4-1,New York Mets,Detroit Tigers,
+2007,Colorado Rockies,97,65,Boston Red Sox,Won vs Rockies 4-0,Arizona Diamondbacks,Colorado Rockies,
+2008,Philadelphia Phillies,92,70,Tampa Bay Rays,Won vs Phillies 4-1,Milwaukee Brewers,Philadelphia Phillies,
+2009,Philadelphia Phillies,93,69,New York Yankees,Won vs Phillies 4-2,St. Louis Cardinals,Los Angeles Dodgers,
+2010,San Francisco Giants,92,70,San Francisco Giants,Won vs Rangers 4-1,Atlanta Braves,Texas Rangers,
+2011,St. Louis Cardinals,90,72,St. Louis Cardinals,Won vs Rangers 4-3,Milwaukee Brewers,Texas Rangers,
+2012,San Francisco Giants,94,68,San Francisco Giants,Won vs Tigers 4-0,Cincinnati Reds,Detroit Tigers,
+2013,St. Louis Cardinals,97,65,Boston Red Sox,Won vs Cardinals 4-2,Atlanta Braves,St. Louis Cardinals,
+2014,St. Louis Cardinals,90,72,Kansas City Royals,Won vs Giants 4-3,Washington Nationals,San Francisco Giants,
+2015,St. Louis Cardinals,100,62,Kansas City Royals,Won vs Mets 4-1,New York Mets,New York Mets,
+2016,Chicago Cubs,103,58,Chicago Cubs,Won vs Indians 4-3,Washington Nationals,Cleveland Indians,Cubs ended 108-year drought
+2017,Los Angeles Dodgers,104,58,Houston Astros,Won vs Dodgers 4-3,Washington Nationals,Los Angeles Dodgers,
+2018,Los Angeles Dodgers,92,71,Boston Red Sox,Won vs Dodgers 4-1,Atlanta Braves,Los Angeles Dodgers,
+2019,Washington Nationals,93,69,Washington Nationals,Won vs Astros 4-3,Los Angeles Dodgers,Houston Astros,
+2020,Los Angeles Dodgers,43,17,Los Angeles Dodgers,Won vs Rays 4-2,Atlanta Braves,Tampa Bay Rays,60-game COVID season
+2021,Atlanta Braves,88,73,Atlanta Braves,Won vs Astros 4-2,Los Angeles Dodgers,Houston Astros,
+2022,Los Angeles Dodgers,111,51,Houston Astros,Won vs Phillies 4-2,Philadelphia Phillies,Philadelphia Phillies,
+2023,Atlanta Braves,104,58,Texas Rangers,Won vs Diamondbacks 4-1,Philadelphia Phillies,Arizona Diamondbacks,
+2024,Los Angeles Dodgers,98,64,Los Angeles Dodgers,Won vs Blue Jays 4-3,New York Mets,Toronto Blue Jays,Back-to-back WS for Dodgers
+2025,Los Angeles Dodgers,100,62,Los Angeles Dodgers,Won vs Blue Jays 4-3,Milwaukee Brewers,Toronto Blue Jays,Back-to-back WS for Dodgers
