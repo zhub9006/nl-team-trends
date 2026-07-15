@@ -1,9 +1,9 @@
-era,start_year,end_year,dominant_team(s),theme,most_p Pennants,most_ws_titles
-Founding Era,1876,1892,Chicago White Stockings / Boston,8-team league; establishment of professional baseball,Chicago (6),Boston (2)
-Dead Ball Era,1893,1919,Cubs / Giants / Pirates / Braves,Record-setting wins; early dynasty cycles,Chicago (6),Giants (3)
-Power Transition Era,1920,1950,Cardinals / Giants / Dodgers-NY,NL power shift; franchise migration begins,Giants (7),Cardinals (5)
-Relocation Era,1951,1969,Giants / Dodgers / Mets / Cardinals,Miracle Mets 1969; Dodgers relocation to LA,Giants (6),Dodgers (2)
-Parity Era,1970,1989,Reds / Phillies / Cardinals / Mets,Big Red Machine; emerging competitive parity,Cards (7),Cardinals (4)
-Braves Dynasty Era,1990,2005,Braves / Cardinals / Marlins / D-backs,Braves 14 consecutive division titles,Braves (14),Marlins (2)
-Resurgence Cycle,2006,2016,Cardinals / Giants / Phillies / Cubs,Cubs end 108-year drought in 2016,Cards (8),Cardinals (4)
-Dodgers Dynasty Era,2017,2025,Dodgers,Dodgers 8 straight NL West titles,Dodgers (8),Dodgers (3)
+era,start_year,end_year,dominant_team(s),theme,key_insight
+Founding Era,1876,1892,Chicago White Stockings / Boston,"8-team league; National Association replaced","First fully professional league; Chicago White Stockings won first NL pennant in 1876"
+Dead Ball Era,1893,1919,Cubs / Giants / Pirates / Braves,"Record-setting wins; early dominance","Most wins in a season: 1906 Cubs (116); Giants won 4 pennants in 5 years (1911-1914)"
+Power Transition,1920,1950,Cardinals / Giants / Dodgers/NY,"Franchise migration; power shift","Babe Ruth's NY Yankees push NL to innovate; Braves relocation to Milwaukee adds competitive balance"
+Relocation Era,1951,1969,Giants / Dodgers / Mets / Cardinals,"Team relocations; NL expansion","1958 Dodgers move to LA; 1962 Mets expansion; 1969 Miracle Mets upset Orioles"
+Big Red Machine,1970,1989,Reds / Phillies / Cardinals / Mets,"Competitive parity era","Cincinnati Reds Big Red Machine (1975-76); Phillies breakthrough (1980); Mets 1986 resurgence"
+Braves Dynasty,1990,2005,Atlanta Braves / Cardinals / Marlins / D-backs,"14 consecutive NL East titles","Braves streak 1991-2005; Marlins & D-backs first expansion champions; Cardinals rebuild"
+Modern Resurgence,2006,2016,Cardinals / Giants / Phillies / Cubs,"Competitive cycle; Cubs end drought","Cubs 2016 WS ends 108-year drought; Rays era begins"
+Dodgers Dynasty,2017,2025,Los Angeles Dodgers,"8 straight NL West titles; back-to-back WS","Most dominant NL dynasty in 40+ years; 111-win 2022 season"
