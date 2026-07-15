@@ -3,50 +3,54 @@
 ## Planned Visualizations
 
 ### 1. All-Time Franchise Win-Loss Bar Chart
-- **Data Source**: `data/nl_all_time_records.csv`
-- **Type**: Horizontal bar chart ordered by win percentage
-- **Color**: Team primary colors
-- **Insight**: Compare franchise durability and winning percentage across the century-plus landscape
+- **Type**: Horizontal bar chart
+- **X-axis**: Win percentage
+- **Y-axis**: Franchise name
+- **Insight**: Clear visual of which franchises have been most successful over time
+- **Tool**: Plotly or Altair
 
-### 2. Championship Timeline (Gantt-style)
-- **Data Source**: `data/nl_championship_trends.csv`
-- **Type**: Timeline/Gantt chart showing championship runs across eras
-- **Insight**: Visualize eras of dominance (Braves 1991-2005, Dodgers 2017-2025)
+### 2. Seasonal Standings Heatmap
+- **Type**: Heatmap
+- **Rows**: Seasons (years)
+- **Columns**: NL teams
+- **Color**: Win percentage (green = high, red = low)
+- **Insight**: See competitive balance shift over decades; identify dynasties
 
-### 3. Heatmap: Head-to-Head Records
-- **Data Source**: `https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml`
-- **Type**: Matrix heatmap (NL team vs NL team)
-- **Insight**: Identify historical rivalries and dominance patterns
+### 3. Pennant Winners Timeline
+- **Type**: Timeline / Gantt chart
+- **Details**: Show which team won pennants each year, colored by team
+- **Insight**: Visualize dominant eras and drought periods
 
-### 4. Season-by-Season Win-Loss Trends
-- **Data Source**: SABR Lahman `Teams.csv` + season records
-- **Type**: Line chart overlaying multiple franchises
-- **Insight**: Track franchise trajectories through winning and losing cycles
+### 4. Championship Drought Chart
+- **Type**: Vertical bar chart
+- **X-axis**: Years since last championship
+- **Insight**: Highlight long-suffering franchises (Cubs, Phillies, Brewers)
 
-### 5. Pennant/Championship Wind roses or Sankey diagrams
-- **Data Source**: `data/nl_championship_trends.csv` + `nl_key_seasons.csv`
-- **Type**: Flow diagram showing pennant flows to World Series outcomes
-- **Insight**: Which pennant winners won the World Series vs. fell short
+### 5. Division Dominance Over Time
+- **Type**: Stacked area chart
+- **X-axis**: Years
+- **Y-axis**: Win percentage by division
+- **Insight**: See which divisions have been most competitive
 
-### 6. Division Dominance Over Time
-- **Data Source**: `data/nl_recent_standings.csv` + historical divisions
-- **Type**: Small multiples by division, showing which team led each decade
-- **Insight**: How competitive balance has shifted across the NL East/West/Central
+### 6. Eras Comparison Radar Chart
+- **Type**: Radar/spider chart
+- **Axes**: Pennants, WS titles, win%, division titles, championship frequency
+- **Insight**: Compare franchise profiles across eras
 
-## Tools Suggestions
+## Recommended Libraries
+| Library | Use Case |
+|---------|----------|
+| Plotly | Interactive, web-ready charts |
+| Altair | Declarative statistical visualization in Python |
+| Matplotlib | Static publication-quality charts |
+| Seaborn | Statistical heatmaps and distributions |
+| Bokeh | Interactive dashboards |
 
-- **Python**: matplotlib, seaborn, plotly
-- **R**: ggplot2, plotly
-- **JavaScript**: D3.js, Chart.js
-- **Dashboard**: Streamlit or Dash for interactive exploration
+## Data Flow
+```
+data/*.csv → notebooks/analysis.ipynb → visualizations/*.html
+```
 
-## Data File Inventory
-
-| File | Description |
-|------|-------------|
-| `data/nl_all_time_records.csv` | All-time franchise W-L totals |
-| `data/nl_key_seasons.csv` | Key individual season records & championships |
-| `data/nl_recent_standings.csv` | Full recent standings (2020-2025) |
-| `data/nl_championship_trends.csv` | Championship highlights organized by era |
-| `data/nl_notable_records.csv` | Notable single-season and franchise records |
-| `data/source_references.md` | Detailed source attribution |
+## Source Integration
+- Download [Lahman Database](https://sabr.org/lahman-database/) for raw season-level data
+- Cross-reference with `source_references.md` for attribution

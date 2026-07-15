@@ -1,36 +1,42 @@
-# Data Notes: Methodology, Conventions & Caveats
+# MNL Team Trends — Data Notes
 
-## Methodology
+## Methodology & Conventions
 
-1. **Source Triangulation** — All figures cross-referenced against at least 2 sources (Baseball Reference + SABR Lahman / Baseball Almanac)
-2. **Era Classification** — Eras defined by both schedule format changes and competitive shifts (e.g., 1969 division split, 1994 playoff reform, 2020 COVID season)
-3. **Franchise Continuity** — Team records trace franchise lineage including relocated/renamed teams (e.g., Brooklyn Dodgers → LA Dodgers; Boston Braves → Milwaukee → Atlanta)
-4. **Win-Loss Accuracy** — Postseason records included in regular-season totals for championships; separate postseason data tracked in key_seasons.csv
+### Data Sources
+All historical data was compiled from multiple authoritative baseball statistics sources:
+- **Baseball Reference** — Year-by-year NL standings
+- **Baseball Almanac** — Team-vs-team W-L matrices
+- **SABR Lahman Database** — Complete CSV datasets for statistical modeling
+- **StatsCrew** — Rosters, standings, and leaders
 
-## Conventions
-
+### Key Conventions
 | Convention | Detail |
-|------------|--------|
-| Record Format | Win-Loss (e.g., 116-36) |
-| Win Percentage | 3 decimal places (.XXX) |
-| Division | Current division assignment (not historical) |
-| Era Boundaries | Based on both schedule format AND competitive periods |
-| Championship Count | World Series wins only (not pennants) |
-| Games | Scheduled regular-season games (adjusted for shortened seasons) |
+|-----------|--------|
+| Win% Formula | Wins / (Wins + Losses) |
+| Schedule Eras | Pre-1892: variable; 1893-1960: 154 games; 1961-present: 162 games |
+| Division Format | 2 divisions (E/W) from 1969; 3 divisions (E/C/W) from 1994 |
+| Wild Cards | Introduced 1994; 1 WC from 1994-2011; 2 WCs from 2012 |
 
-## Known Caveats
+### Important Caveats
+- The 1994 season was canceled by a players' strike; no pennant or WS was awarded.
+- The 2020 season was shortened to 60 games due to COVID-19; Win% is still comparable but use context when benchmarking.
+- Milwaukee Brewers moved from the AL to NL Central in 1998.
+- The Montreal Expos relocated and became the Washington Nationals in 2005.
+- Some very early seasons (1876-1892) had varying game counts (e.g., 70, 80, 84 games).
+- Interleague play began in 1997 and became full-time in 2023, so AL-vs-NL comparisons should account for this.
 
-- **1876–1891**: No divisions existed; W-L records based on full-season totals
-- **1994 Season**: Strike ended season early; Atlanta Braves had best record at time of cancellation (68-46 .596)
-- **2020 Season**: 60-game schedule; records not comparable to full seasons
-- **Interleague Play** (1997–2022): Teams played uneven interleague schedules; Win% slightly affected
-- **2022+**: 12-team playoff format changes competitive dynamics significantly
-- **Franchise Relocations**: Some stats may differ across sources due to how they count Milwaukee Braves / Washington Nationals history
-- **1906 Cubs**: 116-36 is the official record; some sources list 116-37 due to tie games
+### Data File Descriptions
+| File | Description |
+|------|-------------|
+| `nl_all_time_records.csv` | All-time franchise win-loss totals for all 15 NL teams |
+| `nl_key_seasons.csv` | Notable individual seasons with highlights |n| `nl_pennant_winners_recent.csv` | NL pennant winners 2000-2025 with WS results |
+| `nl_recent_standings.csv` | Full standings matrix 2020-2025 for all NL teams |
+| `nl_championship_trends.csv` | Era-by-era championship summary |
+| `nl_notable_records.csv` | Single-season and franchise record collection |
+| `source_references.md` | Full source attribution and methodology |
 
-## Data Quality Notes
-
-- Pre-1900 data is most susceptible to scoring discrepancies
-- 1876–1892 seasons had ties that were sometimes replayed, occasionally counted differently
-- The 1994 strike makes the "best record" stat ambiguous for that year
-- The 2020 COVID season is the most radically altered schedule in modern history
+## Recommended Next Steps
+1. Download the [SABR Lahman Database](https://sabr.org/lahman-database/) for complete season-by-season team-level CSV datasets.
+2. Add Python analysis notebooks in the `notebooks/` directory.
+3. Build interactive visualizations using Plotly, Altair, or Matplotlib.
+4. Cross-reference with historical newspaper archives for context on pennant races.
