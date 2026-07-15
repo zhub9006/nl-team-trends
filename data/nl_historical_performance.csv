@@ -1,55 +1,9 @@
-year,champion,record,division,ws_opponent,ws_result, pennants,era,notes
-1876,Chicago White Stockings,52-14,None,None,None,1,Founding,Inaugural NL season; 52 wins in 70 games
-1877,Boston Red Stockings,42-18,None,None,None,1,Founding,Second straight NL title
-1878,Boston Red Stockings,41-19,None,None,None,1,Founding,
-1879,Providence Grays,59-25,None,None,None,1,Founding,
-1880,Chicago White Stockings,67-17,None,None,None,1,Founding,
-1881,Chicago White Stockings,56-28,None,None,None,1,Founding,
-1882,Chicago White Stockings,55-29,None,None,None,1,Founding,
-1883,Providence Grays,58-26,None,None,None,1,Founding,
-1884,Providence Grays,84-28,None,None,None,1,Founding,
-1885,Chicago White Stockings,87-25,None,None,None,1,Founding,
-1886,Chicago White Stockings,90-34,None,None,None,1,Founding,
-1887,Detroit Wolverines,79-45,None,None,None,1,Founding,
-1888,New York Giants,84-47,None,None,None,1,Founding,
-1889,New York Giants,83-43,None,None,None,1,Founding,
-1890,Boston Beaneaters,88-44,None,None,None,1,Founding,
-1891,Boston Beaneaters,87-51,None,None,None,1,Founding,
-1906,Chicago Cubs,116-36,None,None,None,1,Dead Ball,Best NL season ever (.763)
-1909,Pittsburgh Pirates,110-42,None,None,None,1,Dead Ball,154-game era benchmark
-1914,Boston Braves,94-59,None,None,None,1,Dead Ball,Miracle 26-game turnaround
-1919,Cincinnati Reds,96-44,None,None,None,1,Dead Ball,First WS after Black Sox scandal
-1926,St. Louis Cardinals,89-65,None,None,None,1,Power,First of 11 Cardinals WS titles
-1931,St. Louis Cardinals,103-50,None,None,None,1,Power,
-1934,St. Louis Cardinals,95-58,None,None,None,1,Power,
-1942,St. Louis Cardinals,106-48,None,None,None,1,Power,
-1951,New York Giants,98-59,None,None,None,1,Relocation,Shot Heard Round the World
-1954,New York Giants,97-57,None,None,None,1,Relocation,
-1955,Brooklyn Dodgers,98-55,None,None,None,1,Relocation,First Brooklyn WS title
-1959,Los Angeles Dodgers,88-68,None,None,None,1,Relocation,
-1963,Los Angeles Dodgers,99-53,None,None,None,1,Relocation,
-1965,Los Angeles Dodgers,94-68,None,None,None,1,Relocation,
-1966,Los Angeles Dodgers,95-67,None,None,None,1,Relocation,
-1969,New York Mets,100-62,East/West, Baltimore Orioles,L,1,Expansion,Miracle Mets
-1975,Cincinnati Reds,108-54,East,None,None,1,Big Red Machine,First of back-to-back
-1976,Cincinnati Reds,102-60,West,None,None,1,Big Red Machine,Second straight
-1980,Philadelphia Phillies,91-71,East, None,None,1,Parity,First WS title in 80 years
-1981,St. Louis Cardinals,59-43 (split),None, None,None,1,Parity,Strike-shortened season
-1982,St. Louis Cardinals,92-70,None, None,None,1,Parity,
-1986,New York Mets,108-54,None, None,None,1,Parity,Famous October comeback
-1990,Pittsburgh Pirates,95-67,East, None,None,1,Dynasty,
-1993,Philadelphia Phillies,97-65,East, None,None,1,Dynasty,
-1995,Atlanta Braves,90-54,East,None,None,1,Dynasty,Start of 14-division streak
-1997,Florida Marlins,92-70,East, Cleveland Indians,W,1,Dynasty,First expansion team WS title
-1998,Arizona Diamondbacks,100-62,West, New York Yankees,L,1,Dynasty,2nd-year team wins title
-2004,St. Louis Cardinals,105-57,None, None,None,1,Dynasty,
-2006,St. Louis Cardinals,83-78,None, None,None,1,Resurgence,
-2012,San Francisco Giants,94-68,None, None,None,1,Resurgence,
-2014,San Francisco Giants,90-72,None, None,None,1,Resurgence,
-2016,Chicago Cubs,103-58,None, None,None,1,Resurgence,Ended 108-year drought
-2020,Los Angeles Dodgers,43-17,None, None,None,1,Dynasty,Best shortened-season record (.717)
-2021,Atlanta Braves,88-73,None, None,None,1,Dynasty,
-2022,Los Angeles Dodgers,111-51,None, None,None,1,Dynasty,Best full 162G NL record
-2023,Los Angeles Dodgers,100-62,None, None,None,1,Dynasty,
-2024,Los Angeles Dodgers,98-64,None, None,None,1,Dynasty,
-2025,Los Angeles Dodgers,93-69,None, None,None,1,Dynasty,Back-to-back WS champions
+era,start_year,end_year,nl_champion,most_dominant_team,biggest_win_total,notes
+Founding Era,1876,1892,Chicago White Stockings,Chicago / Boston,52 (1876),First 8-team league; no postseason
+Dead Ball Era,1893,1919,Boston / Chicago / NY Giants,Chicago (6 pennants),102 (1898),Temple Cup postseason (1894-1891)
+Power Transition Era,1920,1950,NY Giants / Cardinals,Giants (7 pennants),101 (1940s),Post-WWII; Cardinals rise; Dodgers relocation
+Relocation Era,1951,1969,NY Giants / Dodgers / Mets,Mets (1969 miracle),101 (1969 Mets),Dodgers move to LA; Miracle Mets; divisions begin
+Parity Era,1970,1989,Cincinnati Reds / Cardinals,Reds (Big Red Machine),102 (1975/76),Reds win 2 WS; Phillies emerge; Mets 1986
+Braves Dynasty Era,1990,2005,Atlanta Braves,Braves (14 div titles),106 (1998),Longest division streak; Marlins won 2 WS
+Resurgence Cycle,2006,2016,St. Louis Cardinals / Cubs,Cardinals (8 pennants),105 (2004),Cubs end 108-year drought (2016); Giants FT 3 WS
+Dodgers Dynasty Era,2017,2025,Los Angeles Dodgers,Dodgers (8 straight West),104 (2017/22),Dodgers dominate NL West; 9th pennant pending
