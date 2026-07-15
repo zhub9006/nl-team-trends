@@ -16,7 +16,6 @@ nl-team-trends/
 │   ├── nl_historical_performance.csv      ← Championship-season highlights with era labels (1876-2025)
 │   ├── nl_historical_performance_detailed.csv  ← Year-by-year NL champion + 2nd place + WS results (1876-2025)
 │   ├── nl_pennant_winners_recent.csv      ← NL pennant winners and WS results 1995-2025
-│   ├── nl_recent_standings.csv            ← Full standings 2020-2025
 │   ├── nl_championship_trends.csv         ← Championship highlights organized by era
 │   ├── nl_notable_records.csv             ← Notable single-season and franchise records
 │   └── source_references.md               ← Detailed source attribution & methodology
@@ -24,7 +23,7 @@ nl-team-trends/
 │   └── data_notes.md                      ← Methodology, conventions & caveats
 ├── visualizations/
 │   └── README.md                          ← Visualization roadmap & tools
-└── notebooks/                              ← (planned) analysis Jupyter notebooks
+└── notebooks/                             ← (planned) analysis Jupyter notebooks
 ```
 
 ## 🏆 All-Time NL Franchise Records (through 2025 season)
@@ -109,7 +108,7 @@ nl-team-trends/
 - [ ] Win% distribution by decade
 - [ ] Interactive dashboard (Plotly / Streamlit)
 
-## 🛠 Methods & Conventions
+## 🔧 Methods & Conventions
 
 - Win% = Wins / Games Played
 - Pennants = League championship awards (pre-Wild Card era)
@@ -123,10 +122,10 @@ nl-team-trends/
 | File | Description |
 |------|-------------|
 | `data/nl_all_time_records.csv` | All-time franchise win-loss totals by team (15 teams) |
-| `data/nl_historical_performance.csv` | Championship-season highlights with era labels |
-| `data/nl_historical_performance_detailed.csv` | Year-by-year champion, 2nd place & WS results 1876-2025 |
+| `data/nl_historical_performance.csv` | Championship-season highlights with era labels (1876-2025) |
+| `data/nl_historical_performance_detailed.csv` | Year-by-year champion, 2nd place & WS results (1876-2025) |
 | `data/nl_pennant_winners_recent.csv` | NL pennant winners and WS results 1995-2025 |
-| `data/nl_championship_trends.csv` | Championship trends organized by era |
+| `data/nl_championship_trends.csv` | Championship highlights organized by era |
 | `data/nl_notable_records.csv` | Key single-season and franchise records |
 | `data/source_references.md` | Detailed source attribution & methodology |
 
