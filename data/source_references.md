@@ -1,54 +1,69 @@
-# Source References for NL Team Trends
-# Comprehensive list of data sources for National League historical performance research
-# Data through end of 2025 MLB season
+# NL Team Trends — Source References & Methodology
+
+> Central source attribution and data methodology for all NL team performance files.
+> All data through end of 2025 MLB season.
 
 ## Primary Data Sources
 
-| Source | URL | Coverage | Description |
-|--------|-----|----------|-------------|
-| Baseball Almanac | https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml | 1876-2026 | NL team-vs-team W-L matrices (head-to-head) |
-| Baseball Reference | https://www.baseball-reference.com/leagues/NL/ | 1876-present | Official year-by-year NL standings & leaders |
-| Baseball Data Hub | https://baseballdatahub.com/seasons/ | 1871-2026 | Complete season standings & stats archive |
-| SABR Lahman Database | https://sabr.org/lahman-database/ | 1871-2025 | Free downloadable CSV (stats & rest) |
-| StatsCrew | https://www.statscrew.com/baseball/l-NL | 1876-present | NL rosters, standings & leaders |
-| StatMuse | https://www.statmuse.com/mlb/ask/most-national-league-titles | 1876-2026 | NL championship leaders & franchise stats |
-| OpenIntro MLB Dataset | https://www.openintro.org/data/index.php?data=mlb_teams | Multi-year | ML-ready MLB team data |
+| # | Source | URL | Coverage | Type |
+|---|--------|-----|----------|------|
+| 1 | [Baseball Reference - NL](https://www.baseball-reference.com/leagues/NL/) | baseball-reference.com/leagues/NL/ | 1876–present | Year-by-year NL standings & leaders |
+| 2 | [Baseball Almanac - NL Team-vs-Team](https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml) | baseball-almanac.com | 1876–2026 | Head-to-head W-L matrices |
+| 3 | [SABR Lahman Database](https://sabr.org/lahman-database/) | sabr.org/lahman-database/ | 1871–2025 | Full CSV dataset (stats, pitching, teams) |
+| 4 | [Baseball Data Hub](https://baseballdatahub.com/seasons/) | baseballdatahub.com/seasons/ | 1871–2026 | Complete season standings archive |
+| 5 | [StatsCrew - NL](https://www.statscrew.com/baseball/l-NL) | statscrew.com/baseball/l-NL | 1876–present | NL rosters, standings & leaders |
+| 6 | [StatMuse - NL Titles](https://www.statmuse.com/mlb/ask/most-national-league-titles) | statmuse.com/mlb | 1876–2026 | NL championship leaders & franchise stats |
+| 7 | [OpenIntro MLB Dataset](https://www.openintro.org/data/index.php?data=mlb_teams) | openintro.org/data/ | Multi-year | ML-ready CSV dataset |
+| 8 | [Wikipedia - NL Pennant Winners](https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners) | wikipedia.org | 1876–present | Official pennant winner lists |
+| 9 | [ESPN - World Series History](https://www.espn.com/mlb/worldseries/history/winners) | espn.com/mlb/worldseries | 1903–present | WS champions by year w/ scores |
+| 10 | [Baseball-Reference - Postseason](https://www.baseball-reference.com/postseason/) | baseball-reference.com/postseason/ | 1903–present | Detailed postseason results by year |
 
-## Key Reference Data Points
+## Conventions & Definitions
 
-- NL Founded: February 2, 1876 (replacing the National Association)
-- 150th Anniversary: 2026
-- 1876 inaugural champion: Chicago White Stockings (52-14)
-- Best single-season record: 1906 Cubs (116-36, .763)
-- Most WS titles (NL): St. Louis Cardinals (11)
-- Most pennants: LA Dodgers (26, through 2025)
-- Most all-time NL wins: San Francisco Giants (11663)
-- Most all-time NL losses: Philadelphia Phillies (11865)
-- Braves dynasty: 14 consecutive division titles (1991-2005)
-- Dodgers dynasty: 8 straight NL West titles (2018-2025); back-to-back WS (2024-25)
-- Cubs drought ended: 2016 WS (103-58)
-- 2020 season was 60 games due to COVID-19 pandemic
-- 1994 season voided by players' strike - no WS or pennant
-- NL expanded: 8 teams (1876) -> 12 (1969) -> 14 (1993) -> 15 (1998) -> 15+ (present)
+- **Win%** = Wins / Games Played; no ties counted after 1920s
+- **Pennants** = NL championship awards (pre-1969: best regular-season record; 1969+: LCS winner)
+- **WS Titles** = World Series championships won as NL team
+- **154-game schedule** through 1960; **162-game schedule** from 1961; **60-game season** in 2020 (COVID)
+- ** Milwaukee Brewers** moved from AL to NL Central in 1998
+- **Montreal Expos** relocated to Washington Nationals in 2005
+- **1994 season voided** by players' strike — no pennant or WS awarded
+- **Pre-WS era (1876-1902)** pennants determined by best regular-season record only
+- **Interleague play** began 1997; full schedule 2023
 
-## Data Conventions
+## Data Accuracy Note
 
-- Win-loss records shown as W-L (e.g., 93-69)
-- Win percentages rounded to 3 decimal places
-- 162 game schedule adopted in 1961; prior seasons had 154 or fewer games
-- Milwaukee Brewers switched from AL to NL Central in 1998
-- Montreal Expos relocated to Washington Nationals in 2005
-- 2020 season was 60 games due to COVID-19 pandemic
-- All-time records reflect franchise history including pre-relocation totals (e.g., Brooklyn/LA Dodgers)
-- Pre-1903 pennants were for NL championship only (no WS)
-- 1994 season voided - no pennant or WS awarded
-- Split seasons in 1892 and 1981 affected wartime schedules
-- Interleague play began 1997; full schedule 2023
+The following years have been verified against Baseball Reference and ESPN:
+- 1903–1919: 8thinning race records, WS scores from ESPN [ref 9]
+- 1920–1968: Pennant winners from SABR lahman database [ref 3], WS from ESPN [ref 9]
+- 1969–2025: NL champion and WS results verified against Baseball Reference [ref 1, ref 10]
 
-## Secondary References Used
+## Files & Dependencies
 
-1. NL Team-vs-Team Win-Loss Matrix: Baseball Almanac (1876-2026) - used for constructing cross-franchise head-to-head data
-2. Year-by-year NL standings: Baseball Data Hub (baseballdatahub.com/seasons/) - primary source for annual champion data
-3. All-time franchise records: Wikipedia (List of all-time MLB win-loss records) - corroboration of franchise totals
-4. ERA and season records: ESPN MLB History - single-season stat validation
-5. NL historical timeline: Various SABR publications and MLB.com archives
+| File | Format | Content |
+|------|--------|---------|
+| `nl_all_time_records.csv` | CSV | 15 teams, franchise-level cumulative W-L, pennants, WS titles |
+| `nl_historical_performance.csv` | CSV | One row per NL championship season, 1876–2025, with era labels |
+| `nl_historical_performance_detailed.csv` | CSV | Year-by-year: Champion, 2nd place, W-L, WS result, era |
+| `nl_pennant_winners_recent.csv` | CSV | NL pennant winners and WS outcomes 1995–2025 (verified)
+| `nl_recent_standings.csv` | CSV | Full divisional standings 2020–2025 (verified)
+| `nl_championship_trends.csv` | CSV | Era-dimensioned championship trends |
+| `nl_notable_records.csv` | CSV | Five-tier tier list of NL's most remarkable single-season & franchise records |
+| `source_references.md` | MD | This file |
+
+## Recommended Update Workflow
+
+1. After each MLB season (Feb–Mar):
+   - Pull updated standings from Baseball Reference [ref 1]
+   - Update `nl_all_time_records.csv` with year-end cumulative totals
+   - Append new row to `nl_historical_performance.csv` and `nl_historical_performance_detailed.csv`
+   - Append new row to `nl_pennant_winners_recent.csv` (shift off oldest year)
+   - Update `nl_recent_standings.csv` with full 2025 or new season
+   - Update README.md with new record tables and timeline
+2. After adding SABR updated lahman CSV files:
+   - Verify all W-L records across all CSV files
+   - Recompute `nl_all_time_records.csv` from raw SABR data
+3. When adding visualization scripts:
+   - Update `visualizations/README.md` roadmap statuses
+   - Add script path to `requirements.txt` if new runtime
+
+---
