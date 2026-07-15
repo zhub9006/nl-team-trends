@@ -2,57 +2,68 @@
 
 ## Planned Visualizations
 
-### 1. Franchise Win-Loss Bar Chart
-- **Type**: Horizontal bar chart (sorted)
-- **Data**: `data/nl_all_time_records.csv`
-- **Shows**: All-time wins/losses per franchise
+### 1. Win-Loss Trend Lines Per Franchise (1876–2025)
+- **Type**: Line chart (multi-line, one per franchise)
+- **X-axis**: Season (1876–2025)
+- **Y-axis**: Cumulative or rolling win percentage
 - **Tool**: Matplotlib / Seaborn / Plotly
+- **Insight**: Identify dynasty cycles, drought periods, and franchise trajectories
+- **Status**: Not started
 
-### 2. Pennant Winners Timeline
-- **Type**: Gantt-style timeline or strip plot
-- **Data**: `data/nl_championship_trends.csv`
-- **Shows**: Pennant winners by year, color-coded by team
-- **Highlight**: 8-era color coding for dominance periods
+### 2. Pennant/Win Heatmap by Era
+- **Type**: Heatmap (rows = teams, columns = decades or eras)
+- **Color scale**: Win% or pennant count
+- **Tool**: Seaborn / Plotly
+- **Insight**: Spot dominant dynasties and competitive balance shifts
+- **Status**: Not started
 
-### 3. World Series Wins by Team
-- **Type**: Pie chart or treemap
-- **Data**: `data/nl_all_time_records.csv` (WS_Titles column)
-- **Shows**: NL teams' championship share vs. AL
+### 3. Head-to-Head Matchup Matrix Heatmap
+- **Type**: Square heatmap (15×15 for current 15 NL teams)
+- **Values**: Win% in head-to-head matchups (from Baseball Almanac W-L matrix)
+- **Tool**: Plotly / Seaborn
+- **Insight**: See inter-league rivalries and historical advantages
+- **Status**: Not started
 
-### 4. Recent Standings Heatmap
-- **Type**: Heatmap
-- **Data**: `data/nl_recent_standings.csv`
-- **Shows**: Division champion win-loss trends 2020–2025
+### 4. Championship Drought Duration Chart
+- **Type**: Bar chart or horizontal bar chart
+- **Metric**: Years since last championship per franchise
+- **Tool**: Matplotlib
+- **Insight**: Highlight historic droughts (e.g., Cubs 108 years) and recent dominance
+- **Status**: Not started
 
-### 5. Franchise Win%-Over-Time Line Chart
-- **Type**: Multi-line chart (15 lines, one per franchise)
-- **Data**: Season-by-season data (to be compiled)
-- **Shows**: team strength trajectories across eras
+### 5. Win% Distribution by Decade (Box Plot)
+- **Type**: Box plot or violin plot (one box per decade)
+- **X-axis**: Decade (1880s, 1890s, ..., 2020s)
+- **Y-axis**: Win% (162-game adjusted)
+- **Tool**: Seaborn / Plotly
+- **Insight**: Show competitive balance changes over time
+- **Status**: Not started
 
-### 6. Era Dominance Sunburst
-- **Type**: Sunburst or nested pie
-- **Data**: `data/nl_championship_trends.csv`
-- **Shows**: Dominant team per era; sub-segments for key events
+### 6. Interactive Dashboard (Future)
+- **Type**: Streamlit or Dash web app
+- **Features**:
+  - Interactive team selector
+  - Adjustable time range slider
+  - Toggle between raw and rolling averages
+  - Hover tooltips for detailed stats
+  - Download data as CSV button
+- **Tool**: Streamlit + Plotly
+- **Status**: Planned
 
-## Recommended Tools
-| Tool | Use Case | Benefit |
-|------|----------|---------|
-| Python + Matplotlib | Static charts | Fine-grained control |
-| Seaborn | Statistical viz | Beautiful defaults |
-| Plotly / Dash | Interactive dashboards | Hover, zoom, filter |
-| Streamlit | Web app | Quick to deploy |
-| R + ggplot2 | Statistical graphics | Publication-quality |
-| D3.js | Custom web viz | Maximum flexibility |
+## Recommended Tool Stack
 
-## Getting Started
-```bash
-# Clone the repo
-git clone https://github.com/zhub9006/nl-team-trends.git
-cd nl-team-trends
+| Tool | Purpose |
+|------|---------|
+| Python | Core analysis language |
+| Pandas | Data manipulation and CSV handling |
+| Matplotlib / Seaborn | Static charts |
+| Plotly | Interactive charts |
+| Streamlit | Interactive dashboard |
+| Jupyter Notebooks | Exploratory analysis (planned in `notebooks/`) |
 
-# Install dependencies (example with Python)
-pip install matplotlib pandas seaborn plotly
+## Data Source Priority
 
-# Run example notebook
-jupyter notebook notebooks/01_exploratory_analysis.ipynb
-```
+1. `data/nl_all_time_records.csv` — All-time franchise totals
+2. `data/nl_championship_trends.csv` — Era-level championship highlights
+3. `data/nl_notable_records.csv` — Single-season and franchise records
+4. `data/source_references.md` — How to access deeper data for each era
