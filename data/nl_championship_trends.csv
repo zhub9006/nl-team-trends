@@ -1,9 +1,9 @@
-Era,StartYear,EndYear,Dominant_Team(s),Pennants,WS_Titles,Key_Theme
-Founding Era,1876,1892,Chicago White Stockings/Braves,5,4,8-team league; Chicago dominance; franchise churn
-Dead Ball Transition,1893,1919,Cubs/Giants/Pirates/Braves,8,4,Record-setting wins; Miracle Braves 1914; 154G schedule
-Power & Resilience,1920,1950,Cardinals/Giants/Dodgers,10,7,Cardinals first title 1926; Braves Miracle 1914; franchise migration begins
-Relocation & Expansion,1951,1969,Giants/Dodgers/Mets/Cardinals,8,6,Dodgers/Giants move West; Miracle Mets 1969; division split
-Competitive Parity,1970,1989,Reds/Phillies/Cardinals/Mets,8,5,Big Red Machine; Pirates back-to-back; 12-team NL without divisions
-Braves Dynasty,1990,2005,Cardinals/Braves/Marlins/D-backs,12,7,14 consecutive div titles; first expansion champs
-Resurgence Cycle,2006,2016,Cardinals/Giants/Phillies/Cubs,7,5,Cardinals 3 titles; Cubs end 108-year drought 2016
-Dodgers Dynasty,2017,2025,Los Angeles Dodgers,9,4,8 straight NL West; back-to-back WS titles
+Era,Start_Year,End_Year,Dominant_Team(s),Key_Teams,Championship_Count,Theme
+Founding Era,1876,1892,Chicago White Stockings / Boston,Chicago Boston Providence Buffalo,34 Championships,8-Team League; Chicago Dominance
+Dead Ball Transition,1893,1919,Cubs / Giants / Pirates / Braves,Cubs Giants Pirates Braves Superbas,27 Championships,Record-Setting Wins; 154 Game Schedule
+Power Rise,1920,1950,Cardinals / Giants / Dodgers-NY,Cardinals Giants Dodgers,23 Championships,Durable Franchise Strengths; First WS
+Relocation Expansion,1951,1969,Giants / Dodgers / Mets / Cardinals,Giants Dodgers Mets Cardinals Braves,18 Championships,Franchise Migration; Miracle Mets 1969
+Competitive Parity,1970,1989,Reds / Phillies / Cardinals / Mets,Reds Phillies Cardinals Mets Expos,19 Championships,Big RED Machine; 12-Team League
+Braves Dynasty,1990,2005,Atlanta Braves / Cardinals / Marlins / D-backs,Atlanta Braves Cardinals Marlins D-backs,24 Championships,14-Title Streak; First Expansion Champions
+Resurgence Cycle,2006,2016,Cardinals / Giants / Phillies / Cubs,Cardinals Giants Phillies Cubs Brewers,18 Championships,Cubs End 108-Year Drought 2016
+Dodgers Era,2017,2025,Los Angeles Dodgers,Dodgers Cubs Brewers Mets Cardinals,9 Championships,Back-to-Back; 8 Straight NL West

@@ -1,4 +1,4 @@
-# Source References for NL Team Trends Research
+# Detailed Source References for NL Team Trends
 
 ## Primary Data Sources
 
@@ -6,9 +6,8 @@
 |--------|-----|----------|----------|
 | **Baseball Reference** | https://www.baseball-reference.com/leagues/NL/ | 1876–present | Year-by-year NL standings & leaders |
 | **Baseball Almanac** | https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml | 1876–2026 | NL team-vs-team head-to-head matrices |
-| **SABR Lahman Database** | https://sabr.org/lahman-database/ | 1871–2025 | Free downloadable CSV (team, batting, pitching, fielding) |
-| **Baseball Data Hub** | https://baseballdatahub.com/seasons/ | 1871–2026 | Complete season standings archive |
-| **StatsCrew** | https://www.statscrew.com/baseball/l-NL | 1876–present | NL rosters, standings & leaders |
+| **SABR Lahman Database** | https://sabr.org/lahman-database/ | 1871–2025 | Free downloadable CSV dataset (team, batting, pitching, fielding) |
+| **Baseball Data Hub** | https://baseballdatahub.com/seasons/ | 1871–2026 | Complete season standings archive |n| **StatsCrew** | https://www.statscrew.com/baseball/l-NL | 1876–present | NL rosters, standings & leaders |
 | **Everything Explained** | https://everything.explained.today | 1876–2025 | All-time franchise W-L and postseason records |
 | **StatMuse** | https://www.statmuse.com/mlb/ask/most-national-league-titles | 1876–2026 | NL championship leaders & franchise stats |
 | **Baseball Briefs** | https://baseballbriefs.com/most-wins-in-national-league-history/ | 1876–2023 | Franchise win totals analysis |
@@ -23,10 +22,9 @@
 
 ## Data Conventions
 
-- Win-loss records use the standard W-L format (e.g., 116-36)
-- Win percentages rounded to 3 decimal places (\.XXX format)
-- Division alignment reflects the team's current division assignment
-- "Championship" refers to World Series wins unless otherwise noted
-- "Pennant" refers to league championship (NL pennant) regardless of WS outcome
-- Shortened seasons (1994 strike, 2020 COVID) noted with original planned games
-- MVP words are corrected/standardized from raw data
+- Win-loss records use standard W-L format (e.g., 116-36)
+- Win percentages rounded to 3 decimal places (.XXX format)
+- Division alignment reflects current division assignment
+- "Championship" = World Series win; "Pennant" = NL league championship
+- Shortened seasons noted with original scheduled games
+- MVP words corrected to standard formatting

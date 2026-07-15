@@ -1,55 +1,52 @@
-# NL Team Trends Visualizations
-
-Visualizations for NL historical performance analysis. See `../docs/data_notes.md` for methodology.
-
-## Available Data Files
-
-| Data File | Description | Rows |
-|-----------|-------------|------|
-| `../data/nl_all_time_records.csv` | All-time franchise W-L records by team | 16 |
-| `../data/nl_key_seasons.csv` | Key individual season standings | 204+ |
-| `../data/nl_pennant_winners_recent.csv` | NL pennant winners 1995–2025 | 32 |
-| `../data/nl_recent_standings.csv` | Full standings 2020–2025 | 64+ |
-| `../data/nl_championship_trends.csv` | Championship highlights by era | 30+ |
-| `../data/nl_notable_records.csv` | Aggregated records & milestones | 25+ |
+# Visualization Roadmap
 
 ## Planned Visualizations
 
-| Plot | Description | Data Source | Tool |
-|------|-------------|-------------|------|
-| franchise_win_trajectory.png | Win% by decade per franchise (line chart) | nl_all_time_records.csv + nl_recent_standings.csv | Python/Matplotlib |
-| pennant_frequency_heatmap.png | Pennant per decade grid (teams × decade) | nl_pennant_winners_recent.csv | Python/Seaborn |
-| division_balance.png | Win% distribution strip chart by division | nl_recent_standings.csv | R/ggplot2 |
-| h2h_network.png | Team-vs-team W-L network (edge weights = H2H) | From Baseball Almanac | NetworkX/Plotly |
-| expansion_ramp.png | New franchise adjustment 7-10 year curves | nl_all_time_records.csv | Python/Matplotlib |
-| run_diff_vs_pennant.png | Run differential vs pennant success | nl_key_seasons.csv | Python/Seaborn |
-| elo_ratings_evolution.png | Cumulative Elo ratings across decades | nl_championship_trends.csv | PyElo/Matplotlib |
-| home_away_splits.png | Home vs Away win% by era (bar chart) | nl_recent_standings.csv | Python/Matplotlib |
-| championship_timeline.png | NL WS winners timeline 1876-2025 | nl_championship_trends.csv | Python/Plotly |
-| era_comparison.png | Win% & pennants by era (grouped bar) | nl_championship_trends.csv | Python/Seaborn |
-| record_breakdown.png | Single-season records by franchise (horizontal bar) | nl_notable_records.csv | Python/Matplotlib |
+### 1. All-Time Franchise Win-Loss Bar Chart
+- **Data Source**: `data/nl_all_time_records.csv`
+- **Type**: Horizontal bar chart ordered by win percentage
+- **Color**: Team primary colors
+- **Insight**: Compare franchise durability and winning percentage across the century-plus landscape
 
-## Quick Start
+### 2. Championship Timeline (Gantt-style)
+- **Data Source**: `data/nl_championship_trends.csv`
+- **Type**: Timeline/Gantt chart showing championship runs across eras
+- **Insight**: Visualize eras of dominance (Braves 1991-2005, Dodgers 2017-2025)
 
-```bash
-cd visualizations
-pip install matplotlib pandas numpy seaborn plotly
-python franchise_win_trajectory.py
-```
+### 3. Heatmap: Head-to-Head Records
+- **Data Source**: `https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml`
+- **Type**: Matrix heatmap (NL team vs NL team)
+- **Insight**: Identify historical rivalries and dominance patterns
 
-Each script reads from `../data/*.csv` and writes to `./output/`.
+### 4. Season-by-Season Win-Loss Trends
+- **Data Source**: SABR Lahman `Teams.csv` + season records
+- **Type**: Line chart overlaying multiple franchises
+- **Insight**: Track franchise trajectories through winning and losing cycles
 
-## Sample Analysis Script
+### 5. Pennant/Championship Wind roses or Sankey diagrams
+- **Data Source**: `data/nl_championship_trends.csv` + `nl_key_seasons.csv`
+- **Type**: Flow diagram showing pennant flows to World Series outcomes
+- **Insight**: Which pennant winners won the World Series vs. fell short
 
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
+### 6. Division Dominance Over Time
+- **Data Source**: `data/nl_recent_standings.csv` + historical divisions
+- **Type**: Small multiples by division, showing which team led each decade
+- **Insight**: How competitive balance has shifted across the NL East/West/Central
 
-# Load key data
-records = pd.read_csv('../data/nl_all_time_records.csv')
-trends = pd.read_csv('../data/nl_championship_trends.csv')
+## Tools Suggestions
 
-# Top 5 franchises by win percentage
-top5 = records.nlargest(5, 'Win_Pct')
-print(top5[['Franchise', 'Win_Pct', 'Wins', 'Losses', 'WS_Titles']])
-```
+- **Python**: matplotlib, seaborn, plotly
+- **R**: ggplot2, plotly
+- **JavaScript**: D3.js, Chart.js
+- **Dashboard**: Streamlit or Dash for interactive exploration
+
+## Data File Inventory
+
+| File | Description |
+|------|-------------|
+| `data/nl_all_time_records.csv` | All-time franchise W-L totals |
+| `data/nl_key_seasons.csv` | Key individual season records & championships |
+| `data/nl_recent_standings.csv` | Full recent standings (2020-2025) |
+| `data/nl_championship_trends.csv` | Championship highlights organized by era |
+| `data/nl_notable_records.csv` | Notable single-season and franchise records |
+| `data/source_references.md` | Detailed source attribution |
