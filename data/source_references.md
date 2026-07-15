@@ -1,94 +1,35 @@
-# Source References & Attribution
+# Source References for NL Team Trends Research
 
-This file documents all sources used to compile the historical National League performance data in this repository. Each source is evaluated for reliability, coverage, and specific data points contributed.
+## Primary Data Sources
 
----
+| # | Source | URL | Description | Coverage |
+|---|--------|-----|-------------|----------|
+| 1 | Baseball Reference | https://www.baseball-reference.com/leagues/NL/ | Year-by-year NL standings & statistical leaders | 1876–present |
+| 2 | Baseball Almanac | https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml | NL team-vs-team win-loss matrices (full head-to-head) | 1876–2026 |
+| 3 | Baseball Almanac | https://www.baseball-almanac.com/year_by_year/NLwinners.shtml | Year-by-year NL pennant & WS winners | 1876–present |
+| 4 | SABR Lahman Database | https://sabr.org/lahman-database/ | Complete historical team/batting/pitching stats (open data) | 1871–2025 |
+| 5 | Baseball Data Hub | https://baseballdatahub.com/seasons/ | Season standings archive for all MLB seasons | 1871–2026 |
+| 6 | Wikipedia | https://en.wikipedia.org/wiki/List_of_all-time_MLB_win–loss_records | All-time franchise records & league comparisons | 1876–present |
+| 7 | Wikipedia | https://en.wikipedia.org/wiki/National_League_(baseball) | NL history, structure & franchise timeline | 1876–present |
+| 8 | StatsCrew | https://www.statscrew.com/baseball/l-NL | NL rosters, standings & team leaders | 1876–present |
+| 9 | StatMuse | https://www.statmuse.com/mlb/ask/most-national-league-titles | NL championship leaders & franchise stats via AI | 1876–2026 |
+| 10 | OpenIntro | https://www.openintro.org/data/index.php?data=mlb_teams | ML-ready MLB team dataset for analysis | Multi-year |
 
-## Primary Sources
+## Data Conventions
 
-### 1. Baseball Almanac — NL Team-vs-Team W-L Records
-- **URL:** https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml
-- **Coverage:** 1876–2026 (every NL team vs every other team)
-- **Data Points:** Complete head-to-head win-loss matrix between all 15 NL franchises, including relocated/merged franchises. Updated daily during the regular season.
-- **Key Finding Used:** Manhattan (NY) Giants vs Brooklyn Dodgers: 1,039-698 all-time; Cubs vs Cardinals: 1,209-1,076; Mets vs Yankees (interleague): 131-147; Cardinals vs Braves: 1,227-1,209.
-- **Reliability:** ★★★★★ — Primary research resource; maintained by baseball historians since 1999.
+- Win% = Wins / Games Played (not all-win percentage; some games may not be counted in specific eras)
+- Pennants = League championship awards (pre-Wild Card era, typically the team with the best record)
+- WS Titles = World Series championships won while representing the NL
+- All data through end of 2025 MLB season
+- Pre-1961 seasons use a 154-game schedule; 1961+ uses a 162-game schedule
+- 2020 season was shortened to 60 games due to COVID-19; noted as special case
+- Franchise moves are included (e.g., SF Giants includes NY Giants data; ATL Braves includes Boston/Milwaukee Braves)
+- Milwaukee Brewers switched from AL to NL in 1998; included in NL data from that point
+- Montreal Expos became Washington Nationals in 2005; data continues from 1969 season
 
-### 2. Baseball Reference — League Standings & Leaders
-- **URL:** https://www.baseball-reference.com/leagues/NL/
-- **Coverage:** 1876–present
-- **Data Points:** Official year-by-year NL standings, team leaders, league-level statistics.
-- **Reliability:** ★★★★★ — Gold standard for baseball statistics; maintained by Sports Reference LLC.
+## Key Methodology Notes
 
-### 3. Baseball Data Hub — Complete Season Archive
-- **URL:** https://baseballdatahub.com/seasons/
-- **Coverage:** 1871–2026 (156 seasons)
-- **Data Points:** Final standings for every season, statistical leaders, postseason results, team records.
-- **Reliability:** ★★★★☆ — Good overview; aggregates data from official sources.
-
-### 4. SABR Lahman Database
-- **URL:** https://sabr.org/lahman-database/
-- **Coverage:** 1871–2025
-- **Data Points:** Full historical team-level CSV datasets (Teams, Batting, Pitching, Fielding, Post-War). Free and downloadable.
-- **Reliability:** ★★★★★ — Community-maintained, academically backed by SABR (Society for American Baseball Research).
-
-### 5. StatsCrew — NL Rosters, Standings & Leaders
-- **URL:** https://www.statscrew.com/baseball/l-NL
-- **Coverage:** 1876–present
-- **Data Points:** Rosters, standings, and leaders for every NL season.
-- **Reliability:** ★★★★☆ — Comprehensive but older interface; data aligns with other major sources.
-
-### 6. Everything Explained — All-Time Franchise Records
-- **URL:** https://everything.explained.today
-- **Coverage:** 1876–2025
-- **Data Points:** Structured franchise W-L records and postseason histories.
-- **Reliability:** ★★★☆☆ — Aggregated summary; useful for quick reference, cross-check with primary sources.
-
-### 7. StatMuse — NL Championship Leaders & Franchise Stats
-- **URL:** https://www.statmuse.com/mlb/ask/most-national-league-titles
-- **Coverage:** 1876–2026
-- **Data Points:** NL championship leaders, franchise statistics, pennant counts.
-- **Reliability:** ★★★★☆ — AI-powered Q&A but sources from MLB.com and Baseball Reference data.
-
-### 8. Baseball Briefs — Franchise Win Totals Analysis
-- **URL:** https://baseballbriefs.com/most-wins-in-national-league-history/
-- **Coverage:** 1876–2023
-- **Data Points:** Detailed win totals per franchise, era-by-era breakdown.
-- **Key Finding Used:** SF Giants lead with 11,461 all-time NL wins; Dodgers second at 11,334. Cardinals 10,987; Cubs 10,869.
-- **Reliability:** ★★★☆☆ — Fan-run analysis; directionally correct but counts may include/exclude some early seasons differently.
-
-### 9. OpenIntro MLB Dataset
-- **URL:** https://www.openintro.org/data/index.php?data=mlb_teams
-- **Coverage:** Multi-year
-- **Data Points:** Machine-learning-ready MLB team data in CSV format.
-- **Reliability:** ★★★★☆ — Academic dataset; vetted for use in textbooks.
-
-### 10. Wikipedia — All-Time MLB Win-Loss Records
-- **URL:** https://en.wikipedia.org/wiki/List_of_all-time_Major_League_Baseball_win%E2%80%93loss_records
-- **Coverage:** 1876–present
-- **Data Points:** All-time MLB win-loss records, franchise histories.
-- **Reliability:** ★★★☆☆ — Community-edited; useful as a secondary confirmation source.
-
----
-
-## Key Data Cross-Referenced
-
-| Metric | Cross-Referenced Sources | Consensus Value |
-|--------|--------------------------|-----------------|
-| Most NL wins (all-time) | Baseball Briefs, Everything Explained, StatMuse | SF Giants: 11,663 (through 2025) |
-| Most NL pennants | StatMuse, Baseball Reference | LA Dodgers: 26 (through 2025) |
-| Most WS titles (NL) | StatMuse, Wikipedia | St. Louis Cardinals: 11 |
-| Best single-season NL record | Baseball Almanac, Everything Explained | 1906 Chicago Cubs: 116-36 (.763) |
-| Most consecutive division titles | Everything Explained, Baseball Reference | Atlanta Braves: 14 (1991-2005) |
-| Highest NL win% by decade | Baseball Briefs, StatMuse | Cardinals 1942-52: .620 |
-| Head-to-head: NY Giants vs Brooklyn Dodgers | Baseball Almanac | 1,039-698 (Giants lead) |
-| Head-to-head: Cubs vs Cardinals | Baseball Almanac | 1,209-1,076 (Cubs lead) |
-
----
-
-## Recommended Additional Sources
-
-1. **SABR BioProject** — Player biographies contextualizing team eras
-2. **Retrosheet** — Play-by-play box scores for detailed team performance analysis
-3. **FanGraphs** — Advanced metrics (wRC+, DRS, UZR) for evaluating team strength
-4. **Baseball-Reference Play Index** — Custom query builder for filtered team data
-5. **MLB.com Stats** — Official league statistics verified by MLB
+1. **Franchise Continuity**: When a team relocated (NY→LA Dodgers, NY→SF Giants, Montreal→Washington), their historical record is combined under the current franchise name.
+2. **Era Boundaries**: Era delineations align with major structural changes (division creation 1969, 3-division format 1994, 162-game schedule 1961, interleague play 1997, full interleague 2023).
+3. **Head-to-Head Data**: The team-vs-team matrix from Baseball Almanac includes interleague and postseason results; use the all-time records table for pure regular-season franchise totals.
+4. **Data Gaps**: Early seasons (1876–1892) have incomplete box scores in some sources; the Lahman Database is the most comprehensive for this period.

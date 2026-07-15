@@ -1,9 +1,9 @@
-Era,Start_Year,End_Year,Dominant_Team,Key_Team_2,Theme,Notable_Event
-Founding Era,1876,1892,Chicago White Stockings,N/A,8-team league; franchise churn,First NL champion in 1876
-Dead Ball Transition,1893,1919,Chicago Cubs,New York Giants,Record-setting win seasons,Cubs 116 wins in 1906
-Power & Resilience,1920,1950,St. Louis Cardinals,New York Giants,Cardinals rise; franchise migration,Braves Miracle 1914
-Relocation & Expansion,1951,1969,New York Giants,Brooklyn Dodgers,Dodgers/Giants move West; 1969 divisions,Miracle Mets 1969
-Post-Division Era,1970,1989,Cincinnati Reds,Philadelphia Phillies,Big Red Machine; competitive parity,1986 Mets comeback
-Braves Dynasty,1990,2005,Atlanta Braves,St. Louis Cardinals,14 consecutive division titles,First expansion champions (Marlins D-backs)
-Resurgence Cycle,2006,2016,St. Louis Cardinals,San Francisco Giants,Cubs end 108-year drought 2016,Cardinals 3 titles in decade
-Dodgers Dynasty,2017,2025,LA Dodgers,N/A,Dodgers 8 straight NL West; back-to-back WS,LA Dodgers 2020 & 2024-25 WS titles
+era,start_year,end_year,dominant_team(s),theme,most_p醛ants,most_ws_titles
+Founding Era,1876,1892,Chicago White Stockings / Boston,8-team league; establishment of professional baseball,Chicago (6),Boston (2)
+Dead Ball Era,1893,1919,Cubs / Giants / Pirates / Braves,Record-setting wins; early dynasty cycles,Chicago (6),Giants (3)
+Power Transition Era,1920,1950,Cardinals / Giants / Dodgers-NY,NL power shift; franchise migration begins,Giants (7),Cardinals (5)
+Relocation Era,1951,1969,Giants / Dodgers / Mets / Cardinals,Miracle Mets 1969; Dodgers relocation to LA,Giants (6),Dodgers (2)
+Parity Era,1970,1989,Reds / Phillies / Cardinals / Mets,Big Red Machine; emerging competitive parity,Cards (7),Cardinals (4)
+Braves Dynasty Era,1990,2005,Braves / Cardinals / Marlins / D-backs,Braves 14 consecutive division titles,Braves (14),Marlins (2)
+Resurgence Cycle,2006,2016,Cardinals / Giants / Phillies / Cubs,Cubs end 108-year drought in 2016,Cards (8),Cardinals (4)
+Dodgers Dynasty Era,2017,2025,Dodgers,Dodgers 8 straight NL West titles,Dodgers (8),Dodgers (3)
