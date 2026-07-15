@@ -1,9 +1,7 @@
-year,east_winner,wwins,ewins,los,central_winner,cwins,central_wins,west_winner,wwins,west_wins,ws_winner,notes
-2020,Atlanta Braves,35,25,Cincinnati Reds,31,29,Los Angeles Dodgers,43,17,Los Angeles Dodgers,Shortened season
-1995,Atlanta Braves,90,54,Cincinnati Reds,85,59,Los Angeles Dodgers,78,66,Los Angeles Dodgers,
-2019,Atlanta Braves,97,65,St. Louis Cardinals,91,71,Los Angeles Dodgers,106,56,Los Angeles Dodgers,
-2018,Atlanta Braves,90,72,Los Angeles Dodgers,92,71,Los Angeles Dodgers,
-2017,Los Angeles Dodgers,104,58,Wisconsin,86,71,Cincinnati Reds,91,71,
-2016,Washington Nationals,95,67,Chicago Cubs,103,58,Los Angeles Dodgers,91,71,Chicago Cubs,
-2015,New York Mets,90,72,St. Louis Cardinals,100,62,Los Angeles Dodgers,92,70,
-2014,Washington Nationals,96,66,St. Louis Cardinals,90,72,San Francisco Giants,90,72,
+Year,East_Champion,East_WL,Central_Champion,Central_WL,West_Champion,West_WL,WS_Winner,WS_Winner_WL,NL_WS
+2025,Philadelphia Phillies,96-66,Milwaukee Brewers,97-65,LA Dodgers,93-69,LA Dodgers,93-69,NL
+2024,Atlanta Braves,89-73,Milwaukee Brewers,93-69,LA Dodgers,98-64,LA Dodgers,98-64,NL
+2023,Atlanta Braves,104-58,Milwaukee Brewers,92-70,LA Dodgers,100-62,TX Rangers (AL),90-73,AL
+2022,Atlanta Braves,101-61,St. Louis Cardinals,93-69,LA Dodgers,111-51,HOU (AL),95-67,AL
+2021,Atlanta Braves,88-73,Milwaukee Brewers,95-67,LA Dodgers,106-56,Atlanta Braves,88-73,NL
+2020,Atlanta Braves,35-25,Cincinnati Reds,31-29,LA Dodgers,43-17,LA Dodgers,43-17,NL

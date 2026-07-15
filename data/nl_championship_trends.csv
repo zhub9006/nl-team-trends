@@ -1,9 +1,9 @@
-era,start_year,end_year,dominant_teams,theme,total_pennants,ws_titles_won,key_insight
-Founding,1876,1892,Chicago White Stockings, Boston Beaneaters,NL formation & early consolidation,8,0,8-team league; no divisions; high franchise turnover
-Dead Ball,1893,1919,Chicago Cubs, Pittsburgh Pirates,Record-setting wins,10,5,154-game schedule; first WS in 1903; 116-win Cubs in 1906
-Power,1920,1949,St. Louis Cardinals, New York Giants,Franchise power bases established,10,6,Cards begin dynasty; Braves Miracle 1914; Giants 4 pennants in 5 years
-Relocation,1950,1969,Brooklyn/LA Dodgers, NY Giants,New York→West Coast migration,10,6,Dodgers & Giants move west; 1962 Mets join; division split 1969
-Expansion,1970,1989,Cincinnati Reds, Philadelphia Phillies,Big Red Machine through parity,10,5,1994 division creates chaos; 1969 Miracle Mets; 12-team league
-Dynasty,1990,2005,Atlanta Braves, St. Louis Cardinals, Braves 14-division streak,10,6,First expansion champions; interleague play begins
-Resurgence,2006,2016,St. Louis Cardinals, San Francisco Giants,New cycle of champions,9,3,Cubs end 108-year drought 2016; competitive parity ends
-Dodgers Dynasty,2017,2025,Los Angeles Dodgers, Atlanta Braves,LA dominance in modern era,9,2,Dodgers 8 straight NL West; 8 WS titles in last 19 years
+Era,Start_Year,End_Year,Dominant_Team,Key_Team_2,Theme,Notable_Event
+Founding Era,1876,1892,Chicago White Stockings,N/A,8-team league; franchise churn,First NL champion in 1876
+Dead Ball Transition,1893,1919,Chicago Cubs,New York Giants,Record-setting win seasons,Cubs 116 wins in 1906
+Power & Resilience,1920,1950,St. Louis Cardinals,New York Giants,Cardinals rise; franchise migration,Braves Miracle 1914
+Relocation & Expansion,1951,1969,New York Giants,Brooklyn Dodgers,Dodgers/Giants move West; 1969 divisions,Miracle Mets 1969
+Post-Division Era,1970,1989,Cincinnati Reds,Philadelphia Phillies,Big Red Machine; competitive parity,1986 Mets comeback
+Braves Dynasty,1990,2005,Atlanta Braves,St. Louis Cardinals,14 consecutive division titles,First expansion champions (Marlins D-backs)
+Resurgence Cycle,2006,2016,St. Louis Cardinals,San Francisco Giants,Cubs end 108-year drought 2016,Cardinals 3 titles in decade
+Dodgers Dynasty,2017,2025,LA Dodgers,N/A,Dodgers 8 straight NL West; back-to-back WS,LA Dodgers 2020 & 2024-25 WS titles

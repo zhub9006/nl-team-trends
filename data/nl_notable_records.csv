@@ -1,13 +1,12 @@
-record,team,detail,value,year
-Best NL winning percentage,Chicago Cubs,Best single-season,.763,1906
-Best 162-game NL record,LA Dodgers,Best full modern season,111-51 (.685),2022
-Best shortened NL record,LA Dodgers,60-game season,.717,2020
-Most NL pennants,LA Dodgers,All-time NL pennant count,26,2025
-Most WS titles (NL),St. Louis Cardinals,World Series championships,11,All-time
-Most consecutive division titles,Atlanta Braves,Division crowns in a row,14,1991-2005
-Largest margin of victory (era),Chicago White Stockings,Most wins in first NL season,52 wins,1876
-Highest franchise Win%,Miami Marlins,Win percentage of all active teams,.569,All-time
-Best NL start (expansion),LA Dodgers,Best start by expansion team in NL,43-17,2020
-Only franchise w/o NL pennant,Milwaukee Brewers,Active teams without NL title,0 pennants,All-time
-Most seasons leading league in wins,San Francisco Giants,Leads NL in wins most often,16 times,All-time
-Most playoff appearances,St. Louis Cardinals,Playoff appearances all-time,30+,All-time
+Record,Team_Detail,Value,Year,Notes
+Best NL Winning Percentage,1906 Chicago Cubs,.763 (116-36),1906,Best single-season record in major North American pro sports
+Best 162-Game NL Record,2022 LA Dodgers,111-51 (.685),2022,Most wins in 162-game NL season
+Best Shortened NL Record,2020 LA Dodgers,43-17 (.717),2020,60-game COVID-shortened season
+Most NL Pennants,LA Dodgers,26,2025,Through 2025 season
+Most WS Titles (NL),St. Louis Cardinals,11,2024,MLB record for most WS titles
+Highest Single-Season Win Total (NL),1906 Chicago Cubs,116,1906,One of the greatest seasons in baseball history
+Most Consecutive Division Titles,Atlanta Braves,14,1991-2005,Braves dynasty era
+Largest Pennant Margin (154G),1909 Pittsburgh Pirates,12 games,1909,Maxň+37.5 GB over 2nd place
+Largest Pennant Margin (162G),1976 Cincinnati Reds,10.5 games,1976,Big Red Machine division sweep
+Lowest Win% (NL Champion),1876 Chicago,Ag76%,1876,Only 52-14 in 66-game inaugural season
+Only Franchise w/o NL Pennant (Active),Milwaukee Brewers,0,—,Won AL pen 1982; moved to NL in 1998
