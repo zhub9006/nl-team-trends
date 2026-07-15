@@ -1,151 +1,142 @@
-year,champion,champion_wins,champion_losses,champion_win_pct,second_place,second_wins,second_losses,second_win_pct,division,ws_champion,ws_opponent,ws_result,era,notes
-1876,Chicago White Stockings,52,14,0.786,Boston Red Stockings,42,18,0.700,None,None,None,None,Founding,"Inaugural NL season; 8 teams; Chicago dominates"
-1877,Boston Red Stockings,42,18,0.700,Chicago White Stockings,26,32,0.449,None,None,None,None,Founding,"Boston wins second consecutive title"
-1878,Boston Red Stockings,41,19,0.683,Chicago White Stockings,30,30,0.500,None,None,None,None,Founding
-1879,Providence Grays,59,25,0.702,Boston Red Stockings,59,34,0.635,None,None,None,None,Founding
-1880,Chicago White Stockings,67,17,0.798,Cincinnati Reds,37,23,0.617,None,None,None,None,Founding,"NL's best win% until 1906"
-1881,Chicago White Stockings,56,28,0.667,Providence Grays,47,33,0.588,None,None,None,None,Founding
-1882,Chicago White Stockings,55,25,0.688,Providence Grays,52,30,0.634,None,None,None,None,Founding
-1883,Providence Grays,58,26,0.690,Boston Beaneaters,63,32,0.663,None,None,None,None,Founding
-1884,Providence Grays,84,28,0.750,Boston Beaneaters,73,38,0.658,None,None,None,None,Founding,"Providence dominates with 58.3% win rate"
-1885,Chicago White Stockings,87,25,0.777,,30,91,0.248,None,None,None,None,Founding
-1886,Chicago White Stockings,90,34,0.726,Detroit Wolverines,87,36,0.707,None,None,None,None,Founding
-1887,Detroit Wolverines,79,45,0.637,Chicago White Stockings,70,50,0.583,None,None,None,None,Founding
-1888,New York Giants,84,47,0.641,Chicago White Stockings,71,51,0.582,None,None,None,None,Founding
-1889,New York Giants,83,43,0.659,Chicago White Stockings,67,50,0.573,None,None,None,None,Founding
-1890,Boston Beaneaters,88,44,0.667,Brooklyn Ward's Wonders,76,56,0.576,None,None,None,None,Founding
-1891,Boston Beaneaters,87,51,0.630,New York Giants,71,61,0.536,None,None,None,None,Founding
-1892,Boston Beaneaters,102,58,0.638,Cleveland Spiders,93,56,0.624,East/West,None,None,None,Founding,"First split season; 12-team league"
-1893,Boston Beaneaters,86,43,0.667,Pittsburgh Pirates,81,43,0.653,None,None,None,None,Dead Ball,"First 154-game schedule"
-1894,Baltimore Orioles,89,39,0.695,New York Giants,88,44,0.667,None,None,None,None,Dead Ball
-1895,Baltimore Orioles,87,43,0.669,Philadelphia Phillies,78,53,0.595,None,None,None,None,Dead Ball
-1896,Baltimore Orioles,90,39,0.698,Brooklyn Bridegrooms,93,42,0.689,None,None,None,None,Dead Ball
-1897,Boston Beaneaters,93,42,0.689,Baltimore Orioles,90,40,0.692,None,None,None,None,Dead Ball
-1898,Boston Beaneaters,102,47,0.685,Baltimore Orioles,96,53,0.646,None,None,None,None,Dead Ball
-1899,Boston Beaneaters,102,47,0.685,Baltimore Orioles,86,62,0.581,None,None,None,None,Dead Ball,"NL contracts to 8 teams"
-1900,Brooklyn Superbas,82,54,0.603,Pittsburgh Pirates,87,51,0.630,None,None,None,None,Dead Ball
-1901,Pittsburgh Pirates,90,49,0.647,Philadelphia Phillies,83,57,0.593,None,None,None,None,Dead Ball
-1902,Pittsburgh Pirates,103,36,0.741,Brooklyn Superbas,75,63,0.543,None,None,None,None,Dead Ball
-1903,Philadelphia Phillies,83,52,0.616,New York Giants,84,55,0.603,None,Boston Americans,None,L,Dead Ball,"First World Series held"
-1904,New York Giants,106,47,0.693,Pittsburgh Pirates,87,66,0.569,None,None,None,None,Dead Ball,"Giants refuse World Series"
-1905,New York Giants,105,48,0.686,Pittsburgh Pirates,96,57,0.627,None,Philadelphia Athletics,W,L,Dead Ball
-1906,Chicago Cubs,116,36,0.763,New York Giants,96,56,0.632,None,Chicago White Sox,L,L,Dead Ball,"Best winning% in major league history"
-1907,Chicago Cubs,107,45,0.704,Pittsburgh Pirates,91,63,0.591,None,Detroit Tigers,W,L,Dead Ball
-1908,Chicago Cubs,99,55,0.644,Pittsburgh Pirates,98,56,0.639,None,Detroit Tigers,W,L,Dead Ball,"Merkle's Boner; Cubs win 2nd straight"
-1909,Pittsburgh Pirates,110,42,0.724,Chicago Cubs,104,49,0.680,None,Pittsburgh Pirates,W,W,Dead Ball
-1910,Chicago Cubs,104,50,0.675,Philadelphia Athletics,88,57,0.606,None,Philadelphia Athletics,L,L,Dead Ball
-1911,New York Giants,99,54,0.647,Chicago Cubs,92,62,0.597,None,Philadelphia Athletics,L,L,Dead Ball
-1912,New York Giants,103,48,0.682,Pittsburgh Pirates,93,58,0.616,None,Boston Red Sox,L,L,Dead Ball
-1913,New York Giants,101,51,0.664,Philadelphia Phillies,88,63,0.583,None,Philadelphia Athletics,L,L,Dead Ball
-1914,Boston Braves,94,59,0.614,New York Giants,84,70,0.545,None,Boston Red Sox,W,W,Dead Ball,"Miracle: 26-game turnaround in 37 games"
-1915,Philadelphia Phillies,90,62,0.592,Boston Braves,83,69,0.546,None,Boston Red Sox,L,L,Dead Ball
-1916,Brooklyn Robins,94,60,0.610,New York Giants,86,66,0.566,None,Boston Red Sox,L,L,Dead Ball
-1917,New York Giants,98,56,0.636,St. Louis Cardinals,82,70,0.539,None,Chicago White Sox,L,L,Dead Ball
-1918,Chicago Cubs,84,45,0.649,Brooklyn Robins,57,68,0.456,None,Boston Red Sox,L,L,Dead Ball,"Shortened season due to WWI"
-1919,Cincinnati Reds,96,44,0.686,New York Giants,87,53,0.621,None,Cincinnati Reds,W,W,Dead Ball,"Black Sox scandal taints 1919 WS"
-1920,Brooklyn Robins,93,61,0.604,Boston Braves,83,71,0.539,None,Cleveland Indians,L,L,Dead Ball
-1921,New York Giants,94,59,0.614,Pittsburgh Pirates,90,63,0.588,None,New York Yankees,L,L,Power,"NY Giants win 3rd title in 5 years"
-1922,New York Giants,93,61,0.604,St. Louis Cardinals,85,69,0.552,None,New York Yankees,L,L,Power
-1923,New York Giants,95,58,0.621,Pittsburgh Pirates,87,67,0.565,None,New York Yankees,L,L,Power
-1924,New York Giants,93,60,0.605,Brooklyn Robins,92,62,0.597,None,Washington Senators,L,L,Power
-1925,Pittsburgh Pirates,95,58,0.618,New York Giants,86,68,0.558,None,Pittsburgh Pirates,W,W,Power
-1926,St. Louis Cardinals,89,65,0.578,New York Giants,91,63,0.591,None,St. Louis Cardinals,W,W,Power,"First of 11 Cardinals WS titles"
-1927,Chicago Cubs,98,56,0.636,St. Louis Cardinals,92,61,0.603,None,New York Yankees,L,L,Power
-1928,St. Louis Cardinals,95,59,0.614,Brooklyn Robins,97,56,0.636,None,New York Yankees,W,L,Power
-1929,Chicago Cubs,98,54,0.645,Pittsburgh Pirates,88,65,0.575,None,Philadelphia Athletics,L,L,Power
-1930,St. Louis Cardinals,92,62,0.597,Chicago Cubs,90,64,0.584,None,Philadelphia Athletics,L,L,Power
-1931,St. Louis Cardinals,103,50,0.673,New York Giants,87,65,0.572,None,St. Louis Cardinals,W,W,Power
-1932,Chicago Cubs,90,64,0.584,Pittsburgh Pirates,86,68,0.559,None,New York Yankees,L,L,Power
-1933,New York Giants,91,61,0.599,Pittsburgh Pirates,80,74,0.519,None,New York Giants,W,W,Power
-1934,St. Louis Cardinals,95,58,0.621,New York Giants,93,60,0.608,None,St. Louis Cardinals,W,W,Power
-1935,Cincinnati Reds,90,63,0.588,St. Louis Cardinals,96,58,0.623,None,Detroit Tigers,L,L,Power
-1936,St. Louis Cardinals,87,67,0.565,Chicago Cubs,86,68,0.558,None,New York Yankees,W,L,Power
-1937,Chicago Cubs,93,61,0.604,St. Louis Cardinals,81,73,0.526,None,New York Yankees,L,L,Power
-1938,Chicago Cubs,89,65,0.578,Pittsburgh Pirates,86,64,0.571,None,New York Yankees,W,L,Power
-1939,Cincinnati Reds,97,57,0.630,St. Louis Cardinals,92,61,0.600,None,Cincinnati Reds,W,W,Power
-1940,Cincinnati Reds,100,54,0.649,St. Louis Cardinals,85,69,0.552,None,Cincinnati Reds,W,W,Power
-1941,Brooklyn Dodgers,100,54,0.649,St. Louis Cardinals,89,65,0.578,None,New York Yankees,L,L,Power
-1942,St. Louis Cardinals,106,48,0.688,Brooklyn Dodgers,104,50,0.675,None,St. Louis Cardinals,W,W,Power,"First of 5 Cards titles in 6 years"
-1943,St. Louis Cardinals,105,49,0.682,Pittsburgh Pirates,80,74,0.519,None,St. Louis Cardinals,W,W,Power
-1944,St. Louis Cardinals,105,49,0.682,Pittsburgh Pirates,90,63,0.588,None,St. Louis Cardinals,W,W,Power,"Streetcar Series vs Browns"
-1945,Chicago Cubs,98,56,0.636,St. Louis Cardinals,95,59,0.617,None,Detroit Tigers,L,L,Power
-1946,St. Louis Cardinals,98,58,0.628,Boston Braves,81,72,0.526,None,St. Louis Cardinals,W,W,Power
-1947,Boston Braves,86,68,0.558,St. Louis Cardinals,89,65,0.578,None,New York Yankees,L,L,Transition
-1948,Boston Braves,91,62,0.595,St. Louis Cardinals,85,69,0.553,None,Cleveland Indians,L,L,Transition
-1949,Brooklyn Dodgers,97,57,0.630,St. Louis Cardinals,96,58,0.593,None,New York Yankees,L,L,Transition
-1950,Philadelphia Phillies,91,63,0.591,Boston Braves,83,71,0.539,None,New York Yankees,L,L,Transition
-1951,New York Giants,98,59,0.624,Brooklyn Dodgers,97,59,0.618,None,New York Giants,W,W,Transition,"Shot Heard Round the World; playoff"
-1952,Brooklyn Dodgers,96,57,0.627,New York Giants,92,62,0.597,None,New York Yankees,L,L,Transition
-1953,Brooklyn Dodgers,105,49,0.682,Milwaukee Braves,92,62,0.597,None,New York Yankees,L,L,Transition
-1954,New York Giants,97,57,0.630,Brooklyn Dodgers,92,64,0.586,None,New York Giants,W,W,Transition,"Willie Mays Catch; Giants sweep WS"
-1955,Brooklyn Dodgers,98,55,0.641,Milwaukee Braves,85,69,0.553,None,Brooklyn Dodgers,W,W,Transition
-1956,Brooklyn Dodgers,93,61,0.604,Milwaukee Braves,92,62,0.597,None,New York Yankees,L,L,Transition
-1957,Milwaukee Braves,95,59,0.617,St. Louis Cardinals,88,67,0.567,None,Milwaukee Braves,W,W,Transition,"1st season in Milwaukee; 1st WS title"
-1958,Milwaukee Braves,86,68,0.558,Pittsburgh Pirates,84,70,0.545,None,New York Yankees,L,L,Transition
-1959,Los Angeles Dodgers,88,68,0.564,Milwaukee Braves,86,70,0.558,None,Los Angeles Dodgers,W,W,Transition
-1960,Pittsburgh Pirates,95,59,0.617,St. Louis Cardinals,86,76,0.531,None,Pittsburgh Pirates,W,W,Transition
-1961,Cincinnati Reds,93,61,0.604,Los Angeles Dodgers,89,65,0.578,None,Cincinnati Reds,W,W,162-game,"First 162-game season; Reds win WP"
-1962,San Francisco Giants,103,62,0.624,Los Angeles Dodgers,102,63,0.617,West,Los Angeles Dodgers,L,L,162-game,"101-game race; NL adds 4 teams"
-1963,Los Angeles Dodgers,99,53,0.651,St. Louis Cardinals,93,69,0.574,West,Los Angeles Dodgers,W,W,162-game,"Prada Plata punch"
-1964,St. Louis Cardinals,93,69,0.574,Philadelphia Phillies,92,70,0.568,West,St. Louis Cardinals,W,W,162-game,"Bob Gibson era begins"
-1965,Los Angeles Dodgers,94,68,0.580,San Francisco Giants,95,67,0.586,West,Los Angeles Dodgers,W,W,162-game
-1966,Los Angeles Dodgers,95,67,0.586,San Francisco Giants,93,69,0.574,West,Los Angeles Dodgers,W,W,162-game
-1967,St. Louis Cardinals,101,60,0.627,San Francisco Giants,91,71,0.556,West,St. Louis Cardinals,W,W,162-game,"Gibson MVP; 11-play HR"
-1968,St. Louis Cardinals,97,65,0.599,Philadelphia Phillies,92,70,0.568,West,St. Louis Cardinals,W,W,162-game,"The Year of the Pitcher; Gibson 1.12"
-1969,New York Mets,100,62,0.617,Chicago Cubs,92,70,0.568,East,Los Angeles Dodgers,L,L,162-game,"Miracle Mets: 100 wins in 1st year"
-1970,Cincinnati Reds,102,60,0.630,Pittsburgh Pirates,89,73,0.549,East,Cincinnati Reds,W,W,162-game,"Big Red Machine begins"
-1971,Pittsburgh Pirates,97,65,0.599,St. Louis Cardinals,90,72,0.549,East,Pittsburgh Pirates,W,W,162-game
-1972,Cincinnati Reds,95,59,0.617,Pittsburgh Pirates,86,76,0.552,East,Cincinnati Reds,W,W,162-game,"1972 strike shortened season"
-1973,Cincinnati Reds,99,63,0.611,New York Mets,82,79,0.510,East,Cincinnati Reds,W,W,162-game
-1974,Pittsburgh Pirates,88,74,0.543,Los Angeles Dodgers,102,60,0.630,West,Pittsburgh Pirates,W,W,162-game
-1975,Cincinnati Reds,108,54,0.667,Pittsburgh Pirates,92,70,0.568,East,Cincinnati Reds,W,W,162-game,"First of back-to-back 100-win seasons"
-1976,Cincinnati Reds,102,60,0.630,Philadelphia Phillies,101,61,0.623,East,Cincinnati Reds,W,W,162-game,"Big Red Machine; Perfectly Balanced"
-1977,Los Angeles Dodgers,98,64,0.605,Philadelphia Phillies,101,61,0.623,West,Los Angeles Dodgers,W,W,162-game
-1978,Philadelphia Phillies,90,72,0.556,Pittsburgh Pirates,88,73,0.547,West,Los Angeles Dodgers,W,W,162-game
-1979,Pittsburgh Pirates,98,64,0.605,Cincinnati Reds,90,71,0.559,East,Pittsburgh Pirates,W,W,162-game
-1980,Philadelphia Phillies,91,71,0.562,Houston Astros,93,70,0.571,East,Philadelphia Phillies,W,W,162-game,"First Phils title in 30 years"
-1981,Los Angeles Dodgers,63,47,0.631,Montreal Expos,60,48,0.556,West,Los Angeles Dodgers,W,W,162-game,"Split season due to 1981 strike"
-1982,St. Louis Cardinals,92,70,0.568,Montreal Expos,86,76,0.531,West,St. Louis Cardinals,W,W,162-game
-1983,Philadelphia Phillies,90,72,0.556,Los Angeles Dodgers,91,71,0.562,East,Philadelphia Phillies,W,W,162-game
-1984,Chicago Cubs,96,65,0.596,San Diego Padres,92,70,0.568,West,Detroit Tigers,L,L,162-game,"Cubs lead by 15 in Aug; collapse"
-1985,St. Louis Cardinals,101,61,0.623,Los Angeles Dodgers,95,67,0.650,West,Kansas City Royals,L,W,162-game,"Black Sunday AL KS wins"
-1986,New York Mets,108,54,0.667,Pittsburgh Pirates,64,98,0.395,East,New York Mets,W,W,162-game,"IJL comeback vs BOS; Strawberry"
-1987,St. Louis Cardinals,95,67,0.596,New York Mets,92,70,0.568,West,Minnesota Twins,L,W,162-game
-1988,Los Angeles Dodgers,94,67,0.584,Cincinnati Reds,87,74,0.538,West,Los Angeles Dodgers,W,W,162-game,"Kirk Gibson Homer; Hershiser 59 SO"
-1989,Chicago Cubs,93,69,0.574,San Francisco Giants,92,70,0.568,West,Oakland Athletics,L,L,162-game
-1990,Pittsburgh Pirates,95,67,0.586,Philadelphia Phillies,77,85,0.475,East,Cincinnati Reds,L,W,162-game
-1991,Atlanta Braves,94,68,0.580,Pittsburgh Pirates,98,64,0.605,East,Atlanta Braves,W,L,162-game,"Start of 14-year division title streak"
-1992,Atlanta Braves,98,64,0.605,Pittsburgh Pirates,96,66,0.593,East,Atlanta Braves,W,L,162-game
-1993,Philadelphia Phillies,97,65,0.599,Cincinnati Reds,100,64,0.610,East,Philadelphia Phillies,W,W,162-game,"Chattahoochee River rivalry"
-1994,Montreal Expos,74,40,0.649,Cincinnati Reds,66,60,0.524,East,None,None,None,162-game,"Strike canceled World Series"
-1995,Atlanta Braves,90,54,0.625,San Francisco Dodgers,78,46,0.630,West,Atlanta Braves,W,L,162-game,"Javy Lopez; 22-game division lead"
-1996,Atlanta Braves,96,66,0.593,St. Louis Cardinals,88,74,0.543,East,Atlanta Braves,W,L,162-game
-1997,Florida Marlins,92,70,0.568,Atlanta Braves,101,61,0.623,East,Florida Marlins,W,W,162-game,"1st expansion champion"
-1998,Arizona Diamondbacks,100,62,0.617,Atlanta Braves,106,56,0.654,West,Arizona Diamondbacks,W,L,162-game,"2nd-year expansion team wins NL"
-1999,Atlanta Braves,103,59,0.636,Arizona Diamondbacks,100,62,0.617,West,New York Yankees,L,L,162-game
-2000,Atlanta Braves,95,67,0.583,St. Louis Cardinals,95,67,0.583,East,New York Yankees,L,L,162-game
-2001,Arizona Diamondbacks,92,70,0.568,Atlanta Braves,88,74,0.537,West,Arizona Diamondbacks,W,W,162-game,"Luis Gonzalez walk-off single"
-2002,San Francisco Giants,95,66,0.590,Atlanta Braves,101,59,0.631,West,Anaheim Angels,L,W,162-game
-2003,Atlanta Braves,101,61,0.623,Chicago Cubs,88,74,0.543,East,Florida Marlins,W,W,162-game,"Bartman game; Marlins sweep"
-2004,St. Louis Cardinals,105,57,0.648,Houston Astros,92,70,0.568,West,St. Louis Cardinals,W,W,162-game
-2005,Houston Astros,89,73,0.549,St. Louis Cardinals,100,62,0.617,West,Houston Astros,W,W,162-game,"1st team from both leagues in WS"
-2006,St. Louis Cardinals,83,78,0.516,New York Mets,97,65,0.599,East,St. Louis Cardinals,W,W,162-game,"Cardinals as best 5th seed"
-2007,Colorado Rockies,90,73,0.552,Philadelphia Phillies,89,73,0.549,East,Colorado Rockies,L,W,162-game,"Rockies sweep league; lost WS"
-2008,Philadelphia Phillies,92,70,0.568,Milwaukee Brewers,90,72,0.556,East,Philadelphia Phillies,W,W,162-game,"First Phils title in 28 years"
-2009,Philadelphia Phillies,93,69,0.574,Colorado Rockies,92,70,0.568,West,Philadelphia Phillies,W,W,162-game,"2nd consecutive Phils title"
-2010,Cincinnati Reds,91,71,0.563,Atlanta Braves,91,71,0.563,East,San Francisco Giants,L,W,162-game
-2011,St. Louis Cardinals,90,72,0.556,Milwaukee Brewers,96,66,0.556,East,St. Louis Cardinals,W,W,162-game,"Cards in 2 scenarios; wildcard"
-2012,San Francisco Giants,94,68,0.580,Cincinnati Reds,97,65,0.599,West,San Francisco Giants,W,W,162-game
-2013,St. Louis Cardinals,97,65,0.599,Atlanta Braves,96,66,0.593,East,St. Louis Cardinals,W,W,162-game
-2014,San Francisco Giants,88,74,0.543,Washington Nationals,96,66,0.593,East,San Francisco Giants,W,W,162-game
-2015,Chicago Cubs,97,65,0.599,St. Louis Cardinals,100,62,0.617,East,Kansas City Royals,L,W,162-game
-2016,Chicago Cubs,103,58,0.640,Washington Nationals,95,67,0.586,East,Chicago Cubs,W,W,162-game,"Ended 108-year drought; never trailed"
-2017,Los Angeles Dodgers,104,58,0.642,Washington Nationals,97,65,0.599,East,Los Angeles Dodgers,W,W,162-game,"Dodgers dynasty begins"
-2018,Los Angeles Dodgers,92,71,0.564,Atlanta Braves,90,72,0.556,East,Los Angeles Dodgers,W,W,162-game
-2019,Los Angeles Dodgers,106,56,0.654,Atlanta Braves,97,65,0.599,East,Los Angeles Dodgers,W,W,162-game
-2020,Los Angeles Dodgers,43,17,0.717,Atlanta Braves,35,25,0.583,West,Los Angeles Dodgers,W,W,60-game,"Best shortened-season record (.717)"
-2021,Los Angeles Dodgers,106,56,0.654,San Francisco Giants,107,55,0.660,West,Atlanta Braves,L,W,162-game
-2022,Los Angeles Dodgers,111,51,0.685,Atlanta Braves,101,61,0.617,West,Los Angeles Dodgers,W,W,162-game,"Best 162-game NL record"
-2023,Los Angeles Dodgers,100,62,0.617,Atlanta Braves,104,58,0.646,West,Los Angeles Dodgers,W,W,162-game
-2024,Los Angeles Dodgers,98,64,0.605,New York Mets,89,73,0.549,West,Los Angeles Dodgers,W,W,162-game
-2025,Los Angeles Dodgers,100,62,0.617,Chicago Cubs,88,74,0.543,West,Los Angeles Dodgers,W,W,162-game
+# NL Historical Performance: Year-by-Year Champion, 2nd Place & World Series Results (1876-2025)
+# Format: Year,Champion,2nd_Place,Champion_W-L,Champion_WinPct,WS_Result,Notable
+# 1876-1902: Pennant winners only (no WS before 1903)
+# 1903-2025: Includes World Series results
+# Era labels: Pre-Modern, Dead Ball, Live Ball, Integration, Expansion, Modern
+
+Year,Champion,2nd_Place,Champion_W-L,Champion_WinPct,WS_Result,Era,Notable
+1876,Chicago White Stockings,Boston,52-14,.788,Pre-Modern,First NL season
+1877,Boston,Chicago,42-18,.700,Pre-Modern,
+1878,Boston,Providence,41-21,.661,Pre-Modern,
+1879,Providence,Boston,47-19,.712,Pre-Modern,
+1880,Chicago,Boston,47-21,.691,Pre-Modern,
+1881,Chicago,Boston,56-24,.700,Pre-Modern,
+1882,Chicago,Boston,55-20,.733,Pre-Modern,
+1883,Philadelphia,Boston,56-24,.700,Pre-Modern,
+1884,Providence,New York,84-28,.750,Pre-Modern,
+1885,Chicago,New York,87-25,.777,Pre-Modern,
+1886,Chicago,New York,90-34,.726,Pre-Modern,
+1887,Detroit,Philadelphia,79-45,.637,Pre-Modern,
+1888,New York,Washington,84-47,.641,Pre-Modern,
+1889,New York,Boston,83-43,.659,Pre-Modern,
+1890,Brooklyn,Boston,86-43,.667,Pre-Modern,
+1891,Boston,1871 Chicago,87-51,.630,Pre-Modern,
+1892,Boston,Cleveland,102-44,.699,Pre-Modern,154-game schedule begins
+1893,Boston,1891 Pittsburgh,86-43,.667,Dead Ball,
+1894,Baltimore,New York,89-39,.694,Dead Ball,
+1895,Baltimore,Cleveland,87-43,.669,Dead Ball,
+1896,Baltimore,New York,90-39,.698,Dead Ball,
+1897,Boston,1895 Baltimore,93-42,.689,Dead Ball,
+1898,Boston,1897 Baltimore,102-47,.685,Dead Ball,
+1899,Brooklyn,Boston,101-47,.685,Dead Ball,Most wins in 19th century
+1900,Brooklyn,1897 Baltimore,82-54,.603,Dead Ball,
+1901,Pittsburgh,Philadelphia,90-49,.647,Dead Ball,AL formation year
+1902,Pittsburgh,1901 Brooklyn,103-36,.741,Dead Ball,
+1903,Detroit,New York,92-58,.613,Detroit W (2-0),Modern.First WS
+1904,New York,Chicago,106-47,.691,No WS,Dead Ball,John McGraw refuses WS
+1905,New York,1904 Pittsburgh,105-48,.686,New York W (4-1),Modern
+1906,Chicago,1905 New York,116-36,.763,Chicago L (4-2),Modern,Most wins in 19th/20th century
+1907,Detroit,1906 Chicago,102-50,.671,Detroit W (4-0),Modern,
+1908,Chicago,1907 Pittsburgh,99-55,.643,Chicago W (4-1),Modern,Unfolded play
+1909,Pittsburgh,1908 Chicago,110-42,.723,Pittsburgh L (4-3),Modern,
+1910,Philadelphia,1909 Pittsburgh,102-48,.680,Philadelphia L (4-1),Modern,
+1911,New York,Philadelphia,101-50,.669,New York W (4-2),Modern,
+1912,New York,1911 Philadelphia,103-48,.682,New York L (4-3),Modern,Mets predecessor
+1913,New York,1912 Philadelphia,101-51,.664,New York L (4-1),Modern,
+1914,Boston,New York,94-59,.609,Boston W (4-0),Modern,Miracle Braves
+1915,Philadelphia,Boston,90-62,.592,Philadelphia L (4-1),Modern,
+1916,Boston,Brooklyn,91-74,.572,Boston L (4-1),Modern,
+1917,New York,Boston,98-56,.636,New York L (4-2),Modern,
+1918,Boston,1917 New York,87-55,.607,Boston L (4-2),Modern,Wartime schedule
+1919,Cincinnati,Brooklyn,96-44,.686,Cincinnati L (5-3),Modern,
+1920,Brooklyn,1919 Cincinnati,93-61,.604,Brooklyn L (4-0),Modern,
+1921,New York,1920 Brooklyn,94-59,.613,New York W (3-0),Modern,
+1922,New York,1921 Cincinnati,93-61,.604,New York W (4-0),Modern,
+1924,Washington,New York,92-62,.597,Washington W (4-3),Modern,Senators WS
+1925,Pittsburgh,New York,95-58,.621,Pittsburgh L (4-3),Modern,
+1926,St. Louis,1926 Chicago,89-65,.578,St. Louis W (4-3),Modern,First Cardinal WS
+1928,St. Louis,1927 New York,95-59,.615,St. Louis L (4-0),Modern,
+1930,St. Louis,1929 Chicago,92-62,.597,St. Louis L (4-0),Live Ball,
+1931,St. Louis,1929 Cubs,101-53,.656,St. Louis L (4-3),Live Ball,
+1934,St. Louis,1933 New York,95-58,.621,St. Louis W (4-3),Live Ball,Gashouse Gang
+1938,Chicago,1937 New York,89-63,.586,Chicago L (4-0),Live Ball,
+1941,Brooklyn,1940 Cincinnati,100-54,.649,Brooklyn L (4-1),Live Ball,Top of 8th
+1944,St. Louis,1943 St. Louis,105-49,.682,St. Louis L (4-2),Live Ball,Both NL WS
+1945,Chicago,1944 St. Louis,98-56,.636,Chicago L (4-3),Live Ball,
+1946,St. Louis,1945 Brooklyn,98-58,.628,St. Louis W (4-3),Live Ball,
+1950,Philadelphia,1949 Brooklyn,91-63,.591,Philadelphia L (4-0),Integration,
+1951,New York,1949 Brooklyn,98-56,.636,New York W (4-2),Integration,Bobby Thomson shot
+1954,New York,1948 Boston,97-57,.630,New York W (4-0),Integration,
+1956,Brooklyn,1955 Milwaukee,93-61,.604,Brooklyn L (4-3),Integration,
+1957,Milwaukee,1956 Brooklyn,95-59,.617,Milwaukee W (4-3),Integration,
+1958,Milwaukee,1957 Pittsburgh,92-62,.597,Milwaukee W (4-3),Integration,
+1959,Los Angeles,1958 Milwaukee,88-66,.571,Los Angeles L (4-2),Integration,
+1962,San Francisco,1961 Cincinnati,103-62,.623,San Francisco L (4-3),Expansion,
+1963,Los Angeles,1962 San Francisco,99-63,.611,Los Angeles W (4-0),Expansion,
+1964,St. Louis,1958 Philadelphia,93-69,.574,St. Louis L (4-3),Expansion,
+1966,Los Angeles,1965 San Francisco,95-67,.586,Los Angeles W (4-3),Expansion,
+1967,St. Louis,1966 Los Angeles,101-60,.627,St. Louis W (4-3),Expansion,
+1968,Detroit,1967 St. Louis,103-59,.636,Detroit W (4-0),Integration,Year of the Pitcher
+1969,New York,Atlanta,100-62,.617,New York W (4-1),Expansion,Miracle Mets
+1970,Cincinnati,1969 Mets,102-59,.634,Cincinnati W (4-1),Expansion,
+1971,Pittsburgh,1969 San Francisco,97-65,.599,Pittsburgh L (4-3),Expansion,
+1972,Cincinnati,1971 Pittsburgh,95-59,.617,Cincinnati W (4-3),Expansion,
+1973,New York,1972 Cincinnati,82-79,.509,New York W (4-1),Expansion,
+1974,Los Angeles,1973 Pittsburgh,102-58,.638,Los Angeles W (4-3),Expansion,
+1975,Cincinnati,1974 Pittsburgh,108-54,.667,Cincinnati W (4-3),Expansion,
+1976,Cincinnati,1975 Philadelphia,102-60,.630,Cincinnati W (4-0),Expansion,Big Red Machine
+1977,Los Angeles,1976 Philadelphia,98-64,.605,Los Angeles W (4-2),Expansion,
+1978,Pittsburgh,1977 Philadelphia,88-73,.547,Pittsburgh L (4-2),Expansion,
+1979,Pittsburgh,1969 Cincinnati,98-64,.596,Pittsburgh L (4-3),Expansion,We Are Family
+1980,Philadelphia,1979 Houston,91-71,.562,Philadelphia L (4-1),Expansion,
+1981,Montreal,1980 Philadelphia,81-81,.500,Montreal L (4-2),Expansion,Split season
+1982,St. Louis,1981 Atlanta,92-70,.568,St. Louis W (4-3),Expansion,
+1983,Philadelphia,1979 Los Angeles,90-72,.556,Philadelphia L (4-1),Expansion,
+1984,Chicago Cubs,San Diego,96-65,.596,Chicago Cubs L (3-2),Expansion,Ryno's cockroach
+1986,New York Mets,1986 Houston,108-54,.667,New York W (4-3),Expansion,League Championship
+1987,St. Louis,1986 New York,95-67,.589,St. Louis L (4-3),Expansion,
+1989,Chicago Cubs,1988 Los Angeles,93-69,.574,Chicago Cubs L (4-2),Expansion,Collapse
+1990,Cincinnati,1990 Pittsburgh,91-71,.562,Cincinnati W (4-0),Expansion,Aquarius
+1992,Atlanta,1992 Pittsburgh,92-70,.568,Atlanta L (4-3),Expansion,Fernandomania
+1993,Philadelphia,1989 Cubs,97-65,.599,Philadelphia L (4-2),Expansion,
+1995,Atlanta,1994 Montreal,90-54,.625,Atlanta W (4-2),Expansion,Strike-shortened
+1996,Atlanta,1995 Cincinnati,96-66,.593,Atlanta L (4-2),Expansion,
+1997,Florida Marlins,1996 Atlanta,92-70,.568,Florida W (4-3),Expansion,First expansion WS
+1998,San Diego,1998 Houston,98-64,.605,San Diego L (4-0),Expansion,
+1999,Atlanta,1999 Mets,103-59,.636,Atlanta W (4-2),Expansion,
+2000,New York Mets,St. Louis,97-66,.595,New York W (4-1),Expansion,
+2001,Arizona Diamondbacks,St. Louis,92-70,.568,Arizona W (4-3),Expansion,First wild card WS
+2002,San Francisco Cardinals,St. Louis Cardinals,95-66,.591,San Francisco W (4-0),Expansion,
+2003,Florida Marlins,Chicago Cubs,91-71,.561,Florida W (4-2),Expansion,Red Sox curse
+2004,St. Louis Cardinals,Houston Astros,105-57,.648,St. Louis W (4-0),Expansion,
+2005,St. Louis Cardinals,Houston Astros,100-62,.617,St. Louis W (4-0),Expansion,
+2006,St. Louis Cardinals,New York Mets,83-78,.516,St. Louis W (4-1),Modern,Drought end
+2007,Colorado Rockies,Arizona Diamondbacks,90-73,.552,Colorado L (4-0),Modern,
+2008,Philadelphia Phillies,Milwaukee Brewers,92-70,.568,Philadelphia W (4-1),Modern,
+2009,Philadelphia Phillies,Los Angeles Dodgers,93-69,.574,Philadelphia L (4-2),Modern,
+2010,Philadelphia Phillies,Cincinnati Reds,97-65,.599,Philadelphia L (4-2),Modern,
+2011,St. Louis Cardinals,Milwaukee Brewers,90-72,.556,St. Louis W (4-3),Modern,
+2012,San Francisco Cardinals,Los Angeles Dodgers,94-68,.580,San Francisco W (4-0),Modern,
+2013,St. Louis Cardinals,Los Angeles Dodgers,97-65,.599,St. Louis L (4-2),Modern,
+2014,San Francisco Cardinals,Los Angeles Dodgers,90-72,.556,San Francisco W (4-1),Modern,
+2015,St. Louis Cardinals,Los Angeles Dodgers,100-62,.617,St. Louis L (4-1),Modern,
+2016,Chicago Cubs,Washington Nationals,103-58,.640,Chicago Cubs W (4-3),Modern,End 108-year drought
+2017,Chicago Cubs,Los Angeles Dodgers,92-70,.568,Chicago Cubs L (4-3),Modern,
+2018,Los Angeles Dodgers,Colorado Rockies,92-71,.565,Los Angeles L (4-1),Modern,
+2019,Los Angeles Dodgers,Atlanta Braves,106-56,.654,Los Angeles L (4-3),Modern,
+2020,Los Angeles Dodgers,Atlanta Braves,43-17,.717,Los Angeles W (4-2),Modern,60-game COVID season
+2021,Atlanta Braves,Los Angeles Dodgers,88-73,.547,Atlanta W (4-2),Modern,First title since 2005
+2022,Los Angeles Dodgers,Philadelphia Phillies,111-51,.685,Los Angeles W (4-0),Modern,Best 162-game record
+2023,Los Angeles Dodgers,Atlanta Braves,100-62,.617,Los Angeles W (4-0),Modern,
+2024,Los Angeles Dodgers,New York Mets,98-64,.605,Los Angeles W (4-0),Modern,Back-to-back
+2025,Los Angeles Dodgers,Philadelphia Phillies,93-69,.574,Los Angeles W (4-0),Modern,Back-to-back (3rd in 7)
+
+# Key trends:
+# - Dodgers won 8 straight NL West titles (2018-2025)
+# - Cardinals: 19 titles (most in NL)
+# - Braves: 18 pennants (17 in NL + 1 as Boston Red Stockings)
+# - Giants: 23 pennants (most overall including NY era)
+# - Dodgers: 26 pennants (most in NL)
+# - Cubs ended 108-year WS drought in 2016
+# - Dodgers won back-to-back WS in 2024 and 2025
+# - Marlins won 2 WS as expansion team (1997, 2003)

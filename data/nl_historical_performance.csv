@@ -1,140 +1,149 @@
-"Year","NL_Champion","Champion_Record","Champion_WinPct","2nd_Place_Team","2nd_Place_Record","WS_Winner","WS_Loser","WS_Result","Era","Games_In_Season"
-2025,"Los Angeles Dodgers","100-62",0.617," Milwaukee Brewers","93-69","Los Angeles Dodgers","Toronto Blue Jays","4-3",2017-Present,162
-2024,"Los Angeles Dodgers","98-64",0.605,"New York Mets","89-73","Los Angeles Dodgers","Toronto Blue Jays","4-3",2017-Present,162
-2023,"Atlanta Braves","104-58",0.642,"Philadelphia Phillies","90-72","Texas Rangers","Arizona Diamondbacks","4-1",2017-Present,162
-2022,"Los Angeles Dodgers","111-51",0.685,"Philadelphia Phillies","87-75","Houston Astros","Philadelphia Phillies","4-2",2017-Present,162
-2021,"Atlanta Braves","88-73",0.547,"Los Angeles Dodgers","106-56","Atlanta Braves","Houston Astros","4-2",2017-Present,161
-2020,"Los Angeles Dodgers","43-17",0.717,"Atlanta Braves",,,"Los Angeles Dodgers","Tampa Bay Rays","4-2",2017-Present,60
-2019,"Los Angeles Dodgers","106-56",0.654,"St. Louis Cardinals","91-71","Washington Nationals","Houston Astros","4-3",2017-Present,162
-2018,"Los Angeles Dodgers","92-71",0.564,"Atlanta Braves","90-72","Boston Red Sox","Los Angeles Dodgers","4-1",2017-Present,162
-2017,"Los Angeles Dodgers","104-58",0.642,"Washington Nationals","97-65","Houston Astros","Los Angeles Dodgers","4-3",2017-Present,162
-2016,"Chicago Cubs","103-58",0.640,"Washington Nationals","95-67","Chicago Cubs","Cleveland Indians","4-3",2006-2016,162
-2015,"St. Louis Cardinals",,,"New York Mets",,"Kansas City Royals","New York Mets","4-1",2006-2016,162
-2014,"St. Louis Cardinals",,,"Washington Nationals",,"Kansas City Royals","San Francisco Giants","4-3",2006-2016,162
-2013,"St. Louis Cardinals",,,"Atlanta Braves",,"Boston Red Sox","St. Louis Cardinals","4-2",2006-2016,162
-2012,"San Francisco Giants","94-68",0.580,"Cincinnati Reds",,"San Francisco Giants","Detroit Tigers","4-0",2006-2016,162
-2011,"St. Louis Cardinals",,,"Milwaukee Brewers",,"St. Louis Cardinals","Texas Rangers","4-3",2006-2016,162
-2010,"San Francisco Giants","92-70",0.568,"Atlanta Braves",,"San Francisco Giants","Texas Rangers","4-1",2006-2016,162
-2009,"Philadelphia Phillies",,,"St. Louis Cardinals",,"New York Yankees","Philadelphia Phillies","4-2",2006-2016,162
-2008,"Philadelphia Phillies",,,"Milwaukee Brewers",,"Tampa Bay Rays","Philadelphia Phillies","4-1",2006-2016,162
-2007,"Colorado Rockies",,,"Arizona Diamondbacks",,"Boston Red Sox","Colorado Rockies","4-0",2006-2016,163
-2006,"St. Louis Cardinals",,,"New York Mets",,"St. Louis Cardinals","Detroit Tigers","4-1",2006-2016,162
-2005,"Houston Astros",,,"St. Louis Cardinals",,,"Chicago White Sox","Houston Astros","4-0",1994-2015,162
-2004,"St. Louis Cardinals",,,"Houston Astros",,"Boston Red Sox","St. Louis Cardinals","4-0",1994-2015,163
-2003,"Chicago Cubs",,,"Florida Marlins","91-71","Florida Marlins","New York Yankees","4-2",1994-2015,162
-2002,"Arizona Diamondbacks",,,"Atlanta Braves",,"Anaheim Angels","San Francisco Giants","4-3",1994-2015,163
-2001,"Arizona Diamondbacks",,,"Houston Astros","86-76","Arizona Diamondbacks","New York Yankees","4-3",1994-2015,162
-2000,"St. Louis Cardinals",,,"Atlanta Braves","95-67","New York Yankees","New York Mets","4-1",1994-2015,161
-1999,"Atlanta Braves",,,"New York Mets","97-66","New York Yankees","Atlanta Braves","4-0",1994-2015,161
-1998,"San Francisco Cubs",,,"Houston Astros","102-60",,"New York Yankees","San Diego Padres","3-0",1994-2015,162
-1997,"Florida Marlins",,,"San Francisco Giants","90-72","Florida Marlins","Cleveland Indians","4-3",1994-2015,162
-1996,"Atlanta Braves",,,"St. Louis Cardinals","88-74","New York Yankees","Atlanta Braves","4-2",1994-2015,162
-1995,"Atlanta Braves",90-54,0.625,"Los Angeles Dodgers","78-66","Atlanta Braves","Cleveland Indians","4-2",1994-2015,144
-1994,"Pennsylvania Mountaineers",,,"Atlanta Braves",,,,Season cancelled by strike,1994-2015,111
-1993,"Philadelphia Phillies",,,"Montreal Expos",,"Toronto Blue Jays","Philadelphia Phillies","4-2",1990-2005,162
-1992,"Montreal Expos",,,"Atlanta Braves",,"Toronto Blue Jays","Atlanta Braves","4-2",1990-2005,162
-1991,"Atlanta Braves",,,"Pittsburgh Pirates",,"Minnesota Twins","Atlanta Braves","4-3",1990-2005,162
-1990,"Cincinnati Reds",,,"Pittsburgh Pirates",,"Cincinnati Reds","Oakland Athletics","4-0",1990-2005,162
-1989,"Chicago Cubs",,,"San Francisco Giants","91-71","Oakland Athletics","San Francisco Giants","4-0",1986-2015,162
-1988,"Los Angeles Dodgers",,,"Cincinnati Reds",,"Los Angeles Dodgers","Oakland Athletics","4-1",1986-2015,162
-1987,"St. Louis Cardinals",,,"Pittsburgh Pirates",,"Minnesota Twins","St. Louis Cardinals","4-3",1986-2015,162
-1986,"New York Mets",108-54,0.667,"Philadelphia Phillies","86-75","New York Mets","Boston Red Sox","4-3",1986-2015,163
-1985,"St. Louis Cardinals",,,"Los Angeles Dodgers",,"Kansas City Royals","St. Louis Cardinals","4-3",1986-2015,162
-1984,"Chicago Cubs",,,"San Diego Padres",,"Detroit Tigers","San Diego Padres","3-2",1986-2015,163
-1983,"Philadelphia Phillies",,,"Pittsburgh Pirates",,"Baltimore Orioles","Philadelphia Phillies","4-1",1981-1985,162
-1982,"St. Louis Cardinals",,,"Atlanta Braves",,"St. Louis Cardinals","Milwaukee Brewers","4-3",1981-1985,162
-1981,"Los Angeles Dodgers",,,"Montreal Expos",,"Los Angeles Dodgers","New York Yankees","4-2",1981-1985,106
-1980,"Philadelphia Phillies",91-71,0.561,"Houston Astros",,"Philadelphia Phillies","Kansas City Royals","4-2",1970-1985,162
-1979,"Cincinnati Reds",90-71,0.559,"Houston Astros",,"Pittsburgh Pirates","Baltimore Orioles","4-3",1970-1985,163
-1978,"Philadelphia Phillies",90-72,0.556,"Pittsburgh Pirates",,"New York Yankees","Los Angeles Dodgers","4-2",1970-1985,161
-1977,"Philadelphia Phillies",,,"Pittsburgh Pirates",,"New York Yankees","Los Angeles Dodgers","4-2",1970-1985,161
-1976,"Cincinnati Reds",102-60,0.630,"Philadelphia Phillies","101-61","Cincinnati Reds","New York Yankees","4-0",1970-1985,163
-1975,"Pittsburgh Pirates",92-69,0.571,"Philadelphia Phillies",,"Cincinnati Reds","Boston Red Sox","4-3",1970-1985,162
-1974,"Pittsburgh Pirates",,,"Los Angeles Dodgers",,"Oakland Athletics","Pittsburgh Pirates","4-3",1970-1985,162
-1973,"New York Mets",82-79,0.509,"Cincinnati Reds",,"Oakland Athletics","New York Mets","4-3",1970-1985,162
-1972,"Cincinnati Reds",95-59,0.617,"Pittsburgh Pirates",,"Oakland Athletics","Cincinnati Reds","4-3",1970-1985,155
-1971,"San Francisco Giants",,,"Pittsburgh Pirates",,"Pittsburgh Pirates","Baltimore Orioles","4-1",1970-1985,163
-1970,"Cincinnati Reds",102-60,0.630,"Pittsburgh Pirates",,"Baltimore Orioles","Cincinnati Reds","4-1",1970-1985,162
-1969,"New York Mets","100-62",0.617,"Chicago Cubs","92-70","New York Mets","Baltimore Orioles","4-1",1969-1969,163
-1968,"St. Louis Cardinals",97-65,0.599,"San Francisco Giants",,"Detroit Tigers","St. Louis Cardinals","4-3",1961-1968,162
-1967,"St. Louis Cardinals",101-60,0.627,"San Francisco Raiders","93-69","St. Louis Cardinals","Boston Red Sox","4-3",1961-1968,162
-1966,"Los Angeles Dodgers",95-67,0.586,"San Francisco Raiders",,"Baltimore Orioles","Los Angeles Dodgers","4-0",1961-1968,162
-1965,"Los Angeles Dodgers","99-63",0.611,"San Francisco Raiders","95-67","Los Angeles Dodgers","Minnesota Twins","4-3",1961-1968,163
-1964,"St. Louis Cardinals",93-69,0.574,"Philadelphia Phillies",,"St. Louis Cardinals","New York Yankees","4-3",1961-1968,162
-1963,"Los Angeles Dodgers","99-63",0.611,"St. Louis Cards","88-74","Los Angeles Dodgers","New York Yankees","4-0",1961-1968,162
-1962,"San Francisco Giants",103-62,0.623,"Los Angeles Dodgers",,"New York Yankees","San Francisco Giants","4-3",1961-1968,163
-1961,"Cincinnati Reds",93-61,0.604,"Los Angeles Dodgers",,"New York Yankees","Cincinnati Reds","4-1",1961-1968,162
-1960,"Pittsburgh Pirates",95-59,0.617,"Milwaukee Braves",,"Pittsburgh Pirates","New York Yankees","4-3",1951-1960,163
-1959,"Los Angeles Dodgers","88-68",0.568,"Milwaukee Braves","86-70","Los Angeles Dodgers","Chicago White Sox","4-2",1951-1960,154
-1958,"Milwaukee Braves",92-62,0.597," Pittsburgh Pirates",,"New York Yankees","Milwaukee Braves","4-3",1951-1960,154
-1957,"Milwaukee Braves",95-59,0.617,"St. Louis Cardinals",,"Milwaukee Braves","New York Yankees","4-3",1951-1960,154
-1956,"Brooklyn Dodgers",93-61,0.604,"Milwaukee Braves",,"New York Yankees","Brooklyn Dodgers","4-3",1951-1960,154
-1955,"Brooklyn Dodgers","98-55",0.641,"Milwaukee Braves",,"Brooklyn Dodgers","New York Yankees","4-3",1951-1960,154
-1954,"New York Giants",97-57,0.630,"Brooklyn Dodgers",,"New York Giants","Cleveland Indians","4-0",1951-1960,154
-1953,"Brooklyn Dodgers",105-49,0.682,"Milwaukee Braves",,"New York Yankees","Brooklyn Dodgers","4-2",1951-1960,154
-1952,"Brooklyn Dodgers",96-57,0.627,"St. Louis Cardinals",,"New York Yankees","Brooklyn Dodgers","4-3",1951-1960,154
-1951,"New York Giants",98-59,0.622,"St. Louis Cardinals",,"New York Yankees","New York Giants","4-2",1951-1960,154
-1950,"Boston Braves",,,"New York Giants",,"New York Yankees","Philadelphia Phillies","4-0",1941-1950,154
-1949,"Brooklyn Dodgers",97-57,0.630,"St. Louis Cardinals",,"New York Yankees","Brooklyn Dodgers","4-1",1941-1950,154
-1948,"Boston Braves",91-62,0.595,"St. Louis Cardinals",,"Cleveland Indians","Boston Braves","4-2",1941-1950,154
-1947,"Brooklyn Dodgers",94-60,0.610,"St. Louis Cardinals",,"New York Yankees","Brooklyn Dodgers","4-3",1941-1950,154
-1946,"St. Louis Cardinals",100-54,0.649,"Brooklyn Dodgers",,"St. Louis Cardinals","Boston Red Sox","4-3",1941-1950,154
-1945,"Chicago Cubs",98-56,0.636,"Pittsburgh Pirates",,"Detroit Tigers","Chicago Cubs","4-3",1941-1950,154
-1944,"St. Louis Cardinals",105-49,0.682,"Pittsburgh Pirates",,"St. Louis Cardinals","St. Louis Vikings",4-2),1941-1950,154
-1943,"St. Louis Cardinals",105-49,0.625,"Cincinnati Diamonds",,"New York Yankees","St. Louis Cardinals","4-1",1941-1950,154
-1942,"St. Louis Cardinals",106-48,0.688,"Brooklyn Dodgers",,"St. Louis Cardinals","New York Yankees","4-1",1941-1950,154
-1941,"Brooklyn Dodgers",100-54,0.649,"St. Louis Cardinals",,"New York Yankees","Brooklyn Dodgers","4-1",1941-1950,154
-1940,"Cincinnati Reds",100-54,0.649,"St. Louis Cardinals",,"Cincinnati Reds","Detroit Tigers","4-3",1936-1940,154
-1939,"Cincinnati Reds",97-57,0.630,"St. Louis Cardinals",,"New York Yankees","Cincinnati Reds","4-0",1936-1940,154
-1938,"Chicago Cubs",89-63,0.586,"Pittsburgh Pirates",,"New York Yankees","Chicago Cubs","4-0",1936-1940,154
-1937,"New York Giants",95-58,0.619,"Chicago Cubs",,"New York Yankees","New York Giants","4-1",1936-1940,154
-1936,"St. Louis Cardinals",87-67,0.566,"Chicago Cubs",,"New York Yankees","St. Louis Cardinals","4-2",1936-1940,154
-1935,"St. Louis Cardinals",96-58,0.623,"Chicago Cubs",,"Detroit Tigers","St. Louis Cardinals","4-2",1931-1935,154
-1934,"St. Louis Cardinals",95-58,0.619,"Chicago Cubs",,"St. Louis Cardinals","Detroit Tigers",4-3),1931-1935,154
-1933,"New York Giants",91-61,0.599,"Pittsburgh Pirates",,"New York Giants","Washington Senators",4-1),1931-1935,154
-1932,"Chicago Cubs",90-64,0.584,"Pittsburgh Pirates",,"New York Yankees","Chicago Cubs",4-0),1931-1935,154
-1931,"St. Louis Cardinals",101-53,0.656,"Chicago Cubs",,"Philadelphia Athletics","St. Louis Cardinals",4-3),1931-1935,154
-1930,"St. Louis Cardinals",92-62,0.597,"Chicago Cubs",,"Philadelphia Athletics","St. Louis Cardinals",4-2),1931-1935,154
-1929,"Chicago Cubs",98-56,0.636,"Pittsburgh Pirates",,"Philadelphia Athletics","Chicago Cubs",4-1),1928-1930,154
-1928,"St. Louis Cardinals",95-59,0.616,"Making Food",,"New York Yankees","St. Louis Cardinals",4-0),1928-1930,154
-1927,"Pittsburgh Pirates",94,,"Cincinnati Reds",,"New York Yankees","Pittsburgh Pirates",4-0),1926-1927,154
-1926,"St. Louis Cardinals",89,,"Cincinnati Reds",,"St. Louis Cardinals","New York Yankees",4-0),1926-1927,154
-1925,"Pittsburgh Pirates",95,,"New York Giants",,"Pittsburgh Pirates":"Washington Senators",4-3),1922-1925,154
-1924,"Pittsburgh Pirates",90,,"New York Giants",,"Washington Senators":"Pittsburgh Pirates",4-3),1922-1925,154
-1923,"New York Giants",95,,"Pittsburgh Pirates",,"New York Yankees":"New York Giants",4-0),1922-1925,154
-1922,"New York Giants",93,,"Cincinnati Reds",,"New York Giants":"New York Yankees",4-0),1921-1922,154
-1921,"New York Giants",94,,"St. Louis Cardinals",,"New York Giants":"New York Yankees",4-0),1921-1922,154
-1920,"Brooklyn Robins",,,"Cincinnati Reds",,"Cleveland Indians":"Brooklyn Robins",4-0),1916-1920,154
-1919,"Cincinnati Reds",96-44,0.686,"New York Giants",,"Cincinnati Reds":"Chicago White Sox",4-1),1916-1920,154
-1918,"Brooklyn Robins",,,"Chicago Cubs",,"Boston Red Sox":"Brooklyn Robins",4-2),1916-1920,154
-1917,"New York Giants",98-56,0.636,"Boston Braves",,"Chicago White Sox":"New York Giants",4-2),1916-1920,154
-1916,"Brooklyn Robins",94-59,0.612,"Chicago Cubs",,"Boston Red Sox":"Brooklyn Robins",4-1),1916-1920,154
-1915,"Philadelphia Phillies",90-62,0.592,"Boston Braves",,"Boston Red Sox":"Philadelphia Phillies",4-1),1911-1915,154
-1914,"Boston Braves",94-59,0.612,"New York Giants",,"Boston Braves":"Philadelphia Athletics",4-0),1911-1915,154
-1913,"New York Giants",101-51,0.664,"Philadelphia Phillies",,"Philadelphia Athletics":"New York Giants",4-1),1911-1913,154
-1912,"New York Giants",103-47,0.687,"Pittsburgh Pirates",,"Boston Red Sox":"New York Giants",4-3),1911-1913,154
-1911,"New York Giants",99-54,0.646,"Chicago Cubs",,"Philadelphia Athletics":"New York Giants",4-2),1911-1913,154
-1910,"Chicago Cubs",104-50,0.675,"New York Giants",,"Philadelphia Athletics":"Chicago Cubs",4-1),1906-1910,154
-1909,"Pittsburgh Pirates",110-42,0.729,"Chicago Cubs",,"Pittsburgh Pirates":"Detroit Tigers",4-3),1906-1910,154
-1908,"Chicago Cubs","104-46",0.693,"Louis Cardinals",,"Chicago Cubs":"Detroit Tigers",4-1),1906-1910,154
-1907,"Chicago Cubs",107-45,0.704,"St. Frisco Rags",,"Detroit Tigers":"Chicago Cubs",4:0,1906-1910,154
-1906,"Chicago Cubs","116-36",0.763,"New York Giants",,"Chicago Cubs":"Chicago White Sox",4-2),1906-1910,154
-1905,"New York Giants","105-48",0.686,"Brooklyn Superbas",,"New York Giants":"Philadelphia Athletics",4-1),1903-1905,154
-1904,"New York Giants","106-47",0.693,"Pittsburgh Pirates",,"MILLIONAIRED CUP NOT AWARDED (Ancient Greek) No sliver Zhang","New York Giants","Boston Americans",154
-1903,"Boston Beaneaters",,,"Pittsburgh Pirates",,"Boston Americans":"Pittsburgh Pirates",5-3,1903,
-{"Franchise","First_Season","Division","Games_Played","Wins","Losses","Win_Pct","Pennants","WS_Titles","Active_Flag"
-"San Francisco Giants",1883,"West",21722,11663,10059,0.535,23,8,TRUE
-"Los Angeles Dodgers",1884,"West",21722,11586,10136,0.531,26,8,TRUE
-"St. Louis Cardinals",1882,"Central",22486,11413,11073,0.509,19,11,TRUE
-"Chicago Cubs",1876,"Central",22222,11474,10748,0.516,17,3,TRUE
-"Cincinnati Reds",1882,"Central",22222,11060,11162,0.498,10,5,TRUE
-"Atlanta Braves",1876,"East",22070,11245,10825,0.504,18,4,TRUE
-"Pittsburgh Pirates",1882,"Central",21820,10959,10861,0.501,9,5,TRUE
-"Philadelphia Phillies",1883,"East",22222,10357,11865,0.466,8,2,TRUE
-"New York Mets",1962,"East",9520,4899,4621,0.514,2,2,TRUE
-"Washington Nationals",1969,"East",8230,4379,3851,0.532,0,0,TRUE
-"San Diego Padres",1969,"West",7980,4265,3715,0.533,0,0,TRUE
-"Milwaukee Brewers",1969,"Central",8920,4464,4456,0.503,0,0,TRUE
-"Colorado Rockies",1993,"West",4760,2403,2357,0.505,0,0,TRUE
-"Miami Marlins",1993,"East",4280,2435,1845,0.569,2,2,TRUE
-"Arizona Diamondbacks",1998,"West",4160,2216,1944,0.532,1,1,TRUE
+# NL Historical Performance: Championship Season Highlights with Era Labels (1876-2025)
+# Compact summary for quick reference
+# Format: Year|Champion|W-L|Win%|WS_Result|Era
+
+1876|Chicago White Stockings|52-14|.788|Pre-Modern
+1877|Boston|42-18|.700|Pre-Modern
+1878|Boston|41-21|.661|Pre-Modern
+1879|Providence|47-19|.712|Pre-Modern
+1880|Chicago|47-21|.691|Pre-Modern
+1881|Chicago|56-24|.700|Pre-Modern
+1882|Chicago|55-20|.733|Pre-Modern
+1883|Philadelphia|56-24|.700|Pre-Modern
+1884|Providence|84-28|.750|Pre-Modern
+1885|Chicago|87-25|.777|Pre-Modern
+1886|Chicago|90-34|.726|Pre-Modern
+1887|Detroit|79-45|.637|Pre-Modern
+1888|New York|84-47|.641|Pre-Modern
+1889|New York|83-43|.659|Pre-Modern
+1890|Brooklyn|86-43|.667|Pre-Modern
+1891|Boston|87-51|.630|Pre-Modern
+1892|Boston|102-44|.699|Pre-Modern
+1893|Boston|86-43|.667|Dead Ball
+1894|Baltimore|89-39|.694|Dead Ball
+1895|Baltimore|87-43|.669|Dead Ball
+1896|Baltimore|90-39|.698|Dead Ball
+1897|Boston|93-42|.689|Dead Ball
+1898|Boston|102-47|.685|Dead Ball
+1899|Brooklyn|101-47|.685|Dead Ball
+1900|Brooklyn|82-54|.603|Dead Ball
+1901|Pittsburgh|90-49|.647|Dead Ball
+1902|Pittsburgh|103-36|.741|Dead Ball
+1903|Detroit|92-58|.613|Detroit W (2-0)
+1904|New York|106-47|.691|No WS
+1905|New York|105-48|.686|New York W (4-1)
+1906|Chicago|116-36|.763|Chicago L (4-2)
+1907|Detroit|102-50|.671|Detroit W (4-0)
+1908|Chicago|99-55|.643|Chicago W (4-1)
+1909|Pittsburgh|110-42|.723|Pittsburgh L (4-3)
+1910|Philadelphia|102-48|.680|Philadelphia L (4-1)
+1911|New York|101-50|.669|New York W (4-2)
+1912|New York|103-48|.682|New York L (4-3)
+1913|New York|101-51|.664|New York L (4-1)
+1914|Boston|90-59|.609|Boston W (4-0)
+1915|Philadelphia|90-62|.592|Philadelphia L (4-1)
+1916|Boston|91-74|.572|Boston L (4-1)
+1917|New York|98-56|.636|New York L (4-2)
+1918|Boston|87-55|.607|Boston L (4-2)
+1919|Cincinnati|96-44|.686|Cincinnati L (5-3)
+1920|Brooklyn|93-61|.604|Brooklyn L (4-0)
+1921|New York|94-59|.613|New York W (3-0)
+1922|New York|93-61|.604|New York W (4-0)
+1924|Washington|92-62|.597|Washington W (4-3)
+1925|Pittsburgh|95-58|.621|Pittsburgh L (4-3)
+1926|St. Louis|89-65|.578|St. Louis W (4-3)
+1928|St. Louis|95-59|.615|St. Louis L (4-0)
+1930|St. Louis|92-62|.597|St. Louis L (4-0)
+1931|St. Louis|101-53|.656|St. Louis L (4-3)
+1934|St. Louis|95-58|.621|St. Louis W (4-3)
+1938|Chicago|89-63|.586|Chicago L (4-0)
+1944|St. Louis|105-49|.682|St. Louis L (4-2)
+1945|Chicago|98-56|.636|Chicago L (4-3)
+1946|St. Louis|98-58|.628|St. Louis W (4-3)
+1947|Brooklyn|94-60|.611|Brooklyn L (4-3)
+1950|Philadelphia|91-63|.596|Philadelphia L (4-0)
+1951|New York|98-56|.636|New York W (4-2)
+1954|New York|97-57|.630|New York W (4-0)
+1956|Brooklyn|93-61|.604|Brooklyn L (4-3)
+1957|Milwaukee|95-59|.617|Milwaukee W (4-3)
+1958|Milwaukee|92-62|.597|Milwaukee W (4-3)
+1959|Los Angeles|88-66|.571|Los Angeles L (4-2)
+1962|San Francisco|103-62|.623|San Francisco L (4-3)
+1963|Los Angeles|99-63|.611|Los Angeles W (4-0)
+1964|St. Louis|93-69|.574|St. Louis L (4-3)
+1966|Los Angeles|95-67|.586|Los Angeles W (4-3)
+1967|St. Louis|101-60|.627|St. Louis W (4-3)
+1968|Detroit|103-59|.636|Detroit W (4-0)
+1969|New York|100-62|.617|New York W (4-1)
+1970|Cincinnati|102-59|.634|Cincinnati W (4-1)
+1971|Pittsburgh|97-65|.599|Pittsburgh L (4-3)
+1972|Cincinnati|95-59|.627|Cincinnati W (4-3)
+1973|New York|82-79|.509|New York W (4-1)
+1974|Los Angeles|102-58|.638|Los Angeles W (4-3)
+1975|Cincinnati|108-54|.667|Cincinnati W (4-3)
+1976|Cincinnati|102-60|.630|Cincinnati W (4-0)
+1977|Los Angeles|98-64|.605|Los Angeles W (4-2)
+1978|Pittsburgh|88-73|.547|Pittsburgh L (4-2)
+1979|Pittsburgh|98-64|.596|Pittsburgh L (4-3)
+1980|Philadelphia|91-71|.562|Philadelphia L (4-1)
+1981|Montreal|81-81|.500|Montreal L (4-2)
+1982|St. Louis|92-70|.568|St. Louis W (4-3)
+1983|Philadelphia|90-72|.556|Philadelphia L (4-1)
+1984|Chicago Cubs|96-65|.596|Chicago Cubs L (3-2)
+1986|New York Mets|108-54|.667|New York W (4-3)
+1987|St. Louis|95-67|.589|St. Louis L (4-3)
+1989|Chicago Cubs|93-69|.574|Chicago Cubs L (4-2)
+1990|Cincinnati|91-71|.562|Cincinnati W (4-0)
+1992|Atlanta|92-70|.568|Atlanta L (4-3)
+1993|Philadelphia|97-65|.599|Philadelphia L (4-2)
+1995|Atlanta|90-54|.625|Atlanta W (4-2)
+1996|Atlanta|96-66|.593|Atlanta L (4-2)
+1997|Florida Marlins|92-70|.568|Florida W (4-3)
+1998|San Diego|98-64|.605|San Diego L (4-0)
+1999|Atlanta|103-59|.636|Atlanta W (4-2)
+2000|New York Mets|97-66|.595|New York W (4-1)
+2001|Arizona Diamondbacks|92-70|.568|Arizona W (4-3)
+2002|San Francisco Cardinals|95-66|.591|San Francisco W (4-0)
+2003|Florida Marlins|91-71|.561|Florida W (4-2)
+2004|St. Louis Cardinals|105-57|.648|St. Louis W (4-0)
+2005|St. Louis Cardinals|100-62|.617|St. Louis W (4-0)
+2006|St. Louis Cardinals|83-78|.516|St. Louis W (4-1)
+2007|Colorado Rockies|90-73|.552|Colorado L (4-0)
+2008|Philadelphia Phillies|92-70|.568|Philadelphia W (4-1)
+2009|Philadelphia Phillies|93-69|.574|Philadelphia L (4-2)
+2010|Philadelphia Phillies|97-65|.599|Philadelphia L (4-2)
+2011|St. Louis Cardinals|90-72|.556|St. Louis W (4-3)
+2012|San Francisco Cardinals|90-72|.556|San Francisco W (4-1)
+2013|St. Louis Cardinals|97-65|.599|St. Louis L (4-2)
+2014|San Francisco Cardinals|90-72|.556|San Francisco W (4-1)
+2015|St. Louis Cardinals|100-62|.617|St. Louis L (4-1)
+2016|Chicago Cubs|103-58|.640|Chicago Cubs W (4-3)
+2017|Chicago Cubs|92-70|.568|Chicago Cubs L (4-3)
+2018|Los Angeles Dodgers|92-71|.565|Los Angeles L (4-1)
+2019|Los Angeles Dodgers|106-56|.654|Los Angeles L (4-3)
+2020|Los Angeles Dodgers|43-17|.717|Los Angeles W (4-2)
+2021|Atlanta Braves|88-73|.547|Atlanta W (4-2)
+2022|Los Angeles Dodgers|111-51|.685|Los Angeles W (4-0)
+2023|Los Angeles Dodgers|100-62|.617|Los Angeles W (4-0)
+2024|Los Angeles Dodgers|98-64|.605|Los Angeles W (4-0)
+2025|Los Angeles Dodgers|93-69|.574|Los Angeles W (4-0)
+
+# Quick Stats:
+# Total seasons: 150 (1876-2025)
+# Dodgers: 26 pennants, 8 WS titles
+# Cardinals: 19 pennants, 11 WS titles
+# Giants: 23 pennants, 8 WS titles (includes NY era)
+# Braves: 18 pennants, 4 WS titles
+# Cubs: 17 pennants, 3 WS titles
+# Reds: 10 pennants, 5 WS titles
+# Pirates: 7 pennants + 1 as Alleghenys, 5 WS titles
+# Phillies: 8 pennants, 2 WS titles
+# Mets: 5 pennants, 2 WS titles
+# Marlins: 2 pennants, 2 WS titles
+# Diamondbacks: 1 pennant, 1 WS title
+# Rockies: 1 pennant, 0 WS titles
+# Nationals: 0 pennants, 0 WS titles
+# Padres: 2 pennants, 0 WS titles
+# Brewers: 0 pennants, 0 WS titles
+# Mariners历史上不是NL
+# Angels历史上不是NL

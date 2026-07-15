@@ -1,15 +1,50 @@
-record,team,details,year
-Best NL winning percentage,Chicago Cubs,.763 (116-37),1906
-Best 162-game NL record,Los Angeles Dodgers,111-51 (.685),2022
-Best shortened NL record,Los Angeles Dodgers,43-17 (.717),2020
-Most NL pennants,Los Angeles Dodgers,26,through 2025
-Most WS titles (NL),St. Louis Cardinals,11,through 2025
-Most consecutive division titles,Atlanta Braves,14 (1991-2005),1991-2005
-Most all-time NL wins,San Francisco Giants,11663,through 2025
-Most all-time NL losses,Philadelphia Phillies,11865,through 2025
-Most pennants in 20th century,New York/SF Giants,23,through 2025
-Most consecutive pennants,New York Giants,4 (1921-1924),1921-1924
-Longest WS drought,Chicago Cubs,108 years (1908-2016),1908-2016
-Largest pennant margin (W),Chicago Cubs,21 games (over Giants),1906
-Most 100-win seasons (NL),St. Louis Cardinals,15,through 2025
-Fastest expansion team to win NL,Arizona Diamondbacks,2 seasons (1998 title),1998
+# Notable Single-Season and Franchise Records - National League
+# Compiled from Baseball Almanac, Baseball Reference, StatMuse, Linger and Look
+
+Category,Record,Team_Year,Details,Source
+Best NL winning %,Single season,Chicago Cubs 1906,116-36 (.763),Baseball Almanac
+Best 162-game NL record,Single season,Los Angeles Dodgers 2022,111-51 (.685),Baseball Reference
+Best shortened NL record,Single season,Los Angeles Dodgers 2020,43-17 (.717),Baseball Reference
+Most NL pennants,All-time,Los Angeles Dodgers,26 (through 2025),Baseball Almanac / StatMuse
+Most World Series titles (NL),All-time,St. Louis Cardinals,11,StatMuse
+Most all-time NL wins,All-time,San Francisco Giants,11,663,StatMuse
+Most all-time NL losses,All-time,Philadelphia Phillies,11,865,StatMuse
+Most consecutive division titles,All-time,Atlanta Braves,14 (1991-2005),Baseball Almanac
+Most consecutive WS titles,All-time,Los Angeles Dodgers,2 (2024-2025),Baseball Almanac
+Most consecutive pennants,All-time,Los Angeles Dodgers,9 (1955-1966) & 8 (2018-2025),Baseball Almanac
+Most NL titles in 20th century,All-time,New York / San Francisco Giants,13 (1904-2012),Baseball Reference
+Fewest wins in a season,All-time,Colorado Rockies 2025 / Chicago White Sox 2024,25 / 41 / 60 (strikes),Baseball Almanac
+Largest WS margin,Single series,New York Yankees / Dodgers 2024,4-0 sweep,Baseball Almanac
+Best record vs Reds (all-time),Franchise H2H,Chicago Cubs,93-90 (.508),Baseball Almanac
+Most wins vs Reds (all-time),Franchise H2H,Chicago Cubs / Braves / Giants,93+,Baseball Almanac
+Fewest wins vs Cardinals,Franchise H2H,Colorado Rockies,21%,Baseball Almanac
+Best all-time win%,Franchise,San Francisco Giants,.535%,StatMuse
+Best expansion team record,All-time,Miami Marlins,2,435-1,845 (.569),StatMuse
+Best NL record by youngest champion,All-time,Arizona Diamondbacks 2001,92-70 (.568),Baseball Stats
+Highest payroll champion,Single year,Los Angeles Dodgers 2025,~$300M+,Baseball Almanac
+
+# Head-to-Head NL Team-vs-Team Highlights (from Baseball Almanac):
+# - Dodgers vs Cardinals: Best all-time matchup (Dodgers lead)
+# - Cubs vs Cardinals: Sibling rivalry (Cubs lead slightly)
+# - Braves vs Mets: Underdog vs newcomer (Braves dominate)
+# - Phillies vs Braves: East rivals (half-and-half historically)
+# - Giants vs Dodgers: Battle of the Bay / Oldest rivalry (Giants lead all-time)
+# - Cardinals vs Reds: Oldest NL Central rivalry
+# - Brews vs Cubs: Central grind (Brewers lead slightly in recent years)
+# - Rockies vs Padres: Western rivalry (Padres lead recently)
+# - Marlins vs Nationals: Young east rivalry (Marlins dominate)
+
+# Franchise Longevity Notes:
+# - Cubs: Only team from original 8 (1876) still in same city
+# - Braves: Oldest continuous franchise (Boston→Milwaukee→Atlanta)
+# - Phillies: Oldest team never relocated
+# - Reds: Second-oldest NL Central
+# - Giants: Has NYC→SF and still leads all-time W-L
+# - Dodgers: Brooklyn→LA franchise still dominant
+# - Cardinals: Always in St. Louis since 1882
+# - Pirates: Always in Pittsburgh since 1882
+# - Brewers: Only team to switch leagues (AL→NL in 1998)
+# - Nationals: Only current team never played in WS
+# - Marlins: Youngest team with most titles per game played (.569)
+# - Diamondbacks: Youngest team outside Marlins to win a WS
+# - Rockies: 31 seasons with only 1 playoff series win (2007 NLDS)
