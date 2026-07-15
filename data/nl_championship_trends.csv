@@ -1,48 +1,9 @@
-Year,Franquise,Record,Win_Pct,Pennant_Type,WS_Result,Notable_Event
-1876,Chicago White Stockings,52-14,0.788,Regular Season,NA,Inaugural NL champion
-1877,Boston Red Caps,42-18,0.700,Regular Season,NA,Second consecutive NL title for Boston
-1878,Boston Red Caps,41-19,0.683,Regular Season,NA,Boston three-peat
-1879,Providence Grays,59-25,0.702,Regular Season,NA,
-1880,Chicago White Stockings,67-17,0.798,Regular Season,NA,Chicago dominates
-1881,Chicago White Stockings,56-28,0.667,Regular Season,NA,Chicago back-to-back
-1882,Chicago White Stockings,55-29,0.655,Regular Season,NA,Chicago three-peat
-1883,Boston Beaneaters,63-35,0.643,Regular Season,NA,Boston era begins
-1884,Providence Grays,84-28,0.750,Regular Season,Won World Series (1884),Providence wins NL and first WS
-1885,Chicago White Stockings,87-25,0.777,Regular Season,NA,Chicago dominance resumes
-1886,Detroit Wolverines (AA),87-36,0.708,Regular Season,Won WS vs Chicago NL,First pennant crossing leagues
-1887,Detroit Wolverines (AA),79-45,0.637,Regular Season,AA champion,
-1888,New York Giants,84-47,0.641,Regular Season,Won WS 1888,First NY Giants championship
-1889,New York Giants,83-43,0.659,Regular Season,Won WS 1889,Giants back-to-back
-1890,Brooklyn Bridegrooms,86-43,0.667,Regular Season,Won WS 1890,Bridegrooms upset Giants
-1891,Boston Beaneaters,87-51,0.630,Regular Season,NA,Boston four titles in 10 years
-1892,Boston Beaneaters,102-48,0.680,Split Season,NA,Boston wins both halves
-1906,Chicago Cubs,116-36,0.763,Regular Season,NA,Best NL record ever (.763)
-1907,Chicago Cubs,107-45,0.704,Regular Season,Won WS 1907,Cubs first WS in 100+ years of play
-1908,Chicago Cubs,99-55,0.643,Regular Season,Won WS 1908,Cubs back-to-back; controversial tie
-1909,Pittsburgh Pirates,110-42,0.723,Regular Season,Won WS 1909,154G era benchmark
-1911,Philadelphia Athletics (AA),101-50,0.669,Regular Season,Won WS 1911,
-1913,Philadelphia Athletics (AA),96-57,0.627,Regular Season,Won WS 1913,
-1914,Boston Braves,94-59,0.614,Regular Season,Won WS 1914,"Miracle Braves: last to first in 2 months"
-1919,Cincinnati Reds,96-44,0.686,Regular Season,Won WS 1919,First WS after Black Sox scandal
-1920,Cleveland Indians (AL),98-56,0.636,Regular Season,Won WS 1920,
-1925,Pittsburgh Pirates,95-58,0.621,Regular Season,Won WS 1925,
-1926,St. Louis Cardinals,89-65,0.578,Regular Season,Won WS 1926,First Cardinals title
-1931,St. Louis Cardinals,101-53,0.656,Regular Season,Won WS 1931,
-1934,St. Louis Cardinals,105-49,0.682,Regular Season,Won WS 1934,Gas House Gang
-1942,St. Louis Cardinals,106-48,0.688,Regular Season,Won WS 1942,
-1944,St. Louis Cardinals,105-49,0.682,Regular Season,Won WS 1944,Streetcar Series
-1946,St. Louis Cardinals,98-58,0.628,Regular Season,Won WS 1946,
-1951,New York Giants,98-59,0.624,Regular Season,NA,"Shot Heard 'Round the World" - lost WS
-1954,New York Giants,97-57,0.630,Regular Season,Won WS 1954,Mickey Mantle injury year
-1955,Brooklyn Dodgers,98-55,0.641,Regular Season,Won WS 1955,First Brooklyn WS title
-1969,New York Mets,100-62,0.617,Regular Season,Won WS 1969,"Miracle Mets"
-1975,Cincinnati Reds,108-54,0.667,Regular Season,Won WS 1975,Big Red Machine start
-1976,Cincinnati Reds,102-60,0.630,Regular Season,Won WS 1976,Big Red Machine back-to-back
-1986,New York Mets,108-54,0.667,Regular Season,Won WS 1986,Famous October comeback
-1995,Atlanta Braves,90-54,0.625,Divisional Era,NA,14 consecutive division titles begin
-2001,Arizona Diamondbacks,92-70,0.568,Divisional Era,Won WS 2001,2nd-year team championship
-2006,St. Louis Cardinals,83-78,0.516,Divisional Era,Won WS 2006,
-2012,San Francisco Giants,94-68,0.580,Divisional Era,Won WS 2012,Madison Bumgarner classic
-2016,Chicago Cubs,103-58,0.640,Divisional Era,Won WS 2016,Ended 108-year drought
-2020,Los Angeles Dodgers,43-17,0.717,Pandemic Era,Won WS 2020,Best shortened-season record
-2025,Los Angeles Dodgers,93-69,0.574,Divisional Era,Won WS 2025,Back-to-back titles
+Era,StartYear,EndYear,Dominant_Team(s),Pennants,WS_Titles,Key_Theme
+Founding Era,1876,1892,Chicago White Stockings/Braves,5,4,8-team league; Chicago dominance; franchise churn
+Dead Ball Transition,1893,1919,Cubs/Giants/Pirates/Braves,8,4,Record-setting wins; Miracle Braves 1914; 154G schedule
+Power & Resilience,1920,1950,Cardinals/Giants/Dodgers,10,7,Cardinals first title 1926; Braves Miracle 1914; franchise migration begins
+Relocation & Expansion,1951,1969,Giants/Dodgers/Mets/Cardinals,8,6,Dodgers/Giants move West; Miracle Mets 1969; division split
+Competitive Parity,1970,1989,Reds/Phillies/Cardinals/Mets,8,5,Big Red Machine; Pirates back-to-back; 12-team NL without divisions
+Braves Dynasty,1990,2005,Cardinals/Braves/Marlins/D-backs,12,7,14 consecutive div titles; first expansion champs
+Resurgence Cycle,2006,2016,Cardinals/Giants/Phillies/Cubs,7,5,Cardinals 3 titles; Cubs end 108-year drought 2016
+Dodgers Dynasty,2017,2025,Los Angeles Dodgers,9,4,8 straight NL West; back-to-back WS titles

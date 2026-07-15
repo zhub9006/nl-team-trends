@@ -1,16 +1,16 @@
-Franchise,First_Season,Last_Season,Division,Games_Played,Wins,Losses,Win_Pct,Pennants,WS_Titles,Last_Pennant,Last_WS_Title,Active
-San Francisco Giants,1883,2025,West,21722,11663,10059,0.535,23,8,2014,2014,Yes
-Los Angeles Dodgers,1884,2025,West,21722,11586,10136,0.531,26,8,2025,2025,Yes
-St. Louis Cardinals,1882,2025,Central,22486,11413,11073,0.509,19,11,2024,2011,Yes
-Chicago Cubs,1876,2025,Central,22222,11474,10748,0.516,17,3,2016,2016,Yes
-Atlanta Braves,1876,2025,East,22070,11245,10825,0.504,18,4,2021,1995,Yes
-Cincinnati Reds,1882,2025,Central,22222,11060,11162,0.498,10,5,1995,1990,Yes
-Pittsburgh Pirates,1882,2025,Central,21820,10959,10861,0.501,9,5,1979,1979,Yes
-Philadelphia Phillies,1883,2025,East,22222,10357,11865,0.466,8,2,2025,2025,Yes
-New York Mets,1962,2025,East,9520,4899,4621,0.514,2,2,1986,1986,Yes
-Milwaukee Brewers,1969,2025,Central,8920,4464,4456,0.503,0,0,n/a,n/a,Yes
-Washington Nationals,1969,2025,East,8230,4379,3851,0.532,0,0,n/a,n/a,Yes
-San Diego Padres,1969,2025,West,7980,4265,3715,0.533,0,0,n/a,n/a,Yes
-Miami Marlins,1993,2025,East,4280,2435,1845,0.569,2,2,2023,2023,Yes
-Colorado Rockies,1993,2025,West,4760,2403,2357,0.505,0,0,n/a,n/a,Yes
-Arizona Diamondbacks,1998,2025,West,4160,2216,1944,0.532,1,1,2023,2001,Yes
+Franchise,First_Season,Division,Games,Wins,Losses,WinPct,Pennants,WS_Titles
+San Francisco Giants,1883,West,21722,11663,10059,0.535,23,8
+Los Angeles Dodgers,1884,West,21722,11586,10136,0.531,26,8
+St. Louis Cardinals,1882,Central,22486,11413,11073,0.509,19,11
+Chicago Cubs,1876,Central,22222,11474,10748,0.516,17,3
+Cincinnati Reds,1882,Central,22222,11060,11162,0.498,10,5
+Atlanta Braves,1876,East,22070,11245,10825,0.504,18,4
+Pittsburgh Pirates,1882,Central,21820,10959,10861,0.501,9,5
+Philadelphia Phillies,1883,East,22222,10357,11865,0.466,8,2
+New York Mets,1962,East,9520,4899,4621,0.514,2,2
+Washington Nationals,1969,East,8230,4379,3851,0.532,0,0
+San Diego Padres,1969,West,7980,4265,3715,0.533,0,0
+Milwaukee Brewers,1969,Central,8920,4464,4456,0.503,0,0
+Miami Marlins,1993,East,4280,2435,1845,0.569,2,2
+Colorado Rockies,1993,West,4760,2403,2357,0.505,0,0
+Arizona Diamondbacks,1998,West,4160,2216,1944,0.532,1,1

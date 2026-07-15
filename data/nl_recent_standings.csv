@@ -1,46 +1,19 @@
-Year,Team,Division,W,L,Win_Pct,GB,Playoff,WS_Result
-2025,Philadelphia Phillies,East,96,66,0.593,-,Yes,Lost NLCS
-2025,Milwaukee Brewers,Central,97,65,0.599,-,Yes,Lost NLCS
-2025,Los Angeles Dodgers,West,93,69,0.574,-,Yes,Champions
-2025,San Diego Padres,West,82,80,0.506,11,No,
-2025,Atlanta Braves,East,87,75,0.537,9,Yes,
-2025,Chicago Cubs,Central,83,79,0.512,14,No,
-2025,St. Louis Cardinals,Central,83,79,0.512,14,No,
-2025,Cincinnati Reds,Central,77,85,0.475,20,No,
-2025,Pittsburgh Pirates,Central,76,86,0.469,21,No,
-2025,New York Mets,East,73,89,0.451,23,No,
-2025,Miami Marlins,East,72,90,0.444,24,No,
-2025,Washington Nationals,East,71,91,0.438,25,No,
-2025,San Francisco Giants,West,76,86,0.469,17,No,
-2025,Arizona Diamondbacks,West,76,86,0.469,17,No,
-2025,Colorado Rockies,West,64,98,0.395,29,No,
-2024,Atlanta Braves,East,89,73,0.549,-,Yes,
-2024,Milwaukee Brewers,Central,93,69,0.574,-,Yes,
-2024,Los Angeles Dodgers,West,98,64,0.605,-,Yes,Champions
-2024,Philadelphia Phillies,East,95,67,0.586,1,Yes,
-2024,New York Mets,East,89,73,0.549,6,Yes,
-2024,Arizona Diamondbacks,West,89,73,0.549,5,Yes,
-2024,San Diego Padres,West,93,69,0.574,4,Yes,
-2024,Chicago Cubs,Central,83,79,0.512,10,No,
-2024,St. Louis Cardinals,Central,83,79,0.512,10,No,
-2024,Cincinnati Reds,Central,77,85,0.475,16,No,
-2024,Pittsburgh Pirates,Central,76,86,0.469,17,No,
-2024,Washington Nationals,East,71,91,0.438,24,No,
-2024,Miami Marlins,East,62,100,0.383,33,No,
-2024,San Francisco Giants,West,80,82,0.494,18,No,
-2024,Colorado Rockies,West,61,101,0.377,37,No,
-2023,Atlanta Braves,East,104,58,0.642,-,Yes,
-2023,Los Angeles Dodgers,West,100,62,0.617,-,Yes,
-2023,Milwaukee Brewers,Central,92,70,0.568,-,Yes,
-2023,Philadelphia Phillies,East,90,72,0.556,14,Yes,
-2023,St. Louis Cardinals,Central,71,91,0.438,21,No,
-2023,Chicago Cubs,Central,83,79,0.512,9,No,
-2023,Cincinnati Reds,Central,77,85,0.475,15,No,
-2023,San Diego Padres,West,82,80,0.506,18,No,
-2023,San Francisco Giants,West,79,83,0.488,21,No,
-2023,Arizona Diamondbacks,West,84,78,0.519,16,Yes,
-2023,Miami Marlins,East,84,78,0.519,16,Yes,
-2023,Washington Nationals,East,71,91,0.438,29,No,
-2023,Colorado Rockies,West,59,103,0.364,45,No,
-2023,Pittsburgh Pirates,Central,76,86,0.469,21,No,
-2023,New York Mets,East,75,87,0.463,22,No,
+Year,Team,Wins,Losses,WinPct,Division,GB
+2020,Atlanta Braves,35,25,0.583,East,—
+2020,Cincinnati Reds,31,29,0.517,Central,+2.0
+2020,LA Dodgers,43,17,0.717,West,—
+2021,Atlanta Braves,88,73,0.547,East,—
+2021,Chicago Cubs,71,91,0.438,Central,+12.5
+2021,LA Dodgers,106,56,0.654,West,—
+2022,Atlanta Braves,101,61,0.623,East,—
+2022,St. Louis Cardinals,93,69,0.574,Central,+4.5
+2022,LA Dodgers,111,51,0.685,West,—
+2023,Atlanta Braves,104,58,0.642,East,—
+2023,Milwaukee Brewers,92,70,0.568,Central,+6.5
+2023,LA Dodgers,100,62,0.617,West,—
+2024,Atlanta Braves,89,73,0.549,East,+6.5
+2024,Milwaukee Brewers,93,69,0.574,Central,+7.5
+2024,LA Dodgers,98,64,0.605,West,—
+2025,Philadelphia Phillies,96,66,0.593,East,+3.0
+2025,Milwaukee Brewers,97,65,0.599,Central,—
+2025,LA Dodgers,93,69,0.574,West,+4.5
