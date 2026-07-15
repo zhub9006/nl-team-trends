@@ -6,6 +6,8 @@ Comprehensive research project compiling historical **National League (NL)** tea
 
 The National League is baseball's oldest professional league, founded on **February 2, 1876** as the first fully professional baseball organization to survive to the present day — replacing the National Association. This repository serves as a centralized research hub for all NL franchise records, head-to-head performance matrices, era-specific trends, and win-loss analysis.
 
+---
+
 ## 🏆 All-Time NL Franchise Records (through 2025 season)
 
 | Franchise | First Season | Division | Games | Wins | Losses | Win% | Pennants | WS Titles |
@@ -26,7 +28,9 @@ The National League is baseball's oldest professional league, founded on **Febru
 | Colorado Rockies | 1993 | West | 4,760 | 2,403 | 2,357 | .505 | 0 | 0 |
 | Arizona Diamondbacks | 1998 | West | 4,160 | 2,216 | 1,944 | .532 | 1 | 1 |
 
-## 📁 Repository Structure
+---
+
+## 📂 Repository Structure
 
 ```
 nl-team-trends/
@@ -46,6 +50,8 @@ nl-team-trends/
 └── notebooks/                              ← (planned) analysis Jupyter notebooks
 ```
 
+---
+
 ## 📊 Notable NL Championships by Era
 
 | Era | Dominant Team(s) | Theme |
@@ -59,6 +65,8 @@ nl-team-trends/
 | 2006–2016 | Cardinals, Giants, Phillies, Cubs | Resurgence cycle; Cubs end drought 2016 |
 | 2017–present | Dodgers | Dodgers dynasty; 8 straight NL West |
 
+---
+
 ## 🏅 Notable Single-Season & Franchise Records
 
 | Record | Team/Detail | Value |
@@ -71,6 +79,8 @@ nl-team-trends/
 | Most consecutive division titles | Atlanta Braves | 14 (1991-2005) |
 | Most all-time NL wins | San Francisco Giants | 11,663 |
 | Most all-time NL losses | Philadelphia Phillies | 11,865 |
+
+---
 
 ## 📅 NL Historical Timeline
 
@@ -87,6 +97,8 @@ nl-team-trends/
 | Milwaukee Brewers move | 1998 | Switch from AL to NL Central |
 | Nats relocation | 2005 | Montreal Expos → Washington Nationals |
 
+---
+
 ## 🔍 Key Research Sources
 
 | Source | Description | Coverage |
@@ -98,15 +110,23 @@ nl-team-trends/
 | [StatsCrew](https://www.statscrew.com/baseball/l-NL) | NL rosters, standings & leaders | 1876–present |
 | [StatMuse](https://www.statmuse.com/mlb/ask/most-national-league-titles) | NL championship leaders & franchise stats | 1876–2026 |
 | [OpenIntro MLB Dataset](https://www.openintro.org/data/index.php?data=mlb_teams) | ML-ready MLB team data | Multi-year |
+| [Linger and Look](https://www.lingerandlook.com/Names/BaseballStandings.php) | Year-by-year MLB standings | 1901–present |
+| [Her Sports Corner](https://hersportscorner.com/3374-2/) | NL divisional all-time records | 1876–2015 |
+
+---
 
 ## 📈 Visualization Roadmap
 
 - [ ] Win-loss trend lines per franchise (1876–2025)
 - [ ] Pennant/win-heatmap by era
-- [ ] Head-to-head matchup matrix heatmap
+- [ ] Head-to-head matchup matrix heatmap (Baseball Almanac data)
 - [ ] Championship drought duration chart
 - [ ] Win% distribution by decade
+- [ ] Divisional shift tracker (Braves: NL West→Central→East)
 - [ ] Interactive dashboard (Plotly / Streamlit)
+- [ ] Pennant race projections based on historical patterns
+
+---
 
 ## 🛠 Methods & Conventions
 
@@ -116,6 +136,25 @@ nl-team-trends/
 - All data through end of 2025 MLB season
 - Pre-1961 seasons use 154-game schedule; 1961+ uses 162-game schedule
 - Shortened seasons (e.g., 2020: 60 games) are noted as special cases
+- Franchise histories include pre-relocation totals (e.g., Brooklyn/LA Dodgers, Milwaukee's AL years)
+- 2025 NL Standings: Phils (East), Brewers (Central), Dodgers (West); Dodgers won WS back-to-back
+
+---
+
+## 📝 Key Findings & Trends
+
+### 1. The Giants hold the all-time NL win record (11,663), despite not being the most successful in championships (8 WS titles)
+### 2. The Cardinals lead in championships (11) — more than any other NL or MLB team
+### 3. The Dodgers have the most pennants (26) — reflecting sustained division dominance plus 8 titles
+### 4. The Braves' 14-division-title streak (1991-2005) is the longest in North American pro sports
+### 5. The Dodgers' 8 straight NL West titles (2018-2025) represents a modern dynasty
+### 6. The Phillies have the most all-time losses (11,865) — reflecting their long history of losing
+### 7. The 1906 Cubs (.763) hold the best winning % in NL history; the 2022 Dodgers (111-51) won the most games in the 162-game era
+### 8. The Marlins (.569 win%) have the highest win% of any franchise with fewer than 5,000 games — a small-sample anomaly
+### 9. The 1994 season was voided by the players' strike — no pennant or WS was awarded
+### 10. The NL expanded dramatically from 8 teams (1876) → 12 (1969) → 14 (1993) → 15 (1998) → 16 (2025 pending)
+
+---
 
 ## License
 
