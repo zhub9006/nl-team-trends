@@ -1,1 +1,9 @@
-_TEMP_PLACEHOLDER
+Era,Start,End,Dominant_Team,Pennants,WS_Titles,Theme,Avg_WinPct,Wild_Card_Champions
+Founding Era,1876,1892,Chicago White Stockings/Boston,31,14,8-10 team league; pennant=title,.628,None
+Dead Ball Era,1893,1919,Cubs/Giants/Pirates/Braves,29,11,Record wins; franchise migrations,.598,Pittsburgh (1903)
+Power Transition Era,1920,1950,Cardinals/Giants/Dodgers,39,19,Cardinals rise; Dodgers relocation,.601,Boston Braves (1914)
+Relocation Era,1951,1969,Giants/Dodgers/Mets/Cardinals,31,7,Dodgers move LA; expansion; Miracle Mets,.583,Dodgers (1959)
+Parity Era,1970,1989,Reds/Cardinals/Phillies/Mets,37,18,Big Red Machine; competitive balance,.581,Dodgers (1981); Mets (1986)
+Braves Dynasty Era,1990,2005,Braves/Cardinals/Marlins/D-backs,38,7,Braves 14 consecutive division tags,.589,Marlins (1997); D-backs (2001)
+Resurgence Cycle,2006,2016,Cardinals/Giants/Phillies/Cubs,35,7,Cubs end 108-yr drought; no consecutive NL pennants,.590,Giants (2010/12/14)
+Dodgers Dynasty Era,2017,2025,Dodgers,9,4,8 straight NL West titles; NL record 111 wins,.615,Giants (2010/12/14); D-backs (2023)

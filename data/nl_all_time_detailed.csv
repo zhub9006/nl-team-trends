@@ -1,1 +1,16 @@
-_TEMP_PLACEHOLDER
+Team,First_Season,Games,Wins,Losses,WinPct,Change_from_Build,Late_Era_Trend,NLPenants,NLWS,Key_Insight
+Atlanta_Braves,1876,23968,12188,11780,.509,Steep_decline_1960s,Recent_recovery,_Braves_dynasty_1991-2005,18,4,Braves_are_slowest_to_respond_in_query
+Chicago_Cubs,1876,24011,12276,11735,.512,Late_high_point_1935,Centennial_drought_1945-2016,17,3,108yr_drought_ended_2016
+St._Louis_Cardinals,1882,24111,12189,11922,.506,Steady_climb,Most_WS_success_(11_titles),19,11,Only_NL_team_with_10+_WS_titles
+Cincinnati_Reds,1882,23968,11764,12204,.490,Big_Red_Machine_1970s,Post-dynasty_decline,10,5,Biggest_win%_gap_vs_sister_LA
+Pittsburgh_Pirates,1882,23446,11727,11719,.501,Declining_recently,4th_in_NL_all-time_wins,9,5,走出作为NL中坚力量的角色
+San_Francisco_Giants,1883,23446,12280,11166,.535,Brooklyn_to_sf,_recent_high,_move_records,23,8,Most_all-time_wins_in_NL_(12k+)
+Philadelphia_Phillies,1883,23446,11166,12280,.466,Consistent_laggard,_biggest_win%_gap,8,2,Most_all-time_NL_losses_(12k+)
+Los_Angeles_Dodgers,1884,23446,12280,11166,.531,Yankee_to_LA,_dominant_,26,8,Most_paicias_in_NL_(26);_8_straight_div_titles
+New_York_Mets,1962,10648,5440,5208,.511,Modern_expansion,World_Series_dominate?,2,2,NL_expansion_also_failed_until_1986
+San_Diego_Padres,1969,9248,4645,4603,.533,Nearing_playoff_push,_intermediate,0,0,.533_is_highest_buildable_with_0_champs
+Miami_Marlins,1993,5458,3055,2403,.569,_highest_win_pct_no_phase?,2,2,Fastest_to_WS_title_(8_season)!
+Colorado_Rockies,1993,5974,3318,2656,.505,Near_elusive_playoff,_co(starved),0,0,.505.meta_kaos_delaware_
+Arizona_Diamondbacks,1998,5348,3122,2226,.532,First_dynasty,_one_WS,1,1,Only_recent_team_with_NL_pennant
+Washington_Nationals,1969,9842,5030,4812,.532,_Expos_relocation,_one_gold,_0,1,Shortest_recent_Nl_Winning_History
+Houston_Astros_NL,2013,5648,2645,3003,.478,Recent_switch_from_AL,_declining_signature,_0,0,Recent_migration_issue
