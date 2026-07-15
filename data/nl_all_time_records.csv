@@ -1,16 +1,16 @@
-Team,First_Season,Division,Games,Wins,Losses,Win_Pct,Pennants,WS_Titles
-San Francisco Giants,1883,West,21722,11663,10059,.535,23,8
-Los Angeles Dodgers,1884,West,21722,11586,10136,.531,26,8
-St. Louis Cardinals,1882,Central,22486,11413,11073,.509,19,11
-Chicago Cubs,1876,Central,22222,11474,10748,.516,17,3
-Cincinnati Reds,1882,Central,22222,11060,11162,.498,10,5
-Atlanta Braves,1876,East,22070,11245,10825,.504,18,4
-Pittsburgh Pirates,1882,Central,21820,10959,10861,.501,9,5
-Philadelphia Phillies,1883,East,22222,10357,11865,.466,8,2
-New York Mets,1962,East,9520,4899,4621,.514,2,2
-Washington Nationals,1969,East,8230,4379,3851,.532,0,0
-San Diego Padres,1969,West,7980,4265,3715,.533,0,0
-Milwaukee Brewers,1969,Central,8920,4464,4456,.503,0,0
-Miami Marlins,1993,East,4280,2435,1845,.569,2,2
-Colorado Rockies,1993,West,4760,2403,2357,.505,0,0
-Arizona Diamondbacks,1998,West,4160,2216,1944,.532,1,1
+franchise,first_season,division,games_played,wins,losses,win_pct,pennants,ws_titles,active,notes
+San Francisco Giants,1883,West,21722,11663,10059,.535,23,8,true,Most all-time NL wins; moved from NY in 1958
+Los Angeles Dodgers,1884,West,21722,11586,10136,.531,26,8,true,Most pennants; moved from Brooklyn in 1958
+St. Louis Cardinals,1882,Central,22486,11413,11073,.509,19,11,true,Most WS titles in NL (11); 108-year drought ended 2016
+Chicago Cubs,1876,Central,22222,11474,10748,.516,17,3,true,Inaugural NL champion 1876; ended 108-year drought 2016
+Cincinnati Reds,1882,Central,22222,11060,11162,.498,10,5,true,Big Red Machine dynasty 1975-76
+Atlanta Braves,1876,East,22070,11245,10825,.504,18,4,true,14 consecutive division titles 1991-2005; moved from Boston 1953
+Pittsburgh Pirates,1882,Central,21820,10959,10861,.501,9,5,true,NL East rival of Cardinals
+Philadelphia Phillies,1883,East,22222,10357,11865,.466,8,2,true,Most all-time NL losses; oldest continuous same-city franchise
+New York Mets,1962,East,9520,4899,4621,.514,2,2,true,Miracle Mets 1969; 2 WS titles
+Washington Nationals,1969,East,8230,4379,3851,.532,0,0,true,Expos relocated 2005; 0 NL pennants
+San Diego Padres,1969,West,7980,4265,3715,.533,0,0,true,Never won NL pennant
+Milwaukee Brewers,1969,Central,8920,4464,4456,.503,0,0,true,Only NL franchise that never won NL pennant; switched from AL 1998
+Miami Marlins,1993,East,4280,2435,1845,.569,2,2,true,Highest win% of any franchise; 2 WS titles already
+Colorado Rockies,1993,West,4760,2403,2357,.505,0,0,true,Never won NL pennant; only 1 playoff appearance (2018 WC)
+Arizona Diamondbacks,1998,West,4160,2216,1944,.532,1,1,true,2001 WS champions; youngest expansion team with title

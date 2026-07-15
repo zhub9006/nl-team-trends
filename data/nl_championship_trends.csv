@@ -1,9 +1,9 @@
-Era,Start_Year,End_Year,Dominant_Team(s),Key_Teams,Championship_Count,Theme
-Founding Era,1876,1892,Chicago White Stockings / Boston,Chicago Boston Providence Buffalo,34 Championships,8-Team League; Chicago Dominance
-Dead Ball Transition,1893,1919,Cubs / Giants / Pirates / Braves,Cubs Giants Pirates Braves Superbas,27 Championships,Record-Setting Wins; 154 Game Schedule
-Power Rise,1920,1950,Cardinals / Giants / Dodgers-NY,Cardinals Giants Dodgers,23 Championships,Durable Franchise Strengths; First WS
-Relocation Expansion,1951,1969,Giants / Dodgers / Mets / Cardinals,Giants Dodgers Mets Cardinals Braves,18 Championships,Franchise Migration; Miracle Mets 1969
-Competitive Parity,1970,1989,Reds / Phillies / Cardinals / Mets,Reds Phillies Cardinals Mets Expos,19 Championships,Big RED Machine; 12-Team League
-Braves Dynasty,1990,2005,Atlanta Braves / Cardinals / Marlins / D-backs,Atlanta Braves Cardinals Marlins D-backs,24 Championships,14-Title Streak; First Expansion Champions
-Resurgence Cycle,2006,2016,Cardinals / Giants / Phillies / Cubs,Cardinals Giants Phillies Cubs Brewers,18 Championships,Cubs End 108-Year Drought 2016
-Dodgers Era,2017,2025,Los Angeles Dodgers,Dodgers Cubs Brewers Mets Cardinals,9 Championships,Back-to-Back; 8 Straight NL West
+era,start_year,end_year,dominant_teams,theme,total_pennants,ws_titles_won,key_insight
+Founding,1876,1892,Chicago White Stockings, Boston Beaneaters,NL formation & early consolidation,8,0,8-team league; no divisions; high franchise turnover
+Dead Ball,1893,1919,Chicago Cubs, Pittsburgh Pirates,Record-setting wins,10,5,154-game schedule; first WS in 1903; 116-win Cubs in 1906
+Power,1920,1949,St. Louis Cardinals, New York Giants,Franchise power bases established,10,6,Cards begin dynasty; Braves Miracle 1914; Giants 4 pennants in 5 years
+Relocation,1950,1969,Brooklyn/LA Dodgers, NY Giants,New York→West Coast migration,10,6,Dodgers & Giants move west; 1962 Mets join; division split 1969
+Expansion,1970,1989,Cincinnati Reds, Philadelphia Phillies,Big Red Machine through parity,10,5,1994 division creates chaos; 1969 Miracle Mets; 12-team league
+Dynasty,1990,2005,Atlanta Braves, St. Louis Cardinals, Braves 14-division streak,10,6,First expansion champions; interleague play begins
+Resurgence,2006,2016,St. Louis Cardinals, San Francisco Giants,New cycle of champions,9,3,Cubs end 108-year drought 2016; competitive parity ends
+Dodgers Dynasty,2017,2025,Los Angeles Dodgers, Atlanta Braves,LA dominance in modern era,9,2,Dodgers 8 straight NL West; 8 WS titles in last 19 years

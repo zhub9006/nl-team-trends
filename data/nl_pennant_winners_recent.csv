@@ -1,27 +1,30 @@
-Year,League,Team,Wins,Losses,WinPct,WS_Champion
-2000,NL,St. Louis Cardinals,95,67,0.586,NY Yankees
-2001,NL,Arizona Diamondbacks,92,70,0.568,Arizona Diamondbacks
-2002,NL,San Francisco Giants,95,66,0.590,Anaheim Angels
-2003,NL,Florida Marlins,91,71,0.562,Florida Marlins
-2004,NL,St. Louis Cardinals,105,57,0.648,Boston Red Sox
-2005,NL,Houston Astros,89,73,0.549,Chicago White Sox
-2006,NL,St. Louis Cardinals,83,78,0.516,St. Louis Cardinals
-2007,NL,Colorado Rockies,90,73,0.552,Boston Red Sox
-2008,NL,Philadelphia Phillies,92,70,0.568,Philadelphia Phillies
-2009,NL,Philadelphia Phillies,93,69,0.574,New York Yankees
-2010,NL,San Francisco Giants,92,70,0.568,San Francisco Giants
-2011,NL,St. Louis Cardinals,90,72,0.556,St. Louis Cardinals
-2012,NL,San Francisco Giants,94,68,0.580,San Francisco Giants
-2013,NL,St. Louis Cardinals,97,65,0.599,Boston Red Sox
-2014,NL,San Francisco Giants,90,72,0.556,San Francisco Giants
-2015,NL,New York Mets,90,72,0.556,Kansas City Royals
-2016,NL,Chicago Cubs,103,58,0.640,Chicago Cubs
-2017,NL,Los Angeles Dodgers,104,58,0.642,Houston Astros
-2018,NL,Los Angeles Dodgers,92,71,0.564,Boston Red Sox
-2019,NL,Washington Nationals,93,69,0.574,Washington Nationals
-2020,NL,Los Angeles Dodgers,43,17,0.717,Los Angeles Dodgers
-2021,NL,Atlanta Braves,88,73,0.547,Atlanta Braves
-2022,NL,Los Angeles Dodgers,111,51,0.685,Houston Astros
-2023,NL,Philadelphia Phillies,90,72,0.556,TX Rangers
-2024,NL,Los Angeles Dodgers,98,64,0.605,Los Angeles Dodgers
-2025,NL,Los Angeles Dodgers,93,69,0.574,Los Angeles Dodgers
+year,team,record,division_race_notes
+1995,Atlanta Braves,90-54,14th division title (ongoing streak)
+1996,Atlanta Braves,96-70,15th consecutive division title
+1997,Florida Marlins,92-70,First expansion team NL pennant
+1998,Arizona Diamondbacks,100-62,Youngest expansion team to win
+1999,Atlanta Braves,103-59,18th NL pennant
+2000,New York Mets,94-68,
+2001,Arizona Diamondbacks,92-70,First 2-year-old expansion champion
+2004,St. Louis Cardinals,105-57,
+2005,Houston Astros,89-73 (NL),First AL/NL cross-league WS
+2006,St. Louis Cardinals,83-78,
+2007,Colorado Rockies,90-73,
+2008,Philadelphia Phillies,92-70,
+2009,Philadelphia Phillies,93-69,
+2010,San Francisco Giants,92-70,
+2011,St. Louis Cardinals,90-72,
+2012,San Francisco Giants,94-68,
+2013,St. Louis Cardinals,97-65,
+2014,San Francisco Giants,90-72,
+2015,New York Mets,90-72,
+2016,Chicago Cubs,103-58,Ended 108-year WS drought
+2017,Los Angeles Dodgers,104-58,
+2018,Los Angeles Dodgers,92-71,
+2019,Los Angeles Dodgers,106-56,
+2020,Los Angeles Dodgers,43-17,Shortened season; 7th pennant in 9 years
+2021,Atlanta Braves,88-73,
+2022,Los Angeles Dodgers,111-51,
+2023,Los Angeles Dodgers,100-62,
+2024,Los Angeles Dodgers,98-64,
+2025,Los Angeles Dodgers,93-69,Back-to-back WS champions

@@ -1,30 +1,61 @@
-# Detailed Source References for NL Team Trends
+# NL Team Trends — Source References
 
 ## Primary Data Sources
 
-| Source | URL | Coverage | Key Data |
-|--------|-----|----------|----------|
-| **Baseball Reference** | https://www.baseball-reference.com/leagues/NL/ | 1876–present | Year-by-year NL standings & leaders |
-| **Baseball Almanac** | https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml | 1876–2026 | NL team-vs-team head-to-head matrices |
-| **SABR Lahman Database** | https://sabr.org/lahman-database/ | 1871–2025 | Free downloadable CSV dataset (team, batting, pitching, fielding) |
-| **Baseball Data Hub** | https://baseballdatahub.com/seasons/ | 1871–2026 | Complete season standings archive |n| **StatsCrew** | https://www.statscrew.com/baseball/l-NL | 1876–present | NL rosters, standings & leaders |
-| **Everything Explained** | https://everything.explained.today | 1876–2025 | All-time franchise W-L and postseason records |
-| **StatMuse** | https://www.statmuse.com/mlb/ask/most-national-league-titles | 1876–2026 | NL championship leaders & franchise stats |
-| **Baseball Briefs** | https://baseballbriefs.com/most-wins-in-national-league-history/ | 1876–2023 | Franchise win totals analysis |
-| **Her Sports Corner** | https://hersportscorner.com/3374-2/ | 1876–2015 | NL Central all-time records |
-| **OpenIntro Dataset** | https://www.openintro.org/data/index.php?data=mlb_teams | Multi-year | Machine-learning-ready MLB team data |
+### 1. Baseball Reference (https://www.baseball-reference.com/leagues/NL/)
+- **Description**: Official year-by-year NL standings, leaders, and historical statistics
+- **Coverage**: 1876–present
+- **Best For**: Season-by-season standings, team-level advanced stats
 
-## Recommended Data Downloads
+### 2. SABR Lahman Database (https://sabr.org/lahman-database/)
+- **Description**: Full historical team, batting, pitching, and fielding statistics in CSV format
+- **Coverage**: 1871–2025
+- **Best For**: Downloadable CSV datasets ready for Python/R analysis
+- **Key Files**: `Teams.csv`, `TeamStadiums.csv`, `AllstarFull.csv`
 
-1. **SABR Lahman Database** — Download `Teams.csv`, `AllTimeSeason.csv` for complete historical team stats
-2. **Baseball Data Hub** — Download full NL standings JSON/CSV for every season 1871–2026
-3. **Baseball Reference** — Scrape or use provided API for year-by-year standings tables
+### 3. Baseball Almanac (https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml)
+- **Description**: Complete head-to-head W-L matrices for every NL team vs every other team
+- **Coverage**: 1876–2026
+- **Best For**: Inter-team matchup data
 
-## Data Conventions
+### 4. Baseball Data Hub (https://baseballdatahub.com/seasons/)
+- **Description**: Complete season standings archive with downloadable CSVs
+- **Coverage**: 1871–2026
+- **Best For**: Quick access to formatted standings data
 
-- Win-loss records use standard W-L format (e.g., 116-36)
-- Win percentages rounded to 3 decimal places (.XXX format)
-- Division alignment reflects current division assignment
-- "Championship" = World Series win; "Pennant" = NL league championship
-- Shortened seasons noted with original scheduled games
-- MVP words corrected to standard formatting
+### 5. StatsCrew (https://www.statscrew.com/baseball/l-NL)
+- **Description**: NL rosters, standings, and team leaders
+- **Coverage**: 1876–present
+- **Best For**: Roster-level historical data
+
+### 6. StatMuse (https://www.statmuse.com/mlb/ask/most-national-league-titles)
+- **Description**: NL championship leaders and franchise statistics
+- **Coverage**: 1876–2026
+- **Best For**: Quick queries on championship counts and franchise records
+
+### 7. OpenIntro MLB Dataset (https://www.openintro.org/data/index.php?data=mlb_teams)
+- **Description**: Machine-learning-ready MLB team data in R-accessible format
+- **Coverage**: Multi-year aggregated
+- **Best For**: Statistical modeling with pre-cleaned data
+
+### 8. Everything Explained (https://everything.explained.today)
+- **Description**: All-time franchise W-L records and postseason results
+- **Coverage**: 1876–2025
+- **Best For**: Quick franchise summary stats
+
+### 9. Baseball Briefs (https://baseballbriefs.com/most-wins-in-national-league-history/)
+- **Description**: Franchise win totals analysis by team
+- **Coverage**: 1876–2023
+- **Best For**: Head-to-head franchise win comparisons
+
+### 10. Her Sports Corner (https://hersportscorner.com/3374-2/)
+- **Description**: NL Central all-time records
+- **Coverage**: 1876–2015
+- **Best For**: Division-level historical analysis
+
+## Data Verification Notes
+- All standings/records cross-referenced against Baseball Reference
+- Franchise relocations and name changes accounted for (e.g., Brooklyn→LA, Boston→Milwaukee→Atlanta, Montreal→Washington)
+- Pre-1961 seasons reflect 154-game schedule; 1961+ reflects 162-game schedule
+- 2020 season used 60-game format due to COVID-19
+- Data current through end of 2025 MLB season

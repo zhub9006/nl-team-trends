@@ -1,12 +1,9 @@
-Year,Season,Winner,Team,Record,Win_Pct,Games,Era,World_Series
-2020,Shortened,NL Champion,Los Angeles Dodgers,43-17,.717,60,60 Game Season,World Series Champion
-2020,Shortened,AL Champion,Tampa Bay Rays,40-20,.667,60,60 Game Season,—
-2021,Full,NL Champion,Atlanta Braves,88-73,.547,162,Post-Division Split,World Series Champion
-2021,Full,AL Champion,Houston Astros,95-67,.586,162,Post-Division Split,—
-2022,Full,Division Winner,Los Angeles Dodgers,111-51,.685,162,Modern Era,—
-2022,Full,Division Winner,St. Louis Cardinals,93-69,.574,162,Modern Era,—
-2023,Full,Division Winner,Atlanta Braves,104-58,.642,162,15-Team Format,—
-2024,Full,Division Winner,Los Angeles Dodgers,98-64,.605,162,Post Wild Card,—
-2024,Full,Division Winner,Milwaukee Brewers,93-69,.574,162,Post Wild Card,—
-2025,Full,Division Winner,Los Angeles Dodgers,93-69,.574,162,Current Format,World Series Champion
-2025,Full,Division Winner,Milwaukee Brewers,97-65,.599,162,Current Format,—
+year,east_winner,wwins,ewins,los,central_winner,cwins,central_wins,west_winner,wwins,west_wins,ws_winner,notes
+2020,Atlanta Braves,35,25,Cincinnati Reds,31,29,Los Angeles Dodgers,43,17,Los Angeles Dodgers,Shortened season
+1995,Atlanta Braves,90,54,Cincinnati Reds,85,59,Los Angeles Dodgers,78,66,Los Angeles Dodgers,
+2019,Atlanta Braves,97,65,St. Louis Cardinals,91,71,Los Angeles Dodgers,106,56,Los Angeles Dodgers,
+2018,Atlanta Braves,90,72,Los Angeles Dodgers,92,71,Los Angeles Dodgers,
+2017,Los Angeles Dodgers,104,58,Wisconsin,86,71,Cincinnati Reds,91,71,
+2016,Washington Nationals,95,67,Chicago Cubs,103,58,Los Angeles Dodgers,91,71,Chicago Cubs,
+2015,New York Mets,90,72,St. Louis Cardinals,100,62,Los Angeles Dodgers,92,70,
+2014,Washington Nationals,96,66,St. Louis Cardinals,90,72,San Francisco Giants,90,72,

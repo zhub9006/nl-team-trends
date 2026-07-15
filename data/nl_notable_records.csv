@@ -1,18 +1,13 @@
-Record_Category,Team_Detail,Value,Year
-Best NL Winning Percentage,1906 Chicago Cubs,.763 (116-37),1906
-Best 162-Game NL Record,2022 Los Angeles Dodgers,111-51 (.685),2022
-Best Shortened NL Record,2020 Los Angeles Dodgers,43-17 (.717),2020
-Most NL Pennants,LA Dodgers,26 (Through 2025),Through 2025
-Most WS Titles (NL),St. Louis Cardinals,11,Through 2025
-Most Division Titles,Atlanta Braves,18 (14 Consecutive),Through 2025
-Largest Era Margin,1876 Chicago White Stockings,38 Wins (.721),1876
-Highest HR Season (Combined),2019 MLB-wide,6776 Total HRs,2019
-Most Consecutive Division Titles,Atlanta Braves,14 (1991-2005),1991-2005
-Only Franchise W/o NL Pennant (Active),Milwaukee Brewers (Won AL 1982),0 NL Pennants,Through 2025
-Highest Team Win% Single Decade,St. Louis Cardinals,.620 (1942-52),1942-1952
-Longest WS Drought,Chicago Cubs,108 Years (1908-2016),1908-2016
-Longest Pennant Drought,Seattle (AL),0 Since Founding,—
-First 162-Game NL Season,Various,1962 Onward,1962
-Interleague Play Started,All Teams,1997,1997
-Full Interleague Schedule,All Teams,2023,2023
-Most Pennants Without WS,LA Dodgers,26 Pennants / 8 WS,Through 2025
+record,team,detail,value,year
+Best NL winning percentage,Chicago Cubs,Best single-season,.763,1906
+Best 162-game NL record,LA Dodgers,Best full modern season,111-51 (.685),2022
+Best shortened NL record,LA Dodgers,60-game season,.717,2020
+Most NL pennants,LA Dodgers,All-time NL pennant count,26,2025
+Most WS titles (NL),St. Louis Cardinals,World Series championships,11,All-time
+Most consecutive division titles,Atlanta Braves,Division crowns in a row,14,1991-2005
+Largest margin of victory (era),Chicago White Stockings,Most wins in first NL season,52 wins,1876
+Highest franchise Win%,Miami Marlins,Win percentage of all active teams,.569,All-time
+Best NL start (expansion),LA Dodgers,Best start by expansion team in NL,43-17,2020
+Only franchise w/o NL pennant,Milwaukee Brewers,Active teams without NL title,0 pennants,All-time
+Most seasons leading league in wins,San Francisco Giants,Leads NL in wins most often,16 times,All-time
+Most playoff appearances,St. Louis Cardinals,Playoff appearances all-time,30+,All-time
