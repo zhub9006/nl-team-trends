@@ -1,61 +1,58 @@
-# NL Team Trends — Visualization Roadmap
+# Visualization Roadmap
 
 ## Planned Visualizations
 
-### 1. Win-Loss Trend Lines by Franchise (1876–2025)
-- **Type**: Multi-line time series
-- **X-axis**: Season year
-- **Y-axis**: Win % or W-L record
-- **Lines**: One per franchise, color-coded
-- **Insight**: See competitive shifts across eras
+### 1. Franchise Win-Loss Bar Chart
+- **Type**: Horizontal bar chart (sorted)
+- **Data**: `data/nl_all_time_records.csv`
+- **Shows**: All-time wins/losses per franchise
+- **Tool**: Matplotlib / Seaborn / Plotly
 
-### 2. Pennant Heatmap
-- **Type**: Heatmap (team × year)
-- **Color**: Intensity by pennant count or win%
-- **Insight**: Dominance patterns by era
-- **Example**: Atlanta 1991–2005 as a bright stripe
+### 2. Pennant Winners Timeline
+- **Type**: Gantt-style timeline or strip plot
+- **Data**: `data/nl_championship_trends.csv`
+- **Shows**: Pennant winners by year, color-coded by team
+- **Highlight**: 8-era color coding for dominance periods
 
-### 3. Championship Drought Chart
-- **Type**: Bar chart with annotations
-- **X-axis**: Team
-- **Y-axis**: Years since last WS title
-- **Insight**: Cardinals (1982→2006 gap), Cubs (1908→2016 gap)
+### 3. World Series Wins by Team
+- **Type**: Pie chart or treemap
+- **Data**: `data/nl_all_time_records.csv` (WS_Titles column)
+- **Shows**: NL teams' championship share vs. AL
 
-### 4. Head-to-Head Matchup Matrix
-- **Type**: Square matrix heatmap
-- **Cells**: W-L record between each pair of NL teams
-- **Insight**: Rivalry intensity and historical balances
-- **Source**: Baseball Almanac team-vs-team data
+### 4. Recent Standings Heatmap
+- **Type**: Heatmap
+- **Data**: `data/nl_recent_standings.csv`
+- **Shows**: Division champion win-loss trends 2020–2025
 
-### 5. Win% Distribution by Decade
-- **Type**: Box plot or violin plot
-- **X-axis**: Decade
-- **Y-axis**: Team win%
-- **Insight**: Whether the league has become more competitive over time
+### 5. Franchise Win%-Over-Time Line Chart
+- **Type**: Multi-line chart (15 lines, one per franchise)
+- **Data**: Season-by-season data (to be compiled)
+- **Shows**: team strength trajectories across eras
 
-### 6. Interactive Dashboard
-- **Tool**: Streamlit + Plotly
-- **Features**:
-  - Filter by era, team, division
-  - Hover tooltips with detailed season records
-  - Download filtered data as CSV
-  - Animated timeline of franchise trajectories
+### 6. Era Dominance Sunburst
+- **Type**: Sunburst or nested pie
+- **Data**: `data/nl_championship_trends.csv`
+- **Shows**: Dominant team per era; sub-segments for key events
 
 ## Recommended Tools
-| Tool | Use Case | Difficulty |
-|------|----------|-----------|
-| Matplotlib | Static charts, publications | Easy |
-| Seaborn | Statistical heatmaps, distributions | Easy |
-| Plotly | Interactive charts, dashboards | Medium |
-| Streamlit | Full web dashboard | Medium |
-| Altair | Declarative statistical visualization | Easy |
+| Tool | Use Case | Benefit |
+|------|----------|---------|
+| Python + Matplotlib | Static charts | Fine-grained control |
+| Seaborn | Statistical viz | Beautiful defaults |
+| Plotly / Dash | Interactive dashboards | Hover, zoom, filter |
+| Streamlit | Web app | Quick to deploy |
+| R + ggplot2 | Statistical graphics | Publication-quality |
+| D3.js | Custom web viz | Maximum flexibility |
 
-## Data Files Available
-- `data/nl_all_time_records.csv` — Franchise-level summary
-- `data/nl_historical_performance.csv` — Year-by-year championship data
-- `data/nl_pennant_winners_recent.csv` — Pennant winners 1995–2025
-- `data/nl_recent_standings.csv` — Full standings 2016–2025
-- `data/nl_championship_trends.csv` — Era-level analysis
-- `data/nl_notable_records.csv` — Records and milestones
-- `docs/data_notes.md` — Methodology & conventions
-- `source_references.md` — Source attribution
+## Getting Started
+```bash
+# Clone the repo
+git clone https://github.com/zhub9006/nl-team-trends.git
+cd nl-team-trends
+
+# Install dependencies (example with Python)
+pip install matplotlib pandas seaborn plotly
+
+# Run example notebook
+jupyter notebook notebooks/01_exploratory_analysis.ipynb
+```
