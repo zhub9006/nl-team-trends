@@ -1,42 +1,49 @@
-# MNL Team Trends — Data Notes
+# NL Team Trends — Data Notes
 
 ## Methodology & Conventions
 
-### Data Sources
-All historical data was compiled from multiple authoritative baseball statistics sources:
-- **Baseball Reference** — Year-by-year NL standings
-- **Baseball Almanac** — Team-vs-team W-L matrices
-- **SABR Lahman Database** — Complete CSV datasets for statistical modeling
-- **StatsCrew** — Rosters, standings, and leaders
+### Schedule Eras
+- **Founding Era (1876–1892)**: 8 teams; 70-132 games per season; no divisions
+- **Dead Ball Era (1893–1919)**: 12-16 teams; 154-game schedule (1892+)
+- **Power Era (1920–1949)**: 16 teams; 154-game schedule
+- **Relocation Era (1950–1969)**: 16-20 teams; 154/162-game schedule
+- **Expansion Era (1970–1989)**: 12 teams; 162-game schedule; no divisions until 1969
+- **Dynasty Era (1990–2005)**: 14-16 teams; 3 divisions + Wild Card (1994+)
+- **Resurgence Era (2006–2016)**: 15 teams; 4-division format
+- **Dodgers Dynasty (2017–present)**: 15 teams; full interleague play
 
-### Key Conventions
-| Convention | Detail |
-|-----------|--------|
-| Win% Formula | Wins / (Wins + Losses) |
-| Schedule Eras | Pre-1892: variable; 1893-1960: 154 games; 1961-present: 162 games |
-| Division Format | 2 divisions (E/W) from 1969; 3 divisions (E/C/W) from 1994 |
-| Wild Cards | Introduced 1994; 1 WC from 1994-2011; 2 WCs from 2012 |
+### Win% Calculation
+- Win% = Wins / Games Played (not winning percentage in the traditional baseball sense)
+- Pre-1961 seasons reflect shorter schedules, so raw win counts are not directly comparable to modern seasons
+- Win% normalizes across eras for fair comparison
+
+### Franchise Name/Location Changes
+| Original Name | Current Name | Year Changed |
+|--------------|-------------|-------------|
+| Chicago White Stockings | Chicago Cubs | 1900/1907 |
+| Boston Beaneaters | Boston Doves | 1907 |
+| Boston Doves | Boston Rustlers | 1911 |
+| Boston Rustlers | Boston Braves | 1912 |
+| Boston Braves | Milwaukee Braves | 1953 |
+| Milwaukee Braves | Atlanta Braves | 1966 |
+| Brooklyn Dodgers | Los Angeles Dodgers | 1958 |
+| New York Giants | San Francisco Giants | 1958 |
+| Montreal Expos | Washington Nationals | 2005 |
 
 ### Important Caveats
-- The 1994 season was canceled by a players' strike; no pennant or WS was awarded.
-- The 2020 season was shortened to 60 games due to COVID-19; Win% is still comparable but use context when benchmarking.
-- Milwaukee Brewers moved from the AL to NL Central in 1998.
-- The Montreal Expos relocated and became the Washington Nationals in 2005.
-- Some very early seasons (1876-1892) had varying game counts (e.g., 70, 80, 84 games).
-- Interleague play began in 1997 and became full-time in 2023, so AL-vs-NL comparisons should account for this.
+1. **Not all franchises are continuous** — Some teams (e.g., Boston Braves→Milwaukee→Atlanta) involve relocations
+2. **Uneven schedule lengths** across eras mean raw win totals favor modern teams
+3. **Pre-1969** data has no division structure — single league standings only
+4. **2020 season** was shortened to 60 games due to COVID-19
+5. **Wild Card era** (1994+) means "pennant" is no longer the sole path to WS
+6. **Milwaukee Brewers** switched from AL to NL Central in 1998
 
-### Data File Descriptions
-| File | Description |
-|------|-------------|
-| `nl_all_time_records.csv` | All-time franchise win-loss totals for all 15 NL teams |
-| `nl_key_seasons.csv` | Notable individual seasons with highlights |n| `nl_pennant_winners_recent.csv` | NL pennant winners 2000-2025 with WS results |
-| `nl_recent_standings.csv` | Full standings matrix 2020-2025 for all NL teams |
-| `nl_championship_trends.csv` | Era-by-era championship summary |
-| `nl_notable_records.csv` | Single-season and franchise record collection |
-| `source_references.md` | Full source attribution and methodology |
+### Data Sources
+See `source_references.md` for full list of research sources.
 
-## Recommended Next Steps
-1. Download the [SABR Lahman Database](https://sabr.org/lahman-database/) for complete season-by-season team-level CSV datasets.
-2. Add Python analysis notebooks in the `notebooks/` directory.
-3. Build interactive visualizations using Plotly, Altair, or Matplotlib.
-4. Cross-reference with historical newspaper archives for context on pennant races.
+### Visualization Plans
+- Win % trend lines (smoothed) per franchise across eras
+- Pennant heatmap: team × year, color-coded by division/wild card
+- WS title timeline with drought durations highlighted
+- Inter-team matchup matrices (Head-to-Head W-L)
+- Interactive dashboard: Streamlit + Plotly

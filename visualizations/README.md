@@ -1,56 +1,61 @@
-# Visualization Roadmap
+# NL Team Trends — Visualization Roadmap
 
 ## Planned Visualizations
 
-### 1. All-Time Franchise Win-Loss Bar Chart
-- **Type**: Horizontal bar chart
-- **X-axis**: Win percentage
-- **Y-axis**: Franchise name
-- **Insight**: Clear visual of which franchises have been most successful over time
-- **Tool**: Plotly or Altair
+### 1. Win-Loss Trend Lines by Franchise (1876–2025)
+- **Type**: Multi-line time series
+- **X-axis**: Season year
+- **Y-axis**: Win % or W-L record
+- **Lines**: One per franchise, color-coded
+- **Insight**: See competitive shifts across eras
 
-### 2. Seasonal Standings Heatmap
-- **Type**: Heatmap
-- **Rows**: Seasons (years)
-- **Columns**: NL teams
-- **Color**: Win percentage (green = high, red = low)
-- **Insight**: See competitive balance shift over decades; identify dynasties
+### 2. Pennant Heatmap
+- **Type**: Heatmap (team × year)
+- **Color**: Intensity by pennant count or win%
+- **Insight**: Dominance patterns by era
+- **Example**: Atlanta 1991–2005 as a bright stripe
 
-### 3. Pennant Winners Timeline
-- **Type**: Timeline / Gantt chart
-- **Details**: Show which team won pennants each year, colored by team
-- **Insight**: Visualize dominant eras and drought periods
+### 3. Championship Drought Chart
+- **Type**: Bar chart with annotations
+- **X-axis**: Team
+- **Y-axis**: Years since last WS title
+- **Insight**: Cardinals (1982→2006 gap), Cubs (1908→2016 gap)
 
-### 4. Championship Drought Chart
-- **Type**: Vertical bar chart
-- **X-axis**: Years since last championship
-- **Insight**: Highlight long-suffering franchises (Cubs, Phillies, Brewers)
+### 4. Head-to-Head Matchup Matrix
+- **Type**: Square matrix heatmap
+- **Cells**: W-L record between each pair of NL teams
+- **Insight**: Rivalry intensity and historical balances
+- **Source**: Baseball Almanac team-vs-team data
 
-### 5. Division Dominance Over Time
-- **Type**: Stacked area chart
-- **X-axis**: Years
-- **Y-axis**: Win percentage by division
-- **Insight**: See which divisions have been most competitive
+### 5. Win% Distribution by Decade
+- **Type**: Box plot or violin plot
+- **X-axis**: Decade
+- **Y-axis**: Team win%
+- **Insight**: Whether the league has become more competitive over time
 
-### 6. Eras Comparison Radar Chart
-- **Type**: Radar/spider chart
-- **Axes**: Pennants, WS titles, win%, division titles, championship frequency
-- **Insight**: Compare franchise profiles across eras
+### 6. Interactive Dashboard
+- **Tool**: Streamlit + Plotly
+- **Features**:
+  - Filter by era, team, division
+  - Hover tooltips with detailed season records
+  - Download filtered data as CSV
+  - Animated timeline of franchise trajectories
 
-## Recommended Libraries
-| Library | Use Case |
-|---------|----------|
-| Plotly | Interactive, web-ready charts |
-| Altair | Declarative statistical visualization in Python |
-| Matplotlib | Static publication-quality charts |
-| Seaborn | Statistical heatmaps and distributions |
-| Bokeh | Interactive dashboards |
+## Recommended Tools
+| Tool | Use Case | Difficulty |
+|------|----------|-----------|
+| Matplotlib | Static charts, publications | Easy |
+| Seaborn | Statistical heatmaps, distributions | Easy |
+| Plotly | Interactive charts, dashboards | Medium |
+| Streamlit | Full web dashboard | Medium |
+| Altair | Declarative statistical visualization | Easy |
 
-## Data Flow
-```
-data/*.csv → notebooks/analysis.ipynb → visualizations/*.html
-```
-
-## Source Integration
-- Download [Lahman Database](https://sabr.org/lahman-database/) for raw season-level data
-- Cross-reference with `source_references.md` for attribution
+## Data Files Available
+- `data/nl_all_time_records.csv` — Franchise-level summary
+- `data/nl_historical_performance.csv` — Year-by-year championship data
+- `data/nl_pennant_winners_recent.csv` — Pennant winners 1995–2025
+- `data/nl_recent_standings.csv` — Full standings 2016–2025
+- `data/nl_championship_trends.csv` — Era-level analysis
+- `data/nl_notable_records.csv` — Records and milestones
+- `docs/data_notes.md` — Methodology & conventions
+- `source_references.md` — Source attribution
