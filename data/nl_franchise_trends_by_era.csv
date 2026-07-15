@@ -1,0 +1,42 @@
+era,franchise,first_season,last_season,total_games,total_wins,total_losses,win_pct,pennants,ws_titles,avg_wins_per_season,avg_losses_per_season,trend
+Founding (1876-1892),Chicago White Stockings (Cubs),1876,1892,1120,712,408,0.636,9,0,6.36,3.64,Founding dynasty — strongest club in first 17 NL seasons
+Founding (1876-1892),Boston Red Stockings (Braves),1876,1892,1120,587,533,0.524,8,0,5.24,4.76,Second dynasty — 8 pennants in first two decades
+Founding (1876-1892),Providence Grays,1879,1885,582,340,242,0.584,2,1,48.6,34.6,Brief but dominant — 2 NL pennants in 7 years
+Founding (1876-1892),New York Giants (original),1883,1892,900,544,356,0.604,1,0,60.4,39.6,Early power alongside Boston/Chicago
+Founding (1876-1892),Philadelphia Athletics/Quakers (Phillies),1883,1892,900,395,505,0.439,0,0,43.9,50.5,Worst founding-era franchise win%
+Founding (1876-1892),St. Louis Brown Stockings (Cardinals),1882,1892,940,452,488,0.481,0,0,45.2,48.8,Joined NL 1882; early struggle to reach .500
+Dead Ball (1893-1919),Chicago Cubs,1893,1919,3192,1701,1491,0.533,6,0,70.9,62.1,Dead Ball power — 6 pennants including 1906 record 116-win season
+Dead Ball (1893-1919),New York Giants (original),1893,1919,3192,1702,1490,0.533,10,1,70.9,62.1,Dead Ball peak — 10 pennants, dominant 1904-1924 era
+Dead Ball (1893-1919),Pittsburgh Pirates,1893,1919,3192,1810,1382,0.567,4,0,75.4,57.6,Strong Dead Ball presence — 4 pennants
+Dead Ball (1893-1919),St. Louis Cardinals,1893,1919,3192,1570,1622,0.492,0,0,51.0,54.1,Dead Ball rebuilding — pre-dynasty (first WS 1926)
+Dead Ball (1893-1919),Brooklyn Dodgers (Trolley Dodgers),1893,1919,3192,1405,1787,0.440,0,0,44.0,56.0,Dead Ball struggle for Brooklyn
+Dead Ball (1893-1919),Boston Braves (Doves/Rustlers),1893,1919,3192,1260,1932,0.395,1,0,39.5,60.5,Worst Dead Ball era franchise
+Power (1920-1950),St. Louis Cardinals,1920,1950,3818,2000,1818,0.524,9,5,52.6,47.4,Cardinals dynasty emerges — first WS 1926, peak 1930-1946
+Power (1920-1950),New York Giants,1920,1950,3818,1870,1948,0.490,5,1,49.1,51.3,Transitional power — 5 pennants including 1921-24 streak
+Power (1920-1950),Brooklyn Dodgers,1920,1950,3818,1815,2003,0.475,1,0,47.8,52.7,Dodgers rebuild — eventual 1955 breakthrough
+Power (1920-1950),Chicago Cubs,1920,1950,3818,1859,1959,0.487,3,0,48.9,51.6,Sporadic pennants — 1929-38 peak then decline
+Power (1920-1950),Philadelphia Phillies,1920,1950,3818,1601,2217,0.420,0,0,42.0,58.0,"Worst NL franchise (pre-integration), last towin pennant"
+Power (1920-1950),Pittsburgh Pirates,1920,1950,3818,1870,1948,0.490,2,1,49.1,51.3,Two pennants (1925, 1927), brief decline
+Transition (1951-1969),Los Angeles Dodgers,1951,1969,2778,1497,1281,0.539,10,2,78.8,67.4,Strongest franchise of era — 10 pennants including 6 straight (1963-68)
+Transition (1951-1969),San Francisco Giants,1958,1969,1738,921,817,0.530,2,0,53.0,47.0,Relocation surge — 2 pennants including 1962
+Transition (1951-1969),St. Louis Cardinals,1951,1969,2778,1385,1393,0.499,5,2,72.9,73.3,Competitive era — 5 pennants 2 WS titles
+Transition (1951-1969),Milwaukee/Atlanta Braves,1953,1969,2498,1202,1296,0.481,4,1,66.8,72.0,Relocation success — 1957 Milwaukee champions
+Transition (1951-1969),New York Mets,1962,1969,1038,393,645,0.379,0,0,49.1,80.6,Expansion early struggles — Miracle 1969 still ahead
+Big Red Machine / Parity (1970-1989),Cincinnati Reds,1970,1989,3078,1652,1426,0.537,6,2,82.6,71.3,Big Red Machine peak 1970-79; 6 pennants 2 WS
+Big Red Machine / Parity (1970-1989),Philadelphia Phillies,1970,1989,3078,1539,1539,0.500,1,1,77.0,77.0,Parity struggle — first WS title 1980 after 98 years
+Big Red Machine / Parity (1970-1989),St. Louis Cardinals,1970,1989,3078,1568,1510,0.510,3,2,77.3,74.3,Competitive balance — 3 pennants 2 WS
+Big Red Machine / Parity (1970-1989),New York Mets,1970,1989,3078,1585,1493,0.515,1,1,79.3,74.7,Parity peak — 1986 WS championship
+Big Red Machine / Parity (1970-1989),San Francisco Giants,1970,1989,3078,1428,1650,0.464,0,0,46.4,53.6,Longest pennant drought (since 1962)
+Dynasty (1990-2005),Atlanta Braves,1990,2005,2544,1647,897,0.647,14,4,64.7,35.3,Greatest NL dynasty — 14 straight division titles 1991-2005
+Dynasty (1990-2005),Florida Marlins,1993,2005,1824,848,976,0.465,2,2,39.5,44.5,Explosive expansion success — 2 titles in first 7 years
+Dynasty (1990-2005),St. Louis Cardinals,1990,2005,2544,1362,1182,0.535,2,1,53.5,47.3,Cardinals rebuild — 2 pennants, 1 WS (2006 follows)
+Dynasty (1990-2005),San Diego Padres,1990,2005,2544,1149,1395,0.452,0,0,45.2,54.8,Near-miss era — 1998 NLCS, 2005-06 dropped
+Resurgence (2006-2016),St. Louis Cardinals,2006,2016,1632,927,705,0.568,5,3,56.8,43.7,Resurgence peak — 5 pennants 3 WS in 11 years
+Resurgence (2006-2016),San Francisco Giants,2006,2016,1632,839,793,0.514,2,3,46.6,44.1,3 WS titles in 5 years (2010-2014) — incredible efficiency
+Resurgence (2006-2016),Philadelphia Phillies,2006,2016,1632,891,741,0.546,1,1,55.7,46.3,2008 WS champions; steep decline after
+Resurgence (2006-2016),Chicago Cubs,2006,2016,1632,793,839,0.486,0,0,49.6,52.4,Pre-trophy era — rebuilding toward 2016 miracle
+Dodgers Dynasty (2017-2025),Los Angeles Dodgers,2017,2025,1296,780,516,0.602,8,3,86.7,57.3,Dynastic dominance — 8 straight NL West, 3 WS titles, best run since Braves
+Dodgers Dynasty (2017-2025),Atlanta Braves,2017,2025,1296,725,571,0.559,1,0,80.6,63.4,2021 WS champions then front-office transition
+Dodgers Dynasty (2017-2025),St. Louis Cardinals,2017,2025,1296,681,615,0.525,1,0,75.7,68.3,Competitive but fading — no pennant 2017-2025
+Dodgers Dynasty (2017-2025),Milwaukee Brewers,2017,2025,1296,638,658,0.492,1,0,70.9,73.1,Upper-echelon frequently but no WS breakthrough
+Dodgers Dynasty (2017-2025),Philadelphia Phillies,2017,2025,1296,685,611,0.529,2,0,76.1,67.9,2022 NLCS / 2025 NLCS — consistent contender emerging
