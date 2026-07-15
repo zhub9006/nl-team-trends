@@ -1,21 +1,9 @@
-Era,Team,Key_Trend,Championship_Wins,Consecutive_Seasons
-1876-1892,Chicago White Stockings/Cubs,Founding era NL champion 3 straight (1880-82),3,3
-1876-1892,Boston Beaneaters,Dominated late 1890s NL,4,4
-1893-1919,Pittsburgh Pirates,Power of Dead Ball Era,2,2
-1893-1919,New York Giants,Rise of NL's most franchise,3,3
-1920-1950,St. Louis Cardinals,Emergence as NL powerhouse,1,1
-1920-1950,Brooklyn Dodgers,First American migration success,1,1
-1951-1969,New York Mets,Miracle Mets 1969 expansion WS champion,1,1
-1951-1969,Los Angeles Dodgers,Relocation success; 3 pennants,3,3
-1961-1968,Pittsburgh Pirates,Golden era with Clemente,3,3
-1970-1989,Cincinnati Reds,Big Red Machine; back-to-back division titles,2,2
-1970-1989,New York Mets,Golden-age NL franchise,2,2
-1990-2005,Atlanta Braves,Megadynasty 14 straight division titles,5,14
-1990-2005,St. Louis Cardinals,Core championship dynasty,3,3
-1990-2005,Florida Marlins,Two WS titles as expansion team,2,2
-1990-2005,Arizona Diamondbacks,One title in franchise history,1,1
-2006-2016,St. Louis Cardinals,Resurgence; 3 titles in 7 years,3,3
-2006-2016,San Francisco Giants,Three titles in 5 years,3,3
-2006-2016,Philadelphia Phillies,First NL title since 1980,1,1
-2006-2016,Chicago Cubs,Ended 108-year championship drought,1,1
-2017-Present,Los Angeles Dodgers,8 straight NL West; 5 titles; back-to-back WS,5,8
+era,dominant_team(s),theme,num_pennants,note_s,timeline
+1876-1892,Chicago White Stockings Boston Red Stockings,Founding era; 8-team league,10,Chicago won 6 of first 10 NL titles; Boston dominated 1890s,Chicago 1876-82 86 Boston 1877-92 88
+1893-1919,Cubs Giants Pirates Boston Braves,Dead Ball era; record wins and strong P,15,1906 Cubs .763 best NL season ever; 1914 Braves miracle turnaround,1903 PItt 1906 Cubs 1909 Pitt 1914 BosBraves 1919 Cincy
+1920-1950,Cardinals Giants Dodgers/NY,Power Transition; franchise migration begins,16,Cardinals first WS title 1926; NY Giants & Brooklyn Dodgers emerge,1926 Card 1928 Card 1931 Card 1934 Card 1942 Card 1944 Card 1946 Card
+1951-1969,Giants Dodgers Mets Cardinals,Relocation era; Miracle Mets 1969,12,Giants and Dodgers dominate after Brooklyn move; 1969 Miracles,1951 NYGiants 1954 NYGiants 1955 BrookDodgers 1959 LADodgers 1963 LADodgers 1965 LADodgers 1966 LADodgers 1969 Mets
+1970-1989,Reds Phillies Cardinals Mets,Big Red Machine; competitive parity,12,Big Red Machine back-to-back 75-76; Mets 86 comeback; Phillies 80 WS,1975 Cincy 1976 Cincy 1980 Phil 1981 StlCard 1982 StlCard 1986 Mets
+1990-2005,Braves Cardinals Marlins Diamondbacks,Braves dynasty; first expansion champions,12,Braves 14 division titles; Marlins 97 expansion champs; D-backs 98,1995 AtlBraves 1996 AtlBraves 1997 FlaMarlins 1998 AZDbacks 1999 AtlBraves 2000 NYMets 2001 AZDbacks 2002 AtlBraves 2003 FlaMarlins 2004 StlCard 2005 HouAstros
+2006-2016,Cardinals Giants Phillies Cubs,Resurgence cycle; Cubs end 108-year drought 2016,12,Giants 3 WS in 5 years; Phillies 2009; Cubs 2016 drought end,2006 StlCard 2007 Col Rockies 2008 PhilPhillies 2009 PhilPhillies 2010 SFGiants 2011 StlCard 2012 SFGiants 2013 StlCard 2014 SFGiants 2015 NYMets 2016 Chicago Cubs
+2017-present,Los Angeles Dodgers,Dodgers dynasty; 8 straight NL West; 2back-to-back WS,9,Dodgers won 8 straight NL West; 2019 Nats anomoly; LA dynasty,2017 LA Dodgers 2018 LA Dodgers 2019 Wash Nationals 2020 LA Dodgers 2021 Atl Braves 2022 LA Dodgers 2023 LA Dodgers 2024 LA Dodgers 2025 LA Dodgers
