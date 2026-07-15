@@ -1,0 +1,54 @@
+# NL Top Seasons by Winning Percentage (1876-2025)
+# Includes all NL seasons with .640+ winning percentage
+# Source: Baseball-Reference, SABR Lahman Database, Baseball Almanac
+
+Year,Team,Games,Wins,Losses,WinPct,SeasonType,Notable
+1876,Chicago White Stockings,66,52,14,.788,154-game,Best season in NL history (154-game era)
+1878,Boston,62,41,21,.661,154-game,Second-best inaugural-era season
+1884,Providence,112,84,28,.750,112-game,Team moved to NL from other league
+1885,Chicago,112,87,25,.777,112-game,Three-peat NL champion (1880-82)
+1886,Chicago,124,90,34,.726,124-game,Second consecutive 90+ win season
+1887,Detroit,128,79,45,.637,128-game,Replaced Chicago in NL prominence
+1899,Brooklyn,154,101,47,.685,Dead Ball,Most wins in 19th century NL season
+1901,Pittsburgh,137,90,49,.647,Dead Ball,AL formation year; NL had 8 teams
+1902,Pittsburgh,139,103,36,.741,Dead Ball,Highest win pct in Dead Ball era
+1904,New York Giants,154,106,47,.691,Dead Ball,Refused to play in World Series
+1905,New York Giants,154,105,48,.686,Dead Ball,First NL World Series champion
+1906,Chicago Cubs,154,116,36,.763,Dead Ball,Best 162-game era record; NL record 116 wins
+1907,Detroit Tigers,154,102,50,.671,Dead Ball,Only AL team to dominate NL era
+1908,Chicago Cubs,154,99,55,.643,Dead Ball,Made up for 1908 WS loss
+1910,Philadelphia,154,102,48,.680,Dead Ball,Youngstown era dominance
+1921,New York Giants,154,94,59,.613,Live Ball,Fall Series format
+1922,New York Giants,154,93,61,.604,Live Ball,Second consecutive top mark
+1924,Washington Senators,154,92,62,.597,Live Ball,Only non-NL team to win NL pennant
+1926,St. Louis Cardinals,154,89,65,.578,Live Ball,First Cardinals WS championship
+1930,St. Louis Cardinals,154,92,62,.597,Live Ball,Franchise record 92 wins
+1931,St. Louis Cardinals,154,101,53,.656,Live Ball,Gashouse Gang peak
+1934,St. Louis Cardinals,154,95,58,.621,Live Ball,Gashouse Gang; Dizzy Dean era
+1941,Brooklyn Dodgers,154,100,54,.649,Live Ball,Top of the 8th heartbreak
+1944,St. Louis Cardinals,154,105,49,.682,Live Ball,Both teams in NL WS
+1946,St. Louis Cardinals,154,98,58,.628,Live Ball,Resurgent post-war Cardinals
+1950,Philadelphia Phillies,154,91,63,.591,Integration,Whiz Kids championship
+1951,New York Giants,154,98,56,.636,Integration,Bobby Thomson shot heard round the world
+1954,New York Giants,154,97,57,.630,Integration,Willie Mays era; sweep of Indians in WS
+1957,Milwaukee Braves,154,95,59,.617,Integration,First team to win WS after moving cities
+1963,Los Angeles Dodgers,163,99,63,.611,162-game,3rd最高胜率 in NL during expansion era
+1966,Los Angeles Dodgers,162,95,67,.586,162-game,Drysdale/Koufax pitching duo
+1967,St. Louis Cardinals,162,101,60,.627,162-game,Orlando Cepeda MVP season
+1968,Detroit,163,103,59,.636,162-game,Year of the Pitcher; Gibson 1.12 ERA
+1969,New York Mets,163,100,62,.617,162-game,Miracle Mets; 100-win expansion champion
+1970,Cincinnati Reds,162,102,59,.634,162-game,Big Red Machine begins
+1972,Cincinnati Reds,155,95,59,.613,162-game,Strike-shortened season
+1975,Cincinnati Reds,162,108,54,.667,162-game,Big Red Machine peak; Back-to-back titles
+1976,Cincinnati Reds,162,102,60,.630,162-game,Big Red Machine sweep; First NL repeat since 1930s
+1982,St. Louis Cardinals,163,92,70,.568,162-game,Whitey Herzog era; Keith Hernandez
+1984,Chicago Cubs,162,96,65,.593,162-game,Ryno's cockroach comeback
+1986,New York Mets,163,108,54,.667,162-game,Mookie Wilson error; Mackin era
+1995,Atlanta Braves,144,90,54,.625,144-game,Strike-shortened; Start of Braves dynasty
+1999,Atlanta Braves,162,103,59,.636,162-game,11th consecutive division title
+2001,Arizona Diamondbacks,162,92,70,.568,162-game,First expansion team to win WS in 21 years
+2006,St. Louis Cardinals,162,83,78,.516,162-game,Worst record to win NL since 1973
+2016,Chicago Cubs,163,103,58,.640,162-game,Ended 108-year drought; never trailed in WS
+2019,Los Angeles Dodgers,162,106,56,.654,162-game,Best regular season record in NL
+2020,Los Angeles Dodgers,60,43,17,.717,60-game,Best shortened-season record; biggest win pct gap
+2022,Los Angeles Dodgers,162,111,51,.685,162-game,Best 162-game record in NL history

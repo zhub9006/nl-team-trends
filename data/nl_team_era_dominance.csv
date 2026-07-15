@@ -1,0 +1,13 @@
+# NL Team Era Dominance Map (1876-2025)
+# Shows which team dominated each era and why
+# Source: Baseball-Reference, SABR, Baseball Almanac
+
+Era,StartYear,EndYear,DominantTeam,KeyPeriod, pennants,WS_Titles,DominanceType,EraCharacteristics
+Founding Era,1876,1892,Chicago White Stockings/Cubs,1876-1886,3/11 seasons,0,Consecutive Pennants,8-team league; tied games common; pitchers dominated; no separate DL
+Dead Ball Early,1893,1919,Boston Beaneaters/Dodgers/Pirates,1896-1905,5/27 seasons,1,Dynasty Rotations,Low-scoring era; pitching dominance; no BS
+Live Ball Power,1920,1950,St. Louis Cardinals/Phillips,1926-1946,6/31 seasons,1,Home Run Era,MLB lowered mound 1920; Ruth hit 60 in 1927; integration begins
+Integration Transition,1951,1969,New York Giants/LA Dodgers/Mets,1951-1969,3/19 seasons,1,Migration+Expansion,NY Giants→SF; Brooklyn→LA; Miracle Mets 1969; 12-team league emerges
+Big Red Machine,1970,1989,Cincinnati Reds/Mets,1970-1979,2/20 seasons,2,Back-to-Back Dominance,108-game→162-game; Pete Rose hits 4192; Reds repeat 1975-76
+Braves Dynasty,1990,2005,Atlanta Braves,1991-2005,14/16 seasons,5,Extended Dynasty,Megadynasty across 3 divisions; 14 straight; first expansion champions
+Resurgence Cycle,2006,2016,Cardinals/Giants/Phillies/Cubs,2006-2016,3/11 seasons,4,Multi-Team Cycling,Championship droughts end; Cards 3 in 7 years; Cubs 2016
+Dodgers Dynasty,2017,2025,Los Angeles Dodgers,2017-2025,8/9 seasons,5,Modern Dynasty,8 straight NL West; 5 titles in 9 seasons; Ohtani+Fried; biggest payroll synergy
