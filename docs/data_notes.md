@@ -1,81 +1,53 @@
-# Data Notes — Methodology, Conventions & Caveats
+# NL Team Trends - Data Notes
 
-## Overview
+## How to Use This Repository
 
-This document explains the methodology, conventions, and important caveats for the NL Team Trends research project. All data files should be interpreted in light of these guidelines.
+### Data Files Overview
+| File | Description | Use Case |
+|------|-------------|----------|
+| `data/nl_all_time_records.csv` | Franchise totals (15 NL teams) | All-time rankings, franchise comparisons |
+| `data/nl_pennant_winners_1876_2025.csv` | Year by year NL champion + WS results | Time series analysis, era classification |
+| `data/nl_championship_by_decade.csv` | Era-level aggregated stats | Era comparisons, trend analysis |
+| `data/nl_recent_standings_2020_2025.csv` | Divisional standings 2020-2025 | Recent competitive balance analysis |
+| `data/nl_all_time_detailed.csv` | Franchise summary with key insights | Quick reference, research starting points |
+| `data/nl_historical_performance.csv` | Championship-season highlights | Quick era-level snapshots |
+| `data/nl_championship_trends.csv` | Championship trends by era | Era-based comparison |
+| `data/nl_notable_records.csv` | Single-season and franchise records | Record tracking |
+| `docs/source_references.md` | Source attribution and methodology | Data provenance |
 
-## Methodological Notes
+## Data Conventions
+- **Win%** = Wins / Games Played
+- **Pennants** = NL championship awards (pre-Wild Card era)
+- **WS Titles** = World Series championships won as NL team
+- **Era columns** may have slightly different class definitions
+- Pre-1961: 154-game; 1962+: 162-game; 2020: 60-game (special)
+- Teams include predecessor city lineages (e.g., SF Giants includes NY Giants)
 
-### Win-Loss Records
-- Win% = Wins / Games Played
-- Pre-1961 seasons used 154-game schedules; 1961+ uses 162-game schedules
-- Shortened seasons are flagged in notes (e.g., 2020: 60 games; 1981: split season; 1918: 140 games due to WWI)
-- Tied games in early NL (pre-1920s) were replayed, so win-loss totals reflect completed games only
+## Known Data Issues
+1. 1940s/1950s entries may have incomplete WS MVP data
+2. 1994 season: no WS was played due to strike
+3. 2020 season is a shortened 60-game season
+4. Some 2020-era NLLS results are approximate (baseball-reference recommended)
+5. Eventual consistency across era definitions
 
-### Pennants vs. World Series
-- **Pennants** = League championship awards (pre-Wild Card era = pennant winner determined the NL representative;
-  Wild Card era = pennant = division winner; 1969+ = NLCS winner)
-- **WS Titles** = World Series championships won as an NL team
-- **WS Lost** = Played in and lost the World Series
+## Recommended Data Cleaning Pipeline
+```python
+import pandas as pd
+# Load data
+df = pd.read_csv('data/nl_pennant_winners_1876_2025.csv')
+# Filter eras
+eras = df.groupby('Era')
+# Analyze trends
+windows = df.rolling('5Y', on='Year')
+```
 
-### Team Name Conventions
-- Team names reflect the primary name for each era, with franchise relocations and name changes noted in the notes column
-- Examples: Brooklyn Dodgers (pre-1958) = LA Dodgers; NY Giants (pre-1958) = SF Giants; Boston Braves = Milwaukee Braves = Atlanta Braves; Montreal Expos = Washington Nationals
+## Key Sources for Cross-Referencing
+1. [Baseball Reference NL](https://www.baseball-reference.com/leagues/NL/) - Gold standard
+2. [SABR Lahman Database](https://sabr.org/lahman-database) - Complete CSV dataset
+3. [Baseball Data Hub](https://baseballdatahub.com/seasons/) - Season standings
+4. [Linger & Look](https://www.lingerandlook.com/Names/BaseballStandings.php) - Multi-year W-L data
+5. [Baseball Almanac](https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml) - H2H matrices
 
-### Division Alignment
-- 1876-1968: No divisions; single-table league
-- 1969-1993: 2 divisions (East & West)
-- 1994-present: 3 divisions (East, Central, West) + Wild Card
-- 1998: Milwaukee Brewers moved from AL Central to NL Central
-- 2005: Montreal Expos relocated to Washington Nationals (AL East → NL East)
-
-### Schedule Changes
-- 1876-1891: ~70-84 games per season
-- 1892-1960: 154-game schedule (with exceptions for WWI and COVID)
-- 1961-1993: 162-game schedule
-- 1994: Season cut short by strike; no WS or pennant awarded
-- 2020: 60-game season due to COVID-19 pandemic
-- 2023: Full interleague schedule (every team plays every other team)
-
-## Important Caveats
-
-1. **All-time franchise records** include pre-relocation history (e.g., LA Dodgers' Brooklyn and NY totals are counted toward current LA Dodgers franchise)
-2. **Pennant counts** may differ depending on whether you count NL pennants vs. division titles vs. WS appearances
-3. **The 1906 Cubs record** (.763, 116-36) is the all-time MLB record for winning percentage, not just NL
-4. **The 2016 Cubs drought** (108 years) is the longest championship drought in North American professional sports history
-5. **The Braves' division streak** (14 consecutive, 1991-2005) is the longest run of any division in any major American pro sport
-6. **The Dodgers' 8-year NL West dominance** (2018-2025) is unprecedented in the modern 3-division NL
-7. **The 1994 season** was voided by the players' strike — no NL pennant or WS was awarded
-8. **The 1995 season** was shortened (144 games) due to the 1994 strike carryover
-
-## Data File Guide
-
-| File | Description | Key Columns |
-|------|-------------|-------------|
-| `data/nl_all_time_records.csv` | All-time franchise win-loss totals by team | Team, First_Season, Division, Games_Played, Wins, Losses, WinPct, Pennants, WS_Won |
-| `data/nl_historical_performance.csv` | Championship-season highlights with era labels | year, champion, record, era, notes |
-| `data/nl_historical_performance_detailed.csv` | Year-by-year NL champion + 2nd place + WS results | year, champion, champion_record, 2nd_place, ws_opponent, ws_result, era, notes, division_winners |
-| `data/nl_pennant_winners_recent.csv` | NL pennant winners and WS results 1995-2025 | year, champion, record, division, ws_opponent, ws_result, notes |
-| `data/nl_championship_trends.csv` | Era-based championship trends | era, dominant_team(s), theme, num_pennants, notes, timeline |
-| `data/nl_notable_records.csv` | Key single-season and franchise records | category, record, team_detail, value, year, notes |
-| `source_references.md` | Detailed source attribution | Source, URL, Coverage, Notes |
-
-## Visualization Notes
-
-- Use `nl_historical_performance_detailed.csv` for year-by-year trend analysis
-- Use `nl_all_time_records.csv` for franchise comparison charts
-- Use `nl_pennant_winners_recent.csv` for modern-era (1995+) playoff analysis
-- Use `nl_championship_trends.csv` for era-based heatmaps
-- Use `nl_notable_records.csv` for highlight/benchmark charts
-- Consider using Plotly for interactive charts; matplotlib/seaborn for static charts
-
-## Future Data Needs
-
-- [ ] Year-by-year year-by-year standings (all 15 teams) for each season
-- [ ] Head-to-head matchup matrices for team-vs-team analysis
-- [ ] Batting/pitching leaders per season (from Lahman DB)
-- [ ] Run differential per team per season
-- [ ] Attendance data per season
-- [ ] Manager win-loss records
-- [ ] Home/Away splits
-- [ ] Month-by-month performance breakdowns
+## Citation Format
+If using this data in research:
+nl-team-trends (2025), zhub9006/nl-team-trends, GitHub Repository
