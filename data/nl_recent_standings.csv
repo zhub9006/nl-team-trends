@@ -1,7 +1,7 @@
-Year,East_Champion,East_WL,Central_Champion,Central_WL,West_Champion,West_WL,WS_Winner,WS_Winner_WL,NL_WS
-2025,Philadelphia Phillies,96-66,Milwaukee Brewers,97-65,LA Dodgers,93-69,LA Dodgers,93-69,NL
-2024,Atlanta Braves,89-73,Milwaukee Brewers,93-69,LA Dodgers,98-64,LA Dodgers,98-64,NL
-2023,Atlanta Braves,104-58,Milwaukee Brewers,92-70,LA Dodgers,100-62,TX Rangers (AL),90-73,AL
-2022,Atlanta Braves,101-61,St. Louis Cardinals,93-69,LA Dodgers,111-51,HOU (AL),95-67,AL
-2021,Atlanta Braves,88-73,Milwaukee Brewers,95-67,LA Dodgers,106-56,Atlanta Braves,88-73,NL
-2020,Atlanta Braves,35-25,Cincinnati Reds,31-29,LA Dodgers,43-17,LA Dodgers,43-17,NL
+year,team,wins,losses,win_pct,division_rank,postseason,result
+2020,LA Dodgers,43,17,0.717,1st West,Champions,WS Champions
+2021,Atlanta Braves,88,73,0.547,1st East,Champions,WS Champions
+2022,Los Angeles Dodgers,111,51,0.685,1st West,Champions,WS Champions
+2023,Atlanta Braves,104,58,0.642,1st East,Division Series,Eliminated
+2024,Los Angeles Dodgers,98,64,0.605,1st West,Champions,WS Champions
+2024,New York Mets,89,73,0.549,1st East,Champions,Lost WS to Dodgers
