@@ -1,0 +1,54 @@
+season,year,team,division,games_played,wins,losses,win_pct,gb,playoff_result,pennant,ws_winner,ws_result,era,notes
+Recent,2020,Atlanta Braves,East,60,35,25,0.583,,Wild Card Winner,,Mad,Won WC Game,Lost NLDS,Lost NLCS,Lost WS,Shortened,Best shortened NL record
+Recent,2020,Los Angeles Dodgers,West,60,43,17,0.717,,NL Champion,Yes,Yes,WS Champion,,,,Shortened,Best shortened-season NL record (.717)
+Recent,2020,St. Louis Cardinals,Central,60,30,28,0.517,,Wild Card Winner,,,,,Shortened,Oversized NL West
+Recent,2021,Atlanta Braves,East,162,88,73,0.547,,NL Champion,Yes,Yes,WS Champion (lost 4-2 to HOU),Current,First 162-game title
+Recent,2021,Los Angeles Dodgers,West,162,106,56,0.654,,NL West Champ,Yes,,Lost NLDS,,,,Current,Best NL record 2021
+Recent,2021,St. Louis Cardinals,Central,162,90,72,0.556,,NL Central Champ,No,,Lost NLCS,,,,Current,
+Recent,2022,Atlanta Braves,East,162,101,61,0.623,,NL East Champ,Yes,,Lost NLDS,,,,Current,Dynasty continues
+Recent,2022,Los Angeles Dodgers,West,162,111,51,0.685,,NL West Champ,Yes,,Lost NLCS,,,,Current,Best 162G NL season (111-51)
+Recent,2022,St. Louis Cardinals,Central,162,93,69,0.574,,NL Central Champ,Yes,,Lost NLCS,,,,Current,
+Recent,2023,Atlanta Braves,East,162,104,58,0.642,,NL East Champ,Yes,,Lost NLDS,,,,Current,
+Recent,2023,Los Angeles Dodgers,West,162,100,62,0.617,,NL West Champ,Yes,,Lost NLDS,,,,Current,
+Recent,2023,Milwaukee Brewers,Central,162,92,70,0.568,,NL Central Champ,Yes,,Lost NLDS,,,,Current,
+Recent,2024,Atlanta Braves,East,162,89,73,0.549,,NL East Champ,Yes,,Lost NLDS,,,,Current,
+Recent,2024,Los Angeles Dodgers,West,162,98,64,0.605,,NL West Champ,Yes,Yes,WS Champion,Current,Back-to-back titles
+Recent,2024,Milwaukee Brewers,Central,162,93,69,0.574,,NL Central Champ,Yes,,Lost NLDS,,,,Current,
+Recent,2025,Atlanta Braves,East,162,96,66,0.593,,NL East Champ,Yes,,Lost NLCS,,,,Current,
+Recent,2025,Los Angeles Dodgers,West,162,93,69,0.574,,NL West Champ,Yes,Yes,WS Champion,Current,Three-peat (2024-2025)
+Recent,2025,Philadelphia Phillies,East,162,96,66,0.593,,Wild Card 2,No,,—,,,,Tied ATL but lost GB
+Recent,2025,San Diego Padres,West,162,82,80,0.506,,Wild Card 1,No,,—,,,,
+Recent,2025,Cincinnati Reds,Central,162,81,81,0.500,,—,No,,—,,,,
+Recent,2025,Chicago Cubs,Central,162,83,79,0.512,,—,No,,—,,,,
+Recent,2025,Milwaukee Brewers,Central,162,97,65,0.599,,NL Central Champ,No,,—,,,,
+
+Founding,1876,Chicago White Stockings,,70,52,14,0.743,,,,,Founding,Inaugural NL champion
+Founding,1876,Boston Red Stockings,,70,39,31,0.557,,,,,Founding,
+Founding,1877,Boston Red Stockings,,60,42,18,0.700,,,,,Founding,
+Founding,1878,Boston Red Stockings,,60,41,19,0.683,,,,,Founding,
+Founding,1879,Providence Grays,,70,59,25,0.702,,,,,Founding,
+Founding,1880,Chicago White Stockings,,66,67,17,1.000,,,,,Founding,Best win% in founding era
+Founding,1881,Chicago White Stockings,,64,56,28,0.667,,,,,Founding,
+Founding,1882,Chicago White Stockings,,66,55,29,0.659,,,,,Founding,
+Founding,1883,Providence Grays,,80,58,26,0.690,,,,,Founding,
+Founding,1884,Providence Grays,,94,84,28,0.894,,,,,Founding,Best founding-era season; NL champ
+Dead Ball,1885,Chicago White Stockings,,94,87,25,0.777,,,,,Dead Ball,
+Dead Ball,1886,Chicago White Stockings,,96,90,34,0.729,,,,,Dead Ball,
+Dead Ball,1887,Detroit Wolverines (NL),96,79,45,0.823,,,,,Dead Ball,Tied for pennant (AA also)
+Dead Ball,1888,New York Giants,,96,84,47,0.641,,,,,Founding,NL pennant
+Dead Ball,1889,New York Giants,,96,83,43,0.651,,,,,Founding,NL pennant
+Dead Ball,1890,Boston Beaneaters,,96,88,44,0.667,,,,,Founding,
+Dead Ball,1891,Boston Beaneaters,,96,87,51,0.630,,,,,Founding,
+Dead Ball,1892,Boston Beaneaters (split season),109,89,49,0.640,,,,,Founding,First split-season year
+Dead Ball,1906,Chicago Cubs,West,154,116,37,0.763,,,,,Dead Ball,Best NL Single Season (.763)
+Dead Ball,1909,Pittsburgh Pirates,West,154,110,42,0.779,,,,,Dead Ball,154G era NL benchmark
+Dead Ball,1914,Boston Braves,West,98,94,59,0.614,,,,,Dead Ball,Miracle 26-game turnaround (from last to first)
+Dead Ball,1919,Cincinnati Reds,West,140,96,44,0.686,,,,,Dead Ball,First post-Black-Sox WS champion
+Transition,1951,NY Giants,East,154,98,59,0.621,2,NC Won,Yes,,Shot Heard 'Round World — 9th-inning walk-off HR,Relocation,3rd GB in July then won pennant
+Transition,1955,Brooklyn Dodgers,East,154,98,55,0.642,,,,,Transition,First Brooklyn WS title
+Transition,1969,NY Mets,East,162,100,62,0.617,,,,,Expansion,Miracle Mets — first expansion team to win NL pennant
+Current,2001,Arizona Diamondbacks,West,162,92,70,0.568,DNQ,NC Won,Yes,Yes,3-0 over NYY,Dynasty,Fastest expansion team to win NL title (2 years old)
+Current,2004,St. Louis Cardinals,Central,162,105,57,0.654,1,NC Won,Yes,No,DNP,Dynasty,Most regular-season wins in Cardinals history at time
+Current,2012,SF Giants,West,162,94,68,0.580,6,WC Winner,Yes,Yes,4-0 over DET,Resurgence,3rd-lowest WS seed ever to win; 2012-2014 dynasty begins
+Current,2016,Chicago Cubs,Central,162,103,58,0.640,1,NL Champion,Yes,Yes,4-3 over CLE,Resurgence,Ended 108-year drought (1908-2016); most wins in franchise history
+Current,2020,LA Dodgers,West,60,43,17,0.717,DNQ,NC Won,Yes,Yes,4-2 over TB,Shortened,Best shortened-season NL record (.717 vs .657 league avg)
