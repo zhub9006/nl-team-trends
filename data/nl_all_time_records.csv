@@ -1,17 +1,18 @@
-Team,First_Season,Games_Played,Wins,Losses,WinPct,Pennants,WS_Titles,Division,Key_Insight
-Atlanta_Braves,1876,22070,11245,10825,.504,18,4,East_original,Formerly_Boston;fastest_expansion_dynasty_14_div_titles
-Chicago_Cubs,1876,22222,11474,10748,.516,17,3,Central_original,Oldest_NL_franchise;108yr_WS_drought_ended_2016
-St._Louis_Cardinals,1882,22486,11413,11073,.509,19,11,Central,Most_WS_titles_in_NL_(11);always_competitive
-Cincinnati_Reds,1882,22222,11060,11162,.498,10,5,Central,EOE_expansion_return;Big_Red_Machine
-Pittsburgh_Pirates,1882,21820,10959,10861,.501,9,5,Central,Steady_mid-tier;Miracle_1971_pirates
-San_Francisco_Giants,1883,21722,11663,10059,.535,23,8,West,Most_NL_all-time_wins_(11k+);Moved_from_NY
-Philadelphia_Phillies,1883,22222,10357,11865,.466,8,2,East,Most_all-time_NL_losses_(11k+);Rebounded_recently
-Los_Angeles_Dodgers,1884,21722,11586,10136,.531,26,8,West,Most_paicias_in_NL_(26);8_consec_div_titles_2018-2025
-New_York_Mets,1962,9520,4899,4621,.514,2,2,East,Miracle_1969;Resurgence_2015;Cy_Young_regards
-San_Diego_Padres,1969,7980,4265,3715,.533,0,0,West,No_NL_pennant;High_winPct_without_championship
-Washington_Nationals,1969,8230,4379,3851,.532,0,0,East,Expos_relocation;_First_champions_need_check
-Milwaukee_Brewers,1969,8920,4464,4456,.503,0,0,Central,Sw_AL_to_NL_1998;Century_of_equilibrium
-Miami_Marlins,1993,4280,2435,1845,.569,2,2,East,Highest_NL_win_pct;Fastest_to_WS_(8_seasons)
-Colorado_Rockies,1993,4760,2403,2357,.505,0,0,West,Near_miss_playoffs_2007;0_championships
-Arizona_Diamondbacks,1998,4160,2216,1944,.532,1,1,West,Only_recent_expansion_NL_pennant_2023
-Houston_Astros_NL,2013,4600,2200,2400,.478,0,0,West,Sw_from_AL_2017;typically_lower_record_in_query
+Franchise,NL_Team_Names,First_Season,Last_Season,Games_Played,All-Time_Wins,All_Time_Losses,Win_Pct,Division_Titles,Wild_Cards,NL_Pennants,WS_Titles,Current_Division,Notable_Era,Championship_Focus
+Chicago Cubs,Chicago Cubs,1876,2025,171O+,9000+,,0.500+,,17,17,2016,West,1870s-1910s,First NL champion (1876)
+St. Louis Cardinals,St. Louis Cardinals,1882,2025,12800+,7000+,,0.550+,,19,11,2011,Central,1920s-2000s,Most WS titles in NL (11)
+Detroit Tigers (NL only in 1887),Detroit Wolverines,<1887,<1887,112,65,47,0.580,0,0,1,1,—,1880s,One season only
+Milwaukee Brewers (NL since 1998),Milwaukee Brewers,1998,2025,1100+,550+,,550+,0,0,0,0,Central,1998-present,Former AL franchise
+Montreal Expos / Washington Nationals,Montreal Expos / Washington Nationals,1969,2025,6800+,3000+,,0.480+,,3,0,0,0,East,1969-present,Relocated from Montreal
+New York Mets,New York Mets,1962,2025,6600+,3200+,,0.490+,,2,5,5,1969,East,1960s-present,1969 & 1986 WS champs
+Philadelphia Phillies,Philadelphia Phillies,1883,2025,12300+,5000+,,0.450+,,18,2,0,0,East,1883-present,Most all-time NL losses
+Pittsburgh Pirates,Pittsburgh Pirates,1882,2025,12000+,6000+,,0.540+,,9,9,5,1971,Central,1900s-1970s,5 WS titles; 1903 first NL WS
+San Diego Padres,San Diego Padres,1969,2025,5200+,2000+,,0.400+,,3,0,0,0,West,1969-present,No pennants yet
+San Francisco Giants (incl. NY/SSF),San Francisco Giants,1883,2025,13000+,7500+,,0.550+,,23,24,5,2014,West,1883-present,Most pennants in NL; 5 WS titles
+Los Angeles Dodgers (incl. Brooklyn/LA),Los Angeles Dodgers,1884,2025,12500+,7000+,,0.560+,,19,24,6,2024,West,1884-present,Most pennants (tied w/ SF); 2024-2025 back-to-back WS
+Atlanta Braves (incl. Boston/Milwaukee),Atlanta Braves,1871,2025,14000+,,8000+,0.500+,16,14,18,4,East,1871-present,14 straight division titles (1991-2005)
+Cincinnati Reds,Cincinnati Reds,1882,2025,11800+,5800+,,0.500+,,10,5,5,1990,Central,1882-present,5 WS titles (2020s: 1990)
+Colorado Rockies,Colorado Rockies,1993,2025,4400+,2000+,,0.500+,0,0,0,0,West,1993-present,No pennants; 2007 NL pennant
+Arizona Diamondbacks,Arizona Diamondbacks,1998,2025,3900+,1800+,,0.440+,0,0,1,1,West,1998-present,2001 WS champs
+Houston Astros (NL since 2013),Houston Astros,1962,2025,8000+,,0.480+,2013,0,0,1,2017,West,1962-present,AL WS champs 2017; moved to NL 2013
+Houma Houma,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—
