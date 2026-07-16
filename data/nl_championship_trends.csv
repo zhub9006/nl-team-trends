@@ -1,17 +1,8 @@
-Era,Start_Year,End_Year,NL_Championships,League_Champs,Top_Winning_Pct,Top_WPct_Team,Bravest_Streak,_Other_Notable_Teams,Bravest_Streak_Start,WS_Champions_in_Era,notes
-1870s,1876,1879,4,Chicago (1876),.788,Chicago WSS (1876),Boston Red Caps,Brooklyn Hartfords,—,None,154 games; Hartford expulsion
-1880s,1880,1889,10,CHN (5 pennants in 1880,1881,1885,1886),.797,Chicago WSS,Providence Grays,Chicago WSS,1882-1886,None,Providence Grays 4 pennants
-1890s,1890,1899,10,Boston Beaneaters (4 pennants),.737,Baltimore Orioles,Baltimore Orioles,Brooklyn Bforces,1894-1896,None,1892 split season
-1900s,1900,1909,10,NY Giants (3 pennants),.777,Chicago WSS (1906:.763),Pittsburgh Pirates,1900-1909,Chicago WSS (1906),None,Most NL pennants for single team: PIT 2
-1910s,1910,1919,10,NY Giants (4 pennants),.667,Chicago Cubs (1918:.651),Boston Braves,1914,St. Louis Cardinals (1919 WS),None,Cubs 1918; BOS Braves 1914 surprise
-1920s,1920,1929,10,NY Giants (4 pennants),.643,NY Giants (1921:.604),St. Louis Cardinals (1926),Boston Beaneaters,1920-1925 (not),NY Giants 4 pennants
-1930s,1930,1939,10,St. Louis Cardinals (4 pennants),.658,CHN Cubs (1935:.649),St. Louis Cardinals (1931-1934),Cincinnati Reds (1939),1931 (CIN: 558),NY Giants (1933 WS),Cardinals dynasty
-1940s,1940,1949,10,St. Louis Cardinals (6 pennants),.682,STL Cardinals (1942-1944:.688),St. Louis Cardinals (1942-1946),Boston Braves (1948),1942-1946,Cardinals 4 WS titles in 1940s
-1950s,1950,1959,10,Brooklyn Dodgers (4 pennants),.682,Brooklyn Dodgers (1953:.682),Milwaukee Braves,LA Dodgers (1959 WS),1955-1959,Brooklyn & LA Dodgers; 2 WS champions
-1960s,1960,1969,10,LA Dodgers (4 pennants),.623,LA Dodgers (1963:.611, 1967:.623),Cincinnati Reds (1975-1976 WS),Pittsburgh Pirates (1971,1979 WS),1961-1962,X MGJ,
-1970s,1970,1979,10,,t,—,—,—,—,—,—
-1980s,1980,1989,10,STL Cardinals (3 pennants),.629,STL Cardinals (1982:.576),Atlanta Braves (1982),1982,1985,1980s
-1990s,1990,1999,10,Atlanta Braves (5 pennants),.654,Atlanta Braves (1998:.654),Braves (14 div titles, 1991-2005),Atlanta Braves,1995-1999,Atlanta Braves 5 pennants; 1994 strike
-2000s,2000,2009,10,Arizona Diamondbacks,St. Louis Cardinals (3 pennants),.636,STL Cardinals (2006:.516),Atlanta Braves,STL Cardinals (2006, 2011 WS),2001 D-backs WS
-2010s,2010,2019,10,,STL Cardinals (3 pennants),,196 NL champs,Atlanta Braves (2018-2019),Atlanta Braves (2018-2019),STL Cardinals,CHC Cubs (2016 WS),NL record 108-year Cubs drought ends
-2020s,2020,2025,6,Los Angeles Dodgers (3 pennants),.717,LAD Dodgers (2020:.717),Atlanta Braves (101-61),Atlanta Braves (106-56),LA Dodgers (2020-2025, 3 pennants),LA Dodgers 3 pennants; back-to-back WS champs 2024-2025
+Era,Period,Dominant_Team,NL_Pennants,Best_WinPct,Key_Trend,WS_Titles
+Pre-Modern,1876-1900,Chicago / Boston / Brooklyn,4-5,0.788 (1876 CHN),Founding era,No WS
+Dead Ball,1901-1919,Cubs / Pirates / Braves,4-5,0.763 (1906 CHC),Cubs 116-36 record,1907 1908 1909 1914
+Cardinals Rise,1920-1945,Cardinals / Giants / Dodgers,5-7,0.688 (1942 STL),Cards dynasty,1926 1931 1934 1942 1943 1944 1946
+Postwar,1946-1960,Dodgers / Giants / Braves,3-5,0.646 (1953 BKN),Bk->LA NYG->SF moves,1955 1957 1959
+Expansion,1961-1980,Dodgers / Reds / Pirates,3-4,0.667 (1975 CIN),Big Red Machine,1969 1971-72 1975-76
+Braves Era,1981-2000,Braves / Cardinals / Dodgers,3-5,0.617 (1986 NYM),ATL 14 straight div 1991-05,1988 1989 1990 1995 1996
+Modern,2001-2025,Dodgers / Giants / Cubs / Braves,8-10,0.685 (2022 LAD),LAD 9 penn 5 WS,2010 2012-14 2016 2020-25
