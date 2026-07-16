@@ -1,129 +1,86 @@
-year,team,league,record,win_pct,games_behind,pennant_winner,world_series_winner,notes
-1876,Chicago White Stockings,NL,52-14,0.788,0.0,Y,N,First NL season champions
-1877,Boston Red Caps,NL,42-18,0.700,0.0,Y,N,
-1878,Boston Red Caps,NL,41-19,0.683,0.0,Y,N,
-1879,Providence Grays,NL,59-25,0.702,0.0,Y,Y,
-1880,Chicago White Stockings,NL,67-17,0.798,0.0,Y,N,
-1881,Chicago White Stockings,NL,56-28,0.667,0.0,Y,N,
-1882,Chicago White Stockings,NL,55-25,0.688,0.0,Y,N,
-1883,Boston Beaneaters,NL,63-35,0.643,0.0,Y,N,
-1884,Providence Grays,NL,84-28,0.750,0.0,Y,Y,
-1885,Chicago White Stockings,NL,87-25,0.777,0.0,Y,N,
-1886,Chicago White Stockings,NL,90-34,0.726,0.0,Y,N,
-1887,Detroit Wolverines,AL,79-45,0.637,0.0,Y,Y,
-1888,New York Giants,NL,84-47,0.641,0.0,Y,Y,
-1889,New York Giants,NL,86-43,0.667,0.0,Y,Y,
-1890,Pittsburgh Pirates,NL,113-36,0.758,0.0,Y,N,
-1891,Boston Beaneaters,NL,87-51,0.630,0.0,Y,N,
-1892,Boston Beaneaters,NL,102-48,0.680,0.0,Y,N,
-1893,Boston Beaneaters,NL,86-43,0.667,0.0,Y,N,
-1894,Baltimore Orioles,NL,89-39,0.695,0.0,Y,N,
-1895,Baltimore Orioles,NL,87-43,0.669,0.0,Y,N,
-1896,Baltimore Orioles,NL,90-34,0.726,0.0,Y,N,
-1897,Baltimore Orioles,NL,90-39,0.698,0.0,Y,N,
-1898,Boston Beaneaters,NL,102-47,0.685,0.0,Y,N,
-1899,Baltimore Orioles,NL,86-62,0.581,0.0,Y,N,
-1900,Brooklyn Superbas,NL,82-54,0.603,0.0,Y,N,
-1901,Pittsburgh Pirates,NL,90-49,0.647,0.0,Y,N,
-1902,Pittsburgh Pirates,NL,103-36,0.741,0.0,Y,N,
-1903,New York Giants,NL,93-69,0.574,0.0,Y,N,
-1904,New York Giants,NL,106-47,0.692,0.0,Y,N,
-1905,New York Giants,NL,105-48,0.686,0.0,Y,Y,
-1906,Chicago Cubs,NL,116-36,0.763,0.0,Y,N,
-1907,Chicago Cubs,NL,107-45,0.702,0.0,Y,N,
-1908,Chicago Cubs,NL,99-55,0.643,0.0,Y,Y,
-1909,Pittsburgh Pirates,NL,110-42,0.724,0.0,Y,N,
-1910,Chicago Cubs,NL,104-50,0.675,0.0,Y,N,
-1911,New York Giants,NL,99-54,0.647,0.0,Y,N,
-1912,New York Giants,NL,103-48,0.682,0.0,Y,N,
-1913,New York Giants,NL,101-51,0.662,0.0,Y,N,
-1914,Boston Braves,NL,94-59,0.614,0.0,Y,N,
-1915,Philadelphia Phillies,NL,90-62,0.592,0.0,Y,N,
-1916,Brooklyn Robins,NL,94-60,0.610,0.0,Y,N,
-1917,New York Giants,NL,98-56,0.636,0.0,Y,N,
-1918,Chicago Cubs,NL,84-45,0.651,0.0,Y,N,
-1919,Cincinnati Reds,NL,96-44,0.686,0.0,Y,Y,
-1920,Brooklyn Robins,NL,93-61,0.604,0.0,Y,N,
-1921,New York Giants,NL,94-59,0.612,0.0,Y,Y,
-1922,New York Giants,NL,93-61,0.604,0.0,Y,Y,
-1923,New York Giants,NL,95-58,0.618,0.0,Y,N,
-1924,New York Giants,NL,93-60,0.608,0.0,Y,N,
-1925,Pittsburgh Pirates,NL,95-58,0.619,0.0,Y,N,
-1926,St. Louis Cardinals,NL,89-65,0.578,0.0,Y,Y,
-1927,New York Giants,NL,92-62,0.597,0.0,Y,N,
-1928,St. Louis Cardinals,NL,95-59,0.614,0.0,Y,N,
-1929,Chicago Cubs,NL,98-54,0.645,0.0,Y,N,
-1930,St. Louis Cardinals,NL,92-62,0.597,0.0,Y,N,
-1931,St. Louis Cardinals,NL,101-53,0.656,0.0,Y,N,
-1932,Chicago Cubs,NL,90-64,0.584,0.0,Y,N,
-1933,New York Giants,NL,91-61,0.599,0.0,Y,N,
-1934,St. Louis Cardinals,NL,95-58,0.621,0.0,Y,Y,
-1935,Chicago Cubs,NL,100-54,0.649,0.0,Y,N,
-1936,New York Giants,NL,92-62,0.597,0.0,Y,N,
-1937,Chicago Cubs,NL,93-61,0.604,0.0,Y,N,
-1938,Chicago Cubs,NL,89-63,0.586,0.0,Y,N,
-1941,Brooklyn Dodgers,NL,100-54,0.649,0.0,Y,N,
-1942,St. Louis Cardinals,NL,106-48,0.688,0.0,Y,Y,
-1943,St. Louis Cardinals,NL,105-49,0.682,0.0,Y,N,
-1944,St. Louis Cardinals,NL,105-49,0.682,0.0,Y,N,
-1946,St. Louis Cardinals,NL,98-58,0.628,0.0,Y,Y,
-1948,Boston Braves,NL,91-62,0.595,0.0,Y,N,
-1950,Philadelphia Phillies,NL,91-63,0.591,0.0,Y,N,
-1951,New York Giants,NL,98-59,0.624,0.0,Y,N,
-1954,New York Giants,NL,97-57,0.630,0.0,Y,Y,
-1955,Brooklyn Dodgers,NL,98-55,0.641,0.0,Y,Y,
-1959,Los Angeles Dodgers,NL,88-66,0.571,0.0,Y,Y,
-1962,San Francisco Giants,NL,103-62,0.622,0.0,Y,N,
-1963,Los Angeles Dodgers,NL,99-63,0.611,0.0,Y,Y,
-1966,Los Angeles Dodgers,NL,95-67,0.586,0.0,Y,N,
-1969,New York Mets,NL,100-62,0.617,0.0,Y,Y,
-1973,New York Mets,NL,82-79,0.509,0.0,Y,N,
-1975,Cincinnati Reds,NL,108-54,0.667,0.0,Y,Y,
-1976,Cincinnati Reds,NL,102-60,0.630,0.0,Y,N,
-1977,Philadelphia Phillies,NL,101-61,0.623,0.0,Y,N,
-1978,Pittsburgh Pirates,NL,88-73,0.547,0.0,Y,N,
-1979,Pittsburgh Pirates,NL,98-64,0.605,0.0,Y,N,
-1980,Philadelphia Phillies,NL,91-71,0.562,0.0,Y,N,
-1981,Montreal Expos,NL,60-48,0.556,0.0,Y,N,
-1982,St. Louis Cardinals,NL,92-70,0.568,0.0,Y,Y,
-1983,Philadelphia Phillies,NL,90-72,0.556,0.0,Y,N,
-1984,Chicago Cubs,NL,96-65,0.596,0.0,Y,N,
-1985,Los Angeles Dodgers,NL,95-67,0.586,0.0,Y,N,
-1986,New York Mets,NL,108-54,0.667,0.0,Y,Y,
-1987,St. Louis Cardinals,NL,95-67,0.586,0.0,Y,N,
-1988,Los Angeles Dodgers,NL,94-67,0.584,0.0,Y,N,
-1989,Chicago Cubs,NL,93-69,0.574,0.0,Y,N,
-1990,Pittsburgh Pirates,NL,95-67,0.586,0.0,Y,N,
-1993,Philadelphia Phillies,NL,97-65,0.599,0.0,Y,N,
-1994,Montreal Expos,NL,74-40,0.649,0.0,Y,N,Season cut short by strike
-1995,Atlanta Braves,NL,90-54,0.625,0.0,Y,Y,
-1996,Atlanta Braves,NL,96-66,0.593,0.0,Y,N,
-1997,Atlanta Braves,NL,101-61,0.623,0.0,Y,N,
-1998,Atlanta Braves,NL,106-56,0.650,0.0,Y,N,
-1999,Atlanta Braves,NL,103-59,0.636,0.0,Y,N,
-2000,Atlanta Braves,NL,95-67,0.586,0.0,Y,N,
-2001,Arizona Diamondbacks,NL,92-70,0.568,0.0,Y,Y,
-2002,Atlanta Braves,NL,101-59,0.630,0.0,Y,N,
-2003,Chicago Cubs,NL,88-74,0.543,0.0,Y,N,
-2004,St. Louis Cardinals,NL,105-57,0.648,0.0,Y,Y,
-2005,St. Louis Cardinals,NL,100-62,0.617,0.0,Y,N,
-2006,St. Louis Cardinals,NL,83-78,0.516,0.0,Y,Y,
-2007,Colorado Rockies,NL,90-73,0.552,0.0,Y,N,
-2008,Philadelphia Phillies,NL,92-70,0.568,0.0,Y,N,
-2009,Philadelphia Phillies,NL,93-69,0.574,0.0,Y,N,
-2010,San Francisco Giants,NL,92-70,0.568,0.0,Y,Y,
-2011,St. Louis Cardinals,NL,100-62,0.617,0.0,Y,Y,
-2012,San Francisco Giants,NL,94-68,0.580,0.0,Y,Y,
-2013,St. Louis Cardinals,NL,97-65,0.599,0.0,Y,N,
-2014,San Francisco Giants,NL,88-74,0.543,0.0,Y,Y,
-2015,Chicago Cubs,NL,97-65,0.599,0.0,Y,N,
-2016,Chicago Cubs,NL,103-58,0.640,0.0,Y,Y,
-2017,Washington Nationals,NL,97-65,0.599,0.0,Y,N,
-2018,Milwaukee Brewers,NL,96-67,0.589,0.0,Y,N,
-2019,Washington Nationals,NL,93-69,0.574,0.0,Y,Y,
-2020,Los Angeles Dodgers,NL,43-17,0.717,0.0,Y,Y,
-2021,Atlanta Braves,NL,88-73,0.547,0.0,Y,Y,
-2022,Philadelphia Phillies,NL,87-75,0.537,0.0,Y,N,
-2023,Arizona Diamondbacks,NL,84-78,0.519,0.0,Y,N,
-2024,New York Mets,NL,89-73,0.549,0.5,Y,N,
-2025,Brewers/Cubs/Phillies/Dodgers,NL,various,—,—,—,—,
+Year,NL_Champion,Champion_W-L,Champion_WPct,WS_Champion,WS_Result,Era
+1876,Chicago White Stockings,52-14,0.788,None,NE,1870s
+1877,Brooklyn Hartfords,42-23,0.646,None,NE,1870s
+1878,Boston Red Caps,41-19,0.683,None,NE,1870s
+1879,Providence Grays,59-25,0.702,None,NE,1870s
+1880,Chicago White Stockings,67-17,0.798,None,NE,1880s
+1881,Chicago White Stockings,56-28,0.667,None,NE,1880s
+1882,Providence Grays,52-20,0.722,None,NE,1880s
+1883,Providence Grays,58-29,0.667,None,NE,1880s
+1884,Providence Grays,84-28,0.750,None,NE,1880s
+1885,Chicago White Stockings,87-25,0.777,None,NE,1880s
+1886,Chicago White Stockings,90-34,0.726,None,NE,1880s
+1887,Detroit Wolverines,79-45,0.637,None,NE,1880s
+1888,New York Giants,84-47,0.641,None,NE,1880s
+1889,Brooklyn Bridegrooms,93-44,0.679,None,NE,1880s
+1890,Brooklyn Bridegrooms,86-43,0.667,None,NE,1890s
+1891,Boston Beaneaters,87-51,0.630,None,NE,1890s
+1892,Boston Beaneaters (split),86-44,0.662,None,Split,1890s
+1893,Boston Beaneaters,86-43,0.667,None,NE,1890s
+1894,Baltimore Orioles,89-39,0.693,None,NE,1890s
+1895,Baltimore Orioles,87-31,0.737,None,NE,1890s
+1896,Baltimore Orioles,90-39,0.699,None,NE,1890s
+1897,Boston Beaneaters,93-39,0.705,None,NE,1890s
+1898,Boston Beaneaters,102-47,0.685,None,NE,1890s
+1899,Baltimore Orioles,102-48,0.680,None,NE,1890s
+1900,Brooklyn Superbas,82-54,0.603,None,NE,1900s
+1901,Pittsburgh Pirates,90-49,0.647,None,NE,1900s
+1902,Pittsburgh Pirates,103-36,0.741,None,NE,1900s
+1903,New York Giants,95-57,0.625,Boston Americans,NL lost WS,1900s
+1904,New York Giants,106-47,0.691,None,No WS,1900s
+1905,New York Giants,105-48,0.688,New York Giants,NL won WS 4-1,1900s
+1906,Chicago Cubs,116-36,0.763,Chicago White Sox,NL lost WS,1900s
+1907,Chicago Cubs,107-45,0.704,Chicago Cubs,NL won WS 4-0,1900s
+1908,Chicago Cubs,99-55,0.643,Chicago Cubs,NL won WS 4-1,1900s
+1909,Pittsburgh Pirates,110-42,0.724,Pittsburgh Pirates,NL won WS 4-3,1900s
+1914,Boston Braves,94-59,0.613,Boston Braves,NL won WS 4-0,1910s
+1919,Cincinnati Reds,96-44,0.686,Cincinnati Reds,NL won WS 4-2,1910s
+1920,Brooklyn Robins,93-61,0.604,Cleveland Indians,NL lost WS,1920s
+1921,New York Giants,93-61,0.604,New York Giants,NL won WS 4-1,1920s
+1922,New York Giants,93-61,0.604,New York Giants,NL won WS 4-0,1920s
+1923,New York Giants,95-58,0.617,New York Yankees,NL lost WS,1920s
+1924,New York Giants,93-60,0.608,Washington Senators,NL lost WS,1920s
+1925,Pittsburgh Pirates,95-58,0.621,Pittsburgh Pirates,NL won WS 4-3,1920s
+1926,St. Louis Cardinals,89-65,0.579,St. Louis Cardinals,NL won WS 4-3,1920s
+1928,St. Louis Cardinals,95-59,0.617,St. Louis Cardinals,NL won WS 4-0,1920s
+1929,Chicago Cubs,98-54,0.645,Philadelphia Athletics,NL lost WS,1920s
+1931,St. Louis Cardinals,103-48,0.684,St. Louis Cardinals,NL won WS 4-3,1930s
+1934,St. Louis Cardinals,105-49,0.684,St. Louis Cardinals,NL won WS 4-3,1930s
+1942,St. Louis Cardinals,106-48,0.688,St. Louis Cardinals,NL won WS 4-1,1940s
+1944,St. Louis Cardinals,105-49,0.680,St. Louis Cardinals,NL won WS 4-2,1940s
+1946,St. Louis Cardinals,96-58,0.623,St. Louis Cardinals,NL won WS 4-3,1940s
+1951,New York Giants,98-59,0.623,New York Giants,NL won WS 4-2,1950s
+1954,New York Giants,97-57,0.630,New York Giants,NL won WS 4-0,1950s
+1955,Brooklyn Dodgers,98-55,0.641,Brooklyn Dodgers,NL won WS 4-3,1950s
+1957,Milwaukee Braves,95-59,0.617,Milwaukee Braves,NL won WS 4-3,1950s
+1958,Brooklyn Dodgers,92-62,0.594,Milwaukee Braves,NL won WS 4-3,1950s
+1959,LA Dodgers,88-68,0.564,LA Dodgers,NL won WS 4-3,1950s
+1960,Pittsburgh Pirates,95-59,0.617,Pittsburgh Pirates,NL won WS 4-3,1960s
+1961,Cincinnati Reds,93-61,0.604,Cincinnati Reds,NL won WS 4-3,1960s
+1962,Cincinnati Reds,98-64,0.605,Cincinnati Reds,NL won WS 4-0,1960s
+1963,LA Dodgers,99-63,0.611,LA Dodgers,NL won WS 4-0,1960s
+1964,St. Louis Cardinals,93-69,0.573,St. Louis Cardinals,NL won WS 4-3,1960s
+1965,LA Dodgers,96-66,0.593,LA Dodgers,NL won WS 4-1,1960s
+1967,LA Dodgers,93-69,0.573,St. Louis Cardinals,NL won WS 4-3,1960s
+1969,New York Mets,100-62,0.617,New York Mets,NL won WS 4-1,1960s
+1975,Cincinnati Reds,108-54,0.667,Cincinnati Reds,NL won WS 4-3,1970s
+1976,Cincinnati Reds,102-60,0.630,Cincinnati Reds,NL won WS 4-0,1970s
+1980,Philadelphia Phillies,91-71,0.562,Philadelphia Phillies,NL won WS 4-2,1980s
+1982,St. Louis Cardinals,92-70,0.568,St. Louis Cardinals,NL won WS 4-3,1980s
+1986,New York Mets,108-54,0.667,New York Mets,NL won WS 4-3,1980s
+1990,Cincinnati Reds,95-67,0.586,Cincinnati Reds,NL won WS 4-2,1990s
+1991,Atlanta Braves,94-68,0.579,Atlanta Braves,NL won WS 4-3,1990s
+1992,Pittsburgh Pirates,96-66,0.586,Atlanta Braves,NL won WS 4-3,1990s
+1993,Philadelphia Phillies,97-65,0.599,Philadelphia Phillies,NL won WS 4-2,1990s
+1994,None (strike),—,—,None,No WS,1990s
+1995,Atlanta Braves,90-54,0.625,Atlanta Braves,NL won WS 4-2,1990s
+1997,Atlanta Braves,101-61,0.623,FL Marlins,NL won WS 4-2,1990s
+1999,Atlanta Braves,103-58,0.640,Atlanta Braves,NL won WS 4-2,1990s
+2001,AZ Diamondbacks,92-70,0.569,AZ Diamondbacks,NL won WS 4-3,2000s
+2006,St. Louis Cardinals,83-78,0.512,St. Louis Cardinals,NL won WS 4-1,2000s
+2012,SF Giants,94-68,0.580,SF Giants,NL won WS 4-0,2000s
+2016,Chicago Cubs,103-58,0.640,Chicago Cubs,NL won WS 4-3,2010s
+2020,LA Dodgers,43-17,0.717,LA Dodgers,NL won WS 4-2,2020s
+2021,Atlanta Braves,88-73,0.547,Atlanta Braves,NL won WS 4-2,2020s
+2024,LA Dodgers,98-64,0.605,LA Dodgers,NL won WS 4-1,2020s
+2025,LA Dodgers,96-66,0.593,LA Dodgers,NL won WS 4-3,2020s
