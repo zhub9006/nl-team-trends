@@ -1,19 +1,15 @@
-Category,Record,Team,Year,Statistic,Value,Notes
-Most Wins (Single Season),116 wins,Chicago Cubs,1906,Total Wins,116,Won NL title; .763 WPct
-Best Winning Pct (Single Season),.763,Chicago Cubs,1906,Win_Pct,0.763,116-36 record
-Most Home Runs in a Game,8,Chicago Cubs,2026,Home Runs,8,Tied franchise record
-Most Consecutive Division Titles,14,Atlanta Braves,1991-2005,Division Titles,14,Longest in any MLB league
-Most NL Pennants,26,Los Angeles Dodgers,1884-2025,Pennants,26,Tied with Cardinals; includes Brooklyn era
-Most WS Titles (NL),11,St. Louis Cardinals,1926-2011,WS Titles,11,Most of any NL franchise
-Most NL Appearances,17,Chicago Cubs,1876-2025,Playoff Appearances,17,,Most in NL through 2025
-Most All-Time NL Wins,11663,San Francisco Giants,1883-2025,All-Time Wins,11663,Including NY Giants & SSF Giants
-Most All-Time NL Losses,11865,Philadelphia Phillies,1883-2025,All-Time Losses,11865,Most losses by any NL franchise
-Longest Pennant Drought,108 years,Chicago Cubs,1945-2016,Years Between Pennants,108,Ended with 2016 NLCS win
-Back-to-Back WS Titles,2,Los Angeles Dodgers,2024-2025,Back-to-Back,2,Most recent repeat champions
-Most Consecutive 100-Win Seasons,7,Los Angeles Dodgers,2018-2023,100-Win Seasons,7,Record consecutive seasons
-Fastest 3000 Strikeouts (SP),R.C. DetfSM<a esearchers>-
-First NL Shutout,4-0,Chicago White Stockings,1876,Shutout,4-0 vs Louisville,Jim Devlin opponent
-Best NL Single-Season Hitter (1876),.429 BA,Ross Barnes (Chicago),1876,Batting Average,0.429,First NL BA leader
-Largest Run Margin in WS Game (NL Game),16 runs,Boston Red Sox vs Cardinals,2018 WS Game 3,Run Margin,16,GS puck
-Best Hitter (1887),.358 BA,Paul Hines (Providence Grays),1878,Batting Average,0.358,Providence Grays
-Best Hitter (Big-Meat era),Smit<span
+Record_Type,Team,Year,Value,Context
+Best NL win%,Chicago Cubs,1906,.763 (116-36),Best NL season ever
+Best 162G record,LAD,2022,.685 (111-51),Modern era record
+Best shortened,LAD,2020,.717 (43-17),60-game COVID season
+Most division streaks,ATL Braves,1991-2005,14 consecutive,Longest in MLB
+Most WS titles,STL Cardinals,Through 2025,11,All of MLB
+Most NL pennants,LAD,Through 2025,26,NL record
+Most NL wins,SF Giants,Through 2025,11663,Includes NY/SSF
+Most NL losses,PHI Phillies,Through 2025,11865,Win% .466
+Highest expansion win%,MIA Marlins,1993-2025,0.569,2 WS titles small market
+Back-to-back WS,LAD,2024-2025,Back-to-back,First NL repeat in decades
+8 Straight NL West,LAD,2018-2025,8 straight,Single-divination dominance
+2022 111-win season,LAD,2022,111-51,Best 162G record in NL history
+1906 Cubs 116 wins,CHC Cubs,1906,116 wins,Best NL season ever
+Lahman DB,SABR,1871-2025,Free CSV,Complete team/batting/pitching stats
