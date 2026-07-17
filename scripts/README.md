@@ -1,36 +1,27 @@
-# scripts/ — Data Loading & Analysis Utilities
+# scripts/ Directory
 
-This directory contains Python scripts to load, explore, and visualize the NL team performance data stored in `../data/`.
+This directory contains Python scripts for data loading, transformation, and analysis.
 
 ## Files
 
-| File | Purpose |
-|------|---------|
-| `data_loader.py` | Loads all CSV files from `../data/`, prints summary stats, filters by team/era, and generates quick charts |
+| File | Description |
+|------|-------------|
+| `data_loader.py` | Main data loader and chart generator |
 
 ## Usage
 
 ```bash
-# From the repo root
 pip install -r requirements.txt
-
-# Load all data and print summary statistics
 python scripts/data_loader.py
-
-# Filter for a specific team
-python scripts/data_loader.py --team Dodgers
-
-# Generate quick matplotlib charts (saved to ./charts/)
-python scripts/data_loader.py --chart
-
-# Combine options
-python scripts/data_loader.py --team Cardinals --chart
 ```
 
-## Output
+## Planned Scripts
+- `generate_charts.py` — Generate all visualization charts
+- `eda_analysis.py` — Interactive exploration analysis
+- `era_comparison.py` — Franchise-era performance comparison
+- `pythagorean_analysis.py` — Pythagorean expectation analysis
 
-- Console summary of all data files loaded
-- Team-specific filtering results
-- Visualizations saved to `./charts/` (PNG)
-
-Requirements: pandas, matplotlib (both play nicely with seaborn / plotly from `requirements.txt`)
+## Quick Start
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run the analysis: `python scripts/data_loader.py`
+3. Or use the Jupyter notebook: `jupyter notebook notebooks/explore_nl_data.ipynb`
