@@ -1,50 +1,57 @@
-# Data Files Index — nl-team-trends
+# Data Index & Conventions
 
-> **Note:** All files referenced below now exist in the `data/` directory.
-> `DATA_PLACEHOLDER.md` has been superseded by this index and `docs/data_notes.md`.
+This file indexes all data files in the `data/` directory and documents the conventions used.
 
-## Data Files in `data/`
+---
 
-| File | Description | Key Data Points | Source |
-|------|-------------|-----------------|--------|
-| `nl_historical_performance.csv` | Year-by-year NL standings 1876–present | Champion, 2nd place, W-L, Win%, WS result, era | Baseball Almanac + StatMuse + Wikipedia |
-| `nl_all_time_records.csv` | All-time franchise records (all 15 NL teams) | W, L, Games, Win%, WS titles, division | StatMuse NL Championships + All-Time %s |
-| `nl_pennant_winners.csv` | All NL pennant/winners 1876–2025 | Year, champion, W-L, Win%, WS result, era | Wikipedia NL Pennants + Baseball Almanac |
-| `nl_championship_trends.csv` | Championship trends by era | Era-level pennants, WS totals, dominant teams | Surprise Sports + Wikipedia NL Pennants |
-| `nl_notable_records.csv` | Key records by category | 30+ record categories per franchise | StatMuse + Baseball Almanac + Champs or Chumps |
-| `nl_notable_seasons.csv` | Significant seasons (1876–2025) | Season milestones, records, context | Baseball Almanac NL Year-by-Year + StatMuse |
-| `nl_recent_standings.csv` | Divisional standings and champions 2020–2025 | East/Central/West winners, WS result | Baseball Almanac + Linger & Look |
-| `nl_team_vs_team_summary.csv` | H2H W-L summary matrix (key matchups) | Win% in head-to-head for 22 key pairs | Baseball Almanac NL H2H (1876–2026) |
+## File Index
+
+| File | Description | Format | Years Covered |
+|------|-------------|--------|---------------|
+| `nl_pennant_winners.csv` | All NL pennant winners with records, WS results, and franchise aliases | CSV | 1876–2025 |
+| `nl_all_time_records.csv` | All-time NL franchise records (wins, losses, winning %, WS titles, droughts) | CSV | 1876–2025 |
+| `nl_championship_trends.csv` | Championship highlights and notable seasons by era | CSV | 1876–2025 |
+| `nl_notable_records.csv` | Key single-season and franchise records | CSV | 1876–2026 |
+| `nl_recent_standings.csv` | Divisional standings for recent NL seasons (2020–2025) | CSV | 2020–2025 |
+| `nl_team_vs_team_summary.csv` | H2H W-L summary matrix (key NL matchups) | CSV | 1876–2026 |
+
+---
 
 ## Data Conventions
 
-- **Win%** = Wins / Games Played (not rounded to .500)
-- **Pre-1903 pennants** = NL Championship only (no World Series existed)
-- **Franchise totals** include pre-relocation data (SF Giants = NY Giants + SF Giants)
-- **2026 status**: Ongoing season — stats reflect real-time data through latest completed games
-- **Split seasons** (1892 & 1981) are handled with first-half / second-half designators
-- **Milwaukee Brewers**: Moved from AL to NL Central in 1998 (AL stats after 1998 excluded from NL totals)
-- **Washington Nationals**: Includes Montreal Expos (1969–2004) relocation totals
-- **Los Angeles Dodgers**: Includes Brooklyn/LA franchise total from 1884 onward
+- **Team names**: Canonical NL team names; franchise movements noted in columns
+- **W-L format**: Wins-Losses (e.g., `98-55`); no ties in modern data
+- **Win%**: `W / (W + L)`, rounded to 3 decimal places
+- **Games played**: Derived from W + L; no ties in modern era
+- **ERA boundaries**: "1969" = start of division-era; "1876" = NL founding
+- **Franchise continuity**: Relocated teams treated as continuous entities
 
-## How to Use These Files
+---
 
-- **Beginning analysts**: Start with `nl_all_time_records.csv` for the full 15 NL team comparison
-- **Era researchers**: Use `nl_championship_trends.csv` for decade-level dominance analysis
-- **Recent performance**: `nl_historical_performance.csv` has the last 150 seasons of NL historical win-loss data
-- **Milestone researchers**: `nl_notable_records.csv` covers all records with contextual notes
-- **Deep dives**: `nl_notable_seasons.csv` has season-specific historic details with year-by-year granularity
-- **Pennant tracking**: `nl_pennant_winners.csv` gives every NL championship and WS result from 1876–2025
-- **Division dynamics**: `nl_recent_standings.csv` shows divisional balance and champion shifts 2020–2025
-- **Rivalry analysis**: `nl_team_vs_team_summary.csv` provides the top inter-franchise W-L matchups
+## Data Quality Notes
 
-## Companion Documentation
+- Pre-1900 data may have gaps in certain statistical categories
+- Ties were more common before 1920 and are excluded from winning percentages
+- The 1994 season was strike-shortened; no pennant was awarded
+- The 2020 season had only 60 games (COVID-19); records are not normalized to 162 games
+- 2026 data is incomplete as of mid-season
 
-| File | Purpose |
-|------|---------|
-| `README.md` | Full research overview with key findings |
-| `source_references.md` | Detailed source attribution for every data point |
-| `docs/data_notes.md` | Methodology, conventions, caveats, and Python examples |
-| `visualizations/README.md` | Visualization roadmap and tool stack |
-| `scripts/data_loader.py` | Python utility to load & explore data files |
-| `notebooks/explore_nl_data.ipynb` | Starter Jupyter notebook for interactive exploration |
+---
+
+## Planned Additional Data Files
+
+- [ ] `nl_seasonal_standings.csv` — Complete year-by-year NL standings
+- [ ] `nl_wild_card_winners.csv` — Wild card/playoff champions by year
+- [ ] `nl_divisional_titles.csv` — Division title winners by year
+- [ ] `nl_playoff_records.csv` — Head-to-head playoff matchup history
+- [ ] `nl_player_stats_by_year.csv` — Annual leading statistical performers
+- [ ] `nl_moving_averages.csv` — Smoothed team performance metrics
+
+---
+
+## Contributing
+
+When adding new data files:
+1. Add an entry to this index table
+2. Document any new conventions
+3. Include a brief description of the data source
