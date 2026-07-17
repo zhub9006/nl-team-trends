@@ -154,24 +154,29 @@ The full Baseball Almanac NL team-vs-team W-L dataset provides a complete 15×15
 
 ```
 nl-team-trends/
-├── README.md                         ← Research overview & key findings
-├── DATA_PLACEHOLDER.md               ← Data file index & conventions
-├── source_references.md              ← Detailed source attribution
-├── requirements.txt                  ← Python dependencies for analysis
+├── README.md                              ← Research overview & key findings
+├── DATA_INDEX.md                          ← Data file index & conventions (replaces DATA_PLACEHOLDER.md)
+├── source_references.md                   ← Detailed source attribution
+├── requirements.txt                       ← Python dependencies for analysis
 ├── data/
-│   ├── nl_historical_performance.csv        ← Season-by-season standings (1876-2025)
-│   ├── nl_all_time_records.csv             ← All-time franchise records (W/L/G/%/titles)
-│   ├── nl_championship_trends.csv          ← Championship highlights by era
-│   ├── nl_notable_records.csv              ← Key single-season & franchise records
-│   ├── nl_notable_seasons.csv              ← Notable seasons with contextual notes
-│   ├── nl_pennant_winners.csv              ← All NL pennant winners 1876-2025
-│   ├── nl_recent_standings.csv             ← Divisional standings 2016-2025
-│   └── nl_team_vs_team_summary.csv         ← H2H W-L summary matrix (key matchups)
+│   ├── nl_historical_performance.csv      ← Season-by-season standings (1876-2026)
+│   ├── nl_all_time_records.csv            ← All-time franchise records (W/L/G/%/titles)
+│   ├── nl_pennant_winners.csv             ← All NL pennant winners 1876-2025
+│   ├── nl_championship_trends.csv         ← Championship highlights by era
+│   ├── nl_notable_records.csv             ← Key single-season & franchise records
+│   ├── nl_notable_seasons.csv             ← Notable seasons with contextual notes
+│   ├── nl_recent_standings.csv            ← Divisional standings 2020-2025
+│   └── nl_team_vs_team_summary.csv        ← H2H W-L summary matrix (key matchups)
 ├── docs/
-│   └── data_notes.md                   ← Methodology, conventions & caveats
+│   └── data_notes.md                      ← Methodology, conventions & caveats
 ├── visualizations/
-│   └── README.md                     ← Visualization roadmap & tools
-└── notebooks/                        ← (planned) Jupyter analysis notebooks
+│   └── README.md                          ← Visualization roadmap & tools
+├── notebooks/
+│   └── explore_nl_data.ipynb              ← Starter Jupyter notebook for EDA
+├── scripts/
+│   ├── data_loader.py                     ← Python utility to load & explore data
+│   └── README.md                          ← Scripts directory documentation
+└── charts/                                ← (generated) Chart output directory
 ```
 
 ---
@@ -185,32 +190,40 @@ nl-team-trends/
 - **Milwaukee Brewers**: Moved from AL to NL Central in 1998; AL stats after 1998 excluded from NL totals
 - **Montreal Expos → Washington Nationals (2005)**: Relocated franchise totals merged
 - **Pre-1903 pennants**: NL Championship only (no World Series existed)
-- **Franchise totals**: Include pre-relocation data (e.g., SF Giants = NY Giants + SF Giants)
-- **Split seasons**: 1892 and 1981 seasons had split championships
-- **Interleague play**: Began 1997; full interleague schedule since 2023
-- **2026 season**: Cardinals (50-45), Brewers (59-37) leading NL divisions as of mid-July
+- **Franchise totals**: Include pre-relocation data (SF Giants = NY Giants + SF Giants)
+- **Interleague play**: Full 162-game schedule in 2023+ with all 30 teams hitting every opponent
 
----
+## 🚀 Quick Start
 
-## 🚀 Next Steps / Visualization Roadmap
+```bash
+# Clone the repo
+git clone https://github.com/zhub9006/nl-team-trends.git
+cd nl-team-trends
 
-1. **Win% Trend Analysis**: Per-franchise win% trend lines across eras using season-by-year data
-2. **Era Heatmaps**: Heatmap of championship distribution by decade and division
-3. **Head-to-Head Matrices**: Full 15×15 W-L matrices from Baseball Almanac data
-4. **Interactive Dashboard**: Streamlit/Plotly app to explore all 15 NL franchises
-5. **Cross-reference Lahman DB**: Attach SABR Lahman CSV data for player-level stats
-6. **Weekly W-L Tracker**: Automate weekly win-loss scraping for current season trends
-7. **Division Dominance Index**: Quantify each team's share of division titles by decade
+# Install dependencies
+pip install -r requirements.txt
 
----
+# Explore data from the command line
+python scripts/data_loader.py
 
-## 📚 References
+# Generate charts
+python scripts/data_loader.py --chart
 
-- Baseball Almanac NL Team-vs-Team: https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml
-- Baseball-Reference NL League Page: https://www.baseball-reference.com/leagues/NL/
-- SABR Lahman Database: https://sabr.org/lahman-database/
-- Wikipedia List of NL Pennant Winners: https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners
+# Filter for a specific team
+python scripts/data_loader.py --team Dodgers
 
----
+# Open the Jupyter notebook for interactive exploration
+jupyter notebook notebooks/explore_nl_data.ipynb
+```
 
-*Last updated: July 2026 | Research covers 1876–2026 NL seasons (150 years)*
+## 📄 Documentation Index
+
+| File | Purpose |
+|------|---------|
+| `README.md` | Full research overview with all key findings |
+| `DATA_INDEX.md` | Data file index, conventions, and how-to guide |
+| `source_references.md` | Detailed source attribution with 20+ verified sources |
+| `docs/data_notes.md` | Methodology, caveats, Python pipeline examples, citation info |
+| `visualizations/README.md` | Visualization roadmap, chart types, and streamlit dashboard plans |
+| `scripts/data_loader.py` | CLI data loader with filtering, summary stats, and chart generation |
+| `notebooks/explore_nl_data.ipynb` | Interactive Jupyter notebook for hands-on exploration |
