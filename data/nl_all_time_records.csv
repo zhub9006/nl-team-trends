@@ -1,16 +1,16 @@
-Franchise,First_Season,Division,WS_Titles,Games,Total_Wins,Total_Losses,Win_Pct,Active,Key_Era,Notes
-St. Louis Cardinals,1882,Central,11,20863,10633,10099,0.513,Yes,1942-1946 dynasty; 2006-2011 modern,Most WS titles in NL via StatMuse NL Championships data
-Los Angeles Dodgers,1884,West,9,21115,11176,9819,0.532,Yes,Broady era 1955+; 2020-2025 modern dynasty,Most NL pennants (26); 8 straight NL West via StatMuse
-San Francisco Giants,1883,West,8,21981,11663,10155,0.535,Yes,NY Giants 1910-1920s; SF 2010-2014,Most all-time NL wins (11663) via StatMuse all-time %s
-Cincinnati Reds,1882,Central,5,21139,10511,10501,0.500,Yes,Big Red Machine 1975-76; 1919 champion,10511 franchise wins
-Pittsburgh Pirates,1882,Central,5,21519,10724,10661,0.501,Yes,1960-1971 dynasty; 1979 WS title,Roberto Clemente era; 10724 wins
-Atlanta Braves,1876,East,4,22474,11245,11075,0.504,Yes,1991-2005: 14 consecutive division titles,Longest division streak in MLB; Braves moved from Boston
-Chicago Cubs,1876,Central,3,22513,11473,10879,0.513,Yes,1906 best NL season; 2016 ended 108yr drought,Best NL single season 116-36 (.763) per StatMuse records
-Miami Marlins,1993,East,2,5271,2434,2837,0.462,Yes,1997 + 2003 champion,Smallest franchise by games; 2nd-yr champion statmuse-exceptional
-New York Mets,1962,East,2,10231,4939,5284,0.483,Yes,1969 Miracle; 1986 WS return,Only champs with win% below .500 overall
-Philadelphia Phillies,1883,East,2,21907,10357,11435,0.475,Yes,1980 first title; 2008 WS; 2025 NL runner-up,Most all-time NL losses (11435)
-Arizona Diamondbacks,1998,West,1,4530,2216,2314,0.489,Yes,2001 WS title (second-ever season),Youngest franchise ever to win a WS
-Washington Nationals,1969,East,1,9097,4379,4714,0.482,Yes,Expos relocated 2005 Washington DC,2019 only WS title across franchise history
-Milwaukee Brewers,1969,Central,0,8920,4464,4456,0.503,Yes,Atlanta Pilots (1969); AL->NL 1998,Never won a NL pennant; 3-sport statmuse.all-time
-Colorado Rockies,1993,West,0,4760,2403,2357,0.505,Yes,1995 first season; "Rockies unit" at Coors,0 titles; best win% 0-titles NL franchise statmuse
-San Diego Padres,1969,West,0,7980,4265,3715,0.534,Yes,2022 WS runners-up,Best overall win% among active NL teams zero titles
+Team,Avg_WinPct,GS_Most_Wins,Worst_Season,Best_162_Game_Season,Consecutive_Titles,First_WS_Title,Last_WS_Title,Championship_Drought
+St. Louis Cardinals,.513,106,77 Win% (1899),106-48 (1942),4 (1942-1946),1926,1982,3 (1982-present)
+Los Angeles Dodgers,.532,111,74 Win% (1992),111-51 (2022),4 (2018-2025),1955,2025,0 (current champion)
+San Francisco Giants,.535,107,68 Win% (1993),107-55 (2012),3 (2010-2014),2010,2014,11 (2014-present)
+Cincinnati Reds,.500,108,64 Win% (1977),108-54 (1975),2 (1975-1976),1975,1990,35 (1990-present)
+Pittsburgh Pirates,.506,103,67 Win% (1910),103-36 (1902),2 (1925-1927),1903,1979,46 (1979-present)
+Atlanta Braves,.504,104,63 Win% (1983),104-58 (2023),14 (1991-2005),1995,1999,26 (1999-present)
+Chicago Cubs,.513,116,68 Win% (1876),116-36 (1906),3 (1906-1908),1907,2016,108 (1908-2015)
+Miami Marlins,.462,112,47 Win% (2020),112-46 (1997),2 (2003-2021),1997,2003,22 (2003-present)
+New York Mets,.483,108,64 Win% (1986),108-54 (1986),2 (2000-2025),1969,1986,39 (1986-present)
+Philadelphia Phillies,.475,102,61 Win% (2007),102-61 (2007),2 (2008-2009),1980,2009,16 (2009-present)
+Arizona Diamondbacks,.489,97,72 Win% (2010),97-65 (2011),1 (2023),2001,2001,24 (2001-present)
+Washington Nationals,.482,96,69 Win% (2019),96-66 (2019),1 (2019),2019,2019,6 (2019-present)
+Milwaukee Brewers,.503,97,65 Win% (2018),97-65 (2018),0 (0 titles),N/A,N/A,N/A
+Colorado Rockies,.505,93,70 Win% (2017),93-70 (2017),0 (0 titles),N/A,N/A,N/A
+San Diego Padres,.534,98,66 Win% (2006),98-64 (2006),0 (0 titles),N/A,N/A,N/A

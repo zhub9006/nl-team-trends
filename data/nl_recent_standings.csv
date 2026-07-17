@@ -1,20 +1,7 @@
-year,team,wins,losses,win_pct,division,playoff_result,ws_result,notes
-2020,Los Angeles Dodgers,43,17,0.717,West,WS Champion,Won Champions,Best NL shortened-season record; 25th pennant
-2020,Atlanta Braves,35,25,0.583,East,NLDS loss,Lost,Wild card entry; 10th East division title
-2020,St. Louis Cardinals,30,28,0.517,Central,Did not qualify,Lowest win% to make playoffs (30-28)
-2021,Atlanta Braves,88,73,0.547,East,WS Champion,Won Champions,Back from 10.5GB; Marquee moment; 18th pennant
-2021,Los Angeles Dodgers,106,56,0.654,West,NLCS loss,Lost,Best record in MLB; lost NLCS to Braves
-2021,Milwaukee Brewers,95,67,0.586,Central,NLDS loss,Lost,Missed playoffs on final day despite 95 wins
-2022,Los Angeles Dodgers,111,51,0.685,West,Swept (NLDS then NLCS),Lost,Most NL wins since 1906; Freddie Freeman MVP
-2022,Atlanta Braves,101,61,0.623,East,NLDS loss,Lost,Back-to-back 101-win seasons first since 1998-2001
-2022,St. Louis Cardinals,93,69,0.574,Central,NLDS loss,Lost,10th consecutive playoff appearance
-2023,Los Angeles Dodgers,100,62,0.617,West,WS Champion,Won Champions,Redeemed 2022 NLCS loss; 7th straight division
-2023,Atlanta Braves,104,58,0.642,East,NLDS loss,Lost,11th division title in 12 seasons
-2023,Philadelphia Phillies,90,72,0.556,East,NLDS loss,Wild card; surprise 90-win season
-2024,Los Angeles Dodgers,98,64,0.605,West,WS Champion,Won Champions,Back-to-back champions; Freddie Freeman heroics
-2024,Atlanta Braves,89,73,0.549,East,NLDS loss,Lost,89 wins yet won Cy Young (Soroka); missed playoffs
-2024,New York Mets,89,73,0.549,East,NLDS loss,Lost,Parallel 89-win seasons for NL East contenders
-2025,Los Angeles Dodgers,93,69,0.574,West,WS Champion,Won Champions,4th consecutive pennant; 12th pennant in 15 years
-2025,Chicago Cubs,92,70,0.568,Central,NLCS loss,Lost,Surprise contender; 1st NLCS appearance since 2016
-2025,Philadelphia Phillies,87,75,0.537,East,Wild card,Lost,2nd NLCS appearance in 7 years
-2025,San Diego Padres,82,80,0.506,West,Did not qualify,Lowest win% to miss playoffs since 2017
+Year,NL_East_W,LNL_East_L,NL_Central_W,NL_Central_L,NL_West_W,NL_West_L,NL_Champion,AL_Champion,WS_Winner
+2020,Atlanta Braves,35,Los Angeles Dodgers,43,Cincinnati Reds,31,Los Angeles Dodgers,Tampa Bay Rays,Los Angeles Dodgers
+2021,Atlanta Braves,88,Milwaukee Brewers,95,Los Angeles Dodgers,106,Atlanta Braves,Houston Astros,Atlanta Braves
+2022,Atlanta Braves,101,St. Louis Cardinals,93,Los Angeles Dodgers,111,St. Louis Cardinals,Houston Astros,Houston Astros
+2023,Atlanta Braves,104,Milwaukee Brewers,92,Los Angeles Dodgers,100,Atlanta Braves,Texas Rangers,Texas Rangers
+2024,Atlanta Braves,89,Milwaukee Brewers,93,Los Angeles Dodgers,98,Los Angeles Dodgers,New York Yankees,Los Angeles Dodgers
+2025,Philadelphia Phillies,96,Milwaukee Brewers,97,Los Angeles Dodgers,96,Los Angeles Dodgers,Seattle Mariners,Los Angeles Dodgers

@@ -1,22 +1,17 @@
-Team_1,Team_2,Team_1_Wins,Team_2_Wins,Total_Games,Team_1_WinPct,Years_Covered
-Los Angeles Dodgers,Chicago Cubs,278,122,400,0.695,1876-2026
-St. Louis Cardinals,Chicago Cubs,1315,1185,2500,0.526,1876-2026
-Los Angeles Dodgers,San Francisco Giants,272,246,518,0.525,1876-2026
-Cincinnati Reds,Chicago Cubs,1209,1074,2283,0.530,1876-2026
-Atlanta Braves,New York Mets,290,237,527,0.550,1876-2026
-St. Louis Cardinals,San Francisco Giants,1087,1063,2150,0.505,1876-2026
-Pittsburgh Pirates,Chicago Cubs,1137,1185,2322,0.489,1876-2026
-Los Angeles Dodgers,Atlanta Braves,223,176,400,0.558,1876-2026
-St. Louis Cardinals,Atlanta Braves,968,914,1882,0.514,1876-2026
-Cincinnati Reds,St. Louis Cardinals,876,939,1815,0.483,1876-2026
-Philadelphia Phillies,Atlanta Braves,200,230,430,0.465,1883-2026
-San Diego Padres,Los Angeles Dodgers,236,300,536,0.440,1969-2026
-Colorado Rockies,Los Angeles Dodgers,103,371,474,0.217,1993-2026
-Chicago Cubs,Atlanta Braves,931,1105,2036,0.457,1876-2026
-Los Angeles Dodgers,New York Mets,215,246,461,0.466,1884-2026
-St. Louis Cardinals,Philadelphia Phillies,947,1002,1949,0.486,1882-2026
-Cincinnati Reds,Pittsburgh Pirates,1037,939,1976,0.524,1882-2026
-San Francisco Giants,Atlanta Braves,205,168,373,0.550,1883-2026
-New York Giants,Brooklyn Dodgers,620,602,1222,0.507,1884-1957
-Boston Braves,Cincinnati Reds,556,544,1100,0.505,1876-1952
-Chicago White Stockings,Cincinnati Reds,1095,1074,2169,0.505,1876-2026
+Team_1,Team_2,Team_1_Wins,Team_2_Wins,Team_1_Win_Pct,Games_Played,Most_Recent_Winner
+Dodgers,Cubs,278,122,.695,400,Dodgers
+Cardinals,Cubs,1315,1185,.525,2500,Cardinals
+Dodgers,Giants,272,246,.523,518,Dodgers
+Cubs,Reds,1209,1074,.530,2283,Cubs
+Braves,Mets,290,237,.550,527,Braves
+Cardinals,Dodgers,1089,1097,.499,2186,Dodgers
+Pirates,Cubs,1109,1269,.466,2378,Cubs
+Giants,Cubs,1295,1330,.492,2625,Cubs
+Reds,Braves,1068,1338,.441,2406,Braves
+Phillies,Mets,1056,1054,.501,2110,Phillies
+Cardinals,Phillies,940,956,.494,1896,Phillies
+Reds,Mets,1080,1104,.494,2184,Mets
+Dodgers,Marlins,1248,988,.559,2236,Dodgers
+Cardinals,Marlins,1052,910,.536,1962,Cardinals
+Cubs,Rays,Not Interleague,Not Interleague,N/A,N/A,N/A
+Dodgers,Angels,Not Interleague,Not Interleague,N/A,N/A,N/A
