@@ -14,6 +14,7 @@ This file indexes all data files in the `data/` directory and documents conventi
 | `nl_recent_standings.csv` | Divisional standings 2020-2025 | CSV | 2020–2025 |
 | `nl_seasonal_standings.csv` | Full seasonal breakdown with division splits | CSV | 1876–2025 |
 | `nl_divisional_titles.csv` | Division title winners by year & division | CSV | 1876–2025 |
+| `nl_wild_card_winners.csv` | Wild card/playoff winners by year | CSV | 1876–2025 |
 | `nl_team_vs_team_summary.csv` | H2H W-L summary matrix (key matchups) | CSV | 1876–2026 |
 
 ## Conventions
@@ -24,7 +25,6 @@ This file indexes all data files in the `data/` directory and documents conventi
 - **Eras**: 154G (1909-1961) → 162G (1962-2019) → 60G (2020) → 162G (2021+)
 
 ## Planned Additional Data
-- `nl_wild_card_winners.csv` — Wild card/playoff winners by year
 - `nl_playoff_records.csv` — Head-to-head playoff matchup history
 - `nl_manager_records.csv` — Manager win-loss records and tenures
 - `nl_era_comparison.csv` — Decade-by-decade team performance aggregation
