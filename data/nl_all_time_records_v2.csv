@@ -1,0 +1,16 @@
+Team,All_Time_Win_Pct,League_Rank,Total_Games,Total_Wins,Total_Losses,First_WS_Title,Last_WS_Title,Total_WS_Titles,Longest_Drought_Years
+St. Louis Cardinals,.513,3,20863,10633,10099,1926,2011,11,14
+Los Angeles Dodgers,.532,1,21115,11176,9819,1955,2025,9,9 (wait - 2025 champion so 0)
+San Francisco Giants,.535,2,21981,11663,10155,2010,2014,8,11
+Cincinnati Reds,.500,8,21139,10511,10501,1975,1990,5,35
+Pittsburgh Pirates,.501,7,21519,10724,10661,1903,1979,5,46
+Atlanta Braves,.504,5,22474,11245,11075,1914,2021,4,4 (2021→2022)
+Chicago Cubs,.513,4,22513,11473,10879,1907,2016,3,9 (2016→2027)
+Miami Marlins,.462,15,5271,2434,2837,1997,2003,2,22
+New York Mets,.483,11,10231,4939,5284,1969,1986,2,37
+Philadelphia Phillies,.475,13,21907,10357,11435,1980,2008,2,17
+Arizona Diamondbacks,.489,12,4530,2216,2314,2001,2001,1,24
+Washington Nationals,.482,14,9097,4379,4714,2019,2019,1,6
+Milwaukee Brewers,.503,9,8920,4464,4456,N/A,N/A,0,N/A
+Colorado Rockies,.505,6,4760,2403,2357,N/A,N/A,0,N/A
+San Diego Padres,.534,10,7980,4265,3715,N/A,N/A,0,N/A
