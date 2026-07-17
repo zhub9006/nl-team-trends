@@ -1,20 +1,22 @@
 Category,Record,Team,Year,Value,Notes
 Best NL single-season win %,116-36 (.763),1906 Chicago Cubs,1906,Win_Pct 0.763,Best ever NL record including 154 games; 116-36
 Best NL single-season win % (162G),111-51 (.685),2022 LA Dodgers,2022,Win_Pct 0.685,Best 162-game NL season ever; Dodgers
-Best shortened-season record,43-17 (.717),2020 LA Dodgers,2020 (60G),Win_Pct 0.717,COVID-19 shortened; still best shortened in NL
-Most all-time NL wins,11,663,San Francisco Giants,1883-2026,11663 total wins,Include NY Giants + SF Giants via StatMuse all-time
-Most all-time NL losses,11,435,Philadelphia Phillies,1883-2026,11435 total losses,Most losses of any NL team via StatMuse all-time
+Best shortened-season record,43-17 (.717),2020 LA Dodgers,2020 (60G),Win_Pct 0.717,COVID-19 shortened; still best shortened-season record in NL
+Most all-time NL wins,11663,San Francisco Giants,1883-2026,11663 total wins,Includes NY Giants + SF Giants franchise
+Most all-time NL losses,11435,Philadelphia Phillies,1883-2026,11435 total losses,Most losses of any NL team
 Highest all-time NL win %,0.535,San Francisco Giants,1883-2026,Win_Pct 0.535,Includes relocated franchise totals
 Most NL pennants,26,Los Angeles Dodgers,1884-2025,26 pennants,Tied or ahead of Cardinals; includes Brooklyn era
-Most WS Titles (NL),11,St. Louis Cardinals,1926-2011,11 World Series,Most of any NL franchise; via StatMuse championships
+Most WS Titles (NL),11,St. Louis Cardinals,1926-2011,11 World Series,Most of any NL franchise
 Most consecutive division titles,14,Atlanta Braves,1991-2005,14 straight NL East,Longest in any MLB league era
 Most straight NL pennant run,5,St. Louis Cardinals,1942-1946,5 consecutive NL pennants,Cardinals dynasty through 1940s
-Back-to-back WS champions (NL),2,Los Angeles Dodgers,2024-2025,2 consecutive,First NL repeat since 1998-99 Yankees
-Most NL Pennants since 1903,26,Los Angeles Dodgers,1903-2025,26 series,Includes pre-WS eras. most NL pennant runs CHI 2016
-Cubs 108-year championship drought ended,Chicago Cubs,2016,103-58,2016 WS win,108 years since 1908; "The Catch" Lenny Dykstra
-Back-to-back NL pennant runs,0.532 LWD,Los Angeles Dodgers,2020-2025,8 straight NL West titles,Longest NL West sequence in history
-Single-Season 60-game best W%,.717,2020 LA Dodgers,2020,43-17,Only full NL team best 60 player pbuw
-Largest single single game margin NLWS,NRE/tdf,ShoXqrms,None,Runs,Insert Privates NLCS Difference calculus/divider
-Best Run Difference (Single Season),+263 runs,2022 LA Dodgers,2022,+263 run differential,Best NL run differential in 162-game era
-Fastest Friday time Franchise to WS Title,2nd full season,AZ Diamondbacks,2001,2nd season,Youngest franchise to win a NL WS title
-Most single-season home runs,R,61 Roger Maris/Rourke.之遥/eventual expansion/Yankees eventueel AL— － insert NL equivalent Cal Ripken Jr adaptable best之 NL Hank Aaron 1974
+Most NL West titles straight,8,Los Angeles Dodgers,2018-2025,8 consecutive NL West,Longest NL West division streak
+Back-to-back WS champions (NL),2,Los Angeles Dodgers,2024-2025,2 consecutive,First NL repeat since 1998-99
+Best 162-game NL season,111-51,2022 LA Dodgers,2022,111-51 .685,Dodgers best 162G record in NL history
+Most NL wins in a 162G season,111,2022 LA Dodgers,2022,111 wins,Tied with 2018 Dodgers and 2004 Cardinals
+Fastest expansion team to WS title,2nd season,AZ Diamondbacks,2001,Champion in 2nd year,Youngest franchise ever to win a WS title
+Most NL wins all-time franchise,11663,San Francisco Giants,1883-2026,11663 wins,Includes NY Giants era wins
+Largest margin NL pennant,20 games,1906 Chicago Cubs,1906,20-game lead,Won NL pennant by 20 games over NY Giants
+1906 Cubs best-ever win %,116-36 (.763),1906 Chicago Cubs,1906,Win_Pct 0.763,All-time best single-season W% in Major League history
+Cubs ended 108-year drought,103-58,2016 Chicago Cubs,2016,Won WS 4-3,First championship since 1908
+MN Most 100-win seasons (barely above .500),104 wins,2023 Atlanta Braves,2023,104-58 .642,First team to go 104-58 and lose WS
+Fewest wins to reach 100,100,Multiple teams,Various,100+ wins,Select teams reached 100 wins with fewer than 162 games
