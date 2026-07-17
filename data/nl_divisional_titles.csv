@@ -1,0 +1,119 @@
+Year,Division,Champion,Wins,Losses,WinPct,Second_Place,Second_Wins,Second_Losses,Second_WPct
+2025,East,Philadelphia Phillies,96,66,.593,New York Mets,89,73,.549
+2025,Central,Milwaukee Brewers,97,65,.599,Chicago Cubs,83,79,.512
+2025,West,LA Dodgers,93,69,.574,San Diego Padres,76,86,.469
+2024,East,Atlanta Braves,89,73,.549,New York Mets,88,74,.543
+2024,Central,Milwaukee Brewers,93,69,.574,St. Louis Cardinals,83,79,.512
+2024,West,LA Dodgers,98,64,.605,San Diego Padres,76,86,.469
+2023,East,Atlanta Braves,104,58,.642,Philadelphia Phillies,90,72,.556
+2023,Central,Milwaukee Brewers,92,70,.568,Chicago Cubs,83,79,.512
+2023,West,LA Dodgers,100,62,.617,Arizona Diamondbacks,84,78,.519
+2022,East,Atlanta Braves,101,61,.623,New York Mets,101,61,.623
+2022,Central,St. Louis Cardinals,93,69,.574,Milwaukee Brewers,86,76,.531
+2022,West,LA Dodgers,111,51,.685,San Diego Padres,89,73,.549
+2021,East,Atlanta Braves,88,73,.547,Philadelphia Phillies,82,80,.506
+2021,Central,Milwaukee Brewers,95,67,.586,St. Louis Cardinals,90,72,.556
+2021,West,LA Dodgers,106,56,.654,San Francisco Giants,100,62,.617
+2020,East,Atlanta Braves,35,25,.583,New York Mets,26,34,.433
+2020,Central,Cincinnati Reds,31,29,.517,St. Louis Cardinals,30,28,.517
+2020,West,LA Dodgers,43,17,.717,San Diego Padres,37,23,.617
+2019,East,Atlanta Braves,97,65,.599,Philadelphia Phillies,81,81,.500
+2019,Central,St. Louis Cardinals,91,71,.562,Milwaukee Brewers,89,73,.549
+2019,West,LA Dodgers,106,56,.654,Atlanta Braves,97,65,.599
+2018,East,Atlanta Braves,90,72,.556,Philadelphia Phillies,80,82,.494
+2018,Central,Milwaukee Brewers,96,67,.589,Chicago Cubs,95,68,.581
+2018,West,LA Dodgers,92,71,.564,Colorado Rockies,91,72,.559
+2017,East,Washington Nationals,97,65,.599,New York Mets,82,80,.506
+2017,Central,St. Louis Cardinals,83,79,.512,Chicago Cubs,92,70,.567
+2017,West,LA Dodgers,104,58,.642,Arizona Diamondbacks,93,69,.574
+2016,East,Washington Nationals,95,67,.586,New York Mets,87,75,.537
+2016,Central,Chicago Cubs,103,58,.640,St. Louis Cardinals,86,76,.531
+2016,West,LA Dodgers,91,71,.562,San Francisco Giants,87,75,.537
+2015,East,Washington Nationals,83,79,.512,New York Mets,90,72,.556
+2015,Central,St. Louis Cardinals,100,62,.617,Chicago Cubs,97,65,.599
+2015,West,LA Dodgers,92,70,.568,Arizona Diamondbacks,79,83,.488
+2014,East,Washington Nationals,96,66,.593,New York Mets,79,83,.488
+2014,Central,St. Louis Cardinals,90,72,.556,Chicago Cubs,73,89,.451
+2014,West,Los Angeles Dodgers,94,68,.580,San Francisco Giants,88,74,.543
+2013,East,Atlanta Braves,96,66,.593,Washington Nationals,86,76,.531
+2013,Central,St. Louis Cardinals,97,65,.599,Chicago Cubs,82,80,.506
+2013,West,LA Dodgers,92,70,.568,Cardinals,88,74,.543
+2012,East,Washington Nationals,98,64,.605,Atlanta Braves,94,68,.580
+2012,Central,St. Louis Cardinals,88,74,.543,Chicago Cubs,61,81,.430
+2012,West,San Francisco Giants,94,68,.580,LA Dodgers,86,76,.531
+2011,East,Philadelphia Phillies,102,60,.630,Atlanta Braves,89,73,.549
+2011,Central,St. Louis Cardinals,90,72,.556,Milwaukee Brewers,72,90,.444
+2011,West,Arizona Diamondbacks,94,68,.580,San Francisco Giants,86,76,.531
+2010,East,Philadelphia Phillies,97,65,.599,Atlanta Braves,91,71,.562
+2010,Central,Cincinnati Reds,91,71,.562,St. Louis Cardinals,86,76,.531
+2010,West,San Francisco Giants,92,70,.568,San Diego Padres,90,72,.556
+2009,East,Philadelphia Phillies,93,69,.574,Atlanta Braves,86,76,.531
+2009,Central,St. Louis Cardinals,91,71,.562,Chicago Cubs,83,79,.512
+2009,West,LA Dodgers,95,67,.586,St. Louis Cardinals,91,71,.562
+2008,East,Philadelphia Phillies,92,70,.568,Atlanta Braves,72,90,.444
+2008,Central,Chicago Cubs,97,64,.600,Milwaukee Brewers,90,72,.556
+2008,West,Los Angeles Dodgers,84,78,.519,Colorado Rockies,74,88,.457
+2007,East,Philadelphia Phillies,89,73,.549,New York Mets,88,74,.543
+2007,Central,St. Louis Cardinals,78,84,.481,Chicago Cubs,85,77,.519
+2007,West,Colorado Rockies,90,73,.556,Arizona Diamondbacks,90,72,.556
+2006,East,New York Mets,97,65,.599,Philadelphia Phillies,85,77,.525
+2006,Central,St. Louis Cardinals,83,78,.516,Houston Astros,82,80,.506
+2006,West,San Diego Padres,88,74,.543,Philadelphia Phillies,85,77,.525
+2005,East,Atlanta Braves,90,72,.556,New York Mets,83,79,.512
+2005,Central,St. Louis Cardinals,100,62,.617,Milwaukee Brewers,81,81,.500
+2005,West,Arizona Diamondbacks,77,85,.475,San Diego Padres,82,80,.506
+2004,East,Atlanta Braves,96,66,.593,Philadelphia Phillies,86,76,.531
+2004,Central,St. Louis Cardinals,105,57,.648,Houston Astros,92,70,.568
+2004,West,LA Dodgers,93,69,.574,Colorado Rockies,68,94,.420
+2003,East,Atlanta Braves,101,61,.623,Philadelphia Phillies,86,76,.531
+2003,Central,Chicago Cubs,88,74,.543,St. Louis Cardinals,85,77,.525
+2003,West,San Francisco Giants,100,62,.617,San Diego Padres,68,94,.420
+2002,East,Atlanta Braves,101,59,.632,Philadelphia Phillies,80,81,.497
+2002,Central,St. Louis Cardinals,97,65,.599,Houston Astros,84,78,.519
+2002,West,Arizona Diamondbacks,98,64,.605,San Francisco Giants,90,72,.556
+2001,East,Atlanta Braves,88,74,.543,Philadelphia Phillies,86,76,.531
+2001,Central,St. Louis Cardinals,93,69,.574,Chicago Cubs,87,75,.531
+2001,West,Arizona Diamondbacks,92,70,.568,St. Louis Cardinals,93,69,.574
+2000,East,Atlanta Braves,95,67,.586,Philadelphia Phillies,78,84,.481
+2000,Central,St. Louis Cardinals,95,67,.586,San Francisco Giants,97,65,.599
+2000,West,San Francisco Giants,97,65,.599,LA Dodgers,86,76,.531
+1999,East,Atlanta Braves,103,59,.636,New York Mets,97,66,.595
+1999,Central,St. Louis Cardinals,81,81,.500,Colorado Rockies,76,86,.469
+1999,West,Arizona Diamondbacks,100,62,.617,LA Dodgers,86,76,.531
+1998,East,Atlanta Braves,106,56,.654,New York Mets,88,74,.543
+1998,Central,Cincinnati Reds,89,73,.549,St. Louis Cardinals,83,79,.512
+1998,West,Arizona Diamondbacks,100,62,.617,San Francisco Giants,89,73,.549
+1997,East,Atlanta Braves,96,66,.593,Florida Marlins,92,70,.568
+1997,Central,Houston Astros,72,90,.444,Chicago Cubs,79,83,.488
+1997,West,Florida Marlins,92,70,.568,LA Dodgers,88,74,.543
+1996,East,Atlanta Braves,96,66,.593,Philadelphia Phillies,86,76,.531
+1996,Central,St. Louis Cardinals,88,74,.543,Chicago Cubs,76,86,.469
+1996,West,San Diego Padres,91,71,.562,LA Dodgers,90,72,.556
+1995,East,Atlanta Braves,90,54,.625,Philadelphia Phillies,75,69,.521
+1995,Central,Cincinnati Reds,85,65,.569,St. Louis Cardinals,62,81,.434
+1995,West,Los Angeles Dodgers,78,54,.593,Colorado Rockies,77,66,.538
+1994,Division Titles,Cancelled,-----,-----,-----,-----,-----,-----,1994 season cancelled by strike-----
+1993,East,Philadelphia Phillies,97,65,.599,Montreal Expos,94,68,.580
+1993,Central,St. Louis Cardinals,87,75,.537,Chicago Cubs,84,78,.519
+1993,West,Atlanta Braves,104,58,.642,San Diego Padres,81,81,.500
+1992,East,Atlanta Braves,98,64,.605,Montreal Expos,87,75,.537
+1992,Central,St. Louis Cardinals,83,79,.512,Chicago Cubs,78,84,.481
+1992,West,Atlanta Braves,98,64,.605,San Diego Padres,82,80,.506
+1991,East,Atlanta Braves,94,68,.580,St. Louis Cardinals,83,79,.512
+1991,Central,St. Louis Cardinals,84,78,.519,Chicago Cubs,77,85,.475
+1991,West,Atlanta Braves,94,68,.580,San Diego Padres,84,78,.512
+1990,East,Chicago Cubs,90,73,.552,Pittsburgh Pirates,95,67,.586
+1990,Central,Cincinnati Reds,91,71,.562,St. Louis Cardinals,83,79,.512
+1990,West,Cincinnati Reds,91,71,.562,LA Dodgers,86,76,.531
+1989,East,Chicago Cubs,93,69,.574,New York Mets,87,75,.537
+1989,Central,St. Louis Cardinals,85,77,.525,Chicago Cubs,81,81,.500
+1989,West,Los Angeles Dodgers,93,71,.573,Houston Astros,86,76,.531
+1988,East,New York Mets,87,77,.531,Philadelphia Phillies,81,73,.525
+1988,Central,St. Louis Cardinals,85,77,.525,Chicago Cubs,77,85,.475
+1988,West,Los Angeles Dodgers,94,67,.584,Cincinnati Reds,87,75,.537
+1987,East,St. Louis Cardinals (NLCS),95,67,.586,New York Mets,92,70,.568
+1987,Central,St. Louis Cardinals,95,67,.586,Chicago Cubs,76,86,.469
+1987,West,Los Angeles Dodgers,73,89,.451,Cincinnati Reds,91,71,.562
+1986,East,New York Mets,108,54,.667,Philadelphia Phillies,86,75,.534
+1986,Central,St. Louis Cardinals,89,73,.549,Chicago Cubs,70,90,.438
+1986,West,LA Dodgers,70,92,.432,Cincinnati Reds,86,76,.531
