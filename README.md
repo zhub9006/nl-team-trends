@@ -48,7 +48,6 @@ Comprehensive research project compiling historical **National League (NL)** tea
 | 1962–2019 | 162 | 162-game schedule begins |
 | 2020 | 60 | COVID-19 shortened season |
 | 2021–present | 162 | Back to full 162-game schedule |
-| 2023+ | 162–165 | Full interleague; all teams play every other team in MLB |
 
 ### All-Time NL Franchise Records (through 2026)
 
@@ -155,7 +154,7 @@ The full Baseball Almanac NL team-vs-team W-L dataset provides a complete 15×15
 ```
 nl-team-trends/
 ├── README.md                              ← Research overview & key findings
-├── DATA_INDEX.md                          ← Data file index & conventions (replaces DATA_PLACEHOLDER.md)
+├── DATA_INDEX.md                          ← Data file index & conventions
 ├── source_references.md                   ← Detailed source attribution
 ├── requirements.txt                       ← Python dependencies for analysis
 ├── data/
@@ -164,7 +163,6 @@ nl-team-trends/
 │   ├── nl_pennant_winners.csv             ← All NL pennant winners 1876-2025
 │   ├── nl_championship_trends.csv         ← Championship highlights by era
 │   ├── nl_notable_records.csv             ← Key single-season & franchise records
-│   ├── nl_notable_seasons.csv             ← Notable seasons with contextual notes
 │   ├── nl_recent_standings.csv            ← Divisional standings 2020-2025
 │   └── nl_team_vs_team_summary.csv        ← H2H W-L summary matrix (key matchups)
 ├── docs/
@@ -181,49 +179,62 @@ nl-team-trends/
 
 ---
 
-## 🔧 Data Conventions & Methodology
+## 🛠 Data Conventions & Methodology
 
-- **Win%** = Wins / Games Played
-- **Pre-1961**: 154 or fewer games per season (154G era ~1892–1961)
-- **Modern era**: 162 games per season (1962–2019, 2021+)
-- **2020**: 60 games (COVID-19 shortened)
-- **Milwaukee Brewers**: Moved from AL to NL Central in 1998; AL stats after 1998 excluded from NL totals
-- **Montreal Expos → Washington Nationals (2005)**: Relocated franchise totals merged
-- **Pre-1903 pennants**: NL Championship only (no World Series existed)
-- **Franchise totals**: Include pre-relocation data (SF Giants = NY Giants + SF Giants)
-- **Interleague play**: Full 162-game schedule in 2023+ with all 30 teams hitting every opponent
+- **Team names**: Use canonical NL team names; note franchise movements parenthetically (e.g., "Brooklyn Superbas/Dodgers")
+- **W-L-T**: Standard wins-losses-ties format; ties excluded from winning percentage calculation
+- **Winning %**: Calculated as W / (W + L), rounded to 3 decimal places
+- **Seasons**: Complete regular-season only; postseason data is separate
+- **ERA boundaries**: "1969/1876" = 1876 or 1969 specifically; "pre-1969" = before the expansion/division era
+- **Data sources**: Primary — Baseball-Reference, Baseball Almanac, SABR Lahman Database; Secondary — StatMuse, Grokipedia, Wikipedia
+- **Missing data**: Pre-1900 data may have gaps; ties were more common before 1920
+- **COVID seasons**: 2020 (60 games) is not normalized to 162 games in the raw data
+- **Franchise continuity**: Relocated teams are treated as continuous entities (e.g., Brooklyn Dodgers → LA Dodgers)
 
-## 🚀 Quick Start
+---
 
-```bash
-# Clone the repo
-git clone https://github.com/zhub9006/nl-team-trends.git
-cd nl-team-trends
+## 📈 Visualization Roadmap
 
-# Install dependencies
-pip install -r requirements.txt
+### Planned Charts & Graphs
+- [ ] **NL Wins by Season** – Line chart showing each franchise's win totals over time
+- [ ] **Win % Heatmap** — Heatmap of franchise winning percentages by decade
+- [ ] **Pennant Winners Timeline** — Gantt-style chart of pennant winners by year
+- [ ] **Team-vs-Team H2H W-L Matrix** — Interactive 15×15 heatmap
+- [ ] **Championship Frequency Bar Chart** — WS titles per franchise
+- [ ] **Winning Streaks/Droughts** — Visualization of championship droughts
+- [ ] **ERA Comparison** — Franchise performance across eras (pre-1900, 1900-1960, 1969-2000, 2001-2025)
+- [ ] **Run Differential Trends** — NL run differential over time by team
+- [ ] **Division Dominance** — Which team has dominated each division over time
 
-# Explore data from the command line
-python scripts/data_loader.py
+### Recommended Tools
+- **Python**: pandas, matplotlib, seaborn, plotly
+- **R**: ggplot2, dplyr, readr
+- **JavaScript**: D3.js, Chart.js
+- **Jupyter**: Interactive EDA notebooks
 
-# Generate charts
-python scripts/data_loader.py --chart
+---
 
-# Filter for a specific team
-python scripts/data_loader.py --team Dodgers
+## 📝 Citation
 
-# Open the Jupyter notebook for interactive exploration
-jupyter notebook notebooks/explore_nl_data.ipynb
-```
+All data sourced from publicly available historical baseball statistics. Primary sources include:
+- Baseball-Reference.com
+- Baseball Almanac
+- SABR Lahman Baseball Database
+- StatMuse.com
+- Wikipedia
 
-## 📄 Documentation Index
+For academic or publication use, please verify with the original sources listed above.
 
-| File | Purpose |
-|------|---------|
-| `README.md` | Full research overview with all key findings |
-| `DATA_INDEX.md` | Data file index, conventions, and how-to guide |
-| `source_references.md` | Detailed source attribution with 20+ verified sources |
-| `docs/data_notes.md` | Methodology, caveats, Python pipeline examples, citation info |
-| `visualizations/README.md` | Visualization roadmap, chart types, and streamlit dashboard plans |
-| `scripts/data_loader.py` | CLI data loader with filtering, summary stats, and chart generation |
-| `notebooks/explore_nl_data.ipynb` | Interactive Jupyter notebook for hands-on exploration |
+---
+
+## 🤝 Contributing
+
+This is a research repository. Contributions welcome!
+- Add new data files to `data/`
+- Improve visualizations in `visualizations/`
+- Expand analysis in `notebooks/`
+- Update source references
+
+## License
+
+MIT License — see LICENSE file for details.
