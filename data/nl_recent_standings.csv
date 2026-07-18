@@ -1,7 +1,13 @@
-Year,NL_East_W,LNL_East_L,NL_Central_W,NL_Central_L,NL_West_W,NL_West_L,NL_Champion,AL_Champion,WS_Winner
-2020,Atlanta Braves,35,Los Angeles Dodgers,43,Cincinnati Reds,31,Los Angeles Dodgers,Tampa Bay Rays,Los Angeles Dodgers
-2021,Atlanta Braves,88,Milwaukee Brewers,95,Los Angeles Dodgers,106,Atlanta Braves,Houston Astros,Atlanta Braves
-2022,Atlanta Braves,101,St. Louis Cardinals,93,Los Angeles Dodgers,111,St. Louis Cardinals,Houston Astros,Houston Astros
-2023,Atlanta Braves,104,Milwaukee Brewers,92,Los Angeles Dodgers,100,Atlanta Braves,Texas Rangers,Texas Rangers
-2024,Atlanta Braves,89,Milwaukee Brewers,93,Los Angeles Dodgers,98,Los Angeles Dodgers,New York Yankees,Los Angeles Dodgers
-2025,Philadelphia Phillies,96,Milwaukee Brewers,97,Los Angeles Dodgers,96,Los Angeles Dodgers,Seattle Mariners,Los Angeles Dodgers
+Year,NL_East_Winner,East_W_L,NL_Central_Winner,Central_W_L,NL_West_Winner,West_W_L,NL_Champion,Champion_W_L,WS_Champion,WS_Result
+2014,Atlanta Braves (96-66),96-66,St. Louis Cardinals (90-72),90-72,Los Angeles Dodgers (94-68),94-68,San Francisco Giants,88-74,San Francisco Giants,NL won
+2015,New York Mets (90-72),90-72,St. Louis Cardinals (100-62),100-62,Los Angeles Dodgers (92-70),92-70,Chicago Cubs,97-65,Chicago Cubs,NL won
+2016,Washington Nationals (95-67),95-67,Chicago Cubs (103-58),103-58,Los Angeles Dodgers (91-71),91-71,Chicago Cubs,103-58,Chicago Cubs,NL won
+2017,Washington Nationals (97-65),97-65,Chicago Cubs (92-70),92-70,Los Angeles Dodgers (104-58),104-58,Chicago Cubs,104-58,Los Angeles Dodgers (AL won — Dodgers lost NLDS)
+2018,Atlanta Braves (90-72),90-72,Milwaukee Brewers (96-67),96-67,Los Angeles Dodgers (92-71),92-71,Los Angeles Dodgers,92-71,Boston Red Sox (AL won)
+2019,Atlanta Braves (97-65),97-65,St. Louis Cardinals (91-71),91-71,Los Angeles Dodgers (106-56),106-56,Washington Nationals,93-69,Washington Nationals,NL won
+2020,Atlanta Braves (35-25),35-25,Cincinnati Reds (31-29),31-29,Los Angeles Dodgers (43-17),43-17,Los Angeles Dodgers,43-17,Los Angeles Dodgers,NL won
+2021,Atlanta Braves (88-73),88-73,Milwaukee Brewers (95-67),95-67,Los Angeles Dodgers (106-56),106-56,Atlanta Braves,88-73,Atlanta Braves,NL won
+2022,Atlanta Braves (101-61),101-61,St. Louis Cardinals (93-69),93-69,Los Angeles Dodgers (111-51),111-51,St. Louis Cardinals,93-69,Houston Astros (AL won)
+2023,Atlanta Braves (104-58),104-58,Milwaukee Brewers (92-70),92-70,Los Angeles Dodgers (100-62),100-62,Atlanta Braves,104-58,TX Rangers (AL won)
+2024,Atlanta Braves (89-73),89-73,Milwaukee Brewers (93-69),93-69,Los Angeles Dodgers (98-64),98-64,Los Angeles Dodgers,98-64,Los Angeles Dodgers,NL won
+2025,Philadelphia Phillies (96-66),96-66,Milwaukee Brewers (97-65),97-65,Los Angeles Dodgers (96-66),96-66,Los Angeles Dodgers,93-69,Los Angeles Dodgers,NL won

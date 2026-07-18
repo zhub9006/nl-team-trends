@@ -1,14 +1,28 @@
-Record_Type,Team,Year,Achievement,Value,Context
-Best NL Win %,Chicago Cubs,1906,Best single-season NL win%,.763,116-36 in 154-game schedule
-Best 162-Game NL Record,Los Angeles Dodgers,2022,Best 162-game NL win%,.685,111-51
-Best Shortened NL Record,Los Angeles Dodgers,2020,Best COVID-era NL record,.717,43-17 in 60-game season
-Most NL Pennants,Los Angeles Dodgers,2025,Most NL pennant titles,26,Through 2025 season
-Most All-Time NL Wins,San Francisco Giants,2026,Most wins by an NL franchise,11,663,Through 2026 season
-Most All-Time NL Losses,Philadelphia Phillies,2026,Most losses by an NL franchise,11,435,Through 2026 season
-Most WS Titles (NL),St. Louis Cardinals,2011,Most World Series championships,11,Through 2011 championship
-Most Consecutive Division Titles,Atlanta Braves,2005,Consecutive NL East titles,14,1991-2005
-Longest Championship Drought,Chicago Cubs,2016,Longest title drought,108 years,1908-2015
-Most NL West Titles Straight,Los Angeles Dodgers,2025,Consecutive NL West titles,8,2018-2025
-Best 154-Game NL Record,Chicago Cubs,1906,Most wins in 154-game era,116,1906 season
-Best WS Start (NL),Cincinnati Reds,1975,WS-winning record,108-54 (.669),Big Red Machine dynasty peak
-Most Recent Back-to-Back WS,Los Angeles Dodgers,2025,Back-to-back championships,Dubious privilege first in 25 years,lowest to accomplish since 2000 Cardinals/LA Dodgers
+Year,Team,Category,Record,Value,Notes
+1906,Chicago Cubs,Best Season Win%,.763,116-36,Best NL single-season record all-time
+1906,Chicago Cubs,Best Season Wins,116,116-36,Most wins in an NL season
+1887,Detroit Wolverines,Best 1800s Win%,.637,79-45,Best record in the 1880s
+1899,Baltimore Orioles,Most Wins Pre-1900,102,102-48,Pre-modern NL record
+1902,Pittsburgh Pirates,154G Era Benchmark,103-36,.741,Best 154-game NL season record
+1919,Cincinnati Reds,First Post-War WS,Cincinnati won WS,96-44,First WS after 1919 Black Sox scandal
+1926,St. Louis Cardinals,First Cardinals WS,St. Louis won WS,89-65,Begins 11-title Cardinals dynasty
+1942,St. Louis Cardinals,First of 4 Titles,St. Louis won WS,106-48,Start of 1942-46 dynasty
+1951,NY Giants,Shot Heard Round World,98-59,—,Thomson walk-off HR vs Branca
+1955,Brooklyn Dodgers,First Brooklyn WS,Brooklyn won WS,98-55,First WS for Brooklyn franchise
+1969,New York Mets,Miracle Mets,100-62,.617,First expansion team to win WS
+1975,Cincinnati Reds,Big Red Machine Part 1,108-54,.667,Start of back-to-back championships
+1976,Cincinnati Reds,Big Red Machine Part 2,102-60,.630,Second consecutive NL title
+1980,Philadelphia Phillies,First Phillies WS,Philadelphia won WS,91-71,Final NL East title of the decade
+1986,New York Mets,October Comeback,108-54,.667,Batavo beat Astros in iconic Game 6
+1990,Cincinnati Reds,Second RS Dynasty,91-71,.562,End of 14-year drought
+1993,Florida Marlins,Fastest Expansion Champion,112-78,.589,Just 2nd year of franchise existence
+1995,Atlanta Braves,First of 14 Titles,90-54,.625,Begins 14 consecutive NL East titles
+2001,Arizona Diamondbacks,Second-Year Champion,92-70,.568,Only 2nd NL expansion team to win WS
+2006,St. Louis Cardinals,Short-Handed Champion,83-78,.515,Only 83 wins in a 162G/163G season
+2010,San Francisco Giants,First SF WS Title,92-70,.568,Begins 3 titles in 5 years
+2014,San Francisco Giants,Last of 3 Titles,88-74,.543,Caps 3 WS titles in 5 years
+2016,Chicago Cubs,End of 108-Year Drought,103-58,.640,First WS since 1908
+2020,Los Angeles Dodgers,Best Shortened Season,43-17,.717,60-game COVID season; MVP Corey Seager
+2021,Atlanta Braves,Fourth Title,88-73,.547,First WS since 1995 for Braves
+2024,Los Angeles Dodgers,Back-to-Back Champion,98-64,.605,vs NY Yankees 4-1 in WS
+2025,Los Angeles Dodgers,Second Back-to-Back,93-69,.573,vs Toronto Blue Jays 4-3 in WS

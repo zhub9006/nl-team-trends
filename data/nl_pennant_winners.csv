@@ -1,151 +1,151 @@
-Year,Team,City,Division,W_L,W_L_Pct,WS_Result,Division_Rival,Runner_Up_Division
-1876,Chicago White Stockings,Chicago,N/A,52-14,0.788,NE,Newark/Hartford,N/A
-1877,Brooklyn Hartfords,Brooklyn,N/A,42-23,0.646,NE,Chicago,N/A
-1878,Boston Red Caps,Boston,N/A,41-19,0.683,NE,Cincinnati,N/A
-1879,Providence Grays,Providence,N/A,59-25,0.702,NE,Boston,N/A
-1880,Chicago White Stockings,Chicago,N/A,67-17,0.798,NE,Providence,N/A
-1881,Chicago White Stockings,Chicago,N/A,56-28,0.667,NE,Providence,N/A
-1882,Providence Grays,Providence,N/A,52-20,0.722,NE,St. Louis,N/A
-1883,Providence Grays,Providence,N/A,58-29,0.667,NE,Boston,N/A
-1884,Providence Grays,Providence,N/A,84-28,0.750,NE,NY Metropolitans,N/A
-1885,Chicago White Stockings,Chicago,N/A,87-25,0.777,NE,NY Metropolitans,N/A
-1886,Chicago White Stockings,Chicago,N/A,90-34,0.726,NE,NY Metropolitans,N/A
-1887,Detroit Wolverines,Detroit,N/A,79-45,0.637,NE,Chicago,N/A
-1888,New York Giants,NY,N/A,84-47,0.641,NE,Chicago,N/A
-1889,Brooklyn Bridegrooms,Brooklyn,N/A,93-44,0.679,NE,St. Louis,N/A
-1890,Brooklyn Bridegrooms,Brooklyn,N/A,86-43,0.667,NE,Chicago Colts,N/A
-1891,Boston Beaneaters,Boston,N/A,87-51,0.630,NE,Chicago Colts,N/A
-1892,Boston Beaneaters,Boston,N/A,86-44,0.662,NE,Cleveland Spiders,N/A
-1893,Boston Beaneaters,Boston,N/A,86-43,0.667,NE,Chicago Colts,N/A
-1894,Baltimore Orioles,Baltimore,N/A,89-39,0.693,NE,NY Giants,N/A
-1895,Baltimore Orioles,Baltimore,N/A,87-31,0.737,NE,Cleveland Spiders,N/A
-1896,Baltimore Orioles,Baltimore,N/A,90-39,0.699,NE,Cleveland Spiders,N/A
-1897,Boston Beaneaters,Boston,N/A,93-39,0.705,NE,Baltimore,N/A
-1898,Boston Beaneaters,Boston,N/A,102-47,0.685,NE,Baltimore,N/A
-1899,Baltimore Orioles,Baltimore,N/A,102-48,0.680,NE,Brooklyn Superbas,N/A
-1900,Brooklyn Superbas,Brooklyn,N/A,82-54,0.603,NE,Pittsburgh,N/A
-1901,Pittsburgh Pirates,Pittsburgh,N/A,90-49,0.647,NE,Philadelphia,N/A
-1902,Pittsburgh Pirates,Pittsburgh,N/A,103-36,0.741,NE,Brooklyn Superbas,N/A
-1903,New York Giants,NY,N/A,95-57,0.625,NE,Pittsburgh,Boston (AL)
-1904,New York Giants,NY,N/A,106-47,0.691,NE,Pittsburgh,None (strike)
-1905,New York Giants,NY,N/A,105-48,0.688,WS Won,Pittsburgh,Boston (AL)
-1906,Chicago Cubs,Chicago,N/A,116-36,0.763,NE,NY Giants,Chicago (AL)
-1907,Chicago Cubs,Chicago,N/A,107-45,0.704,WS Won, Pittsburgh,Chicago (AL)
-1908,Chicago Cubs,Chicago,N/A,99-55,0.643,WS Won,Pittsburgh,Chicago (AL)
-1909,Pittsburgh Pirates,Pittsburgh,N/A,110-42,0.724,WS Won,Chicago Cubs,Detroit (AL)
-1910,Chicago Cubs,Chicago,N/A,104-50,0.675,NE,NY Giants,Philadelphia (AL)
-1911,NY Giants,NY,N/A,99-54,0.647,NE,Chicago Cubs,Philadelphia (AL)
-1912,NY Giants,NY,N/A,103-48,0.682,NE,Pittsburgh,Boston (AL)
-1913,NY Giants,NY,N/A,101-51,0.664,NE,Philadelphia Phillies,Philadelphia (AL)
-1914,Boston Braves,Boston,N/A,94-59,0.613,WS Won,NY Giants,Philadelphia (AL)
-1915,Philadelphia Phillies,Philadelphia,N/A,90-62,0.592,NE,Boston Braves,Boston (AL)
-1916,Brooklyn Robins,Brooklyn,N/A,94-60,0.610,NE,Philadelphia Phillies,Boston (AL)
-1917,NY Giants,NY,N/A,98-56,0.636,NE,Philadelphia Phillies,Chicago (AL)
-1918,Chicago Cubs,Chicago,N/A,84-45,0.651,NE,NY Giants,Boston (AL)
-1919,Cincinnati Reds,Cincinnati,N/A,96-44,0.686,WS Won,NY Giants,Chicago (AL)
-1920,Brooklyn Robins,Brooklyn,N/A,93-61,0.604,NE,NY Giants,Cleveland (AL)
-1921,NY Giants,NY,N/A,93-61,0.604,WS Won,St. Louis Cardinals,NY Yankees (AL)
-1922,NY Giants,NY,N/A,93-61,0.604,WS Won,St. Louis Cardinals,NY Yankees (AL)
-1923,NY Giants,NY,N/A,95-58,0.617,NE,Pittsburgh,NY Yankees (AL)
-1924,NY Giants,NY,N/A,93-60,0.608,NE,Pittsburgh,Washington (AL)
-1925,Pittsburgh Pirates,Pittsburgh,N/A,95-58,0.619,WS Won,Chicago Cubs,Washington (AL)
-1926,St. Louis Cardinals,St. Louis,N/A,89-65,0.578,WS Won,Cincinnati Reds,NY Yankees (AL)
-1927,Chicago Cubs,Chicago,N/A,98-55,0.640,NE,Pittsburgh,NY Yankees (AL)
-1928,St. Louis Cardinals,St. Louis,N/A,95-59,0.617,NE,Chicago Cubs,NY Yankees (AL)
-1929,Chicago Cubs,Chicago,N/A,98-54,0.645,NE,Pittsburgh,Philadelphia (AL)
-1930,St. Louis Cardinals,St. Louis,N/A,92-62,0.597,NE,Chicago Cubs,Philadelphia (AL)
-1931,St. Louis Cardinals,St. Louis,N/A,101-53,0.658,WS Won,Chicago Cubs,St. Louis Cardinals already champion
-1932,Chicago Cubs,Chicago,N/A,90-64,0.584,NE,Pittsburgh,NY Yankees (AL)
-1933,NY Giants,NY,N/A,91-61,0.599,WS Won,Pittsburgh,Washington (AL)
-1934,St. Louis Cardinals,St. Louis,N/A,95-58,0.619,WS Won,NY Giants,Detroit (AL)
-1935,Chicago Cubs,Chicago,N/A,100-54,0.649,NE,St. Louis Cardinals,Detroit (AL)
-1936,NY Giants,NY,N/A,92-61,0.601,NE,Pittsburgh,NY Yankees (AL)
-1937,NY Giants,NY,N/A,95-57,0.625,NE,Chicago Cubs,NY Yankees (AL)
-1938,Chicago Cubs,Chicago,N/A,89-63,0.586,NE,Pittsburgh,NY Yankees (AL)
-1939,Cincinnati Reds,Cincinnati,N/A,97-57,0.630,NE,St. Louis Cardinals,NY Yankees (AL)
-1940,Cincinnati Reds,Cincinnati,N/A,100-53,0.654,WS Won,Brooklyn Dodgers,Detroit (AL)
-1941,Brooklyn Dodgers,Brooklyn,N/A,100-54,0.649,NE,St. Louis Cardinals,NY Yankees (AL)
-1942,St. Louis Cardinals,St. Louis,N/A,106-48,0.688,WS Won,Brooklyn Dodgers,NY Yankees (AL)
-1943,St. Louis Cardinals,St. Louis,N/A,105-49,0.682,WS Won,Brooklyn Dodgers,New York (AL)
-1944,St. Louis Cardinals,St. Louis,N/A,105-49,0.682,WS Won,Pittsburgh Pirates,St. Louis Cardinals already champion
-1945,Chicago Cubs,Chicago,N/A,98-56,0.636,NE,Pittsburgh,Detroit (AL)
-1946,St. Louis Cardinals,St. Louis,N/A,98-58,0.628,WS Won,Boston Braves,Boston (AL)
-1947,Boston Braves,Boston,N/A,86-68,0.558,NE,St. Louis Cardinals,NY Yankees (AL)
-1948,Boston Braves,Boston,N/A,91-62,0.595,NE,St. Louis Cardinals,Cleveland (AL)
-1949,Boston Dodgers,Boston,N/A,97-57,0.630,NE,St. Louis Cardinals,NY Yankees (AL)
-1950,Boston Dodgers,Boston,N/A,96-58,0.623,NE,St. Louis Cardinals,NY Yankees (AL)
-1951,NY Giants,NY,N/A,98-59,0.623,WS Won,Brooklyn Dodgers,NY Yankees (AL)
-1952,Brooklyn Dodgers,Brooklyn,N/A,96-57,0.627,NE,NY Giants,NY Yankees (AL)
-1953,Brooklyn Dodgers,Brooklyn,N/A,105-49,0.682,NE,Milwaukee Braves,NY Yankees (AL)
-1954,NY Giants,NY,N/A,97-57,0.630,WS Won,Brooklyn Dodgers,NY Giants already champion
-1955,Brooklyn Dodgers,Brooklyn,N/A,98-55,0.640,WS Won,Milwaukee Braves,Brooklyn Dodgers already champion
-1956,Brooklyn Dodgers,Brooklyn,N/A,93-61,0.604,WS Won,Milwaukee Braves,Brooklyn Dodgers already champion
-1957,Milwaukee Braves,Milwaukee,N/A,95-59,0.617,WS Won,Brooklyn Dodgers,Milwaukee Braves already champion
-1958,Milwaukee Braves,Milwaukee,N/A,92-62,0.597,NE,Pittsburgh Pirates,NY Yankees (AL)
-1959,Los Angeles Dodgers,LA,N/A,88-68,0.564,WS Won,Milwaukee Braves,Chicago White Sox (AL)
-1960,Pittsburgh Pirates,Pittsburgh,N/A,95-59,0.617,WS Won,Milwaukee Braves,NY Yankees (AL)
-1961,Cincinnati Reds,Cincinnati,N/A,93-61,0.604,WS Won,LA Dodgers,NY Yankees (AL)
-1962,San Francisco Giants,SF,N/A,103-62,0.623,NE,Pittsburgh Pirates,NY Yankees (AL)
-1963,LA Dodgers,LA,N/A,99-63,0.611,WS Won,St. Louis Cardinals,NY Yankees (AL)
-1964,St. Louis Cardinals,St. Louis,N/A,93-69,0.574,WS Won,Philadelphia Phillies,NY Yankees (AL)
-1965,LA Dodgers,LA,N/A,97-65,0.599,WS Won,San Francisco Giants,Minnesota (AL)
-1966,LA Dodgers,LA,N/A,95-67,0.586,NE,San Francisco Giants,Baltimore (AL)
-1967,LA Dodgers,LA,N/A,100-60,0.623,WS Won,San Francisco Giants,St. Louis Cardinals already champion
-1968,St. Louis Cardinals,St. Louis,N/A,97-65,0.599,NE,San Francisco Giants,Detroit (AL)
-1969,New York Mets,NY (NL East),93-69→100-62,0.617,WS Won,Chicago Cubs (East),Baltimore (AL)
-1970,Pittsburgh Pirates,Pittsburgh (Central),89-73,0.549,NE,Chicago Cubs, Baltimore (AL)
-1971,Pittsburgh Pirates,Pittsburgh (Central),97-65,0.599,WS Won,San Francisco Giants, Baltimore (AL)
-1972,Cincinnati Reds,Cincinnati (Central),95-59,0.617,WS Won,Pittsburgh Pirates, Oakland (AL)
-1973,Cincinnati Reds,Cincinnati (Central),99-63,0.611,WS Won,NY Mets, Oakland (AL)
-1974,LA Dodgers,LA (West),88-74,0.543,WS Won,Pittsburgh Pirates, Oakland (AL)
-1975,Cincinnati Reds,Cincinnati (Central),102-60→best in NL,0.630,WS Won,Pittsburgh Pirates, Oakland (AL)
-1976,Cincinnati Reds,Cincinnati (Central),102-60,0.630,WS Won,Philadelphia Phillies, Oakland (AL)
-1977,LA Dodgers,LA (West),98-64,0.605,NE,Pittsburgh Pirates, NY Yankees (AL)
-1978,LA Dodgers,LA (West),95-67,0.593,NE,Cincinnati Reds, NY Yankees (AL)
-1979,Pittsburgh Pirates,Pittsburgh (Central),98-64,0.605,WS Won,Cincinnati Reds, Baltimore (AL)
-1980,Philadelphia Phillies,Philadelphia (East),91-71,0.562,WS Won, Houston Astros, Kansas City (AL)
-1981,Montreal Expos,Montreal (East),63-47→102-61 split,0.624,NE,LA Dodgers, New York Yankees (AL)
-1982,St. Louis Cardinals,St. Louis (Central),92-70,0.568,WS Won,Atlanta Braves, Baltimore (AL)
-1983,Philadelphia Phillies,Philadelphia (East),90-72,0.556,NE,LA Dodgers, Baltimore (AL)
-1984,Chicago Cubs,Chicago (Central),96-65,0.596,NE,San Diego Padres, Detroit (AL)
-1985,St. Louis Cardinals,St. Louis (Central),101-61,0.622,NE,LA Dodgers, Kansas City (AL)
-1986,NY Mets,NY (East),108-54,0.667,WS Won,Philadelphia Phillies, NY Yankees (AL)
-1987,St. Louis Cardinals,St. Louis (Central),95-67,0.586,NE,NY Mets, Minnesota (AL)
-1988,LA Dodgers,LA (West),100-63,0.613,WS Won,Cincinnati Reds, Oakland (AL)
-1989,San Francisco Giants,SF (West),92-70,0.568,NE,Chicago Cubs, Oakland (AL)
-1990,Cincinnati Reds,Cincinnati (Central),91-71,0.562,WS Won,Pittsburgh Pirates, Oakland (AL)
-1991,Atlanta Braves,Atlanta (East),94-68,0.580,NE,Pittsburgh Pirates, Minnesota (AL)
-1992,Atlanta Braves,Atlanta (East),98-64,0.605,NE,Pittsburgh Pirates, Toronto (AL)
-1993,Atlanta Braves,Atlanta (East),104-58,0.642,NE,Montreal Expos, Toronto (AL)
-1994,No official champion (strike shortened season),Atlanta Braves (first half),N/A,Strike canceled,SF Giants (second half),Seattle (AL)
-1995,Atlanta Braves,Atlanta (East),90-54,0.592,WS Won,Cincinnati Reds, Cleveland (AL)
-1996,Atlanta Braves,Atlanta (East),96-66,0.593,NE,St. Louis Cardinals, New York Yankees (AL)
-1997,Florida Marlins,Miami (East),92-70,0.568,WS Won,Atlanta Braves, Cleveland (AL)
-1998,Atlanta Braves,Atlanta (East),106-56,0.654,NE,San Diego Padres, New York Yankees (AL)
-1999,Atlanta Braves,Atlanta (East),103-59,0.636,NE,New York Mets, New York Yankees (AL)
-2000,St. Louis Cardinals,St. Louis (Central),95-67,0.586,NE,San Francisco Giants, NY Yankees (AL)
-2001,Arizona Diamondbacks,AZ (West),92-70,0.568,WS Won,Atlanta Braves, New York Yankees (AL)
-2002,San Francisco Giants,SF (West),95-66,0.590,WS Won,Atlanta Braves, Anaheim (AL)
-2003,Florida Marlins,Miami (East),91-71,0.562,WS Won,San Francisco Giants, New York Yankees (AL)
-2004,St. Louis Cardinals,St. Louis (Central),105-57,0.648,NE,Atlanta Braves, Boston (AL)
-2005,St. Louis Cardinals,St. Louis (Central),100-62,0.617,WS Won,Houston Astros, White Sox (AL)
-2006,St. Louis Cardinals,St. Louis (Central),83-78,0.519,WS Won,New York Mets, Detroit (AL)
-2007,Colorado Rockies,Colorado (West),90-73,0.552,NE,Arizona Diamondbacks, Boston (AL)
-2008,Philadelphia Phillies,Philadelphia (East),92-70,0.568,WS Won,Denver N/A, Tampa Bay (AL)
-2009,Philadelphia Phillies,Philadelphia (East),93-69,0.574,NE,Colorado Rockies, New York Yankees (AL)
-2010,San Francisco Giants,SF (West),92-70,0.568,WS Won,Philadelphia Phillies, San Francisco already champion
-2011,St. Louis Cardinals,St. Louis (Central),90-72,0.556,WS Won,Milwaukee Brewers, Texas (AL)
-2012,San Francisco Giants,SF (West),94-68,0.580,WS Won,St. Louis Cardinals, Detroit (AL)
-2013,St. Louis Cardinals,St. Louis (Central),97-65,0.599,NE,LA Dodgers, Boston (AL)
-2014,San Francisco Giants,SF (West),88-74,0.543,WS Won,St. Louis Cardinals, Kansas City (AL)
-2015,CHC Cubs (Central),94-68,0.580,NE,LA Dodgers (West), Kansas City (AL)
-2016,Chicago Cubs,Chicago (Central),103-58,0.639,WS Won,LA Dodgers, Cleveland (AL)
-2017,Washington Nationals,Washington (East),97-65,0.595,NE,Chicago Cubs, Houston (AL)
-2018,LA Dodgers,LA (West),92-71,0.565,NE,Atlanta Braves, Boston (AL)
-2019,Washington Nationals,Washington (East),93-69,0.570,WS Won,St. Louis Cardinals, Houston (AL)
-2020,LA Dodgers,LA (West),43-17,0.717,WS Won,Atlanta Braves, Tampa Bay (AL)
-2021,Atlanta Braves,Atlanta (East),88-73,0.552,WS Won,LA Dodgers, Houston (AL)
-2022,Philadelphia Phillies,Philadelphia (East),87-75→92-70,0.524,NE,San Diego Padres (WC), Houston (AL)
-2023,Philadelphia Phillies,Philadelphia (East),90-72,0.562,NE,Atlanta Braves, Texas (AL)
-2024,LA Dodgers,LA (West),98-64,0.605,WS Won,New York Mets, New York Yankees (AL)
-2025,LA Dodgers,LA (West),93-69,0.552,WS Won,Philadelphia Phillies, Toronto (AL)
+Year,NL_Pennant_Winner,Record,Pennant_WinPct,WS_Champion,WS_Result,Season_Type
+1876,Chicago White Stockings,52-14,.788,None,no WS,154G equivalent (84 games)
+1877,Brooklyn Hartfords,42-23,.646,None,no WS,
+1878,Boston Red Caps,41-19,.683,None,no WS,
+1879,Providence Grays,59-25,.702,None,no WS,
+1880,Chicago White Stockings,67-17,.798,None,no WS,
+1881,Chicago White Stockings,56-28,.667,None,no WS,
+1882,Providence Grays,52-20,.722,None,no WS,
+1883,Providence Grays,58-29,.667,None,no WS,
+1884,Providence Grays,84-28,.750,None,no WS,
+1885,Chicago White Stockings,87-25,.777,None,no WS,
+1886,Chicago White Stockings,90-34,.726,None,no WS,
+1887,Detroit Wolverines,79-45,.637,None,no WS,
+1888,New York Giants,84-47,.641,None,no WS,
+1889,Brooklyn Bridegrooms,93-44,.679,None,no WS,
+1890,Brooklyn Bridegrooms,86-43,.667,None,no WS,
+1891,Boston Beaneaters,87-51,.630,None,no WS,
+1892,Boston Beaneaters,86-44,.662,None,no WS,Split season
+1893,Boston Beaneaters,86-43,.667,None,no WS,
+1894,Baltimore Orioles,89-39,.693,None,no WS,
+1895,Baltimore Orioles,87-31,.737,None,no WS,
+1896,Baltimore Orioles,90-39,.699,None,no WS,
+1897,Boston Beaneaters,93-39,.705,None,no WS,
+1898,Boston Beaneaters,102-47,.685,None,no WS,
+1899,Baltimore Orioles,102-48,.680,None,no WS,
+1900,Brooklyn Superbas,82-54,.603,None,no WS,
+1901,Pittsburgh Pirates,90-49,.647,None,no WS,
+1902,Pittsburgh Pirates,103-36,.741,None,no WS,
+1903,New York Giants,95-57,.625,Boston Americans (AL),NL lost WS,
+1904,New York Giants,106-47,.691,None,no WS,NYG owner refused to play
+1905,New York Giants,105-48,.688,New York Giants,NL won WS,
+1906,Chicago Cubs,116-36,.763,Chicago White Sox (AL),NL lost WS,
+1907,Chicago Cubs,107-45,.704,Chicago Cubs,NL won WS,
+1908,Chicago Cubs,99-55,.643,Chicago Cubs,NL won WS,
+1909,Pittsburgh Pirates,110-42,.724,Pittsburgh Pirates,NL won WS,
+1910,Chicago Cubs,104-50,.675,Philadelphia Athletics (AL),NL lost WS,
+1911,New York Giants,99-54,.647,Philadelphia Athletics (AL),NL lost WS,
+1912,New York Giants,103-48,.682,Boston Red Sox (AL),NL lost WS,
+1913,New York Giants,101-51,.664,Philadelphia Athletics (AL),NL lost WS,
+1914,Boston Braves,94-59,.613,Boston Braves,NL won WS,
+1915,Philadelphia Phillies,90-62,.592,Boston Red Sox (AL),NL lost WS,
+1916,Brooklyn Robins,94-60,.610,Boston Red Sox (AL),NL lost WS,
+1917,New York Giants,98-56,.636,Chicago White Sox (AL),NL lost WS,
+1918,Chicago Cubs,84-45,.651,Boston Red Sox (AL),NL lost WS,
+1919,Cincinnati Reds,96-44,.686,Cincinnati Reds,NL won WS,
+1920,Brooklyn Robins,93-61,.604,Cleveland Indians (AL),NL lost WS,
+1921,New York Giants,93-61,.604,New York Giants,NL won WS,
+1922,New York Giants,93-61,.604,New York Giants,NL won WS,
+1923,New York Giants,95-58,.617,New York Yankees (AL),NL lost WS,
+1924,New York Giants,93-60,.608,Washington Senators (AL),NL lost WS,
+1925,Pittsburgh Pirates,95-58,.619,Pittsburgh Pirates,NL won WS,
+1926,St. Louis Cardinals,89-65,.578,St. Louis Cardinals,NL won WS,
+1927,Chicago Cubs,98-55,.640,New York Yankees (AL),NL lost WS,
+1928,St. Louis Cardinals,95-59,.617,New York Yankees (AL),NL lost WS,
+1929,Chicago Cubs,98-54,.645,Philadelphia Athletics (AL),NL lost WS,
+1930,St. Louis Cardinals,92-62,.597,Philadelphia Athletics (AL),NL lost WS,
+1931,St. Louis Cardinals,101-53,.658,St. Louis Cardinals,NL won WS,
+1932,Chicago Cubs,90-64,.584,New York Yankees (AL),NL lost WS,
+1933,New York Giants,91-61,.599,New York Giants,NL won WS,
+1934,St. Louis Cardinals,95-58,.619,St. Louis Cardinals,NL won WS,
+1935,Chicago Cubs,100-54,.649,Detroit Tigers (AL),NL lost WS,
+1936,New York Giants,92-61,.601,New York Yankees (AL),NL lost WS,
+1937,New York Giants,95-57,.625,New York Yankees (AL),NL lost WS,
+1938,Chicago Cubs,89-63,.586,New York Yankees (AL),NL lost WS,
+1939,Cincinnati Reds,97-57,.630,New York Yankees (AL),NL lost WS,
+1940,Cincinnati Reds,100-53,.654,Cincinnati Reds,NL won WS,
+1941,Brooklyn Dodgers,100-54,.649,New York Yankees (AL),NL lost WS,
+1942,St. Louis Cardinals,106-48,.688,St. Louis Cardinals,NL won WS,
+1943,St. Louis Cardinals,105-49,.682,St. Louis Cardinals,NL won WS,
+1944,St. Louis Cardinals,105-49,.682,St. Louis Cardinals,NL won WS,
+1945,Chicago Cubs,98-56,.636,Detroit Tigers (AL),NL lost WS,
+1946,St. Louis Cardinals,98-58,.628,St. Louis Cardinals,NL won WS,
+1947,Boston Braves,86-68,.558,New York Yankees (AL),NL lost WS,
+1948,Boston Braves,91-62,.595,Cleveland Indians (AL),NL lost WS,
+1949,Boston Dodgers,97-57,.630,New York Yankees (AL),NL lost WS,
+1950,Boston Dodgers,96-58,.623,New York Yankees (AL),NL lost WS,
+1951,New York Giants,98-59,.623,New York Giants,NL won WS,
+1952,Brooklyn Dodgers,96-57,.627,New York Yankees (AL),NL lost WS,
+1953,Brooklyn Dodgers,105-49,.682,New York Yankees (AL),NL lost WS,
+1954,New York Giants,97-57,.630,New York Giants,NL won WS,
+1955,Brooklyn Dodgers,98-55,.640,Brooklyn Dodgers,NL won WS,
+1956,Brooklyn Dodgers,93-61,.604,Brooklyn Dodgers,NL won WS,
+1957,Milwaukee Braves,95-59,.617,Milwaukee Braves,NL won WS,
+1958,Milwaukee Braves,92-62,.597,Baltimore Orioles (AL),NL lost WS,
+1959,Los Angeles Dodgers,88-68,.564,Los Angeles Dodgers,NL won WS,
+1960,Pittsburgh Pirates,95-59,.617,Pittsburgh Pirates,NL won WS,
+1961,Cincinnati Reds,93-61,.604,Cincinnati Reds,NL won WS,
+1962,San Francisco Giants,103-62,.623,New York Yankees (AL),NL lost WS,
+1963,Los Angeles Dodgers,99-63,.611,Los Angeles Dodgers,NL won WS,
+1964,St. Louis Cardinals,93-69,.574,St. Louis Cardinals,NL won WS,
+1965,Los Angeles Dodgers,97-65,.599,Los Angeles Dodgers,NL won WS,
+1966,LA Dodgers,95-67,.586,Baltimore Orioles (AL),NL lost WS,
+1967,Los Angeles Dodgers,100-60,.623,St. Louis Cardinals,NL won WS,
+1968,St. Louis Cardinals,97-65,.599,Detroit Tigers (AL),NL lost WS,
+1969,New York Mets,100-62,.617,New York Mets,NL won WS
+1970,Pittsburgh Pirates,89-73,.549,Pittsburgh Pirates,NL won WS
+1971,Pittsburgh Pirates,97-65,.599,Pittsburgh Pirates,NL won WS
+1972,Cincinnati Reds,95-59,.617,Cincinnati Reds,NL won WS
+1973,Cincinnati Reds,99-63,.611,Cincinnati Reds,NL won WS
+1974,Pittsburgh Pirates,88-74,.543,Pittsburgh Pirates,NL won WS
+1975,Pittsburgh Pirates,92-62,.597,Cincinnati Reds,NL won WS (but AL won WS)
+1976,Cincinnati Reds,102-60,.630,Cincinnati Reds,NL won WS
+1977,Los Angeles Dodgers,98-64,.605,Cincinnati Reds,NL won WS (but AL won WS)
+1978,Pittsburgh Pirates,88-73,.547,New York Yankees (AL),NL lost WS
+1979,Pittsburgh Pirates,98-64,.605,Pittsburgh Pirates,NL won WS
+1980,Philadelphia Phillies,91-71,.562,Philadelphia Phillies,NL won WS
+1981,Montreal Expos (1st half),102-61,.580,New York Yankees (AL),NL lost WS
+1982,St. Louis Cardinals,92-70,.568,St. Louis Cardinals,NL won WS
+1983,Philadelphia Phillies,90-72,.556,Baltimore Orioles (AL),NL lost WS
+1984,Chicago Cubs,96-65,.596,Detroit Tigers (AL),NL lost WS
+1985,St. Louis Cardinals,101-61,.622,Kansas City Royals (AL),NL lost WS
+1986,New York Mets,108-54,.667,New York Mets,NL won WS
+1987,St. Louis Cardinals,95-67,.586,Minnesota Twins (AL),NL lost WS
+1988,Los Angeles Dodgers,100-63,.613,Los Angeles Dodgers,NL won WS
+1989,Chicago Cubs,92-70,.568,Oakland Athletics (AL),NL lost WS
+1990,Cincinnati Reds,91-71,.562,Cincinnati Reds,NL won WS
+1991,Atlanta Braves,94-68,.580,Minnesota Twins (AL),NL lost WS
+1992,Atlanta Braves,98-64,.605,Toronto Blue Jays (AL),NL lost WS
+1993,Philadelphia Phillies,97-65,.599,Philadelphia Phillies,NL won WS
+1994,Season voided by strike,,—,None,No WS,Strike cancelled season
+1995,Atlanta Braves,90-54,.625,Atlanta Braves,NL won WS
+1996,Atlanta Braves,96-66,.593,New York Yankees (AL),NL lost WS
+1997,Florida Marlins,92-70,.568,Florida Marlins,NL won WS
+1998,Atlanta Braves,106-56,.654,New York Yankees (AL),NL lost WS
+1999,Atlanta Braves,103-59,.636,New York Yankees (AL),NL lost WS
+2000,Atlanta Braves,95-67,.636,New York Yankees (AL),NL lost WS
+2001,Arizona Diamondbacks,92-70,.568,Arizona Diamondbacks,NL won WS
+2002,Atlanta Braves,101-59,.630,Anaheim Angels (AL),NL lost WS
+2003,Atlanta Braves,101-61,.623,Florida Marlins,NL won WS
+2004,St. Louis Cardinals,105-57,.648,Boston Red Sox (AL),NL lost WS
+2005,St. Louis Cardinals,100-62,.617,Chicago White Sox (AL),NL lost WS
+2006,St. Louis Cardinals,83-78,.515,St. Louis Cardinals,NL won WS
+2007,Colorado Rockies,90-73,.552,Chicago White Sox (AL),NL lost WS
+2008,Philadelphia Phillies,92-70,.568,Philadelphia Phillies,NL won WS
+2009,Philadelphia Phillies,93-69,.576,New York Yankees (AL),NL lost WS
+2010,Philadelphia Phillies,97-65,.599,San Francisco Giants,NL won WS
+2011,St. Louis Cardinals,90-72,.556,St. Louis Cardinals,NL won WS
+2012,St. Louis Cardinals,88-74,.543,San Francisco Giants,NL won WS
+2013,Atlanta Braves,96-66,.593,Boston Red Sox (AL),NL lost WS
+2014,Washington Nationals,96-66,.593,San Francisco Giants,NL won WS
+2015,New York Mets,90-72,.556,Chicago Cubs,NL won WS
+2016,Chicago Cubs,103-58,.640,Chicago Cubs,NL won WS
+2017,Washington Nationals,97-65,.593,Chicago Cubs,NL won WS
+2018,Atlanta Braves,90-72,.556,Los Angeles Dodgers,NL won WS (but AL won WS)
+2019,Atlanta Braves,97-65,.593,Washington Nationals,NL won WS
+2020,Atlanta Braves,35-25,.583,Los Angeles Dodgers,NL won WS
+2021,Atlanta Braves,88-73,.547,Atlanta Braves,NL won WS
+2022,Atlanta Braves,101-61,.623,St. Louis Cardinals,NL won WS (but AL won WS)
+2023,Atlanta Braves,104-58,.634,Atlanta Braves,NL won WS (but AL won WS)
+2024,Atlanta Braves,89-73,.553,Los Angeles Dodgers,NL won WS
+2025,Philadelphia Phillies,96-66,.593,LA Dodgers,NL won WS
