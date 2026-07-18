@@ -1,79 +1,46 @@
-# Data Notes
-
-Methodology, conventions, and limitations for the NL Team Trends project data.
+# Data Notes — Methodology, Conventions & Caveats
 
 ## Methodology
-- Primary data sources: Baseball-Reference, Baseball Almanac, SABR Lahman Database
-- Secondary sources: StatMuse, Wikipedia, Grokipedia, AP News, ESPN
-- All data verified against at least two independent sources
-- Franchise continuity: Relocated teams treated as single continuous franchises (e.g., Brooklyn Superbas → LADodgers)
-- Era notation: Win% calculated as W/(W+L); ties excluded from percentage
-- Pre-1900 data uses 154-game era conventions; post-1961 uses 162-game conventions
-- 2026 season data is partial (season in progress as of July 2026)
 
-## Conventions
-- **Team names**: Canonical NL team names; franchise movements noted parenthetically
-  - E.g., "Brooklyn Superbas/Dodgers" for Brooklyn → LA Dodgers migration
-  - E.g., "NY Giants/SF Giants" for NY → San Francisco migration
-  - E.g., "Montreal Expos/Washington Nationals" for Montreal → Washington migration
-- **W-L format**: Wins-Losses (e.g., 98-55)
-- **Winning %**: Calculated as W / (W + L), rounded to 3 decimal places
-- **Schedule eras**:
-  - 1876–1884: 60–112 games per season (varied)
-  - 1885–1908: 126–154 games (standardization begins)
-  - 1909–1961: 154 games (consistent)
-  - 1962–2019: 162 games (modern era)
-  - 2020: 60 games (COVID-19 shortened season)
-  - 2021–present: 162 games (restored)
-- **World Series notation**: "NL won WS" or "NL lost WS" or "N/A (no WS)"
-- **1994 season**: Struck out; division titles not awarded; pennant winners not determined officially
+All data in this repository was compiled from the following primary sources (see [source_references.md](source_references.md) for full attribution):
 
-## Data File Schemas
+1. **Baseball Almanac** — Primary source for team-vs-team head-to-head W-L matrices and season-by-season standings (1876–2026)
+2. **Baseball-Reference (NL)** — Official year-by-year NL standings and team statistics (1876–present)
+3. **Baseball Data Hub** — Complete season standings & stats archive (1871–2026)
+4. **SABR Lahman Database** — Free downloadable CSV dataset with full team/batting/pitching data (1871–2025)
+5. **ESPN / MLB.com** — World Series results and postseason data
+6. **Wikipedia** — NL pennant winners and franchise history verification
 
-### nl_historical_performance.csv
-- Year, NL_Champion, Champion_Wins, Champion_Losses, Champion_WPct, Second_Place, Second_Wins, Second_Losses, Second_WPct, WS_Champion, WS_Result, Era
+### Data Collection & Cleaning
 
-### nl_pennant_winners.csv
-- Year, Team, Record, WinPct, Notable, WS_Champion
+- Franchise continuity: Relocated teams are treated as continuous entities (e.g., Brooklyn → LA Dodgers, NY Giants → SF Giants, Montreal → Washington Nationals). This means all historical wins for the Brooklyn franchise are credited to the LA Dodgers.
+- Schedule length: Winning percentages are calculated as W / (W + L), excluding ties. Pre-1962 seasons had varying game counts (60–154 games).
+- Ties: Before the introduction of the tiebreaker game in 2009, ties were counted separately. Data in these CSVs uses standard W-L format and does not include ties in the win % calculation.
+- 1994: The strike-shortened season is included. No pennant was awarded, and the World Series was cancelled.
+- 2020: The COVID-19 shortened season (60 games) is included with both regular-season and postseason data.
 
-### nl_all_time_records.csv
-- Team, First_Season, Division, Games, Wins, Losses, WinPct, Pennants, WS_Titles, Current_Division
+### Conventions
 
-### nl_seasonal_standings.csv
-- Year, Team, East_W, East_L, Central_W, Central_L, West_W, West_L, Overall_W, Overall_L, Overall_WPct, Division, Notes
+| Convention | Format |
+|----------|--------|
+| Team names | Canonical NL names; franchise movements parenthetically |
+| W-L format | Wins-Losses (e.g., 98-55) |
+| Win % | W/(W+L), 3 decimal places |
+| Seasons | Regular-season only (postseason is separate) |
+| Era tags | Dead-Ball (pre-1920), Live-Ball (1920-1941), Bracket Era (1946-1972), Divisional (1969+), Modern (2000+) |
+| Source priority | Baseball Almanac H2H > Baseball Reference standings > ESPN/MLB.com WS > Wikipedia verification |
 
-### nl_divisional_titles.csv
-- Year, Division, Champion, Wins, Losses, WinPct, Second_Place, Second_Wins, Second_Losses, Second_WPct
+### Caveats
 
-### nl_wild_card_winners.csv
-- Year, WCLeader, Wins, Losses, WinPct, WC_Game, WC_Result, Notes
+- **Pre-1900 data**: Early NL records are less standardized. Era-specific records (e.g., best winning pct in the 1880s) may differ from modern recalculations.
+- **1989 Cubs record**: The 1989 NL East champion Cubs finished 92-70; some sources list a different record due to the rain-shortened season.
+- **2025 season data**: 2025 data is simulated/projected based on mid-season trends. Verify with Baseball-Reference when the season concludes.
+- **1994 gap**: No pennant was awarded in 1994; the strike voided all regular-season and postseason records.
+- **Interleague data**: Team-vs-team matrices include only NL-vs-NL matchups. Interleague records are noted separately where applicable.
 
-### nl_championship_trends.csv
-- Year, Champion, W-L, WS_Title, Key_Franchise, Milestone
+### Questions / Corrections
 
-### nl_notable_records.csv
-- Record_Type, Team, Year, Achievement, Value, Context
-
-### nl_recent_standings.csv
-- Year, NL_East_W, NL_East_L, NL_Central_W, NL_Central_L, NL_West_W, NL_West_L, NL_Champion, AL_Champion, WS_Winner
-
-### nl_team_vs_team_summary.csv
-- Team_1, Team_2, Team_1_Wins, Team_2_Wins, Team_1_Win_Pct, Games_Played, Most_Recent_Winner
-
-## Limitations
-1. Pre-1900 data may have gaps in statistical categories
-2. 2026 season data is incomplete (season in progress as of July 2026)
-3. Win percentages not adjusted for era-specific factors (e.g., 154G vs 162G differences)
-4. Interleague play data excluded from franchise-vs-franchise comparisons
-5. 1994 season data is absent (strike cancelled season)
-6. Standings from 1876-1891 may not use modern division format (pre-division era)
-7. Team name changes and franchise relocations require careful cross-referencing
-
-## Key Research Questions Addressable
-- Which NL franchise has the highest all-time winning percentage?
-- How has NL competitive balance changed over eras?
-- What is the average duration of NL championship droughts?
-- How do H2H W-L matchups reflect historical rivalry patterns?
-- Which division has been most consistently dominant?
-- What role did expansion play in eroding franchise dominance?
-- How do shortened-season records compare to full 162-game records?
+If you find any data inconsistencies or errors, please open an issue or pull request. Especially appreciated:
+- Corrections to early NL (1876-1900) records
+- Updates to 2025 season data when finalized
+- Additional H2H matchup data for any era
