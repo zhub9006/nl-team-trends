@@ -1,151 +1,165 @@
-Year,Franchise,Games,WinPct,LD_Start
-1876,Chicago White Stockings,70,0.743,1876
-1877,Boston Red Stockings,61,0.783,1876
-1878,Boston Red Stockings,84,0.661,1876
-1879,Providence Grays,84,0.702,1876
-1880,Chicago White Stockings,85,0.798,1876
-1881,Chicago White Stockings,84,0.667,1876
-1882,Chicago White Stockings,80,0.688,1876
-1883,Boston,82,0.614,1882
-1884,Providence Grays,112,0.750,1882
-1885,Chicago White Stockings,112,0.777,1882
-1886,Chicago White Stockings,126,0.726,1882
-1887,Detroit (AL),126,N/A,1882
-1888,New York Giants,126,0.641,1882
-1889,New York Giants,126,0.659,1882
-1890,Brooklyn,126,0.628,1882
-1891,Boston,126,0.630,1882
-1892,Boston,154,0.680,1892
-1893,Boston,154,0.667,1892
-1894,Baltimore,154,0.693,1892
-1895,Baltimore,154,0.669,1892
-1896,Baltimore,154,0.726,1892
-1897,Boston,154,0.705,1892
-1898,Boston,154,0.685,1892
-1899,Boston,154,0.685,1892
-1900,Brooklyn,154,0.603,1892
-1901,Chicago,154,0.702,1901
-1902,Pittsburgh,155,0.743,1901
-1903,_grandparents_,155,0.936,1901
-1904,_,155,0.658,1901
-1905,New York Giants,105,0.686,1901
-1906,Chicago Cubs,155,0.763,1901
-1907,_,154,0.675,1901
-1908,Chicago Cubs,155,0.643,1901
-1909,Pittsburgh,153,0.723,1901
-1910,_,154,0.695,1909
-1911,_,148,0.635,1909
-1912,_,140,0.657,1909
-1913,_,151,0.563,1909
-1914,Boston Braves,153,0.614,1913
-1915,_,151,0.695,1909
-1916,_,153,0.588,1909
-1917,_,155,0.594,1909
-1918,_,128,0.625,1909
-1919,Cincinnati Reds,140,0.686,1919
-1920,_,154,0.545,1909
-1921,New York Giants,136,0.614,1921
-1922,New York Giants,136,0.604,1921
-1923,New York Giants,153,0.619,1921
-1924,New York Giants,153,0.608,1921
-1925,Pittsburgh Pirates,155,0.621,1925
-1926,St. Louis Cardinals,154,0.578,1926
-1927,New York Giants,155,0.597,1921
-1928,New York Giants,155,0.604,1921
-1929,Chicago Cubs,154,0.645,1929
-1930,St. Louis Cardinals,154,0.597,1921
-1931,St. Louis Cardinals,154,0.656,1921
-1932,Chicago Cubs,154,0.584,1929
-1933,New York Giants,152,0.599,1921
-1934,St. Louis Cardinals,154,0.682,1921
-1935,Chicago Cubs,154,0.649,1929
-1936,_,154,0.565,1921
-1937,New York Giants,149,0.550,1921
-1938,New York Giants,150,0.554,1921
-1939,New York Giants,148,0.702,1921
-1940,New York Giants,153,0.671,1921
-1941,Brooklyn Dodgers,154,0.649,1941
-1942,St. Louis Cardinals,154,0.688,1921
-1943,St. Louis Cardinals,154,0.682,1921
-1944,St. Louis Cardinals,154,0.682,1921
-1945,Chicago Cubs,155,0.636,1929
-1946,St. Louis Cardinals,154,0.628,1921
-1947,_,155,0.684,1941
-1948,_,155,0.561,1941
-1949,_,155,0.623,1941
-1950,_,155,0.558,1921
-1951,_,155,0.623,1921
-1952,_,154,0.636,1921
-1953,_,154,0.597,1921
-1954,_,154,0.630,1921
-1955,Brooklyn Dodgers,155,0.641,1955
-1956,_,154,0.585,1955
-1957,_,154,0.558,1955
-1958,_,155,0.597,1958
-1959,_,154,0.565,1958
-1960,_,160,0.575,1962
-1961,_,161,0.565,1962
-1962,_,161,0.617,1962
-1963,_,162,0.648,1962
-1964,_,162,0.580,1962
-1965,_,162,0.543,1962
-1966,_,162,0.562,1962
-1967,_,162,0.605,1962
-1968,_,162,0.599,1962
-1969,_,163,0.617,1969
-1970,_,162,0.543,1969
-1971,_,162,0.531,1969
-1972,_,156,0.545,1969
-1973,_,161,0.509,1969
-1974,_,162,0.568,1969
-1975,_,162,0.667,1969
-1976,_,162,0.630,1969
-1977,_,161,0.547,1969
-1978,_,161,0.578,1969
-1979,_,163,0.605,1969
-1980,_,162,0.578,1969
-1981,_,106,0.547,1981
-1982,_,162,0.543,1981
-1983,_,162,0.574,1981
-1984,_,162,0.525,1981
-1985,_,162,0.568,1981
-1986,_,162,0.667,1981
-1987,_,162,0.568,1981
-1988,_,162,0.585,1981
-1989,_,161,0.615,1981
-1990,_,161,0.568,1993
-1991,_,163,0.512,1993
-1992,_,162,0.556,1993
-1993,_,162,0.574,1993
-1994,_,114,0.588,1994
-1995,_,144,0.632,1994
-1996,_,162,0.568,1994
-1997,_,162,0.556,1994
-1998,_,162,0.568,1994
-1999,_,161,0.568,1994
-2000,_,161,0.568,1994
-2001,_,161,0.559,1994
-2002,_,161,0.559,1994
-2003,_,161,0.559,1994
-2004,_,161,0.609,1994
-2005,_,162,0.599,1994
-2006,_,161,0.516,1994
-2007,_,161,0.556,1994
-2008,_,161,0.568,1994
-2009,_,161,0.573,1994
-2010,_,161,0.500,1994
-2011,_,162,0.556,1994
-2012,_,162,0.580,1994
-2013,_,162,0.605,1994
-2014,_,162,0.580,1994
-2015,_,162,0.556,1994
-2016,_,161,0.642,1994
-2017,_,161,0.642,1994
-2018,_,162,0.564,1994
-2019,_,162,0.574,1994
-2020,_,60,0.717,1994
-2021,_,162,0.547,1994
-2022,_,162,0.573,1994
-2023,_,162,0.642,1994
-2024,_,162,0.605,1994
-2025,_,162,0.593,1994
+Year,Francy,Abbr,Div,League,G,P,W,L,T,W-L%,Champ,Podium,WS,Notable
+1876,Chicago White Stockings,CHN,—,NL,70,52,14,0,0.743,1,1,—,Inaugural NL champion; 52-14 (.783)
+1876,Boston Red Stockings,BOS,—,NL,70,41,26,0,0.611,2,2,—,
+1876,Cincinnati Reds,CIN,—,NL,70,26,36,0,0.420,—,—,—,
+1876,Brooklyn Mutuals,BRO,—,NL,70,22,41,0,0.349,—,—,—,
+1876,Philadelphia Athletics,PHI,—,NL,70,24,37,0,0.393,—,—,—,
+1876,St. Louis Browns,SLN,—,NL,70,22,41,0,0.349,—,—,—,
+1876,Chicago White Stockings,CHN,—,NL,70,52,14,0,0.743,1,1,—,First NL season
+1877,Boston Red Caps,BOS,—,NL,61,41,17,0,0.707,1,1,—,2nd NL pennant
+1877,Chicago White Stockings,CHN,—,NL,61,30,26,0,0.535,2,2,—,
+1877,Cincinnati Reds,CIN,—,NL,61,15,42,0,0.263,—,—,—,
+1878,Boston Red Caps,BOS,—,NL,84,41,21,0,0.661,1,1,—,3rd NL pennant; 1st full 84G season
+1878,Buffalo Bisons,BUF,—,NL,84,49,34,0,0.593,2,2,—,
+1878,Chicago White Stockings,CHN,—,NL,84,36,44,0,0.451,—,—,—,
+1879,Providence Grays,PRV,—,NL,84,59,25,0,0.702,1,1,—,NL pennant
+1879,Boston Red Caps,BOS,—,NL,84,49,31,0,0.613,2,2,—,
+1880,Chicago White Stockings,CHN,—,NL,85,67,17,0,0.798,1,1,—,Best 85-game season
+1880,Boston Red Caps,BOS,—,NL,85,46,31,0,0.597,2,2,—,
+1881,Chicago White Stockings,CHN,—,NL,84,56,28,0,0.667,1,1,—,NL pennant
+1882,Chicago White Stockings,CHN,—,NL,80,55,25,0,0.688,1,1,—,NL pennant
+1882,Troy Trojans,TRO,—,NL,80,44,32,0,0.579,2,2,—,
+1883,Boston,BOS,—,NL,82,82,40,0,0.672,1,1,—,NL pennant; 1st 82-game season
+1883,Providence Grays,PRV,—,NL,82,58,23,0,0.715,2,2,—,
+1884,Providence Grays,PRV,—,NL,112,84,28,0,0.750,1,1,—,Best 112-game season in NL
+1884,New York Giants,NY1,—,NL,112,66,44,0,0.600,2,2,—,
+1885,Chicago White Stockings,CHN,—,NL,112,87,25,0,0.777,1,1,—,NL pennant
+1886,Chicago White Stockings,CHN,—,NL,126,90,34,0,0.726,1,1,—,NL pennant; 1st 126-game season
+1887,Detroit Tigers,DET,—,NL,126,79,45,0,0.639,1,1,—,AL pennant; only AL team in NL era listed
+1888,New York Giants,NY2,—,NL,126,84,47,0,0.641,1,1,—,NL pennant; 1st 126-game season
+1889,New York Giants,NY2,—,NL,126,83,43,0,0.659,1,1,—,NL pennant
+1890,Brooklyn,BRO,—,NL,126,86,48,0,0.643,1,1,—,NL pennant
+1891,Boston,BOS,—,NL,126,87,51,0,0.630,1,1,—,NL pennant; 1st 126-game season
+1892,Boston,BOS,—,NL,154,102,48,0,0.680,1,1,—,1st 154G season; NL pennant; 84-46 split in halves
+1893,Boston,BOS,—,NL,154,86,43,0,0.667,1,1,—,NL pennant
+1894,Baltimore,BAL,—,NL,154,88,39,0,0.693,1,1,—,NL pennant; earlier Bulls-eye era
+1894,Cleveland Spiders,CLE,—,NL,154,68,82,0,0.453,—,—,—,20-134 in 1899; worst ever
+1895,Baltimore,BAL,—,NL,154,87,43,0,0.669,1,1,—,NL pennant
+1896,Cleveland Spiders,CLE,—,NL,154,80,48,0,0.625,2,2,—,
+1897,Boston,BOS,—,NL,154,93,39,0,0.705,1,1,—,NL pennant
+1898,Boston,BOS,—,NL,154,102,47,0,0.685,1,1,—,NL pennant
+1899,Boston,BOS,—,NL,154,102,47,0,0.685,1,1,—,NL pennant; 4th straight
+1900,Brooklyn,BRN,—,NL,154,82,54,0,0.603,1,1,—,NL pennant; NL's last before AL
+1901,Chicago Cubs,CHN,—,NL,154,93,55,0,0.627,1,1,—,NL pennant; 1st Cubs pennant in modern era
+1902,Pittsburgh Pirates,PIT,—,NL,155,103,36,0,0.743,1,1,—,NL pennant; Pirates' 1st
+1903,New York Giants,NY4,—,NL,155,105,48,0,0.686,1,1,—,1st modern WS champion
+1904,New York Giants,NY5,—,NL,96,96,56,0,0.630,1,1,—,No WS played; Giants refused
+1905,New York Giants,NY6,—,NL,155,105,48,0,0.686,1,1,—,1st official WS champion
+1906,Chicago Cubs,CHN,—,NL,116,116,36,0,0.763,1,1,—,ALL-TIME BEST win%; 20 games ahead
+1907,Detroit Tigers,DET,—,AL,154,N/A,N/A,0,N/A,AL,AL,AL,AL pennant; NL champion was Cubs
+1908,Chicago Cubs,CHN,—,NL,155,99,55,0,0.645,1,1,—,NL pennant; 3rd 100-win season
+1909,Pittsburgh Pirates,PIT,—,NL,154,110,42,0,0.721,1,1,—,NL pennant; Hendrick bats
+1910,Chicago Cubs,CHN,—,NL,154,104,50,0,0.675,1,1,—,NL pennant
+1911,New York Giants,NY8,—,NL,153,99,54,0,0.647,1,1,—,NL pennant
+1912,New York Giants,NY9,—,NL,153,103,48,0,0.680,1,1,—,NL pennant
+1913,New York Giants,NY10,—,NL,152,96,57,0,0.627,1,1,—,NL pennant
+1914,Boston Braves,BRA,—,NL,153,94,59,0,0.614,1,1,—,Miracle Braves; 5th place to champion
+1915,Philadelphia Phillies,PHI,—,NL,151,90,62,0,0.593,1,1,—,NL pennant; 1st for Phils
+1916,Brooklyn Robins,BRO,—,NL,153,94,60,0,0.610,1,1,—,NL pennant
+1917,New York Giants,NY11,—,NL,155,98,56,0,0.635,1,1,—,NL pennant
+1918,Chicago Cubs,CHN,—,NL,128,84,45,0,0.651,1,1,—,WWI shortened season
+1919,Cincinnati Reds,CIN,—,NL,140,96,44,0,0.593,1,1,—,NL pennant; 1st WS
+1920,Brooklyn Robins,BRO,—,NL,154,93,61,0,0.602,1,1,—,NL pennant
+1921,New York Giants,NY12,—,NL,153,94,59,0,0.614,1,1,—,NL pennant
+1922,New York Giants,NY13,—,NL,153,93,61,0,0.604,1,1,—,NL pennant
+1923,New York Giants,NY14,—,NL,155,95,58,0,0.619,1,1,—,NL pennant
+1924,New York Giants,NY15,—,NL,151,93,60,0,0.608,1,1,—,NL pennant
+1925,Pittsburgh Pirates,PIT,—,NL,155,95,58,0,0.621,1,1,—,NL pennant; Llambias return
+1926,St. Louis Cardinals,STL,—,NL,154,89,65,0,0.578,1,1,—,1st Cards WS title; Rogers Hornsby
+1927,New York Giants,NY16,—,NL,155,92,62,0,0.597,1,1,—,NL pennant
+1928,New York Giants,NY17,—,NL,155,93,61,0,0.604,1,1,—,NL pennant
+1929,Chicago Cubs,CHN,—,NL,154,98,54,0,0.645,1,1,—,NL pennant; 949 runs scored
+1930,St. Louis Cardinals,STL,—,NL,154,92,62,0,0.597,1,1,—,NL pennant
+1931,St. Louis Cardinals,STL,—,NL,154,101,53,0,0.656,1,1,—,101 wins; Dizzy Dean 30W
+1932,Chicago Cubs,CHN,—,NL,154,90,64,0,0.584,1,1,—,NL pennant
+1933,New York Giants,NY18,—,NL,152,91,61,0,0.599,1,1,—,NL pennant; 1st All-Star Game
+1934,St. Louis Cardinals,STL,—,NL,154,105,49,0,0.682,1,1,—,105 wins; Dizzy Dean 30W
+1935,Chicago Cubs,CHN,—,NL,154,100,54,0,0.649,1,1,—,NL pennant
+1937,New York Giants,NY19,—,NL,154,92,62,0,0.597,1,1,—,NL pennant
+1938,New York Giants,NY20,—,NL,154,83,67,0,0.552,1,1,—,NL pennant; 1st night game at Polo Grounds
+1939,New York Giants,NY21,—,NL,154,106,45,0,0.702,1,1,—,NL pennant; record 1939 season
+1940,New York Giants,NY22,—,NL,153,103,51,0,0.670,1,1,—,NL pennant; 103 wins
+1941,Brooklyn Dodgers,BRO,—,NL,154,100,54,0,0.649,1,1,—,NL pennant; 1st of 12 Dodgers titles
+1942,St. Louis Cardinals,STL,—,NL,154,106,48,0,0.688,1,1,—,1st of 5 straight Cards pennants
+1943,St. Louis Cardinals,STL,—,NL,154,105,49,0,0.682,1,1,—,NL pennant; wartime season
+1944,St. Louis Cardinals,STL,—,NL,154,105,49,0,0.682,1,1,—,NL pennant
+1946,St. Louis Cardinals,STL,—,NL,154,98,58,0,0.627,1,1,—,NL pennant; Enos Slaughter's mad dash
+1947,New York Giants,NY23,—,NL,155,89,65,0,0.575,2,2,—,
+1948,Boston Braves,BRA,—,NL,155,91,62,0,0.594,1,1,—,NL pennant; 2nd Braves title
+1949,Boston Braves,BRA,—,NL,155,96,58,0,0.623,1,1,—,NL pennant
+1950,New York Giants,NY24,—,NL,154,86,68,0,0.560,1,1,—,NL pennant; pre-1951 breakup
+1951,New York Giants,NY25,—,NL,154,98,59,0,0.623,1,1,—,Shot Heard Round the World; NL pennant
+1952,Boston Braves,BRA,—,NL,154,96,58,0,0.623,1,1,—,NL pennant; 3rd in series
+1953,Boston Braves,BRA,—,NL,153,92,62,0,0.598,1,1,—,NL pennant; last Braves in Boston
+1954,New York Giants,NY26,—,NL,154,97,57,0,0.630,1,1,—,NL pennant; ah-man alert
+1955,Brooklyn Dodgers,BRO,—,NL,155,98,55,0,0.641,1,1,—,1st Brooklyn WS title
+1956,Dodgers/LA,LAD,—,NL,154,96,68,0,0.585,2,2,—,
+1957,Brooklyn Dodgers,BRO,—,NL,154,92,62,0,0.597,1,1,—,Brooklyn's last NL pennant before move
+1958,L.A. Dodgers,LAD,—,NL,155,93,61,0,0.604,1,1,—,1st season in LA; NL pennant
+1959,L.A. Dodgers,LAD,—,NL,154,88,68,0,0.565,1,1,—,NL pennant; 2nd in LA
+1960,Pittsburgh Pirates,PIT,—,NL,154,95,59,0,0.617,1,1,—,NL pennant; Danny Murtaugh
+1961,Cincinnati Reds,CIN,—,NL,154,93,61,0,0.604,1,1,—,NL pennant; Frank Robinson
+1962,L.A. Dodgers,LAD,—,NL,162,102,40,0,0.718,1,1,—,Best 162-game season to that point
+1963,L.A. Dodgers,LAD,—,NL,162,105,57,0,0.649,1,1,—,105 wins; Sandy Koufax
+1964,St. Louis Cardinals,STL,—,NL,162,93,69,0,0.574,1,1,—,NL pennant; Bob Gibson
+1965,L.A. Dodgers,LAD,—,NL,162,97,65,0,0.599,1,1,—,NL pennant; Koufax 26W
+1966,L.A. Dodgers,LAD,—,NL,162,95,67,0,0.586,1,1,—,NL pennant; 4th in 6 years
+1967,L.A. Dodgers,LAD,—,NL,162,102,60,0,0.630,1,1,—,NL pennant
+1968,St. Louis Cardinals,STL,—,NL,162,97,65,0,0.599,1,1,—,Year of the Pitcher; Gibson 1.12
+1969,New York Mets,NYM,—,NL,163,100,62,0,0.616,1,1,—,Miracle Mets! 1st expansion title
+1970,Cincinnati Reds,CIN,—,NL,162,102,60,0,0.630,1,1,—,NL pennant; Big Red Machine begins
+1971,Pittsburgh Pirates,PIT,—,NL,162,97,65,0,0.599,1,1,—,NL pennant; Roberto Clemente WS
+1972,Cincinnati Reds,CIN,—,NL,156,95,59,0,0.615,1,1,—,NL pennant; shortened by strike
+1973,New York Mets,NYM,—,NL,161,82,79,0,0.511,1,1,—,NL pennant; 3rd title
+1974,Pittsburgh Pirates,PIT,—,NL,162,88,74,0,0.543,1,1,—,NL pennant; 2nd in 5 years
+1975,Cincinnati Reds,CIN,—,NL,162,108,54,0,0.667,1,1,—,Big Red Machine; 108-54
+1976,Cincinnati Reds,CIN,—,NL,162,102,60,0,0.630,1,1,—,Back-to-back; Big Red Machine
+1977,Philadelphia Phillies,PHI,—,NL,162,101,61,0,0.623,1,1,—,NL pennant; 1st for Phils since 1950
+1978,Pittsburgh Pirates,PIT,—,NL,161,88,73,0,0.547,1,1,—,NL pennant
+1979,Pittsburgh Pirates,PIT,—,NL,163,98,64,0,0.605,1,1,—,NL pennant; Willie Stargell WS MVP
+1980,Philadelphia Phillies,PHI,—,NL,162,91,69,0,0.568,1,1,—,1st Phillies WS title
+1981,L.A. Dodgers,LAD,—,NL,106,63,45,0,0.585,1,1,—,Split-season WS champ; Orel Hershiser
+1982,St. Louis Cardinals,STL,—,NL,162,92,70,0,0.568,1,1,—,NL pennant; Ozzie Smith
+1983,Philadelphia Phillies,PHI,—,NL,162,90,72,0,0.556,1,1,—,NL pennant
+1984,Chicago Cubs,CHN,—,NL,162,96,65,0,0.595,1,1,—,NL pennant; Ryne Sandberg
+1985,St. Louis Cardinals,STL,—,NL,162,101,61,0,0.623,1,1,—,NL pennant; 101 wins
+1986,New York Mets,NYM,—,NL,162,108,53,0,0.671,1,1,—,108 wins; Lenny Dykstra; 2nd WS
+1987,St. Louis Cardinals,STL,—,NL,162,95,67,0,0.586,1,1,—,NL pennant
+1988,L.A. Dodgers,LAD,—,NL,162,94,67,0,0.583,1,1,—,NL pennant; Kirk Gibson 9th inning HR
+1989,Chicago Cubs,CHN,—,NL,162,93,69,0,0.574,1,1,—,NL pennant; 93 wins
+1990,Cincinnati Reds,CIN,—,NL,162,91,71,0,0.562,1,1,—,NL pennant; 91 wins; WS champion
+1991,Atlanta Braves,ATL,—,NL,162,94,68,0,0.580,1,1,—,1st of 14 consecutive division titles
+1992,Atlanta Braves,ATL,—,NL,162,98,64,0,0.605,1,1,—,NL pennant; 98 wins
+1993,Philadelphia Phillies,PHI,—,NL,162,97,65,0,0.599,1,1,—,NL pennant; 97 wins
+1994,No Champion,—,—,NL,114,N/A,N/A,0,N/A,—,—,—,1994 strike voided; no WS played
+1995,Atlanta Braves,ATL,—,NL,144,90,54,0,0.625,1,1,—,NL pennant; 1st of back-to-back
+1996,Atlanta Braves,ATL,—,NL,162,96,66,0,0.593,1,1,—,NL pennant; 96 wins
+1997,Florida Marlins,FLA,—,NL,162,92,70,0,0.568,1,1,—,NL pennant; 1st expansion title; WS champion
+1998,Atlanta Braves,ATL,—,NL,162,106,56,0,0.654,1,1,—,NL pennant; 106 wins; 3rd WS
+1999,Atlanta Braves,ATL,—,NL,161,103,59,0,0.637,1,1,—,NL pennant; 103 wins
+2000,St. Louis Cardinals,STL,—,NL,162,95,67,0,0.586,1,1,—,NL pennant; Tony La Russa
+2001,Arizona Diamondbacks,ARI,—,NL,162,92,70,0,0.568,1,1,—,NL pennant; 92-70; WS champion
+2002,Atlanta Braves,ATL,—,NL,161,101,59,0,0.630,1,1,—,NL pennant; 101 wins
+2003,Florida Marlins,FLA,—,NL,161,91,71,0,0.562,1,1,—,NL pennant; 91-71; 2nd WS title
+2004,St. Louis Cardinals,STL,—,NL,162,105,57,0,0.648,1,1,—,NL pennant; 105 wins; Albert Pujols
+2005,Houston Astros (AL moved),HOU,—,—,—,—,—,—,—,NL champion was Cards; Astros in AL,—,
+2006,St. Louis Cardinals,STL,—,NL,162,83,78,0,0.516,1,1,—,Wild card champ; lowest win% ever (83-78)
+2007,Colorado Rockies,COL,—,NL,163,90,73,0,0.552,1,1,—,Wild card entrant; 90-73
+2008,Philadelphia Phillies,PHI,—,NL,162,92,70,0,0.568,1,1,—,NL pennant; 92-70
+2009,Philadelphia Phillies,PHI,—,NL,162,93,69,0,0.574,1,1,—,NL pennant; back-to-back
+2010,San Francisco Giants,SFN,—,NL,162,92,70,0,0.568,1,1,—,NL pennant; 3rd title in 5 years
+2011,St. Louis Cardinals,STL,—,NL,162,90,72,0,0.556,1,1,—,NL pennant; NLCS comeback vs Phils
+2012,San Francisco Giants,SFN,—,NL,162,94,68,0,0.580,1,1,—,NL pennant; 3rd title in 5 years
+2013,Atlanta Braves,ATL,—,NL,162,96,66,0,0.593,1,1,—,NL pennant; 96 wins
+2014,San Francisco Giants,SFN,—,NL,162,90,72,0,0.556,1,1,—,NL pennant; 4th title in decade
+2015,New York Mets,NYM,—,NL,162,90,72,0,0.556,1,1,—,NL pennant; 5th straight NLCS loss (2015)
+2016,Chicago Cubs,CHN,—,NL,162,103,58,0,0.640,1,1,—,NL pennant; ended 108-year drought
+2017,L.A. Dodgers,LAD,—,NL,162,104,58,0,0.642,1,1,—,NL pennant; 104 wins; best NL record
+2018,L.A. Dodgers,LAD,—,NL,162,92,71,0,0.564,1,1,—,NL pennant; 92-71
+2019,Wash. Nationals,WAS,—,NL,162,93,69,0,0.574,1,1,—,NL pennant; 93-69; 1st DC title
+2020,L.A. Dodgers,LAD,—,NL,60,43,17,0,0.717,1,1,—,Best shortened-season record; 3rd WS title
+2021,Atlanta Braves,ATL,—,NL,161,88,73,0,0.547,1,1,—,NL pennant; 88-73; 4th WS title
+2022,St. Louis Cardinals,STL,—,NL,162,93,69,0,0.574,1,1,—,NL pennant; 93-69
+2023,Atlanta Braves,ATL,—,NL,162,104,58,0,0.642,1,1,—,NL pennant; 104-58; best NL record
+2024,L.A. Dodgers,LAD,—,NL,162,98,64,0,0.605,1,1,—,NL pennant; back-to-back; 26th pennant
+2025,L.A. Dodgers,LAD,—,NL,162,96,66,0,0.593,1,1,—,NL pennant; back-to-back; 8th straight NL West
