@@ -137,14 +137,16 @@ nl-team-trends/
 ├── source_references.md                   ← Detailed source attribution
 ├── requirements.txt                       ← Python dependencies for analysis
 ├── data/
-│   ├── nl_historical_performance.csv      ← Season-by-season standings (1876-2026)
+│   ├── nl_historical_performance.csv      ← Season-by-season standings (1876-2026) ★ ENRICHED
 │   ├── nl_all_time_records.csv            ← All-time franchise records (corrected 2026)
+│   ├── nl_all_time_records_v2.csv         ← Expanded records with H2H & drought data (v2)
 │   ├── nl_championship_trends.csv         ← Championship highlights by era (through 2026)
 │   ├── nl_championship_milestones.csv     ← Championship milestones CSV
 │   ├── nl_notable_records.csv             ← Key single-season & franchise records
-│   ├── nl_all_time_records_v2.csv         ← Updated all-time records (branch)
 │   ├── nl_team_vs_team_summary.csv        ← H2H W-L summary matrix (key matchups)
-│   ├── nl_recent_standings.csv            ← Divisional standings 2014-2025
+│   ├── nl_team_vs_team_full.csv           ← Full NL H2H matrix (all pairings, 1876-2026)
+│   ├── nl_recent_standings.csv            ← Divisional standings 2014-2026
+│   ├── nl_seasonal_standings.csv          ← Full seasonal breakdown with division splits
 │   └── nl_pennant_winners.csv             ← All NL pennant winners 1876-2025
 ├── docs/
 │   └── data_notes.md                      ← Methodology, conventions & caveats
@@ -169,9 +171,42 @@ nl-team-trends/
 - **Franchise continuity**: Relocated teams treated as continuous entities (NY Giants→SF Giants, Brooklyn→LA Dodgers, Montreal→Washington Nationals)
 - **Source priority**: Baseball Almanac H2H > Baseball Reference standings > ESPN/MLB.com WS > Wikipedia verification
 
+### Data Files Index
+| File | Description | Rows | Last Updated |
+|------|-------------|------|-------------|
+| `nl_historical_performance.csv` | Season-by-season NL standings with W-L%, division, championship flags | 151+ years × ~15 teams | Jul 2026 |
+| `nl_all_time_records_v2.csv` | Expanded all-time records with H2H leads, droughts, streaks | 15 teams | Jul 2026 |
+| `nl_team_vs_team_full.csv` | Full 15×15 H2H W-L matrix for all NL team pairings | 231 pairings | Jul 2026 |
+| `nl_pennant_winners.csv` | All NL pennant winners with records & WS results | 150 seasons | Jul 2026 |
+| `nl_seasonal_standings.csv` | Full seasonal breakdown with divisional splits | 150+ seasons × ~15 teams | Jul 2026 |
+
+---
+
 ## 📝 Branch Status
 
-A branch `add-nl-data-files-v2` exists with additional data files (`nl_championship_milestones.csv`, `nl_all_time_records_v2.csv`) that update zone-specific records for modern NL seasons.
+- **main** — Default branch with core data files including the enriched `nl_historical_performance.csv` and `nl_all_time_records_v2.csv`
+- **add-nl-data-files-v2** — Historical branch with initial v2 records (content now merged into main)
+
+---
+
+## 🎯 Quick Start for Visualization
+
+```bash
+# Clone the repo
+git clone https://github.com/zhub9006/nl-team-trends
+cd nl-team-trends
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Explore data with Python
+python -c "
+import pandas as pd
+df = pd.read_csv('data/nl_historical_performance.csv')
+print(df.head())
+print(f'Total records: {len(df)}')
+"
+```
 
 ---
 
