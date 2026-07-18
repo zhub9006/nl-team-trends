@@ -19,6 +19,9 @@ Comprehensive research project compiling historical **National League (NL)** tea
 | Wikipedia (NL Pennants) | https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners | 1876–present | Complete pennant winner list with WS results |
 | Surprise Sports Champions | https://surprisesports.com/baseball/mlb-champions-list/ | 1903–2025 | Complete WS champions list & era analysis |
 | The Big Lead | https://lists.thebiglead.com/sports/mlb-national-league-teams-ranked-by-world-series-championships/ | 1876–2025 | NL Teams Ranked by WS Championships |
+| Grokipedia | https://grokipedia.com/page/List_of_all-time_Major_League_Baseball_win%E2%80%93loss_records | 1871–present | All-time MLB W-L records with era comparisons |
+| MLB Win-Loss Visualizer | https://inkandthunder.github.io/win-loss-visualizer/ | 1894–present | Interactive YoY W-L visualization tool |
+| Champs or Chumps | https://champsorchumps.us/mlb | 1876–present | Win% rankings, droughts, streaks, postseason records |
 
 ---
 
@@ -78,55 +81,24 @@ Comprehensive research project compiling historical **National League (NL)** tea
 | Dodgers modern dynasty | 3 WS titles in 5 years (2020, 2024, 2025) | — |
 | AL vs NL WS dominance | AL 68, NL 53 of 121 total | Yankees account for 27 of AL's total |
 
-### Notable Pennant Winners & Championship Highlights
-
-| Year | Team | Record | Notable |
-|------|------|--------|---------|
-| 1876 | Chicago White Stockings | 52-14 | Inaugural NL champion (of 8) |
-| 1906 | Chicago Cubs | 116-36 | Best NL season ever (.763) |
-| 1909 | Pittsburgh Pirates | 110-42 (.724) | 154G era NL benchmark |
-| 1914 | Boston Braves | 94-59 | "Miracle Braves" 26-game turnaround |
-| 1919 | Cincinnati Reds | 96-44 | First WS after Black Sox scandal |
-| 1926 | St. Louis Cardinals | 89-65 | First of 11 Cardinals WS titles |
-| 1942–1946 | St. Louis Cardinals | Various | 4 WS titles in 5 consecutive NL pennants |
-| 1951 | NY Giants | 98-59 | "Shot Heard 'Round the World" Thomson |
-| 1955–1956 | Brooklyn Dodgers | 98-55 / 93-61 | First Brooklyn–LA dynasty |
-| 1969 | NY Mets | 100-62 | "Miracle Mets" first expansion WS champion |
-| 1975–1976 | Cincinnati Reds | 108-54 / 102-60 | Big Red Machine back-to-back |
-| 1986 | NY Mets | 108-54 | Famous October comeback vs Astros |
-| 1993 | Florida Marlins | 112-78 | Fastest expansion champion |
-| 1995–2005 | Atlanta Braves | ~96-66/yr | 14 consecutive NL East titles |
-| 2001 | AZ Diamondbacks | 92-70 | 2nd-year expansion championship |
-| 2010–2014 | SF Giants | 94-68+ | 3 WS titles in 5 years |
-| 2016 | Chicago Cubs | 103-58 | Ended 108-year championship drought |
-| 2020 | LA Dodgers | 43-17 | Best shortened-season NL record |
-| 2021 | Atlanta Braves | 88-73 | 4th WS title; first since 1995 |
-| 2024–25 | LA Dodgers | 98-64 / 93-69 | Back-to-back WS champions |
-
-### Recent NL Season Standings (Full Division Era)
-
-| Year | NL Champion | WS Result | NL East | NL Central | NL West |
-|------|------------|-----------|---------|------------|---------|
-| 2025 | LA Dodgers (96-66) | Dodgers beat Toronto 4-3 | Phillies (96-66) | Brewers (97-65) | Dodgers |
-| 2024 | LA Dodgers (98-64) | Dodgers beat NYY 4-1 | Braves (89-73) | Brewers (93-69) | Dodgers |
-| 2023 | Braves (104-58) | TX Rangers (AL won) | Braves (104-58) | Brewers (92-70) | Dodgers (100-62) |
-| 2022 | Cardinals (93-69) | HOU (AL won) | Braves (101-61) | Cardinals (93-69) | Dodgers (111-51) |
-| 2021 | Braves (88-73) | Braves beat HOU 4-2 | Braves (88-73) | Brewers (95-67) | Dodgers (106-56) |
-| 2020 | Dodgers (43-17) | Dodgers beat TB 4-2 | Braves (35-25) | Reds (31-29) | Dodgers |
-| 2019 | Nationals (93-69) | Nationals beat HOU 4-3 | Braves (97-65) | Cardinals (91-71) | Dodgers (106-56) |
-| 2018 | Dodgers (92-71) | Red Sox (AL won) | Braves (90-72) | Brewers (96-67) | Dodgers |
-
-### Team-vs-Team W-L Matrix Summary (Baseball Almanac 1876-2026)
+### Team-vs-Team H2H W-L Matrix Summary (Baseball Almanac 1876-2026)
 
 Key inter-franchise W-L totals for NL teams against each other:
 
-- **Dodgers vs Cubs**: Dodgers lead — 278 W, 122 L (.695 win%)
-- **Cardinals vs Cubs**: Cardinals lead — 1,315 W, 1,185 L (.525)
-- **Dodgers vs Giants**: Dodgers lead — 272 W, 246 L (.523)
-- **Cubs vs Reds**: Cubs lead — 1,209 W, 1,074 L (.530)
-- **Braves vs Mets**: Braves lead — 290 W, 237 L (.550)
-- **Cardinals vs Pirates**: Cardinals lead — 1,423 W, 927 L (.606)
-- **Cardinals vs Dodgers**: Cardinals lead — 508 W, 437 L (.538)
+| Team 1 | Team 2 | T1 Wins | T2 Wins | T1 Win% |
+|--------|--------|---------|---------|---------|
+| LA Dodgers | Chicago Cubs | 278 | 122 | .695 |
+| St. Louis Cardinals | Chicago Cubs | 1,315 | 1,185 | .525 |
+| LA Dodgers | SF Giants | 272 | 246 | .523 |
+| Chicago Cubs | Cincinnati Reds | 1,209 | 1,074 | .530 |
+| Atlanta Braves | NY Mets | 290 | 237 | .550 |
+| St. Louis Cardinals | Pittsburgh Pirates | 1,423 | 927 | .606 |
+| St. Louis Cardinals | LA Dodgers | 508 | 437 | .538 |
+| Pittsburgh Pirates | Chicago Cubs | 1,109 | 1,269 | .466 |
+| SF Giants | Chicago Cubs | 1,295 | 1,330 | .492 |
+| Cincinnati Reds | Atlanta Braves | 1,068 | 1,338 | .441 |
+| NY Mets | Philadelphia Phillies | 1,054 | 1,056 | .500 |
+| St. Louis Cardinals | Philadelphia Phillies | 940 | 956 | .494 |
 
 ### Championship Trends by Era
 
@@ -140,6 +112,19 @@ Key inter-franchise W-L totals for NL teams against each other:
 | 1981–2000 | Braves (14 div titles 1991–2005), Reds | Braves dynasty; 1994 strike impact |
 | 2001–2015 | Cardinals, Giants, D-backs (2001) | Resurgence cycle; Cubs drought |
 | 2016–2025 | Dodgers (3 pennants, 8 straight NL West) | Modern Dodgers dynasty |
+
+### Recent NL Season Standings (Full Division Era)
+
+| Year | NL Champion | WS Result | NL East | NL Central | NL West |
+|------|------------|-----------|---------|------------|---------|
+| 2025 | LA Dodgers (96-66) | Dodgers beat Toronto 4-3 | Phillies (96-66) | Brewers (97-65) | Dodgers |
+| 2024 | LA Dodgers (98-64) | Dodgers beat NYY 4-1 | Braves (89-73) | Brewers (93-69) | Dodgers |
+| 2023 | Braves (104-58) | TX Rangers (AL won) | Braves (104-58) | Brewers (92-70) | Dodgers (100-62) |
+| 2022 | Cardinals (93-69) | HOU (AL won) | Braves (101-61) | Cardinals (93-69) | Dodgers (111-51) |
+| 2021 | Braves (88-73) | Braves beat HOU 4-2 | Braves (88-73) | Brewers (95-67) | Dodgers (106-56) |
+| 2020 | Dodgers (43-17) | Dodgers beat TB 4-2 | Braves (35-25) | Reds (31-29) | Dodgers |
+| 2019 | Nationals (93-69) | Nationals beat HOU 4-3 | Braves (97-65) | Cardinals (91-71) | Dodgers (106-56) |
+| 2018 | Dodgers (92-71) | Red Sox (AL won) | Braves (90-72) | Brewers (96-67) | Dodgers |
 
 ---
 
@@ -155,7 +140,7 @@ nl-team-trends/
 │   ├── nl_historical_performance.csv      ← Season-by-season standings (1876-2026)
 │   ├── nl_all_time_records.csv            ← All-time franchise records (corrected 2026)
 │   ├── nl_championship_trends.csv         ← Championship highlights by era (through 2026)
-│   ├── nl_championship_milestones.csv     ← Championship milestones CSV (new)
+│   ├── nl_championship_milestones.csv     ← Championship milestones CSV
 │   ├── nl_notable_records.csv             ← Key single-season & franchise records
 │   ├── nl_all_time_records_v2.csv         ← Updated all-time records (branch)
 │   ├── nl_team_vs_team_summary.csv        ← H2H W-L summary matrix (key matchups)
@@ -186,4 +171,8 @@ nl-team-trends/
 
 ## 📝 Branch Status
 
-A branch `add-nl-data-files-v2` exists with additional data files (`nl_championship_milestones.csv`, `nl_all_time_records_v2.csv`) that update zone-specific records through 2026. Merge pending for final integration.
+A branch `add-nl-data-files-v2` exists with additional data files (`nl_championship_milestones.csv`, `nl_all_time_records_v2.csv`) that update zone-specific records for modern NL seasons.
+
+---
+
+*NL Team Trends — 150 Years of Raw Data, Patterns & Stories | 1876–2026*
