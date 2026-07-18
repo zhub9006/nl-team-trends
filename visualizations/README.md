@@ -49,3 +49,15 @@ pip install -r requirements.txt
 jupyter notebook notebooks/explore_nl_data.ipynb
 python scripts/data_loader.py
 ```
+
+## Key Metrics for Visualization
+1. **Win% by Decade** — Grouped bar chart of NL team winning percentages by decade
+2. **Pennant Timeline** — Horizontal bar chart showing pennant wins per team over time
+3. **H2H Heatmap** — 15×15 heatmap of head-to-head win totals (all 105 pairs)
+4. **Era Dominance** — Stacked/ annotation chart showing championship cycles
+5. **Trend Lines** — Multi-line chart of team winning % over time (1876-2026)
+6. **Drought Map** — Time since last WS title per team, sorted
+7. **Division Hierarchy** — Heatmap of division winners by year
+8. **Relocation Impact** — Before/after franchise relocation performance
+9. **Expansion Trajectory** — Win% trajectory for 1993+ expansion teams
+10. **Pythagorean W-L** — Exp. W-L vs Actual W-L across seasons
