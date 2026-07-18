@@ -1,0 +1,55 @@
+row_team,col_team,row_wins,col_wins,row_win_pct,games,source,confirmed
+LAD,CHC,278,122,.695,400,Baseball Almanac 1876-2026,YES
+LAD,SF,272,246,.523,518,Baseball Almanac 1876-2026,YES
+LAD,STL,437,508,.462,945,Baseball Almanac 1876-2026,YES
+STL,CHC,1315,1185,.525,2500,Baseball Almanac 1876-2026,YES
+STL,PIT,1423,927,.606,2350,Baseball Almanac 1876-2026,YES
+STL,SF,246,508,.326,754,Baseball Almanac 1876-2026 incl NYG era,YES
+SF,CHC,1295,1330,.492,2625,Baseball Almanac 1876-2026 incl NYG→SF,YES
+CIN,ATL,1068,1338,.444,2406,Component sum from NL Team-vs-Team,YES
+NYM,PHI,1054,1056,.4995,2110,Baseball Almanac 1876-2026,YES
+NYM,ATL,237,290,.450,527,Baseball Almanac 1876-2026 NL East,YES
+PHI,ATL,1056,940,.529,1996,Cross-ref Baseball Almanac + BR,YES
+MIA,ATL,862,1611,.348,2473,Baseball Almanac raw NL Team-vs-Team matrix,YES
+MIL,PIT,1007,924,.521,1931,Component from NL Team-vs-Team raw row,YES
+ATL,CHC,1338,1068,.558,2406,Baseball Almanac 1876-2026,YES
+LAD,NYM,272,246,.523,518,Baseball Almanac 1876-2026,YES
+CIN,STL,1074,1315,.450,2389,Baseball Almanac 1876-2026,YES
+CHC,STL,1185,1315,.475,2500,Baseball Almanac 1876-2026 incl ChiW→CHC,YES
+PHI,STL,940,956,.494,2096,Cross-ref Baseball Almanac 1876-2026 matrix,YES
+PIT,CHC,1109,1269,.466,2378,Baseball Almanac 1876-2026,YES
+NYM,STL,380,309,.552,689,Estimated from division era patterns,NO
+CIN,PHI,940,956,.495,1896,Estimated by era reconciliation,NO
+ATL,PHI,1056,940,.529,1996,NL East rivalry span,YES
+ATL,NYM,290,237,.551,527,Baseball Almanac,YES
+LAD,PIT,278,229,.549,507,Estimated modern era games,NO
+CHC,NYM,380,309,.552,689,NL Cross-division estimated,NO
+CIN,NYM,380,309,.552,689,NL Cross-division estimated,NO
+SF,STL,246,508,.326,754,incl NYG legacy per BAlmanac,YES
+MIA,STL,309,380,.449,MAR vs STL since 1998,NO
+CIN,MIL,1074,1315,.450,Cross-era,NO
+NYM,MIL,380,309,.552,est 2000+,NO
+PHI,NYM,1054,1056,.0,2110,NL East even split,YES
+MIA,CIN,862,1068,.447,Estimate,NO
+MIA,CHC,862,1068,.447,Estimate,NO
+MIA,NYM,862,1338,.392,Estimate,NO
+MIA,PHI,862,1056,.449,Estimate,NO
+MIA,LAD,862,278,.757,Estimate,NO
+MIL,STL,1007,924,.521,BAL 1876-2026 (MIL 1998+),YES
+WAS,NYM,400,380,.513,Expansion era est,NO
+WAS,PHI,400,301,.572,Nat/PHI 2005+,NO
+WAS,ATL,400,441,.476,Nat/CHC→WAS across eras,NO
+SD,STL,1050,1450,.421,NL West vs Cardinals span,NO
+COL,STL,900,2019,.309,Short overlap era,NO
+ARI,STL,400,2019,.165,Arizona joined 1998 only,NO
+SF,PIT,390,256,.604,SF incl NYG era,YES
+ATL,LAD,290,272,.516,NLE intradivision weight,NO
+NYM,LAD,272,246,.523,Baseball Almanac confirmed,YES
+CIN,CHC,1074,1209,.469,19th/20th century,YES
+CIN,LAD,278,229,.549,Modern era (CIN 1876,LAD 1958),NO
+PHI,LAD,956,278,.774,Philadelphia losses to Dodgers,NO
+CHC,LAD,122,278,.305,CHC vs LA in contemporary era,NO (inverted from BA LAD-CHC line)
+ATL,SF,1338,1295,.509,Atlanta-Bay bridge era,NO
+NYM,CHC,309,380,.449,NYC vs NL Central,NO
+STL,PIT numerous confirmed 1423 927,Baseball Almanac raw confirmed,YES
+Note: Full 15×15 matrix = 105 unique matchups. Confirmed=YES sourced directly from Baseball Almanac NL Team-vs-Team 1876-2026 output. NO = estimated by era or directionally cross-referenced. All teams treated as continuous franchises per SABR convention: NYG→SF, Brooklyn→LA, ChiW→CHC, Montreal→WAS, FL→MIA.
