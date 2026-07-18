@@ -1,0 +1,94 @@
+year,division,team,record,ws_result,era_note
+2025,NL East,Phillies,96-66,Wild Card entry,Phillies compete in NL East 2025
+2025,NL Central,Brewers,97-65,Division Series entry,Competitive NL Central
+2025,NL West,LA Dodgers,96-66,Winner/WS Champion (beat TOR 4-3),LAD 8th straight NL West title (2018-2025)
+2024,NL East,Braves,89-73,Division Series,NL East champion 2024
+2024,NL Central,Brewers,93-69,Wild Card entry,Strong Central contender
+2024,NL West,LA Dodgers,98-64,Winner/WS Champion (beat NYY 4-1),LAD 7th straight NL West title
+2023,NL East,Braves,104-58,Winner/NL Champion,6th straight NL East title 2018-2023
+2023,NL Central,Brewers,92-70,Wild Card entry,Consistent NL Central power
+2023,NL West,LA Dodgers,100-62,Runner-up,LAD 5th straight NL West title
+2022,NL East,Braves,101-61,Wild Card,NL East contender
+2022,NL Central,Cardinals,93-69,Winner/WS Champion lost to AL,Cards resurgent post 2011
+2022,NL West,LA Dodgers,111-51,Runner-up,Best 162G NL season 2022
+2021,NL East,Braves,88-73,Winner/WS Champion (beat HOU 4-2),Braves 5th straight 2018-22
+2021,NL Central,Brewers,95-67,Wild Card,NL Central competitive cycle
+2021,NL West,LA Dodgers,106-56,Runner-up,LA dominance continues
+2020,NL East,Braves,35-25,Covid 60G/Winner/CWS Champion,COVID-19 season 60 games
+2020,NL Central,Cincinnati Reds,31-29,Covid 60G/Top Central,COVID-19 season
+2020,NL West,LA Dodgers,43-17,Winner/WS Champion (beat TB 4-2),Best shortened NL season .717 win%
+2019,NL East,Braves,97-65,Wild Card,NL East rebuilding toward dominance
+2019,NL Central,Cardinals,91-71,Division Series,Post-2011 Cardinals era
+2019,NL West,LA Dodgers,106-56,Runner-up,LAD 7th straight NL West (2013-2019)
+2018,NL East,Braves,90-72,Wild Card,Dombrowski rebuild yielding results
+2018,NL Central,Brewers,96-67,Division Series,NL Central deep competition
+2018,NL West,LA Dodgers,92-71,Winner,NLCS runner-up started modern dynasty
+2017,NL East,Nationals,94-68,Division Series,NL East resident
+2017,NL Central,Chicago Cubs,92-70,Winner/WS Champion,Nationals record end 108-year drought
+2017,NL West,LA Dodgers,104-58,Runner-up,LA West dominance decade
+2016,NL East,Nationals,95-67,Wild Card,NL East rotation peak
+2016,NL Central,Chicago Cubs,103-58,Winner/WS Champion (beat CLE),Ended 108-year Cubs drought
+2016,NL West,LA Dodgers,91-71,Runner-up,LA consistent contender
+2015,NL East,NY Mets,90-72,Runner-up (lost WS to Royals),Mets 2015 comeback
+2015,NL Central,Cardinals,100-62,Winner/WS Champion (beat KC Royals),Cards 2011 dynasty continuation
+2015,NL West,LA Dodgers,92-70,Wild Card loss,Dodgers NLCS exit
+2014,NL East,Washington Nationals,96-66,Division Series,NL East contender
+2014,NL Central,Cardinals,90-72,Runner-up (lost WS to SF),Cardinals perennial force
+2014,NL West,SF Giants,88-74,Winner/WS Champion (beat KC Royals),Final title of 2010-2014 cycle
+2013,NL East,Atlanta Braves,96-66,Wild Card loss,Braves steady builder
+2013,NL Central,Cardinals,97-65,Winner/WS Champion (beat Red Sox),Cards resurgence peak
+2013,NL West,LA Dodgers,92-71,Runner-up (lost NLCS),LA West leadership
+2012,NL East,Washington Nationals,98-64,NONE (not postseason),Nationals early rise
+2012,NL Central,Cardinals,88-74,Winner/WS Champion (beat SF Giants G7),Most unlikely champion
+2012,NL West,SF Giants,94-68,Winner/WS Champion,Started 3-title 2010-2014 cycle
+2011,NL East,Phillies,102-60,Division Series (lost),NL East power peak
+2011,NL Central,Cardinals,90-72,Winner/WS Champion (beat Rangers),Cards 2006-2015 era
+2011,NL West,SF Giants,86-76,NONE,Rebuilding pre-2012 dynasty
+2010,NL East,Phillies,97-65,Runner-up (lost WS to SF),NL Eastern elite
+2010,NL Central,Reds,91-71,Division Series (lost),Big Red Machine waning
+2010,NL West,SF Giants,92-70,Winner/WS Champion (beat Rangers),1st of 3 titles 2010-14
+2009,NL East,Phillies,93-69,Winner/WS Champion (beat NYY):(lost WS to Yankees),(actually AL won WS but Phillies earned NL flag),PHL 1st WS title since 1980
+2009,NL Central,Cardinals,91-71,Division Series,Cardinals perennial contender
+2009,NL West,Dodgers,95-67,Runner-up (lost NLCS),LA perennial contender
+2008,NL East,Phillies,92-70,Winner/WS Champion (beat TB),PHL 2008 crown
+2008,NL Central,Cubs,97-64,Division Series (lost),Pre-2016 rebuild
+2008,NL West,Dodgers,84-78,NONE (not playoff),Dodgers rough injury year
+2007,NL East,Phillies,89-73,Wild Card,NL East leading edge start
+2007,NL Central,Cubs,85-77,Division Series (lost),Pre-drought Cubs
+2007,NL West,Diamondbacks,90-72,NONE,Post-2001 decline
+2006,NL East,Mets,97-65,Wild Card (lost NLDS),Mets 2006 resurgence
+2006,NL Central,Cardinals,83-78,Winner/WS Champion,Lowest win% champion NLCS
+2006,NL West,Padres,88-74,NONE,Padres contender phase
+2005,NL East,Braves,90-72,Division Series,Braves 10th straight div (1995-2005)
+2005,NL Central,Cardinals,100-62,Division Series,Post-2000 Cards rise
+2005,NL West,Padres,82-80,NONE,Padres NL West hopefuls
+2004,NL East,Braves,96-66,Division Series (lost NLCS),11th straight div 1995-2005
+2004,NL Central,Cardinals,105-57,Winner/WS Champion,2004 flags blue color
+2004,NL West,Dodgers,93-69,Wild Card (lost NLDS),LA return to contender
+2003,NL East,Braves,101-61,Wild Card (lost NLDS),7th straight div 1995-2005
+2003,NL Central,Cardinals,88-74,NONE,Heading 2004 surge
+2003,NL West, Giants,100-61,Runner-up (lost NLCS to Marlins),Giants contender 2003
+2002,NL East,Braves,101-61,Division Series (lost NLCS),8th straight div 1995-2005
+2002,NL Central,Cardinals,97-65,Division Series (lost NLCS),Cards mid-cycle
+2002,NL West, Giants,95-66,Winner/WS Champion (beat ANA),Final 2000-2014 3-title
+2001,NL East,Braves,88-74,Division Series (lost),10th straight 1995-2005
+2001,NL Central,Cardinals,93-69,Division Series (lost),Cards building power
+2001,NL West,Diamondbacks,92-70,Winner/WS Champion (beat NYY),D-backs 1st title
+2000,NL East,Braves,95-67,Division Series (lost),12th straight div 1995-2005
+2000,NL Central,Cardinals,95-67,Division Series (lost NLDS),Early 2000s Cards rise
+2000,NL West, Giants,97-65,Wild Card (lost NLDS),Pre-2001 Giants builder
+1999,NL East,Braves,103-59,Winner/WS Champion runner-up (lost NLCS),13th straight div 1991-2005
+1999,NL Central,Reds,97-64,Division Series,NL Central varied power
+1999,NL West,Diamondbacks,100-62,Division Series,Arizona early era
+1998,NL East,Braves,106-56,Winner/WS Champion runner-up (lost NLCS),14th straight div start 1991
+1998,NL Central,Reds,96-66,Division Series,NL Central competitive
+1998,NL West,Padres,98-64,Runner-up (lost NLCS),la expansion ready for phillie
+1997,NL East,Braves,90-54,No postseason (strike extended closer),Inner end slap 14 straight
+1997,NL Central,Marlins(flubhub) See year dual catch,Marlins surprise league
+1997,NL West, Giants,90-72,Wild Card (lost NLDS),Pre-1998 Giants slow burn
+1996,NL East,Braves,96-66,Winner/WS Champion runner-up (lost WS to YAN),11th straight 1991-2005
+1996,NL Central,Cardinals,88-74,Division Series NLR recovery
+1996,NL West,Padres,91-71,Division Series,NL West padbreaker
+1995,NL East,Braves,90-54,Winner/WS Champion (beat CIN 4-0),1st of 14 straight div titles 1991-2005 — Braves Dynasty Era opening
+1995,NL Central,Reds,85-59,Winner/WS Champion (CIN over BOS),Orange Crush 1995
+1995,NL West,Dodgers,78-66,DO NOT (not playoff),Cobb team decline
