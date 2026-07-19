@@ -140,7 +140,8 @@ nl-team-trends/
 │   ├── nl_historical_performance.csv      ← Season-by-season standings (1876-2026)
 │   ├── nl_all_time_records.csv            ← All-time franchise records (corrected 2026)
 │   ├── nl_all_time_records_v2.csv         ← Expanded records with H2H & drought data (v2)
-│   ├── nl_all_time_records_complete.csv   ← Comprehensive records with H2H, droughts, notes (v3) ★ NEW
+│   ├── nl_all_time_records_complete.csv   ← Comprehensive records with H2H, droughts, notes (v3)
+│   ├── nl_comparative_ranking.csv         ← Clean NL team ranking by WS titles, pennants, W-L% ★ NEW
 │   ├── nl_championship_trends.csv         ← Championship highlights by era (through 2026)
 │   ├── nl_championship_milestones.csv     ← Championship milestones CSV
 │   ├── nl_notable_records.csv             ← Key single-season & franchise records
@@ -148,7 +149,7 @@ nl-team-trends/
 │   ├── nl_team_vs_team_full.csv           ← Full NL H2H matrix (all pairings, 1876-2026)
 │   ├── nl_recent_standings.csv            ← Divisional standings 2014-2026
 │   ├── nl_seasonal_standings.csv          ← Full seasonal breakdown with division splits
-│   ├── nl_season_standings_2025_2026.csv  ← 2025-2026 season standings by division ★ NEW
+│   ├── nl_season_standings_2025_2026.csv  ← 2025-2026 season standings by division
 │   └── nl_pennant_winners.csv             ← All NL pennant winners 1876-2025
 ├── docs/
 │   └── data_notes.md                      ← Methodology, conventions & caveats
@@ -178,32 +179,17 @@ nl-team-trends/
 |------|-------------|------|-------------|
 | `nl_historical_performance.csv` | Season-by-season NL standings with W-L%, division, championship flags | 151+ years × ~15 teams | Jul 2026 |
 | `nl_all_time_records.csv` | All-time franchise records with pennants, div titles, games, W/L | 15 teams | Jul 2026 |
-| `nl_all_time_records_v2.csv` | Expanded records with H2H leads, droughts, streaks | 15 teams | Jul 2026 |
-| `nl_all_time_records_complete.csv` | Complete NL records: H2H, droughts, franchise notes, detailed history | 15 teams | Jul 2026 |
-| `nl_team_vs_team_full.csv` | Full 15×15 H2H W-L matrix for all NL team pairings | 105 pairings | Jul 2026 |
-| `nl_pennant_winners.csv` | All NL pennant winners with records & WS results | 150 seasons | Jul 2026 |
-| `nl_seasonal_standings.csv` | Full seasonal breakdown with divisional splits | 150+ seasons × ~15 teams | Jul 2026 |
-| `nl_divisional_titles.csv` | Division title winners by year & division (NL East/Central/West) | 120+ entries | Jul 2026 |
-| `nl_season_standings_2025_2026.csv` | 2025-2026 season partial standings by division with detailed W/L | 30+ entries | Jul 2026 |
-
----
-
-## 📝 Branch Status
-
-- **main** — Default branch with complete research data and documentation
-
----
-
-## 📄 License
-
-This repository is licensed under the MIT License — see LICENSE for details.
-
----
-
-## 🤝 Contributing
-
-Contributions welcome! To add or update data:
-1. Fork the repository
-2. Create a feature branch
-3. Update the relevant CSV/data file
-4. Submit a pull request
+| `nl_all_time_records_complete.csv` | Complete all-time NL records with H2H, droughts, notes | 15 teams | Jul 2026 |
+| `nl_comparative_ranking.csv` | Clean NL team ranking by WS titles, pennants, W-L%, drought data | 15 teams | Jul 2026 |
+| `nl_championships_ranking.csv` | NL teams ranked by WS titles, pennants, division titles | 15 teams | Jul 2026 |
+| `nl_championship_trends.csv` | Championship highlights by era | 8 eras | Jul 2026 |
+| `nl_championship_milestones.csv` | Key championship milestones by decade/era | 20 milestones | Jul 2026 |
+| `nl_notable_records.csv` | Key single-season & franchise records | 20 records | Jul 2026 |
+| `nl_team_vs_team_summary.csv` | H2H W-L summary matrix (key matchups) | 18 pairs | Jul 2026 |
+| `nl_team_vs_team_full.csv` | Full NL H2H matrix (all pairings) | 29 pairs | Jul 2026 |
+| `nl_recent_standings.csv` | Divisional standings 2014-2026 | 30 entries | Jul 2026 |
+| `nl_seasonal_standings.csv` | Full seasonal breakdown with division splits | 144 entries | Jul 2026 |
+| `nl_season_standings_2025_2026.csv` | 2025-2026 season standings by division | 32 entries | Jul 2026 |
+| `nl_pennant_winners.csv` | All NL pennant winners with records & WS results | 152 entries | Jul 2026 |
+| `nl_divisional_titles.csv` | Division title winners by year & division | 120 entries | Jul 2026 |
+| `nl_wild_card_winners.csv` | Wild card/playoff winners by year | 56 entries | Jul 2026 |
