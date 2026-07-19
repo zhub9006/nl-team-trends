@@ -1,151 +1,76 @@
-Year,Winner,Record,Playoff,WS_Opponent,WS_Result,Division,Notable
-1876,Chicago White Stockings,52-14,,N/A,Champion,N/A,Inaugural NL season
-1877,Boston Red Caps,61-17,,N/A,Champion,N/A,1st of 5 NL pennants
-1878,Boston Red Caps,41-21,,N/A,Champion,N/A,1st full 84G season
-1879,Providence Grays,59-25,,N/A,Champion,N/A,
-1880,Chicago White Stockings,67-17,,N/A,Champion,N/A,
-1881,Chicago White Stockings,56-28,,N/A,Champion,N/A,
-1882,Chicago White Stockings,55-25,,N/A,Champion,N/A,
-1883,Boston,82-40,,N/A,Champion,N/A,
-1884,Providence Grays,84-28,,N/A,Champion,N/A,
-1885,Chicago White Stockings,87-25,,N/A,Champion,N/A,
-1886,Chicago White Stockings,90-34,,N/A,Champion,N/A,
-1887,Detroit Tigers (AL),,N/A,N/A,Champion,AL only,N/A
-1888,New York Giants,84-47,,N/A,Champion,N/A,
-1889,New York Giants,83-43,,N/A,Champion,N/A,
-1890,Brooklyn,86-48,,N/A,Champion,N/A,
-1891,Boston,87-51,,N/A,Champion,N/A,
-1892,Boston,102-48,,N/A,Champion,N/A,1st 154G season
-1893,Boston,86-43,,N/A,Champion,N/A,
-1894,Baltimore,88-39,,N/A,Champion,N/A,
-1895,Baltimore,87-43,,N/A,Champion,N/A,
-1896,Baltimore,90-34,,N/A,Champion,N/A,
-1897,Boston,93-39,,N/A,Champion,N/A,
-1898,Boston,102-47,,N/A,Champion,N/A,
-1899,Boston,102-47,,N/A,Champion,N/A,
-1900,Brooklyn,82-54,,N/A,Champion,N/A,
-1901,Chicago,93-55,,N/A,Champion,N/A,
-1902,Pittsburgh Pirates,103-36,,N/A,Champion,N/A,
-1903,New York Giants,105-48,,N/A,Champion,N/A,1st modern WS
-1904,New York Giants,96-56,-miniplayoff,N/A,Champion,N/A,No WS played
-1905,New York Giants,105-48,,N/A,Champion,N/A,1st official WS
-1906,Chicago Cubs,116-36,,N/A,Champion,N/A,Best season ever
-1907,Detroit Tigers (AL),N/A,N/A,N/A,N/A,AL only,N/A
-1908,Chicago Cubs,99-55,,N/A,Champion,N/A,
-1909,Pittsburgh Pirates,110-42,,N/A,Champion,N/A,
-1910,Chicago Cubs,104-50,,N/A,Champion,N/A,
-1911,New York Giants,99-54,,N/A,Champion,N/A,
-1912,New York Giants,103-48,,N/A,Champion,N/A,
-1913,New York Giants,96-57,,N/A,Champion,N/A,
-1914,Boston Braves,94-59,,N/A,Champion,N/A,Miracle Braves
-1915,Philadelphia Phillies,90-62,,N/A,Champion,N/A,
-1916,Brooklyn Robins,94-60,,N/A,Champion,N/A,
-1917,New York Giants,98-56,,N/A,Champion,N/A,
-1918,Chicago Cubs,84-45,Limited,N/A,Champion,N/A,WWI season
-1919,Cincinnati Reds,96-44,,N/A,Champion,N/A,1st WS after Black Sox
-1920,Brooklyn Robins,93-61,,N/A,Champion,N/A,
-1921,New York Giants,94-59,,N/A,Champion,N/A,
-1922,New York Giants,93-61,,N/A,Champion,N/A,
-1923,New York Giants,95-58,,N/A,Champion,N/A,
-1924,New York Giants,93-60,,N/A,Champion,N/A,
-1925,Pittsburgh Pirates,95-58,,N/A,Champion,N/A,
-1926,St. Louis Cardinals,89-65,,N/A,Champion,N/A,1st of 11 WS titles
-1927,New York Giants,92-62,,N/A,Champion,N/A,
-1928,New York Giants,93-61,,N/A,Champion,N/A,
-1929,Chicago Cubs,98-54,,N/A,Champion,N/A,
-1930,St. Louis Cardinals,92-62,,N/A,Champion,N/A,
-1931,St. Louis Cardinals,101-53,,N/A,Champion,N/A,
-1932,Chicago Cubs,90-64,,N/A,Champion,N/A,
-1933,New York Giants,91-61,,N/A,Champion,N/A,
-1934,St. Louis Cardinals,105-49,,N/A,Champion,N/A,Dean 30 wins
-1935,Chicago Cubs,100-54,,N/A,Champion,N/A,
-1936,New York Giants,92-62,,N/A,Champion,N/A,
-1937,New York Giants,82-67,,N/A,Champion,N/A,
-1938,New York Giants,83-67,,N/A,Champion,N/A,
-1939,New York Giants,106-45,,N/A,Champion,N/A,
-1940,New York Giants,103-51,,N/A,Champion,N/A,
-1941,Brooklyn Dodgers,100-54,,N/A,Champion,N/A,
-1942,St. Louis Cardinals,106-48,,N/A,Champion,N/A,1st of 5 straight
-1943,St. Louis Cardinals,105-49,,N/A,Champion,N/A,
-1944,St. Louis Cardinals,105-49,,N/A,Champion,N/A,
-1945,Chicago Cubs,98-56,,N/A,Champion,N/A,
-1946,St. Louis Cardinals,98-58,,N/A,Champion,N/A,
-1947,Chicago Cubs,86-68,,N/A,Champion,N/A,
-1948,Boston Braves,91-62,,N/A,Champion,N/A,
-1949,Boston Braves,96-58,,N/A,Champion,N/A,
-1950,New York Giants,86-68,,N/A,Champion,N/A,
-1951,New York Giants,98-59,,N/A,Champion,N/A,Shot Heard Round World
-1952,Boston Braves,98-56,,N/A,Champion,N/A,
-1953,Boston Braves,92-62,,N/A,Champion,N/A,
-1954,New York Giants,97-57,,N/A,Champion,N/A,
-1955,Brooklyn Dodgers,98-55,,N/A,Champion,N/A,1st Brooklyn WS
-1956,Dodgers,96-68,,N/A,Champion,N/A,
-1957,Brooklyn Dodgers,92-62,,N/A,Champion,N/A,
-1958,L.A. Dodgers,93-61,,N/A,Champion,N/A,1st season in LA
-1959,L.A. Dodgers,88-68,,N/A,Champion,N/A,
-1960,Pittsburgh Pirates,95-59,,N/A,Champion,N/A,
-1961,Cincinnati Reds,93-61,,N/A,Champion,N/A,
-1962,L.A. Dodgers,102-40,,N/A,Champion,Los Angeles,No MLB postseason play-in
-1963,L.A. Dodgers,105-57,,N/A,Champion,N/A,
-1964,St. Louis Cardinals,93-69,,N/A,Champion,N/A,
-1965,L.A. Dodgers,97-65,,N/A,Champion,N/A,
-1966,LA Dodgers,95-67,,N/A,Champion,N/A,
-1967,L.A. Dodgers,102-60,,N/A,Champion,N/A,
-1968,St. Louis Cardinals,97-65,,N/A,Champion,N/A,Year of the Pitcher
-1969,New York Mets,100-62,,N/A,Champion,N/A,Miracle Mets
-1970,Cincinnati Reds,102-60,,N/A,Champion,N/A,
-1971,Pittsburgh Pirates,97-65,,N/A,Champion,N/A,
-1972,Cincinnati Reds,95-59,,N/A,Champion,N/A,
-1973,New York Mets,82-79,,N/A,Champion,N/A,
-1974,Pittsburgh Pirates,88-74,,N/A,Champion,N/A,
-1975,Cincinnati Reds,108-54,,N/A,Champion,N/A,Big Red Machine
-1976,Cincinnati Reds,102-60,,N/A,Champion,N/A,
-1977,Philadelphia Phillies,101-61,,N/A,Champion,N/A,
-1978,Pittsburgh Pirates,88-74,,N/A,Champion,N/A,
-1979,Pittsburgh Pirates,98-64,,N/A,Champion,N/A,
-1980,Philadelphia Phillies,91-69,,N/A,Champion,N/A,1st WS for Phillies
-1981,L.A. Dodgers,63-45,,N/A,Champion,N/A,Split season from strike
-1982,St. Louis Cardinals,92-70,,N/A,Champion,N/A,
-1983,Philadelphia Phillies,90-72,,N/A,Champion,N/A,
-1984,Chicago Cubs,96-65,,N/A,Champion,N/A,
-1985,St. Louis Cardinals,101-61,,N/A,Champion,N/A,
-1986,St. Louis Cardinals,79-83,,N/A,Champion,N/A,Wild card champion
-1987,St. Louis Cardinals,95-67,,N/A,Champion,N/A,
-1988,L.A. Dodgers,94-67,,N/A,Champion,N/A,
-1989,Chicago Cubs,93-69,,N/A,Champion,N/A,
-1990,Cincinnati Reds,91-71,,N/A,Champion,N/A,
-1991,Atlanta Braves,94-68,,N/A,Champion,N/A,1st of 14 div titles
-1992,Atlanta Braves,98-64,,N/A,Champion,N/A,
-1993,Philadelphia Phillies,97-65,,N/A,Champion,N/A,
-1994,,N/A,-strike-,N/A,Champion,N/A,1994 strike voided
-1995,Atlanta Braves,90-54,,N/A,Champion,N/A,1st of back-to-back
-1996,Atlanta Braves,96-66,,N/A,Champion,N/A,
-1997,Florida Marlins,92-70,,N/A,Champion,N/A,1st expansion title
-1998,Atlanta Braves,106-56,,N/A,Champion,N/A,
-1999,Atlanta Braves,103-59,,N/A,Champion,N/A,
-2000,St. Louis Cardinals,95-67,,N/A,Champion,N/A,
-2001,Arizona Diamondbacks,92-70,,N/A,Champion,N/A,
-2002,Atlanta Braves,101-59,,N/A,Champion,N/A,
-2003,Florida Marlins,91-71,,N/A,Champion,N/A,
-2004,St. Louis Cardinals,105-57,,N/A,Champion,N/A,
-2005,Houston Astros (AL),N/A,N/A,N/A,Champion,AL only,NL pennant winner was Cardinals
-2006,St. Louis Cardinals,83-78,,N/A,Champion,N/A,Wild card champion; lowest-win% NL champ
-2007,Colorado Rockies,90-73,,N/A,Champion,N/A,
-2008,Philadelphia Phillies,92-70,,N/A,Champion,N/A,
-2009,Philadelphia Phillies,93-69,,N/A,Champion,N/A,
-2010,San Francisco Giants,92-70,,N/A,Champion,N/A,
-2011,St. Louis Cardinals,90-72,,N/A,Champion,N/A,Wild card; NLCS epic comeback
-2012,San Francisco Giants,94-68,,N/A,Champion,N/A,
-2013,Atlanta Braves,96-66,,N/A,Champion,N/A,
-2014,San Francisco Giants,90-72,,N/A,Champion,N/A,
-2015,N.Y. Mets,90-72,,N/A,Champion,N/A,
-2016,Chicago Cubs,103-58,,N/A,Champion,N/A,108-year drought ended
-2017,L.A. Dodgers,104-58,,N/A,Champion,N/A,
-2018,L.A. Dodgers,92-71,,N/A,Champion,N/A,
-2019,Wash. Nationals,93-69,,N/A,Champion,N/A,
-2020,L.A. Dodgers,43-17,,N/A,Champion,N/A,COVID 60-game; best record
-2021,Atlanta Braves,88-73,,N/A,Champion,N/A,
-2022,St. Louis Cardinals,93-69,,N/A,Champion,N/A,
-2023,Atlanta Braves,104-58,,N/A,Champion,N/A,
-2024,L.A. Dodgers,98-64,,N/A,Champion,N/A,
-2025,L.A. Dodgers,96-66,,N/A,Champion,N/A,
+year,team,league,wins,losses,win_pct,finish,notes
+1876,Boston Red Caps,NL,70,20,.778,1st,First NL season; 1st place
+1876,Chicago White Stockings,NL,52,14,.788,1st,First NL season; 1st
+1876,Cincinnati Reds,NL,65,21,.756,1st,First NL season; 1st
+1876,Brooklyn Mutuals,NL,44,11,.800,1st,First NL season; dropped out
+1876,Louisville Grays,NL,30,30,.500,3rd,First NL season
+1876,Hartford Dark Blues,NL,28,20,.583,2nd,First NL season
+1877,Boston Red Caps,NL,42,18,.700,1st,NYG newspaper champion
+1877,Chicago White Stockings,NL,26,13,.667,2nd,
+1877,New York Giants,NL,28,28,.500,3rd,
+1877,Cincinnati Reds,NL,15,42,.263,4th,
+1877,Brooklyn Hartfords,NL,20,32,.385,5th,
+1877,St. Louis Brown Stockings,NL,18,21,.462,6th,
+1877,Louisville Grays,NL,18,36,.333,7th,
+1878,Boston Red Caps,NL,40,32,.556,1st,
+1879,Boston Red Caps,NL,46,40,.536,1st,
+1879,Providence Grays,NL,59,25,.702,2nd,WS champion
+1880,Chicago White Stockings,NL,65,21,.756,1st,
+1881,Chicago White Stockings,NL,56,28,.667,1st,
+1882,Providence Grays,NL,52,20,.722,1st,
+1883,Providence Grays,NL,58,26,.690,1st,
+1884,Providence Grays,NL,84,28,.750,1st,WS champion
+1885,Chicago White Stockings,NL,87,25,.777,1st,WS champion
+1886,Chicago White Stockings,NL,90,26,.774,1st,WS champion
+1887,Detroit Wolverines,NL,79,45,.638,1st,WS champion
+1888,New York Gothams,NL,84,47,.641,1st,WS champion
+1889,Brooklyn Bridegrooms,NL,83,28,.748,1st,AA champion (tie)
+1890,Boston Beaneaters,NL,76,57,.571,1st,
+1890,Brooklyn Bridegrooms,NL,86,36,.705,2nd,
+1891,Boston Beaneaters,NL,87,51,.630,1st,
+1901,Chicago Cubs,NL,110,51,.684,1st,
+1902,Pittsburgh Pirates,NL,103,36,.741,1st,
+1903,Chicago Cubs,NL,104,49,.680,1st,
+1905,New York Giants,NL,105,48,.686,1st,WS champion
+1906,Chicago Cubs,NL,116,36,.763,1st,
+1907,Chicago Cubs,NL,107,45,.704,1st,WS champion
+1908,Chicago Cubs,NL,99,55,.643,1st,WS champion
+1913,New York Giants,NL,101,51,.664,1st,
+1915,Philadelphia Phillies,NL,111,42,.724,1st,1st Phillies pennant
+1916,Philadelphia Phillies,NL,91,62,.595,1st,
+1920,Brooklyn Robins,NL,93,61,.604,1st,1st pennant in 19 years
+1930,St. Louis Cardinals,NL,92,62,.597,1st,
+1941,Brooklyn Dodgers,NL,103,51,.669,1st,Lost WS to Yankees
+1945,Chicago Cardinals,NL,106,48,.688,1st,
+1950,Philadelphia Phillies,NL,91,63,.591,1st,WS champion
+1951,New York Giants,NL,103,51,.669,1st,3rd place to 1st; NL pennant
+1954,New York Giants,NL,97,57,.630,1st,WS champion
+1955,Brooklyn Dodgers,NL,98,55,.641,1st,1st Dodgers pennant in 21 years
+1959,Los Angeles Dodgers,NL,88,68,.564,1st,WS champion
+1963,Los Angeles Dodgers,NL,99,63,.611,1st,WS champion
+1966,Los Angeles Dodgers,NL,95,67,.586,1st,
+1969,New York Mets,NL,100,62,.617,1st,Miracle Mets; WS champion
+1973,New York Mets,NL,82,79,.509,1st,
+1975,Cincinnati Reds,NL,108,54,.667,1st,Big Red Machine; WS champion
+1976,Cincinnati Reds,NL,102,60,.630,1st,WS champion
+1977,Philadelphia Phillies,NL,101,61,.623,1st,
+1978,Pittsburgh Pirates,NL,88,73,.547,1st,
+1979,Pittsburgh Pirates,NL,98,64,.605,1st,WS champion
+1981,Montreal Expos,NL,34,22,.607,1st,1st EC title (strike)
+1984,Chicago Cubs,NL,96,65,.596,1st,
+1986,New York Mets,NL,108,54,.667,1st,WS champion
+1989,Chicago Cubs,NL,93,69,.574,1st,
+1993,Philadelphia Phillies,NL,97,65,.599,1st,
+2001,Arizona Diamondbacks,NL,92,70,.568,1st,WS champion
+2003,Florida Marlins,NL,91,71,.562,1st,1st Marlins pennant; WS champion
+2004,St. Louis Cardinals,NL,105,57,.648,1st,
+2005,St. Louis Cardinals,NL,100,62,.617,1st,
+2006,St. Louis Cardinals,NL,83,78,.516,1st,Wild Card; WS champion
+2012,San Francisco Giants,NL,94,68,.580,1st,Wild Card; WS champion
+2014,San Francisco Giants,NL,88,74,.543,1st,Wild Card; WS champion
+2016,Chicago Cubs,NL,103,58,.640,1st,Ended 108-year drought; WS champion
+2020,LA Dodgers,NL,43,17,.717,1st,Shortened season; WS champion
+2021,Atlanta Braves,NL,88,73,.547,1st,WS champion
+2023,Atlanta Braves,NL,104,58,.642,1st,Best record; lost WS to Rangers
+2024,LA Dodgers,NL,98,64,.605,1st,WS champion
+2025,LA Dodgers,NL,96,66,.593,1st,WS champion
