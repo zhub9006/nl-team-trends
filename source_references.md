@@ -1,93 +1,46 @@
-# Source References — Detailed Attribution
+# NL Team Trends — Source References
 
-This file provides complete source attribution for all data used in the nl-team-trends repository.
+## Primary Data Sources
 
-## Primary Sources
+| Source | URL | Coverage | Description |
+|--------|-----|----------|-------------|
+| Baseball-Reference (NL) | https://www.baseball-reference.com/leagues/NL/ | 1876-present | Official year-by-year NL standings and team leaders |
+| Baseball Almanac | https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml | 1876-2026 | NL team-vs-team W-L matrices; full H2H data |
+| Baseball Almanac (Year-by-Year) | https://www.baseball-almanac.com/yearmenu.shtml | 1876-present | NL leaders, W-L records per season |
+| Baseball Data Hub | https://baseballdatahub.com/seasons/ | 1871-2026 | Complete season standings & stats archive |
+| SABR Lahman Database | https://sabr.org/lahman-database/ | 1871-2025 | Free downloadable CSV dataset (full team/batting/pitching) |
+| StatsCrew (NL) | https://www.statscrew.com/baseball/l-NL | 1876-present | NL rosters, standings & leaders |
+| Everything Explained | https://everything.explained.today | 1876-2025 | All-time franchise W-L records |
+| StatMuse | https://www.statmuse.com/mlb | 1876-2026 | NL championship leaders & franchise stats |
+| Baseball Briefs | https://baseballbriefs.com/most-wins-in-national-league-history/ | 1876-2023 | Franchise win totals analysis |
+| OpenIntro MLB Dataset | https://www.openintro.org/data/index.php?data=mlb_teams | Multi-year | ML-ready dataset for statistical modeling |
+| Champs or Chumps | https://champsorchumps.us/mlb | 1876-present | Win% rankings, droughts, streaks, postseason records |
+| Grokipedia | https://grokipedia.com/page/List_of_all-time_Major_League_Baseball_win–loss_records | 1871-present | All-time MLB W-L records with era comparisons |
+| Wikipedia (NL Pennants) | https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners | 1876-present | Complete pennant winner list with WS results |
+| ESPN (World Series) | https://www.espn.com/mlb/worldseries/history/winners | 1903-present | World Series champions & results by year |
+| Surprise Sports Champions | https://surprisesports.com/baseball/mlb-champions-list/ | 1903-2025 | Complete WS champions list & era analysis |
 
-### 1. Baseball Almanac — NL Team-vs-Team W-L Matrix
-- **URL**: https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml
-- **Coverage**: 1876–2026 (updated daily during regular season)
-- **Key Data**: Complete 15×15 H2H win-loss matrix for every NL franchise pair
-- **Citation**: Baseball Almanac, "National League Team vs Team Win-Loss Records," 1876–2026. Includes franchise moves (NY Giants→SF, Brooklyn→LA, Montreal→Washington).
-- **Used For**: H2H rivalry analysis, team-vs-team dominance trends
+## Key Historical References
 
-### 2. Baseball-Reference — NL League Index
-- **URL**: https://www.baseball-reference.com/leagues/NL/index.shtml
-- **Coverage**: 1876–present
-- **Key Data**: Official year-by-year NL standings, team stats, franchise records
-- **Citation**: Baseball-Reference.com, "National League Team Wins Records," 1876–present.
+- The National League Story by Lee Allen (1961), foundational NL history
+- Baseball Register by Elias Sports Bureau, the official statistical record authority
+- MLBRation & FanGraphs, advanced metrics sources for park factor, WAR, etc.
+- Various franchise-specific encyclopedias and team histories
 
-### 3. SABR Lahman Database
-- **URL**: https://sabr.org/lahman-database/
-- **Coverage**: 1871–2025 (free downloadable CSV)
-- **Key Data**: Complete team batting, pitching, fielding, standings, managerial records, postseason data; now includes Negro Leagues
-- **Citation**: Lahman, S. (2026). Lahman Baseball Database, Version 2025. SABR.
+## Data Conventions & Caveats
 
-### 4. Baseball Data Hub
-- **URL**: https://baseballdatahub.com/seasons/
-- **Coverage**: 1871–2026 (156 seasons)
-- **Key Data**: Complete season standings, batting/pitching leaders, postseason results
-- **Citation**: Baseball Data Hub, "All MLB Seasons," 1871–2026.
+1. Win-loss records pre-1961 are based on 154-game schedules (except 1876-1892 which varied)
+2. 1994 season is incomplete due to the players' strike; no WS was played
+3. 2020 season was 60 games (shortened); records are not directly comparable to full 162-game seasons
+4. Franchise totals may vary depending on how relocation, partial seasons, and expansion/contraction events are counted
+5. The NL had 8 teams from 1876-1891, expanded to 12 in 1962, and has had 15 teams since 1998
+6. Win percentages shown are rounded to 3 decimal places
+7. Playoff formats changed over time: NLCS began in 1969, Wild Card in 1994, 3-division format in 1994 (delayed to 1995)
 
-### 5. StatMuse — NL Championship Leaders
-- **URL**: https://www.statmuse.com/mlb
-- **Coverage**: 1876–2026
-- **Key Data**: NL championship leaders, franchise W/L/G stats, WS title counts
-- **Citation**: StatMuse, "NL Team Championships & Franchise Stats," 1876–2026.
+## Research Methodology
 
-### 6. AP News — NL Champions List
-- **URL**: https://apnews.com/sports/new-york-acb241a50b26ba5cb8e67be269faeb12
-- **Coverage**: 2017–2024 (NL champions list)
-- **Citation**: Associated Press, "National League Champions," 2017–2024.
-
-### 7. Wikipedia — List of NL Pennant Winners
-- **URL**: https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners
-- **Coverage**: 1876–present
-- **Citation**: Wikipedia, "List of National League pennant winners."
-
-### 8. Surprise Sports Champions
-- **URL**: https://surprisesports.com/baseball/mlb-champions-list/
-- **Coverage**: 1903–2025
-- **Citation**: Surprise Sports, "Complete MLB World Series Champions List," 1903–2025.
-
-### 9. The Big Lead — NL Teams by WS Championships
-- **URL**: https://lists.thebiglead.com/sports/mlb-national-league-teams-ranked-by-world-series-championships/
-- **Coverage**: 1876–2025
-- **Citation**: The Big Lead, "NL Teams Ranked by World Series Championships," 1876–2025.
-
-### 10. Grokipedia — All-Time MLB W-L Records
-- **URL**: https://grokipedia.com/page/List_of_all-time_Major_League_Baseball_win%E2%80%93loss_records
-- **Coverage**: 1871–present
-- **Citation**: Grokipedia, "All-time MLB Win-Loss Records," 1871–present.
-
-### 11. MLB.com — Teams with Most Division Titles
-- **URL**: https://www.mlb.com/news/mlb-teams-with-most-division-titles
-- **Coverage**: 1969–present
-- **Citation**: MLB.com, "MLB Teams with Most Division Titles."
-
-### 12. ESPN — World Series History
-- **URL**: https://www.espn.com/mlb/worldseries/history/winners
-- **Coverage**: 1903–present
-- **Citation**: ESPN, "World Series Champions & Results by Year," 1903–present.
-
-### 13. MLB Win-Loss Visualizer (Interactive Tool)
-- **URL**: https://inkandthunder.github.io/win-loss-visualizer/
-- **Coverage**: 1894–present
-- **Citation**: inkandthunder, "MLB Win-Loss Visualizer," 1894–present.
-
-### 14. Champs or Chumps — Win% Rankings & Droughts
-- **URL**: https://champsorchumps.us/mlb
-- **Coverage**: 1876–present
-- **Citation**: Champs or Chumps, "Win% Rankings, Droughts, Streaks, Postseason Records," 1876–present.
-
-### 15. PressReader — 9 Teams with 10K+ Wins
-- **URL**: https://www.pressreader.com/usa/herald-tribune/20250326/282325390770142
-- **Coverage**: 2025 franchise milestone analysis
-- **Citation**: Herald-Tribune / PressReader, "9 teams have won 10K games in MLB history. Who's next?" March 2025.
-
-## Cross-Referencing Methodology
-- NL pennant winners cross-referenced against Wikipedia, Baseball-Reference, and AP News
-- All-time franchise records cross-referenced against StatMuse, Baseball Almanac, and Grokipedia
-- H2H W-L data sourced exclusively from Baseball Almanac (15×15 matrix)
-- Era themes synthesized from Grokipedia, Champs or Chumps, and Baseball Data Hub
-- Championship droughts verified against Champs or Chumps and ESPN
+- Primary source for H2H data: Baseball Almanac's NL team-vs-team W-L matrices (1876-2026)
+- Primary source for year-by-year standings: Baseball-Reference NL league page
+- Primary source for championship records: ESPN World Series history + Wikipedia NL pennant winners
+- All franchise continuity: Relocated teams treated as single entities (NY Giants→SF Giants, Brooklyn→LA Dodgers, Montreal→Washington Nationals)
+- Era classification based on schedule length and competitive landscape changes

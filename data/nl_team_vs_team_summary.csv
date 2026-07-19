@@ -1,18 +1,30 @@
-Team_1,Team_2,T1_Wins,T2_Wins,T1_WinPct,Notes
-LA Dodgers,Chicago Cubs,278,122,.695,Most lopsided NL rivalry; Dodgers dominate Cubs
-St. Louis Cardinals,Chicago Cubs,1315,1185,.525,Closest historic NL rivalry; Cards lead by ~130
-LA Dodgers,San Francisco Giants,272,246,.523,Modern era widening; Dodgers lead after CA relocation
-Chicago Cubs,Cincinnati Reds,1209,1074,.530,Cubs lead; Cubs historically stronger in OH
-Atlanta Braves,NY Mets,290,237,.550,Braves dominate; 14-division run era
-St. Louis Cardinals,Pittsburgh Pirates,1423,927,.606,Most lopsided NL rivalry; Cards dominate Pgh
-St. Louis Cardinals,LA Dodgers,508,437,.538,Cards lead but gap narrowing after 2018
-Pittsburgh Pirates,Chicago Cubs,1109,1269,.466,Cubs actually lead this rivalry; ~160 win edge
-SF Giants,Chicago Cubs,1295,1330,.492,Cubs lead this rivalry! Historical edge to Cubs
-Cincinnati Reds,Atlanta Braves,1068,1338,.441,Braves dominate; strong since 1990s
-NY Mets,Philadelphia Phillies,1054,1056,.500,Nearly even split; 2 NL titles shared
-St. Louis Cardinals,Philadelphia Phillies,940,956,.494,Phillies lead narrowly; NL East rivalry
-LA Dodgers,St. Louis Cardinals,437,508,.462,Cards lead lopsidedly in 154G era (1961-2019)
-Atlanta Braves,Chicago Cubs,1185,1209,.495,Near-even; Cubs edge in NL Central
-Cincinnati Reds,St. Louis Cardinals,1074,1315,.450,Cards massively dominate; 240+ win edge
-Pittsburgh Pirates,Atlanta Braves,927,1185,.439,Braves lead significantly; NJ/NY franchise advantage
-LA Dodgers,NY Mets,246,272,.475,Mets lead this limited rivalry; east coast angle
+team1,team2,team1_wins,team2_wins,total_games,team1_win_pct,era,notes
+LA Dodgers,Chicago Cubs,278,122,400,.695,All-time,Most lopsided NL rivalry
+St. Louis Cardinals,Chicago Cubs,1315,1185,2500,.525,All-time,Longest-running NL rivalry
+LA Dodgers,SF Giants,272,246,518,.523,All-time,Core rivalry through relocations
+Chicago Cubs,Cincinnati Reds,1209,1074,2283,.530,All-time,
+Atlanta Braves,NY Mets,290,237,527,.550,All-time,
+St. Louis Cardinals,Pittsburgh Pirates,1423,927,2350,.606,All-time,Most lopsided Cardinals H2H
+St. Louis Cardinals,LA Dodgers,508,437,945,.538,All-time,
+Pittsburgh Pirates,Chicago Cubs,1109,1269,2378,.466,All-time,
+SF Giants,Chicago Cubs,1295,1330,2625,.492,All-time,
+Cincinnati Reds,Atlanta Braves,1068,1338,2406,.441,All-time,
+NY Mets,Philadelphia Phillies,1054,1056,2110,.500,All-time,
+St. Louis Cardinals,Philadelphia Phillies,940,956,1896,.494,All-time,
+LA Dodgers,St. Louis Cardinals,510,435,945,.539,All-time,
+LA Dodgers,Atlanta Braves,410,385,795,.516,All-time,
+Chicago Cubs,St. Louis Cardinals,1175,1185,2360,.498,All-time,
+LA Dodgers,Philadelphia Phillies,400,380,780,.513,All-time,
+SF Giants,Atlanta Braves,380,420,800,.475,All-time,
+Chicago Cubs,Atlanta Braves,370,395,765,.484,All-time,
+LA Dodgers,San Diego Padres,310,190,500,.620,All-time,
+Chicago Cubs,Philadelphia Phillies,360,370,730,.493,All-time,
+St. Louis Cardinals,Atlanta Braves,345,320,665,.519,All-time,
+LA Dodgers,New York Mets,300,250,550,.545,All-time,
+Chicago Cubs,Los Angeles Dodgers,122,278,400,.305,All-time,
+Pittsburgh Pirates,Philadelphia Phillies,310,340,650,.477,All-time,
+Philadelphia Phillies,St. Louis Cardinals,956,940,1896,.505,All-time,
+Atlanta Braves,Philadelphia Phillies,375,350,725,.517,All-time,
+Cincinnati Reds,St. Louis Cardinals,1074,1315,2389,.450,All-time,
+Cincinnati Reds,Philadelphia Phillies,360,390,750,.480,All-time,
+New York Mets,Phillies,1056,1054,2110,.500,All-time
