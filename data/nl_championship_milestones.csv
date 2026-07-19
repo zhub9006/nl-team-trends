@@ -1,29 +1,17 @@
-year,event,team,detail
-1876,NL Founded,All 8 founding teams,Chicago White Stockings first champion
-1876,First NL Pennant,Chicago White Stockings,52-14 (.784)
-1877,First NL Pennant with 84G season,Brooklyn,First full-length season
-1892,First 154-game season,All teams,Schedule standardization begins
-1903,First World Series,New York Giants vs Pittsburgh Pirates,NL champion wins 5-3
-1904,No World Series,New York Giants,Mutual consent; no WS played
-1906,Best single-season record ever,Chicago Cubs,116-36 (.763) in 155 games
-1914,Miracle Braves,Boston Braves,26-game midseason turnaround to pennant
-1919,First WS after Black Sox Scandal,Cincinnati Reds,96-44; 93,000+ avg attendance
-1926,First of 11 Cardinals WS titles,St. Louis Cardinals,89-65
-1942,First of 5 straight Cards pennants,St. Louis Cardinals,Joltin' Joe DiMaggio era
-1951,Shot Heard Round the World,NY Giants,Bobby Thomson walk-off HR
-1955,First Brooklyn WS title,Dodgers,Brooklyn beats Yankees
-1958,Los Angeles relocation,L.A. Dodgers,First season in Los Angeles
-1962,First 162-game season,All teams,Now 10 teams in NL
-1969,First NL division format,N.L. East vs West + LCS,Divided leagues begin
-1969,Miracle Mets,New York Mets,100-62; first expansion NL champion
-1975,Big Red Machine begins,Cincinnati Reds,108-54
-1981,Split-season WS,L.A. Dodgers,first WS winner under split format
-1994,Strike cancels postseason,NL & AL,First time since 1904 no WS
-1997,First NL Wild Card,San Francisco Giants,Playoff format expanded
-1998,Braves 8th NL pennant (14 div titles),Atlanta Braves,First of 14 consecutive division titles
-1998,Milwaukee move to NL,Atlanta Braves & Brewers,AL→NL Central transition
-2005,Montreal Expos→Washington Nationals,All,Franchise relocation completes
-2016,Cubs end 108-year drought,Chicago Cubs,103-58; first title since 1908
-2020,60-game COVID season,L.A. Dodgers,43-17 (.717) best record
-2024,Dodgers back-to-back WS,L.A. Dodgers,Ohtani era begins
-2025,Dodgers back-to-back again,L.A. Dodgers,8 straight NL West titles
+team,year,achievement,details
+Chicago Cubs,1906,Best single-season W-L record,116-36 (.763)
+Los Angeles Dodgers,2020,Best shortened NL season record,43-17 (.717)
+Los Angeles Dodgers,2022,Best 162-game NL season record,111-51 (.685)
+St. Louis Cardinals,1942-1946,Most consecutive pennants,5 straight
+Atlanta Braves,1991-2005,Most consecutive division titles,14 straight
+Los Angeles Dodgers,2018-2025,Most consecutive NL West titles,8 straight
+St. Louis Cardinals,1926,First WS title by an NL team,Beat Yankees 4-3 in 1926 WS
+Los Angeles Dodgers,2020-2025,Most WS titles in any 5-year span,3 titles (2020 2024 2025)
+New York Mets,1969,Most improbable pennant run (Miracle Mets),Wild card to WS champions
+Atlanta Braves,1995,Most dominant single postseason,Braves swept both rounds
+St. Louis Cardinals,2011,Most dramatic late-season rally,10.5 games back Aug 25 to WS title
+Chicago Cubs,2016,Broke 108-year WS drought,Beat Indians 4-3
+Los Angeles Dodgers,2024-2025,Back-to-back WS titles,NL first since Yankees 1998-2000
+Philadelphia Phillies,2008,First NL champion to beat AL champion,WAS won 2009 AL
+San Francisco Giants,2010-2014,Most recent NL three-peat,2010 2012 2014 (not consecutive)
+Cincinnati Reds,1975-1976,First NL teams back-to-back WS since 1920s,Big Red Machine
