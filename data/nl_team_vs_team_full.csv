@@ -1,30 +1,30 @@
 Team_1,Team_2,T1_Wins,T2_Wins,Total_Games,T1_WinPct,First_Meeting,Key_Era,Notes
-LA Dodgers,Chicago Cubs,278,122,400,0.695,1884,Modern Dodgers Dodgers dominance started with their 1958 move to LA; Dodgers lead by 156 wins
-St. Louis Cardinals,Chicago Cubs,1315,1185,2500,0.525,1876,HistoricaRivalry,Closest NL rivalry; Cards lead by ~130 games across 148 seasons
-LA Dodgers,San Francisco Giants,272,246,518,0.523,1889,ModernEra,LA lead largely due to 1958+ relocation; Giants had NYG edge pre-1958
-Chicago Cubs,Cincinnati Reds,1209,1074,2283,0.530,1876,154GEra,Cubs historically stronger in OH NL Central rivalry
-Atlanta Braves,New York Mets,290,237,527,0.550,1969,DivisionalRivalry,Braves dominate; 14-division run era (1991-2005)
-St. Louis Cardinals,Pittsburgh Pirates,1423,927,2350,0.606,1882,MostLopsided,Most lopsided NL rivalry in history; Cardinals dominate Pgh
-St. Louis Cardinals,LA Dodgers,508,437,945,0.538,1958,ModernEra,Cards lead but gap narrowed after 2018 Dodgers dynasty
+LA Dodgers,Chicago Cubs,278,122,400,0.695,1884,Modern Era,Dodgers dominance started with their 1958 move to LA; Dodgers lead by 156 wins
+St. Louis Cardinals,Chicago Cubs,1315,1185,2500,0.525,1876,Historic Rivalry,Closest NL rivalry; Cards lead by ~130 games across 148 seasons
+LA Dodgers,San Francisco Giants,272,246,518,0.523,1889,Modern Era,LA lead largely due to 1958+ relocation; Giants had NYG edge pre-1958
+Chicago Cubs,Cincinnati Reds,1209,1074,2283,0.530,1876,154G Era,Cubs historically stronger in OH NL Central rivalry
+Atlanta Braves,New York Mets,290,237,527,0.550,1969,Divisional Rivalry,Braves dominate; 14-division run era (1991-2005)
+St. Louis Cardinals,Pittsburgh Pirates,1423,927,2350,0.606,1882,Most Lopsided,Most lopsided NL rivalry in history; Cardinals dominate Pgh
+St. Louis Cardinals,LA Dodgers,508,437,945,0.538,1958,Modern Era,Cards lead but gap narrowed after 2018 Dodgers dynasty
 Pittsburgh Pirates,Chicago Cubs,1109,1269,2378,0.466,1876,Surprise,Rival Cubs actually leads this matchup; ~160 win edge
 SF Giants,Chicago Cubs,1295,1330,2625,0.492,1876,Interesting,Cubs lead this rivalry despite historical Giants dominance
-Cincinnati Reds,Atlanta Braves,1068,1338,2406,0.441,1969,BravesEra,Braves dominate; strong since 1990s expansion
-NY Mets,Philadelphia Phillies,1054,1056,2110,0.500,1969,EvenSplit,Nearly even split; 2 NL titles shared between them
-St. Louis Cardinals,Philadelphia Phillies,940,956,1896,0.494,1883,PhilliesEdge,Phillies lead narrowly; NL East rivalry
-LA Dodgers,St. Louis Cardinals,437,508,945,0.462,1958,154GEra,Cards lead lopsidedly in 154G era (1961-2019); gap closing
-Atlanta Braves,Chicago Cubs,1185,1209,2394,0.495,1876,NearEven,Near-even split; Cubs edge in NL Central
-Cincinnati Reds,St. Louis Cardinals,1074,1315,2389,0.450,1876,CardsDominate,Cards massively dominate; 240+ win edge
-Pittsburgh Pirates,Atlanta Braves,927,1185,2112,0.439,1876,BravesAdvantage,Braves lead significantly; NJ/NY franchise advantage
-LA Dodgers,NY Mets,246,272,518,0.475,1969,MetsEdge,Mets lead this limited rivalry; east coast angle
-Chicago Cubs,New York Mets,1269,1109,2378,0.535,1969,CubsEdge,Cubs historically stronger this crossover rivalry
-San Francisco Giants,Pittsburgh Pirates,1178,1017,2195,0.537,1882,GiantsEdge,SF Giants lead this historical matchup
-San Francisco Giants,Pittsburgh Pirates,1178,1017,2195,0.537,1882,GiantsEdge,NY Giants 1883-1957; SF Giants 1958-2026
-St. Louis Cardinals,Philadelphia Phillies,940,956,1896,0.494,1883,PhilliesEdge,Post-2000 Phillies have won more head-to-head
-Atlanta Braves,Philadelphia Phillies,1338,1068,2406,0.556,1969,BravesAdvantaged,Braves dominated NL East from 1991-2005
-Colorado Rockies,San Diego Padres,1295,1130,2425,0.534,1993,RockiesEdge,Rockies lead this expansion-era rivalry
-Arizona Diamondbacks,San Francisco Giants,987,1043,2030,0.486,1998,NearEven,D-backs led early; Giants caught up post-2010
-Washington Nationals,Philadelphia Phillies,789,812,1601,0.493,1969,PhilliesEdge,Phillies lead even in Expos/Nationals era
-Milwaukee Brewers,Chicago Cubs,876,967,1843,0.475,1998,CubsEdge,Cubs lead this newer NL Central matchup
-Milwaukee Brewers,St. Louis Cardinals,821,1134,1955,0.420,1998,CardsDominate,Cardinals massively dominate this rivalry
-Colorado Rockies,LA Dodgers,763,828,1591,0.486,1993,DodgersEdge,Dodgers lead this inter-divisional rivalry
-San Diego Padres,LA Dodgers,712,856,1568,0.454,1969,DodgersEdge,Dodgers dominate this Southern California rivalry
+Cincinnati Reds,Atlanta Braves,1068,1338,2406,0.441,1969,Braves Era,Braves dominate; strong since 1990s expansion
+NY Mets,Philadelphia Phillies,1054,1056,2110,0.500,1969,Even Split,Nearly even split; 2 NL titles shared between them
+St. Louis Cardinals,Philadelphia Phillies,940,956,1896,0.494,1883,Phillies Edge,Phillies lead narrowly; NL East rivalry
+LA Dodgers,St. Louis Cardinals,437,508,945,0.462,1958,154G Era,Cards lead lopsidedly in 154G era (1961-2019); gap closing
+Atlanta Braves,Chicago Cubs,1185,1209,2394,0.495,1876,Near Even,Near-even split; Cubs edge in NL Central
+Cincinnati Reds,St. Louis Cardinals,1074,1315,2389,0.450,1876,Cards Dominate,Cards massively dominate; 240+ win edge
+Pittsburgh Pirates,Atlanta Braves,927,1185,2112,0.439,1876,Braves Advantage,Braves lead significantly; NJ/NY franchise advantage
+LA Dodgers,NY Mets,246,272,518,0.475,1969,Mets Edge,Mets lead this limited rivalry; east coast angle
+Chicago Cubs,New York Mets,1269,1109,2378,0.535,1969,Cubs Edge,Cubs historically stronger this crossover rivalry
+San Francisco Giants,Pittsburgh Pirates,1178,1017,2195,0.537,1882,Giants Edge,SF Giants lead this historical matchup
+NY Giants,Pittsburgh Pirates,1178,1017,2195,0.537,1882,Giants Edge,NY Giants 1883-1957; SF Giants 1958-2026
+St. Louis Cardinals,Philadelphia Phillies,940,956,1896,0.494,1883,Phillies Edge,Post-2000 Phillies have won more head-to-head
+Atlanta Braves,Philadelphia Phillies,1338,1068,2406,0.556,1969,Braves Advantage,Braves dominated NL East from 1991-2005
+Colorado Rockies,San Diego Padres,1295,1130,2425,0.534,1993,Rockies Edge,Rockies lead this expansion-era rivalry
+Arizona Diamondbacks,San Francisco Giants,987,1043,2030,0.486,1998,Near Even,D-backs led early; Giants caught up post-2010
+Washington Nationals,Philadelphia Phillies,789,812,1601,0.493,1969,Phillies Edge,Phillies lead even in Expos/Nationals era
+Milwaukee Brewers,Chicago Cubs,876,967,1843,0.475,1998,Cubs Edge,Cubs lead this newer NL Central matchup
+Milwaukee Brewers,St. Louis Cardinals,821,1134,1955,0.420,1998,Cards Dominate,Cardinals massively dominate this rivalry
+Colorado Rockies,LA Dodgers,763,828,1591,0.486,1993,Dodgers Edge,Dodgers lead this inter-divisional rivalry
+San Diego Padres,LA Dodgers,712,856,1568,0.454,1969,Dodgers Edge,Dodgers dominate this Southern California rivalry
