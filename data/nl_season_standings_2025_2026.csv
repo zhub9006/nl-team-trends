@@ -28,13 +28,18 @@ year,division,team,record,wins,losses,win_pct,notes
 2024,West,San Francisco Giants,82-80,82,80,.506,
 2024,West,Arizona Diamondbacks,81-81,81,81,.500,
 2024,West,Colorado Rockies,76-86,76,86,.469,
-2026,East,Atlanta Braves,56-41,56,41,.577,Still in progress
-2026,East,Miami Marlins,49-47,49,47,.510,
-2026,East,Atlanta Braves,56-41,56,41,.577,
+2026,East,Philadelphia Phillies,56-41,56,41,.577,
+2026,East,Atlanta Braves,49-47,49,47,.510,Still in progress
+2026,East,Washinton Nationals,47-50,47,50,.485,
+2026,East,Miami Marlins,43-54,43,54,.443,
+2026,East,New York Mets,41-56,41,56,.423,
 2026,Central,Milwaukee Brewers,61-37,61,37,.622,Leading the Central
 2026,Central,Chicago Cubs,52-46,52,46,.531,
 2026,Central,St. Louis Cardinals,50-48,50,48,.510,
+2026,Central,Cincinnati Reds,45-53,45,53,.459,
+2026,Central,Pittsburgh Pirates,39-59,39,59,.398,
 2026,West,L.A. Dodgers,62-36,62,36,.632,Leading the West
 2026,West,San Diego Padres,55-43,55,43,.561,
 2026,West,San Francisco Giants,50-48,50,48,.510,
-2026,West,Arizona Diamondbacks,46-52,46,52,.469
+2026,West,Arizona Diamondbacks,46-52,46,52,.469,
+2026,West,Colorado Rockies,38-60,38,60,.388,
