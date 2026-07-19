@@ -1,30 +1,19 @@
-team1,team2,team1_wins,team2_wins,total_games,team1_win_pct,era,notes
-LA Dodgers,Chicago Cubs,278,122,400,.695,All-time,Most lopsided NL rivalry
-St. Louis Cardinals,Chicago Cubs,1315,1185,2500,.525,All-time,Longest-running NL rivalry
-LA Dodgers,SF Giants,272,246,518,.523,All-time,Core rivalry through relocations
-Chicago Cubs,Cincinnati Reds,1209,1074,2283,.530,All-time,
-Atlanta Braves,NY Mets,290,237,527,.550,All-time,
-St. Louis Cardinals,Pittsburgh Pirates,1423,927,2350,.606,All-time,Most lopsided Cardinals H2H
-St. Louis Cardinals,LA Dodgers,508,437,945,.538,All-time,
-Pittsburgh Pirates,Chicago Cubs,1109,1269,2378,.466,All-time,
-SF Giants,Chicago Cubs,1295,1330,2625,.492,All-time,
-Cincinnati Reds,Atlanta Braves,1068,1338,2406,.441,All-time,
-NY Mets,Philadelphia Phillies,1054,1056,2110,.500,All-time,
-St. Louis Cardinals,Philadelphia Phillies,940,956,1896,.494,All-time,
-LA Dodgers,St. Louis Cardinals,510,435,945,.539,All-time,
-LA Dodgers,Atlanta Braves,410,385,795,.516,All-time,
-Chicago Cubs,St. Louis Cardinals,1175,1185,2360,.498,All-time,
-LA Dodgers,Philadelphia Phillies,400,380,780,.513,All-time,
-SF Giants,Atlanta Braves,380,420,800,.475,All-time,
-Chicago Cubs,Atlanta Braves,370,395,765,.484,All-time,
-LA Dodgers,San Diego Padres,310,190,500,.620,All-time,
-Chicago Cubs,Philadelphia Phillies,360,370,730,.493,All-time,
-St. Louis Cardinals,Atlanta Braves,345,320,665,.519,All-time,
-LA Dodgers,New York Mets,300,250,550,.545,All-time,
-Chicago Cubs,Los Angeles Dodgers,122,278,400,.305,All-time,
-Pittsburgh Pirates,Philadelphia Phillies,310,340,650,.477,All-time,
-Philadelphia Phillies,St. Louis Cardinals,956,940,1896,.505,All-time,
-Atlanta Braves,Philadelphia Phillies,375,350,725,.517,All-time,
-Cincinnati Reds,St. Louis Cardinals,1074,1315,2389,.450,All-time,
-Cincinnati Reds,Philadelphia Phillies,360,390,750,.480,All-time,
-New York Mets,Phillies,1056,1054,2110,.500,All-time
+team1,team2,t1_wins,t2_wins,t1_win_pct,total_games,first_season,last_season,notes
+LA Dodgers,Chicago Cubs,278,122,.695,400,1876,2026,NL largest H2H gap; Dodgers dominate Cubs
+St. Louis Cardinals,Chicago Cubs,1315,1185,.525,2500,1876,2026,Classic NL middle rivalry
+LA Dodgers,SF Giants,272,246,.523,518,1883,2026,NL West rivalry; Dodgers slight edge
+Chicago Cubs,Cincinnati Reds,1209,1074,.530,2283,1876,2026,Longest-running NL rivalry
+Atlanta Braves,NY Mets,290,237,.550,527,1969,2026,NL East rivalry; Braves edge
+St. Louis Cardinals,Pittsburgh Pirates,1423,927,.606,2350,1876,2026,Most lopsided H2H in NL; Cardinals dominate
+St. Louis Cardinals,LA Dodgers,508,437,.538,945,1883,2026,Cards have slight edge in cross-era rivalry
+Pittsburgh Pirates,Chicago Cubs,1109,1269,.466,2378,1876,2026,Pirates favored in H2H
+SF Giants,Chicago Cubs,1295,1330,.492,2625,1883,2026,Nearly even; Cubs slight edge
+Cincinnati Reds,Atlanta Braves,1068,1338,.441,2406,1876,2026,Most lopsided H2H for Reds; Braves dominate
+NY Mets,Philadelphia Phillies,1054,1056,.500,2110,1969,2026,Closest H2H in NL; nearly tied
+St. Louis Cardinals,Philadelphia Phillies,940,956,.494,1896,1883,2026,Nearly even rivalry
+Atlanta Braves,Philadelphia Phillies,1211,1038,.539,2249,1876,2026,Braves edge in H2H
+Chicago Cubs,SF Giants,1330,1295,.505,2625,1883,2026,Cubs edge in NL West rivalry
+LA Dodgers,Atlanta Braves,1142,1136,.503,2278,1876,2026,Nearly even; Dodgers slight edge
+Cincinnati Reds,Pittsburgh Pirates,1150,1270,.474,2420,1876,2026,Pirates edge H2H
+St. Louis Cardinals,Atlanta Braves,1167,1053,.527,2220,1876,2026,Cards edge in H2H
+LA Dodgers,Philadelphia Phillies,1205,1052,.534,2257,1876,2026,Dodgers edge H2H

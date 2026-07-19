@@ -1,21 +1,19 @@
-Record_Type,Team,Year,Value,Details
-Best Winning Percentage,Chicago Cubs,1906,116-36 (.763),155 games; 20 games ahead of 2nd; best NL season ever
-Best 162-Game WL,LA Dodgers,2022,111-51 (.685),Best full 162-game season in NL history
-Best Shortened Season,LA Dodgers,2020,43-17 (.717),60-game COVID season; best shortened-season record in NL
-Best 154-Game WL,Brooklyn Dodgers,1955,98-55 (.641),155 games; tied NL record at time
-Most Consecutive WS Titles (NL),St. Louis Cardinals,1926-1931,2,Not consecutive in modern era; 1926 & 1931
-Most Consecutive Pennants,St. Louis Cardinals,1942-1946,5,Most consecutive NL pennants in history
-Most Consecutive Div Titles,Atlanta Braves,1991-2005,14,Most consecutive division titles in all MLB
-Most NL Pennants (all-time),LA Dodgers,2025,26,Most NL pennants of all time; surpassed Giants 23
-Most WS Titles (NL),St. Louis Cardinals,2011,11,Most WS titles among NL teams
-Longest Championship Drought,N.Y. Mets,1986-2015,29,Between 1986 and 2015 NL pennant
-Longest Drought (current),Cincinnati Reds,1990-Present,35,Longest active NL drought for last WS title
-Longest Drought (Pennant),Cincinnati Reds,1995-Present,30,Longest active NL pennant drought
-Most Franchise Wins,San Francisco Giants,All-Time,11663,Most all-time NL franchise regular-season wins
-Most Franchise Losses,Philadelphia Phillies,All-Time,11435,Most all-time NL franchise regular-season losses
-Highest Win% (franchise),San Francisco Giants,All-Time,.535,Highest franchise winning percentage
-Most HR Single Season,Colorado Rockies,1998,268,Most HR by a single NL team in one season
-Best Win% modern franchise,San Diego Padres,.534,All-Time,Pacific bottom & but 100+ win seasons
-Most Playoff Appearances (all),Atlanta Braves,All-Time,many,Years with postseason 1991-2005;
-Most Shortened Season Wins,Brooklyn Dodgers,1968,100,2nd-most in 1969 expansion (also the pennant year)
-Best Win% 60-Game Season,LA Dodgers,2020,43-17 (.717),Best record in MLB's shortened 2020 season
+category,record,value,team,year,notes
+Season Record,Best W-L single season,116-36 (.763),Chicago Cubs,1906,Oldest NL record; mostly dead-ball era
+Season Record,Best 162-game season,111-51 (.685),Los Angeles Dodgers,2022,Modern era NL record
+Season Record,Best shortened season,43-17 (.717),Los Angeles Dodgers,2020,COVID-19 60-game season
+Season Record,Most wins in a season,116,Chicago Cubs,1906,Also most WS wins in a season for NL
+Season Record,Most losses in a season,130,Philadelphia Phillies,1941,120-game season
+Season Record,Most wins in 162-game season,111,Los Angeles Dodgers / Atlanta Braves,2022,Tied
+Season Record,Best road record,52-29 (.642),St. Louis Cardinals,2009,NL record for road wins
+Season Record,Longest winning streak,21,Washington Nationals,1892,Pre-modern era
+Franchise,Most career WS wins,100,St. Louis Cardinals,All-time,NL record
+Franchise,Most career WS appearances,20,St. Louis Cardinals,All-time,NL record
+Franchise,Most career wins all-time,11663,San Francisco Giants / St. Louis Cardinals,All-time,NL record
+Franchise,Most career games,22513,Chicago Cubs,All-time,NL record
+Franchise,Most division titles,18,Atlanta Braves,All-time,NL record
+Franchise,Longest championship drought,108 years,Chicago Cubs,1908-2016,Longest in North American sports
+Team,Most pennants without WS title,0,All active teams,—,Every team has at least 0 pennants
+Interleague,Best H2H vs AL (since 1997),—,AL teams lead 4870-4653,NL has .503 win rate vs AL
+H2H,Largest H2H gap (Dodgers vs Cubs),278-122 (.695),Dodgers over Cubs,1876-2026
+H2H,Smallest H2H gap (Mets vs Phillies),1054-1056 (.500),Nearly even,1876-2026
