@@ -1,63 +1,47 @@
 # Visualization Roadmap
 
-Planned charts and visualization outputs for the NL Team Trends project.
+This document outlines planned visualizations and recommended tools for the NL Team Trends project.
 
-## Planned Visualizations
+## Recommended Visualization Tools
 
-### Core Charts
-- **NL Wins by Season** (multi-line time series) — Track franchise performance across eras
-- **Win% Heatmap** (decade × team) — Identify dominant periods for each franchise
-- **Pennant Winners Timeline** (Gantt-style) — Visualize championship streaks and gaps
-- **Team-vs-Team H2H W-L Matrix** (interactive 15×15 heatmap) — Rivalry intensity mapping
-- **Championship Frequency Bar Chart** — Pennant counts and WS titles per team
-- **Championship Drought Visualization** — Length of droughts (108-year Cubs drought, etc.)
-- **Era Comparison** (grouped bar/line) — Compare team performance across decades
-- **Run Differential Over Time** — Year-by-year NL run differential trends
-- **Division Dominance** (stacked area chart) — Visualize division control over time
+| Tool | Best For | Setup | Link |
+|------|----------|-------|------|
+| Matplotlib | Static charts (bar, line, scatter) | pip install matplotlib | https://matplotlib.org |
+| Seaborn | Statistical heatmaps, distribution plots | pip install seaborn | https://seaborn.pydata.org |
+| Plotly | Interactive dashboards & hover tooltips | pip install plotly | https://plotly.com |
+| Streamlit | Full web app dashboards | pip install streamlit | https://streamlit.io |
+| Foliium | Geographic maps (team locations over time) | pip install folium | https://python-visualization.github.io/foliium |
+| WordCloud | Championship word clouds by era | pip install wordcloud | https://amueller.github.io/word_cloud |
 
-### Advanced Charts
-- **Shortened-Season vs Full-Season Win%** (bar chart) — 2020 COVID season comparison
-- **H2H Head-to-Head Heatmap** (matrix) — Dodgers vs Cubs (.695), Cardinals vs Cubs, etc.
-- **NL West Dominance** (timeline) — 8 straight NL West titles (2018-2025 Dodgers)
-- **Franchise Relocation Impact** (before/after) — Brooklyn → LA, NY Giants → SF
-- **Expansion Team Trajectory** — Marlins, Rockies, D-backs, Marlins win curves
-- **Championship Drought Bar Chart** — Years since last WS title
-- **Pythagorean Win Expectation vs Actual** — Scoring efficiency vs results
-- **Divisional W-L Trend** — East/Central/West win% over time
-- **Manager Tenure Impact** — Win% by manager decade overlap
+## Proposed Visualizations
 
-### Interactive Dashboards (Plotly/Dash)
-- Full NL Standings Explorer (1876-2026)
-- H2H W-L Matrix (15×15 interactive heatmap)
-- Championship Drought Tracker
-- Seasonal Win% Comparison Tool
+### 1. NL Win-Loss Trends Over Time (Line Chart)
+X-axis: Year (1876-2025), Y-axis: Win % or total wins, one line per team or per division. Highlight dominant eras.
 
-## Tools
-- **matplotlib, seaborn, plotly** (Python) — Static and interactive charts
-- **ggplot2, dplyr** (R) — Statistical visualization
-- **D3.js, Chart.js** (JavaScript) — Web-based interactive dashboards
-- **Pandas** (Python) — Data manipulation and aggregation
+### 2. Championship Hierarchy (Treemap or Sunburst)
+Each ring represents a level: League to Division to Championship outcome. Color by WS win vs loss.
 
-## Chart Naming Convention
-`charts/<year>-<chart_type>_<descriptor>.png`
+### 3. Head-to-Head Heatmap (Seaborn)
+15x15 matrix of all NL teams. Values: total H2H wins for team (row) vs opponent (column). Color gradient source: data/nl_team_vs_team_summary.csv.
 
-Example: `charts/2025-win_pct_by_franchise.png`
+### 4. Dynasty Timeline (Gantt Chart)
+Horizontal bars spanning years of sustained success. Group by franchise. Annotate with WS titles and pennants.
 
-## Quick Start
-```bash
-pip install -r requirements.txt
-jupyter notebook notebooks/explore_nl_data.ipynb
-python scripts/data_loader.py
-```
+### 5. WS Title Distribution (Bar Chart and Pie)
+How many WS titles each NL team holds. Compare NL vs AL. Source data: data/nl_all_time_records.csv.
 
-## Key Metrics for Visualization
-1. **Win% by Decade** — Grouped bar chart of NL team winning percentages by decade
-2. **Pennant Timeline** — Horizontal bar chart showing pennant wins per team over time
-3. **H2H Heatmap** — 15×15 heatmap of head-to-head win totals (all 105 pairs)
-4. **Era Dominance** — Stacked/ annotation chart showing championship cycles
-5. **Trend Lines** — Multi-line chart of team winning % over time (1876-2026)
-6. **Drought Map** — Time since last WS title per team, sorted
-7. **Division Hierarchy** — Heatmap of division winners by year
-8. **Relocation Impact** — Before/after franchise relocation performance
-9. **Expansion Trajectory** — Win% trajectory for 1993+ expansion teams
-10. **Pythagorean W-L** — Exp. W-L vs Actual W-L across seasons
+### 6. Division Dominance Heatmap
+Rows: divisions (NL East, NL Central, NL West). Columns: decades. Cells: which team dominated that division in that decade.
+
+### 7. Win % Distribution by Era (Box Plot)
+Show spread of win percentages within each era. Identify outlier seasons. Source data: data/nl_historical_performance.csv.
+
+### 8. Interleague H2H Trends (Line Chart)
+Track NL vs AL win ratio since 1997. Source data: data/nl_notable_records.csv.
+
+## Getting Started
+
+1. Install dependencies: pip install -r requirements.txt
+2. Download Lahman Database: wget https://github.com/chadwickbureau/baseballdatabank/archive/refs/heads/master.zip
+3. Load data: python -c "import pandas as pd; df = pd.read_csv('data/nl_all_time_records.csv')"
+4. Plot! See notebooks/01_eda_nl_standings.ipynb for a template
