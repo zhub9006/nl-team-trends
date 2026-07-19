@@ -11,6 +11,7 @@ This file indexes all data files in the `data/` directory and documents conventi
 | `nl_all_time_records.csv` | All-time NL franchise records (W/L/%, pennants, div titles) | CSV | 1876–2026 |
 | `nl_all_time_records_v2.csv` | Expanded all-time records (H2H + franchise wins + droughts) | CSV | 1876–2026 |
 | `nl_all_time_records_complete.csv` | Complete all-time NL records with H2H leads, droughts, detailed notes | CSV | 1876–2026 |
+| `nl_comparative_ranking.csv` | Comprehensive NL team rankings by WS titles, pennants, W-L%, franchise stats | CSV | 1876–2026 |
 | `nl_championships_ranking.csv` | NL teams ranked by WS titles, pennants, division titles, franchise stats | CSV | 1876–2026 |
 | `nl_championship_trends.csv` | Championship highlights by era | CSV | 1876–2026 |
 | `nl_championship_milestones.csv` | Key championship milestones by decade/era | CSV | 1876–2026 |
@@ -45,6 +46,7 @@ This file indexes all data files in the `data/` directory and documents conventi
 
 ## Recent Updates (July 2026)
 - Added `nl_all_time_records_complete.csv` with expanded franchise data including H2H leads vs top rivals, longest droughts, team notes, and detailed franchise history
+- Added `nl_comparative_ranking.csv` — clean comprehensive NL team ranking by WS titles, pennants, division titles, W-L%, and drought data
 - Added `nl_championships_ranking.csv` - NL teams ranked by WS titles, pennants, division titles, franchise stats
 - Added `nl_season_standings_2025_2026.csv` with 2025-2026 season partial standings by division with detailed records
 - All-time records enriched with franchise start, division, games, pennants, division titles
@@ -60,5 +62,5 @@ This file indexes all data files in the `data/` directory and documents conventi
 - LA Dodgers 3 WS titles in 5 years (2020, 2024, 2025); 26 pennants all-time
 - NL West dominance by Dodgers 2018-2025 (8 straight) documented
 - 150th anniversary of NL (founded 1876) — 2026 milestone marked
-- Data file count expanded to 16+ CSVs plus research README
+- Data file count expanded to 17+ CSVs plus research README
 - 2026 partial season data added (through mid-July)
