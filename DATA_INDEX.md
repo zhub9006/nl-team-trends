@@ -11,6 +11,7 @@ This file indexes all data files in the `data/` directory and documents conventi
 | `nl_all_time_records.csv` | All-time NL franchise records (W/L/%, pennants, div titles) | CSV | 1876–2026 |
 | `nl_all_time_records_v2.csv` | Expanded all-time records (H2H + franchise wins + droughts) | CSV | 1876–2026 |
 | `nl_all_time_records_complete.csv` | Complete all-time NL records with H2H leads, droughts, detailed notes | CSV | 1876–2026 |
+| `nl_championships_ranking.csv` | NL teams ranked by WS titles, pennants, division titles, franchise stats | CSV | 1876–2026 |
 | `nl_championship_trends.csv` | Championship highlights by era | CSV | 1876–2026 |
 | `nl_championship_milestones.csv` | Key championship milestones by decade/era | CSV | 1876–2026 |
 | `nl_notable_records.csv` | Key single-season & franchise records | CSV | 1876–2026 |
@@ -39,11 +40,12 @@ This file indexes all data files in the `data/` directory and documents conventi
 | Champs or Chumps | https://champsorchumps.us/mlb | 1876–present | Win% rankings, droughts, streaks, postseason records |
 | StatsCrew (NL) | https://www.statscrew.com/baseball/l-NL | 1876–present | NL rosters, standings & leaders |
 | Her Sports Corner | https://hersportscorner.com/3374-2/ | NL Central teams | All-time W-L, pennants, championships by NL Central team |
-| Grokipedia | https://grokipedia.com/page/List_of_all-time_Major_League_Baseball_win–loss_records | 1871–present | All-time MLB W-L records with era comparisons |
+| Grokipedia | https://grokipedia.com/page/List_of_all-time_Major_League_Baseball_win%E2%80%93loss_records | 1871–present | All-time MLB W-L records with era comparisons |
 | Wikipedia (NL Pennants) | https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners | 1876–present | Complete pennant winner list with WS results |
 
 ## Recent Updates (July 2026)
 - Added `nl_all_time_records_complete.csv` with expanded franchise data including H2H leads vs top rivals, longest droughts, team notes, and detailed franchise history
+- Added `nl_championships_ranking.csv` - NL teams ranked by WS titles, pennants, division titles, franchise stats
 - Added `nl_season_standings_2025_2026.csv` with 2025-2026 season partial standings by division with detailed records
 - All-time records enriched with franchise start, division, games, pennants, division titles
 - Added comprehensive H2H W-L matrix for all key NL rivalries
@@ -58,5 +60,5 @@ This file indexes all data files in the `data/` directory and documents conventi
 - LA Dodgers 3 WS titles in 5 years (2020, 2024, 2025); 26 pennants all-time
 - NL West dominance by Dodgers 2018-2025 (8 straight) documented
 - 150th anniversary of NL (founded 1876) — 2026 milestone marked
-- Data file count expanded to 15+ CSVs plus research README
+- Data file count expanded to 16+ CSVs plus research README
 - 2026 partial season data added (through mid-July)
