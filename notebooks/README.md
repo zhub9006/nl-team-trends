@@ -1,33 +1,44 @@
-# NL Team Trends - Analysis Notebooks
+# NL Team Trends — Analysis Notebooks
 
-Jupyter notebooks for NL historical performance analysis.
+This directory contains Jupyter Notebooks for exploring and visualizing National League team performance data.
 
-## Purpose
-
-Notebooks in this directory will contain:
-1. Data exploration & cleaning
-2. Visualization scripts
-3. Statistical modeling (regression, Elo, Pythagorean expectation)
-4. Era-specific deep dives
-
-## Setup
-
-```bash
-pip install jupyter pandas matplotlib numpy seaborn
-jupyter notebook
-```
-
-## Planned Notebooks
+## Available Notebooks
 
 | Notebook | Description |
 |----------|-------------|
-| 01_explore_all_time_records.ipynb | Explore franchise win-loss patterns |
-| 02_pennant_timeline.ipynb | Pennant winners by decade visualization |
-| 03_seasonal_trends.ipynb | Year-by-year performance trajectory analysis |
-| 04_division_impact.ipynb | Divisional realignment effect analysis |
-| 05_era_comparison.ipynb | Dead Ball vs Live Ball vs Modern era comparison |
-| 06_forecasting.ipynb | Simple win% forecasting model |
+| `01_eda_nl_standings.ipynb` | Exploratory data analysis of NL season-by-season standings |
+| `02_championship_trends.ipynb` | Championship and dynasty analysis by era |
+| `03_h2h_rivalries.ipynb` | Head-to-head rivalry heatmaps and trend lines |
+| `04_franchise_comparison.ipynb` | Franchise win-loss comparison across eras |
+| `05_win_pct_evolution.ipynb` | Win percentage evolution over time by division |
 
-## Data Location
+## Quick Start
 
-Notebooks read from `../data/*.csv` and write outputs to `../visualizations/output/`
+1. Install dependencies:
+   ```bash
+   pip install -r ../requirements.txt
+   ```
+
+2. Launch Jupyter:
+   ```bash
+   jupyter notebook
+   ```
+
+3. Open a notebook and follow the guided analysis steps.
+
+## Data Files Used
+
+All notebooks use CSV files from the `data/` directory:
+- `nl_historical_performance.csv` — Season-by-season standings
+- `nl_all_time_records.csv` — Franchise records
+- `nl_championship_trends.csv` — Era highlights
+- `nl_team_vs_team_summary.csv` — H2H matrices
+- `nl_recent_standings.csv` — Recent divisional data
+
+## Suggested Workflow
+
+1. **Load & clean** → Read CSV, handle era-specific schedule lengths
+2. **Explore** → Summary stats, distributions, missing data
+3. **Visualize** → Line charts (trends), heatmaps (H2H), bar charts (comparisons)
+4. **Analyze** → Dynasty detection, drought analysis, era comparisons
+5. **Conclude** → Key takeaways and hypotheses for further research
