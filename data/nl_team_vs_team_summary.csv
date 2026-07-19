@@ -1,19 +1,13 @@
-team1,team2,t1_wins,t2_wins,t1_win_pct,total_games,first_season,last_season,notes
-LA Dodgers,Chicago Cubs,278,122,.695,400,1876,2026,NL largest H2H gap; Dodgers dominate Cubs
-St. Louis Cardinals,Chicago Cubs,1315,1185,.525,2500,1876,2026,Classic NL middle rivalry
-LA Dodgers,SF Giants,272,246,.523,518,1883,2026,NL West rivalry; Dodgers slight edge
-Chicago Cubs,Cincinnati Reds,1209,1074,.530,2283,1876,2026,Longest-running NL rivalry
-Atlanta Braves,NY Mets,290,237,.550,527,1969,2026,NL East rivalry; Braves edge
-St. Louis Cardinals,Pittsburgh Pirates,1423,927,.606,2350,1876,2026,Most lopsided H2H in NL; Cardinals dominate
-St. Louis Cardinals,LA Dodgers,508,437,.538,945,1883,2026,Cards have slight edge in cross-era rivalry
-Pittsburgh Pirates,Chicago Cubs,1109,1269,.466,2378,1876,2026,Pirates favored in H2H
-SF Giants,Chicago Cubs,1295,1330,.492,2625,1883,2026,Nearly even; Cubs slight edge
-Cincinnati Reds,Atlanta Braves,1068,1338,.441,2406,1876,2026,Most lopsided H2H for Reds; Braves dominate
-NY Mets,Philadelphia Phillies,1054,1056,.500,2110,1969,2026,Closest H2H in NL; nearly tied
-St. Louis Cardinals,Philadelphia Phillies,940,956,.494,1896,1883,2026,Nearly even rivalry
-Atlanta Braves,Philadelphia Phillies,1211,1038,.539,2249,1876,2026,Braves edge in H2H
-Chicago Cubs,SF Giants,1330,1295,.505,2625,1883,2026,Cubs edge in NL West rivalry
-LA Dodgers,Atlanta Braves,1142,1136,.503,2278,1876,2026,Nearly even; Dodgers slight edge
-Cincinnati Reds,Pittsburgh Pirates,1150,1270,.474,2420,1876,2026,Pirates edge H2H
-St. Louis Cardinals,Atlanta Braves,1167,1053,.527,2220,1876,2026,Cards edge in H2H
-LA Dodgers,Philadelphia Phillies,1205,1052,.534,2257,1876,2026,Dodgers edge H2H
+team_1,team_2,total_games,team_1_wins,team_2_wins,team_1_win_pct,notable_trend
+LA Dodgers,Chicago Cubs,400,278,122,0.695,Dodgers dominate Cubs head-to-head by wide margin
+St. Louis Cardinals,Chicago Cubs,2500,1315,1185,0.525,Close classic rivalry; slight Cardinals edge
+LA Dodgers,SF Giants,518,272,246,0.523,Narrow edge in suburban rivalry; Giants had edge pre-relocation
+Chicago Cubs,Cincinnati Reds,2283,1209,1074,0.530,Cubs hold consistent edge over Reds in long history
+Atlanta Braves,New York Mets,527,290,237,0.550,Braves advantage particularly strong in 1990s-2000s
+St. Louis Cardinals,Pittsburgh Pirates,2350,1423,927,0.606,Cardinals have significant historical dominance over Pirates
+St. Louis Cardinals,LA Dodgers,945,508,437,0.538,Cardinals edge in interleague series
+Pittsburgh Pirates,Chicago Cubs,2378,1109,1269,0.466,Pirates struggle against Cubs historically
+SF Giants,Chicago Cubs,2625,1295,1330,0.492,Very even rivalry; Cubs slight edge
+Cincinnati Reds,Atlanta Braves,2406,1068,1338,0.441,Braves have strong edge over Reds
+NY Mets,Philadelphia Phillies,2110,1054,1056,0.500,Extremely even rivalry; essentially 50-50
+St. Louis Cardinals,Philadelphia Phillies,1896,940,956,0.494,Phillies hold slight edge over Cardinals

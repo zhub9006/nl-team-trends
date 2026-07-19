@@ -1,76 +1,71 @@
-year,team,league,wins,losses,win_pct,finish,notes
-1876,Boston Red Caps,NL,70,20,.778,1st,First NL season; 1st place
-1876,Chicago White Stockings,NL,52,14,.788,1st,First NL season; 1st
-1876,Cincinnati Reds,NL,65,21,.756,1st,First NL season; 1st
-1876,Brooklyn Mutuals,NL,44,11,.800,1st,First NL season; dropped out
-1876,Louisville Grays,NL,30,30,.500,3rd,First NL season
-1876,Hartford Dark Blues,NL,28,20,.583,2nd,First NL season
-1877,Boston Red Caps,NL,42,18,.700,1st,NYG newspaper champion
-1877,Chicago White Stockings,NL,26,13,.667,2nd,
-1877,New York Giants,NL,28,28,.500,3rd,
-1877,Cincinnati Reds,NL,15,42,.263,4th,
-1877,Brooklyn Hartfords,NL,20,32,.385,5th,
-1877,St. Louis Brown Stockings,NL,18,21,.462,6th,
-1877,Louisville Grays,NL,18,36,.333,7th,
-1878,Boston Red Caps,NL,40,32,.556,1st,
-1879,Boston Red Caps,NL,46,40,.536,1st,
-1879,Providence Grays,NL,59,25,.702,2nd,WS champion
-1880,Chicago White Stockings,NL,65,21,.756,1st,
-1881,Chicago White Stockings,NL,56,28,.667,1st,
-1882,Providence Grays,NL,52,20,.722,1st,
-1883,Providence Grays,NL,58,26,.690,1st,
-1884,Providence Grays,NL,84,28,.750,1st,WS champion
-1885,Chicago White Stockings,NL,87,25,.777,1st,WS champion
-1886,Chicago White Stockings,NL,90,26,.774,1st,WS champion
-1887,Detroit Wolverines,NL,79,45,.638,1st,WS champion
-1888,New York Gothams,NL,84,47,.641,1st,WS champion
-1889,Brooklyn Bridegrooms,NL,83,28,.748,1st,AA champion (tie)
-1890,Boston Beaneaters,NL,76,57,.571,1st,
-1890,Brooklyn Bridegrooms,NL,86,36,.705,2nd,
-1891,Boston Beaneaters,NL,87,51,.630,1st,
-1901,Chicago Cubs,NL,110,51,.684,1st,
-1902,Pittsburgh Pirates,NL,103,36,.741,1st,
-1903,Chicago Cubs,NL,104,49,.680,1st,
-1905,New York Giants,NL,105,48,.686,1st,WS champion
-1906,Chicago Cubs,NL,116,36,.763,1st,
-1907,Chicago Cubs,NL,107,45,.704,1st,WS champion
-1908,Chicago Cubs,NL,99,55,.643,1st,WS champion
-1913,New York Giants,NL,101,51,.664,1st,
-1915,Philadelphia Phillies,NL,111,42,.724,1st,1st Phillies pennant
-1916,Philadelphia Phillies,NL,91,62,.595,1st,
-1920,Brooklyn Robins,NL,93,61,.604,1st,1st pennant in 19 years
-1930,St. Louis Cardinals,NL,92,62,.597,1st,
-1941,Brooklyn Dodgers,NL,103,51,.669,1st,Lost WS to Yankees
-1945,Chicago Cardinals,NL,106,48,.688,1st,
-1950,Philadelphia Phillies,NL,91,63,.591,1st,WS champion
-1951,New York Giants,NL,103,51,.669,1st,3rd place to 1st; NL pennant
-1954,New York Giants,NL,97,57,.630,1st,WS champion
-1955,Brooklyn Dodgers,NL,98,55,.641,1st,1st Dodgers pennant in 21 years
-1959,Los Angeles Dodgers,NL,88,68,.564,1st,WS champion
-1963,Los Angeles Dodgers,NL,99,63,.611,1st,WS champion
-1966,Los Angeles Dodgers,NL,95,67,.586,1st,
-1969,New York Mets,NL,100,62,.617,1st,Miracle Mets; WS champion
-1973,New York Mets,NL,82,79,.509,1st,
-1975,Cincinnati Reds,NL,108,54,.667,1st,Big Red Machine; WS champion
-1976,Cincinnati Reds,NL,102,60,.630,1st,WS champion
-1977,Philadelphia Phillies,NL,101,61,.623,1st,
-1978,Pittsburgh Pirates,NL,88,73,.547,1st,
-1979,Pittsburgh Pirates,NL,98,64,.605,1st,WS champion
-1981,Montreal Expos,NL,34,22,.607,1st,1st EC title (strike)
-1984,Chicago Cubs,NL,96,65,.596,1st,
-1986,New York Mets,NL,108,54,.667,1st,WS champion
-1989,Chicago Cubs,NL,93,69,.574,1st,
-1993,Philadelphia Phillies,NL,97,65,.599,1st,
-2001,Arizona Diamondbacks,NL,92,70,.568,1st,WS champion
-2003,Florida Marlins,NL,91,71,.562,1st,1st Marlins pennant; WS champion
-2004,St. Louis Cardinals,NL,105,57,.648,1st,
-2005,St. Louis Cardinals,NL,100,62,.617,1st,
-2006,St. Louis Cardinals,NL,83,78,.516,1st,Wild Card; WS champion
-2012,San Francisco Giants,NL,94,68,.580,1st,Wild Card; WS champion
-2014,San Francisco Giants,NL,88,74,.543,1st,Wild Card; WS champion
-2016,Chicago Cubs,NL,103,58,.640,1st,Ended 108-year drought; WS champion
-2020,LA Dodgers,NL,43,17,.717,1st,Shortened season; WS champion
-2021,Atlanta Braves,NL,88,73,.547,1st,WS champion
-2023,Atlanta Braves,NL,104,58,.642,1st,Best record; lost WS to Rangers
-2024,LA Dodgers,NL,98,64,.605,1st,WS champion
-2025,LA Dodgers,NL,96,66,.593,1st,WS champion
+year,pennant_winner,ws_opponent,ws_result,ws_yr,regular_season_wins,regular_season_losses
+1876,Chicago White Stockings,Boston Red Caps (AA),Won,—,52,14
+1877,Boston Red Caps,St. Louis Browns (AA),Won,—,42,18
+1878,Boston Red Caps,Indianapolis Blues (AA),Won,—,41,21
+1879,Providence Grays,Boston Red Caps (AA),Won,—,59,25
+1880,Chicago White Stockings,Richmond Virginians (AA),Won,—,67,17
+1881,Chicago White Stockings,St. Louis Browns (AA),Won,—,56,28
+1882,Chicago White Stockings,Pittsburgh Alleghenys (AA),Won,—,55,29
+1883,Providence Grays,Philadelphia Athletics (AA),Won,—,58,32
+1884,Providence Grays,New York Metropolitans (AA),Won,—,84,28
+1885,Chicago White Stockings,St. Louis Browns (AA),Lost,—,87,29
+1886,Chicago White Stockings,St. Louis Browns (AA),Lost,—,90,34
+1887,Detroit Wolverines,St. Louis Browns (AA),Won,1887,79,43
+1888,New York Giants,St. Louis Browns (AA),Won,1888,84,47
+1889,New York Giants,Baltimore Orioles (AA),Won,1889,83,43
+1890,Brooklyn Bridegrooms,Louisville Colonels (AA),Won,1890,86,43
+1891,Boston Beaneaters,Minnesota Millers (AA),Lost,—,87,51
+1892,Boston Beaneaters,Cleveland Spiders,Lost (tie-break),—,102,48
+1893,Boston Beaneaters,Cleveland Spiders,Won (tie-break),—,86,43
+1894,Baltimore Orioles,Virginia Senators (AA),Won,—,89,39
+1895,Baltimore Orioles,Louisville Colonels (AA),Lost,—,87,43
+1896,Baltimore Orioles,Chicago Colts (AL),Won,—,90,39
+1897,Baltimore Orioles,Cleveland Spiders,Won,—,90,39
+1898,Boston Beaneaters,St. Louis Browns (AA),Won,—,102,48
+1899,Boston Beaneaters,Brooklyn Superbas,Won,—,101,48
+1900,Brooklyn Superbas,Pittsburgh Pirates,Won,—,82,54
+1901,Chicago Cubs,New York Giants,Won,—,83,53
+1902,Pittsburgh Pirates,Chicago Cubs,Won,—,103,36
+1903,Boston Beaneaters,Pittsburgh Pirates,Tied (no WS),—,78,64
+1904,New York Giants,Boston Americans (AL),No WS (declined),—,106,47
+1905,New York Giants,Philadelphia Athletics (AL),Won,1905,105,48
+1906,Chicago Cubs,Chicago White Sox (AL),Won,1906,116,36
+1907,Chicago Cubs,Detroit Tigers (AL),Won,1907,107,45
+1908,Chicago Cubs,Detroit Tigers (AL),Won,1908,99,55
+1909,Pittsburgh Pirates,Detroit Tigers (AL),Won,1909,110,42
+1910,Philadelphia Athletics (AL),Chicago Cubs,Lost,1910,91,63
+1911,Philadelphia Athletics (AL),New York Giants,Lost,1911,101,50
+1912,Boston Red Sox (AL),New York Giants,Lost,1912,103,48
+1913,Philadelphia Athletics (AL),New York Giants,Lost,1913,96,57
+1914,Boston Braves,Philadelphia Athletics (AL),Won,1914,94,59
+1915,Philadelphia Phillies,Boston Red Sox (AL),Lost,1915,90,62
+1916,Boston Red Sox (AL),Brooklyn Robins,Lost,1916,91,63
+1917,Chicago White Sox (AL),New York Giants,Lost,1917,100,54
+1918,Boston Red Sox (AL),Chicago Cubs,Won,1918,84,45
+1919,Cincinnati Reds,Chicago White Sox (AL),Won,1919,96,44
+1920,Cleveland Indians (AL),Brooklyn Robins,Lost,1920,98,56
+1921,New York Giants,New York Yankees (AL),Lost,1921,94,59
+1922,New York Giants,New York Yankees (AL),Won,1922,93,61
+1923,New York Yankees (AL),New York Giants,Lost,1923,98,55
+1924,Washington Senators (AL),New York Giants,Won,1924,92,62
+1925,Pittsburgh Pirates,Washington Senators (AL),Won,1925,95,58
+1926,St. Louis Cardinals,New York Yankees (AL),Won,1926,89,65
+1927,New York Yankees (AL),St. Louis Cardinals,Lost,1927,110,44
+1928,New York Yankees (AL),St. Louis Cardinals,Lost,1928,101,53
+1929,Philadelphia Athletics (AL),Chicago Cubs,Lost,1929,104,49
+1930,Philadelphia Athletics (AL),St. Louis Cardinals,Lost,1930,102,52
+1931,Philadelphia Athletics (AL),St. Louis Cardinals,Lost,1931,107,45
+1932,New York Yankees (AL),Chicago Cubs,Lost,1932,107,48
+1933,New York Giants,Washington Senators (AL),Won,1933,91,61
+1934,St. Louis Cardinals,Detroit Tigers (AL),Won,1934,95,58
+1935,Detroit Tigers (AL),Chicago Cubs,Lost,1935,93,60
+1936,New York Yankees (AL),New York Giants,Lost,1936,102,51
+1937,New York Yankees (AL),New York Giants,Lost,1937,102,52
+1938,New York Yankees (AL),Chicago Cubs,Lost,1938,99,53
+1939,Cincinnati Reds,New York Yankees (AL),Lost,1939,97,57
+1940,Cincinnati Reds,Detroit Tigers (AL),Won,1940,100,53
+1941,New York Yankees (AL),Brooklyn Dodgers,Lost,1941,102,50
+1942,St. Louis Cardinals,New York Yankees (AL),Won,1942,106,48
+1943,St. Louis Cardinals,New York Yankees (AL),Won,1943,105,49
+1944,St. Louis Cardinals,St. Louis Browns (AL),Won,1944,105,49
+1945,Detroit Tigers (AL),Chicago Cubs,Lost,1945,88,65
