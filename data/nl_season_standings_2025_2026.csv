@@ -1,0 +1,31 @@
+Year,Season,Team,Division,Record,W,L,WinPct,Penants,WS_Champion,Division_Winner,Wild_Card,Notes
+2026,NL East,Braves,East,56-41,.577,No,No,Yes,NL East leader through mid-July
+2026,NL East,Phillies,East,55-44,.556,No,No,,2nd place NL East
+2026,NL East,Marlins,East,52-47,.525,No,No,,3rd place NL East
+2026,NL East,Nationals,East,49-50,.495,No,No,,5th place NL East (last)
+2026,NL East,Mets,East,41-58,.414,No,No,,Last place NL East
+2026,NL Central,Brewers,Central,61-37,.622,Yes,No,Yes,Division leader through mid-July
+2026,NL Central,Cubs,Central,55-43,.561,No,No,,2nd place NL Central
+2026,NL Central,Cardinals,Central,51-46,.526,No,No,,3rd place NL Central
+2026,NL Central,Pirates,Central,51-48,.515,No,No,,4th place NL Central
+2026,NL Central,Reds,Central,44-53,.454,No,No,,5th place NL Central (last)
+2026,NL West,Dodgers,West,62-36,.633,Yes,No,Yes,Division leader through mid-July; NL West dominance continues
+2026,NL West,Diamondbacks,West,50-48,.510,No,No,,2nd place NL West
+2026,NL West,Padres,West,48-50,.490,No,No,,3rd place NL West
+2026,NL West,Giants,West,42-56,.429,No,No,,4th place NL West
+2026,NL West,Rockies,West,40-60,.400,No,No,,Last place NL West (league worst so far)
+2025,NL East,Phillies,East,96-66,.593,Yes,No,No,2025 NL East champions; lost NLDS
+2025,NL East,Mets,East,83-79,.512,No,No,,3rd place NL East
+2025,NL East,Marlins,East,79-83,.488,No,No,,4th place NL East
+2025,NL East,Braves,East,76-86,.469,No,No,,5th place NL East
+2025,NL East,Nationals,East,66-96,.407,No,No,,Last place NL East
+2025,NL Central,Brewers,Central,97-65,.599,Yes,No,No,2025 NL Central champions; lost NLCS
+2025,NL Central,Cubs,Central,92-70,.568,No,No,,3rd place NL Central
+2025,NL Central,Reds,Central,83-79,.512,No,No,,4th place NL Central
+2025,NL Central,Cardinals,Central,78-84,.481,No,No,,5th place NL Central
+2025,NL Central,Pirates,Central,71-91,.438,No,No,,Last place NL Central
+2025,NL West,Dodgers,West,93-69,.574,Yes,Yes,Yes,2025 NL West champions; 2025 NL champions; beat Toronto in WS
+2025,NL West,Padres,West,90-72,.556,No,No,,2nd place NL West
+2025,NL West,Giants,West,81-81,.500,No,No,,3rd place NL West
+2025,NL West,Diamondbacks,West,80-82,.494,No,No,,4th place NL West
+2025,NL West,Rockies,West,43-119,.265,No,No,,Last place NL West; worst record in NL/MLB
