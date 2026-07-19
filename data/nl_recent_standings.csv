@@ -1,13 +1,14 @@
-Year,Season,Team,Division,Record,W,L,WinPct,Penants,WS_Champion,Division_Winner,Wild_Card
-2014,162,L.A. Dodgers,West,94-68,.580,,SF Giants,LA Dodgers,N/A
-2015,162,N.Y. Mets,East,90-72,.556,,Kansas City (AL),N.Y. Mets,N/A
-2016,162,Chicago Cubs,Central,103-58,.642,,Chicago Cubs (AL),Chicago Cubs,SF Giants
-2017,162,L.A. Dodgers,West,104-58,.642,,Houston (AL),L.A. Dodgers,N.A.
-2018,162,L.A. Dodgers,West,92-71,.564,,Boston (AL),L.A. Dodgers,N.A.
-2019,162,Wash. Nationals,East,93-69,.574,,Washington Nationals,Atlanta (AL),Milwaukee
-2020,60,L.A. Dodgers,West,43-17,.717,,L.A. Dodgers,Atlanta (AL),Tampa Bay (AL)
-2021,162,Atlanta Braves,East,88-73,.547,,Atlanta Braves,Houston (AL),Milwaukee
-2022,162,St. Louis,Central,93-69,.573,,Houston (AL),St. Louis,Philadelphia
-2023,162,Atlanta Braves,East,104-58,.642,,Texas Rangers (AL),Atlanta Braves,N.A. (Phila W-C)
-2024,162,L.A. Dodgers,West,98-64,.605,,L.A. Dodgers,N.Y. Yankees (AL),Phoenix (AL)
-2025,162,L.A. Dodgers,West,96-66,.593,,L.A. Dodgers,Toronto (AL),Milwaukee (Wild)
+year,nl_champion,ws_result,ws_opponent,ws_result_detail,nl_east_winner,nl_central_winner,nl_west_winner,notes
+2025,LA Dodgers,Won,Detroit Tigers,4-3,Philadelphia Phillies,Milwaukee Brewers,Phil (96-66) / Mil (97-65) / LAD (96-66),Back-to-back titles; Dodgers 2nd straight WS
+2024,LA Dodgers,Won,New York Yankees,4-1,Atlanta Braves,Milwaukee Brewers,LA Dodgers (98-64),Back-to-back titles; record W-L for NL champion
+2023,Atlanta Braves,Lost,TX Rangers,TX won 4-1,Atlanta Braves (104-58),Milwaukee Brewers,LA Dodgers (100-62),Braves best record in MLB; TX won WS
+2022,St. Louis Cardinals,Lost,HOU,HOE won 4-1,Atlanta Braves (101-61),St. Louis Cardinals (93-69),LA Dodgers (111-51),Dodgers 111 wins; Cards NL champions
+2021,Atlanta Braves,Won,HOU,ATL won 4-2,Atlanta Braves (88-73),Milwaukee Brewers (95-67),LA Dodgers (106-56),Braves swept to title
+2020,LA Dodgers,Won,Tampa Bay,LAD won 4-2,Atlanta Braves (35-25),Cincinnati Reds (31-29),LA Dodgers (43-17),Shortened season; Dodgers won WS
+2019,Washington Nationals,Won,HOU,WAS won 4-3,Atlanta Braves (97-65),St. Louis Cardinals (91-71),LA Dodgers (106-56),Nationals rally to title
+2018,LA Dodgers,Lost,BOS,BOS won 4-1,Atlanta Braves (90-72),Milwaukee Brewers (96-67),LA Dodgers (92-71),Dodgers won NL West; Red Sox WS
+2017,LA Dodgers,Lost,HOU,HOE won 4-3,Washington Nationals,Chicago Cubs,LA Dodgers (104-58),Dodgers-Cubs NLCS; HOU WS
+2016,Chicago Cubs,Won,Indians,CHC won 4-3,Washington Nationals,Chicago Cubs (103-58),LA Dodgers (91-71),Cubs end 108-year drought
+2015,Chicago Cubs,Lost,KC,KC won 4-1,New York Mets,St. Louis Cardinals,LA Dodgers (92-70),Mets surprise NLCS run
+2014,San Francisco Giants,Won,Royals,SFG won 4-3,Washington Nationals,St. Louis Cardinals,LA Dodgers (94-68),Giants 3rd title in 5 years
+2013,St. Louis Cardinals,Lost,BOS,BOS won 4-2,Atlanta Braves (96-66),St. Louis Cardinals (97-65),LA Dodgers (92-70),Cardinals NL title; BOS WS
