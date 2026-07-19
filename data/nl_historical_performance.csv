@@ -1,151 +1,149 @@
-Year,NL_Champion,Champion_Wins,Champion_Losses,Champion_WinPct,Runner_Up,WS_Winner,Key_Event,Era
-1876,Chicago White Stockings,52,14,.743,Boston Red Stockings,No WS,Inaugural NL season;Best record in NL history,Founding Era
-1877,Boston Red Caps,41,17,.707,Chicago White Stockings,No WS,,Founding Era
-1878,Boston Red Caps,41,21,.661,Buffalo Bisons,No WS,,Founding Era
-1879,Providence Grays,59,25,.702,Boston Red Caps,No WS,,Founding Era
-1880,Chicago White Stockings,67,17,.798,Boston Red Caps,No WS,Best NL winning% in 85-game season,Founding Era
-1881,Chicago White Stockings,56,28,.667,Providence Grays,No WS,,Founding Era
-1882,Chicago White Stockings,55,25,.688,Troy Trojans,No WS,Chicago's 4th pennant in 7 years,Founding Era
-1883,Boston,82,40,.672,Providence Grays,No WS,,Founding Era
-1884,Providence Grays,84,28,.750,New York Giants,No WS,Best 112-game season in NL,Founding Era
-1885,Chicago White Stockings,87,25,.777,Providence Grays,No WS,,Founding Era
-1886,Chicago White Stockings,90,34,.726,Detroit Wolverines,No WS,1st 126-game season,Founding Era
-1887,Detroit Wolverines,79,45,.639,Chicago White Stockings,No WS,Only AL team in NL-era season,Founding Era
-1888,New York Giants,84,47,.641,Chicago White Stockings,No WS,1st 126-game season for Giants,Founding Era
-1889,New York Giants,83,43,.659,Boston,No WS,,Founding Era
-1890,Brooklyn,86,48,.643,Chicago,No WS,,Founding Era
-1891,Boston,87,51,.630,Chicago,No WS,1st 126-game season with split,Founding Era
-1892,Boston,102,48,.680,Chicago,No WS,1st 154-game season;84-46 split half,Founding Era
-1893,Boston,86,43,.667,Chicago,No WS,,Founding Era
-1894,Baltimore,88,39,.693,Boston,No WS,Baltimore's only NL pennant,Founding Era
-1895,Baltimore,87,43,.669,Cleveland Spiders,No WS,,Founding Era
-1896,Cleveland Spiders,80,48,.625,Baltimore,No WS,,Founding Era
-1897,Boston,93,39,.705,Baltimore,No WS,,Founding Era
-1898,Boston,102,47,.685,Baltimore,No BS,4th straight Boston NL pennant,Founding Era
-1899,Boston,102,47,.685,Baltimore,No WS,Boston's 5th pennant in 6 years,Founding Era
-1900,Brooklyn,82,54,.603,Boston,No WS,NL's last season before AL,Transition Era
-1901,Chicago Cubs,93,55,.627,Boston,No WS,1st Cubs pennant in modern era,Transition Era
-1902,Pittsburgh Pirates,103,36,.743,Brooklyn,No WS,Pirates' 1st NL pennant,Transition Era
-1903,New York Giants,105,48,.686,Pittsburgh,New York Giants,1st World Series played,Modern Era
-1904,New York Giants,96,56,.630,Chicago Cubs,No WS,Giants refuse to play in WS,Modern Era
-1905,New York Giants,105,48,.686,Philadelphia,New York Giants,1st official WS champion,Modern Era
-1906,Chicago Cubs,116,36,.763,New York Giants,WORLD SERIES NOT PLAYED,All-time best MLB winning% (.763);20 games ahead,Modern Era
-1907,Chicago Cubs,107,45,.704,Detroit Tigers,Detroit Tigers,AL won WS;Cubs best NL,Modern Era
-1908,Chicago Cubs,99,55,.645,Pittsburgh Pirates,Chicago Cubs,Last Cubs WS title until 2016,Modern Era
-1909,Pittsburgh Pirates,110,42,.721,Chicago Cubs,Detroit Tigers,Pirates' 2nd NL pennant,Modern Era
-1910,Chicago Cubs,104,50,.675,Pittsburgh Pirates,Philadelphia Athletics,2nd straight Cubs pennant,Modern Era
-1911,New York Giants,99,54,.647,Chicago Cubs,Philadelphia Athletics,,Modern Era
-1912,New York Giants,103,48,.680,Chicago Cubs,Boston Red Sox,,Modern Era
-1913,New York Giants,96,57,.627,Philadelphia,Boston Red Sox,,Modern Era
-1914,Boston Braves,94,59,.614,New York Giants,Boston Red Sox,Miracle Braves: 5th to champion,Modern Era
-1915,Philadelphia Phillies,90,62,.593,Boston Braves,Boston Red Sox,1st Phillies NL pennant,Modern Era
-1916,Brooklyn Robins,94,60,.610,New York Giants,Boston Red Sox,,Modern Era
-1917,New York Giants,98,56,.635,Brooklyn Robins,Chicago White Sox,,Modern Era
-1918,Chicago Cubs,84,45,.651,New York Giants,Red Sox,WWI shortened season (128 G),Modern Era
-1919,Cincinnati Reds,96,44,.686,Brooklyn Robins,Cincinnati Reds,1st Reds WS title;Black Sox scandal,Modern Era
-1920,Brooklyn Robins,93,61,.602,New York Giants,Cleveland Indians,,Modern Era
-1921,New York Giants,94,59,.614,St. Louis Cardinals,New York Giants,,Modern Era
-1922,New York Giants,93,61,.604,St. Louis Cardinals,New York Giants,3rd straight Giants pennant,Modern Era
-1923,New York Giants,95,58,.619,Cincinnati Reds,New York Yankees,,Modern Era
-1924,New York Giants,93,60,.608,Pittsburgh Pirates,Washington Senators,,Modern Era
-1925,Pittsburgh Pirates,95,58,.621,New York Giants,Pittsburgh Pirates,,Modern Era
-1926,St. Louis Cardinals,89,65,.578,Chicago Cubs,St. Louis Cardinals,1st Cards WS title;Hornsby .401 BA,Modern Era
-1927,New York Giants,92,62,.597,Pittsburgh Pirates,New York Yankees,,Modern Era
-1928,New York Giants,93,61,.604,St. Louis Cardinals,New York Yankees,,Modern Era
-1929,Chicago Cubs,98,54,.645,Pittsburgh Pirates,Philadelphia Athletics,,Modern Era
-1930,St. Louis Cardinals,92,62,.597,Chicago Cubs,Philadelphia Athletics,,Modern Era
-1931,St. Louis Cardinals,101,53,.656,Chicago Cubs,St. Louis Cardinals,Dizzy Dean 30 wins,Modern Era
-1932,Chicago Cubs,90,64,.584,St. Louis Cardinals,New York Yankees,,Modern Era
-1933,New York Giants,91,61,.599,Pittsburgh Pirates,New York Giants,1st All-Star Game held,Modern Era
-1934,St. Louis Cardinals,105,49,.682,New York Giants,St. Louis Cardinals,Dizzy Dean 30W again,Modern Era
-1935,Chicago Cubs,100,54,.649,St. Louis Cardinals,Detroit Tigers,,Modern Era
-1936,St. Louis Cardinals,87,67,.565,New York Giants,New York Yankees,,Modern Era
-1937,New York Giants,92,62,.597,Chicago Cubs,New York Yankees,,Modern Era
-1938,New York Giants,83,67,.552,Pittsburgh Pirates,New York Yankees,1st night game at Polo Grounds,Modern Era
-1939,New York Giants,106,45,.702,Cincinnati Reds,Cincinnati Reds,Record 106 wins for Giants,Modern Era
-1940,New York Giants,103,51,.670,Cincinnati Reds,Cincinnati Reds,103 wins;Carpenter's great year,Modern Era
-1941,Brooklyn Dodgers,100,54,.649,St. Louis Cardinals,New York Yankees,1st of 12 Dodgers NL titles,Modern Era
-1942,St. Louis Cardinals,106,48,.688,Brooklyn Dodgers,St. Louis Cardinals,1st of 5 straight Cards pennants,Modern Era
-1943,St. Louis Cardinals,105,49,.682,Brooklyn Dodgers,St. Louis Cardinals,Wartime season,Modern Era
-1944,St. Louis Cardinals,105,49,.682,Pittsburgh Pirates,St. Louis Cardinals,2nd straight Cards pennant,Modern Era
-1945,Chicago Cubs,98,56,.636,St. Louis Cardinals,Detroit Tigers,Cubs runner-up;WWII shortened,Modern Era
-1946,St. Louis Cardinals,98,58,.628,Boston Braves,St. Louis Cardinals,Slaughter's mad dash in 8th,Modern Era
-1947,New York Giants,89,65,.575,Boston Braves,Brooklyn Dodgers,Giants finish 2nd; Jackie Robinson year,Modern Era
-1948,Boston Braves,91,62,.594,St. Louis Cardinals,Boston Braves,Mahaffey era; Walker's 2.33 ERA,Modern Era
-1949,Boston Braves,96,58,.623,ST. Louis Cardinals,Boston Red Sox,Braves' 2nd pennant in 3 years,Modern Era
-1950,New York Giants,86,68,.560,Boston Braves,New York Yankees,,Modern Era
-1951,New York Giants,98,59,.623,Boston Braves,New York Yankees,Shot Heard Round the World,Modern Era
-1952,Boston Braves,96,58,.623,St. Louis Cardinals,New York Yankees,Last Braves pennant in Boston,Modern Era
-1953,Boston Braves,92,62,.598,St. Louis Cardinals,Baltimore Orioles,Last Boston Braves season,Modern Era
-1954,New York Giants,97,57,.630,Brooklyn Dodgers,New York Giants,Wille Mays catches ball off Vic Wertz,Modern Era
-1955,Brooklyn Dodgers,98,55,.641,Busankees Dodgers,Brooklyn Dodgers,1st Brooklyn WS title!,Modern Era
-1956,Brooklyn Dodgers,96,68,.585,St. Louis Cardinals,Brooklyn Dodgers,Theisko's only full year,Modern Era
-1957,Brooklyn Dodgers,92,62,.597,Milwaukee Braves,Brooklyn Dodgers,Brooklyn's last NL pennant,Modern Era
-1958,L.A. Dodgers,93,61,.604,Milwaukee Braves,Milwaukee Braves,1st season in LA,Modern Era
-1959,L.A. Dodgers,88,68,.565,Milwaukee Braves,L.A. Dodgers,2nd LA pennant,Modern Era
-1960,Pittsburgh Pirates,95,59,.617,St. Louis Cardinals,Pittsburgh Pirates,Mazeroski's walk-off GS/hr,Modern Era
-1961,Cincinnati Reds,93,61,.604,LA Dodgers,Cincinnati Reds,Frank Robinson hits 38/113,Modern Era
-1962,L.A. Dodgers,102,40,.718,Cincinnati Giants,LA Dodgers,Best 162-game record to date,Modern Era
-1963,L.A. Dodgers,105,57,.649,St. Louis Cardinals,L.A. Dodgers,Sandy Koufax 25W/8.16 ERA,Modern Era
-1964,St. Louis Cardinals,93,69,.574,Philadelphia Phillies,St. Louis Cardinals,Bob Gibson 1.12 ERA,Modern Era
-1965,L.A. Dodgers,97,65,.599,San Francisco Giants,L.A. Dodgers,Koufax 26W/1.73 ERA,Modern Era
-1966,L.A. Dodgers,95,67,.586,San Francisco Giants,LA Dodgers,4th pennant in 5 years,Modern Era
-1967,L.A. Dodgers,102,60,.630,San Francisco Giants,St. Louis Cardinals,DePodesta's amazing comeback,Modern Era
-1968,St. Louis Cardinals,97,65,.599,Chicago Cubs,St. Louis Cardinals,Year of the Pitcher;Gibson 1.12,Modern Era
-1969,New York Mets,100,62,.616,Chicago Cubs,New York Mets,Miracle Mets! 1st expansion NL title,Modern Era
-1970,Cincinnati Reds,102,60,.630,Pittsburgh Pirates, clockwise Reds,Big Red Machine begins,Modern Era
-1971,Pittsburgh Pirates,97,65,.599,Chicago Cubs,Pittsburgh Pirates,Clemente's final season,Modern Era
-1972,Cincinnati Reds,95,59,.615,Pittsburgh Pirates,Cincinnati Reds,Shortened by players' strike,Modern Era
-1973,New York Mets,82,79,.511,Cincinnati Reds,(World Series not shown),3rd Mets NL title,Modern Era
-1974,Pittsburgh Pirates,88,74,.543,Philadelphia Phillies,Pittsburgh Pirates,2nd in 5 years,Modern Era
-1975,Cincinnati Reds,108,54,.667,Pittsburgh Pirates,Cincinnati Reds,Big Red Machine at peak,Modern Era
-1976,Cincinnati Reds,102,60,.630,Philadelphia Phillies,Cincinnati Reds,Back-to-back;Big Red Machine,Modern Era
-1977,Philadelphia Phillies,101,61,.623,Pittsburgh Pirates,New York Yankees,1st Phils NL pennant since 1950,Modern Era
-1978,Pittsburgh Pirates,88,73,.547,Los Angeles Dodgers,Los Angeles Dodgers,1st Dodgers pennant since 1966,Modern Era
-1979,Pittsburgh Pirates,98,64,.605,Cincinnati Reds,Pittsburgh Pirates,Willie Stargell WS MVP,Modern Era
-1980,Philadelphia Phillies,91,69,.568,Houston Astros,Philadelphia Phillies,1st Phils WS title,Modern Era
-1981,L.A. Dodgers,63,45,.585,Montreal Expos,L.A. Dodgers,Split-season WS champion,Modern Era
-1982,St. Louis Cardinals,92,70,.568,Atlanta Braves,St. Louis Cardinals,Ozzie Smith's great defense,Modern Era
-1983,Philadelphia Phillies,90,72,.556,Atlanta Braves,Philadelphia Phillies,3rd straight Phils NL title,Modern Era
-1984,Chicago Cubs,96,65,.595,San Diego Padres,Detroit Tigers,Cubs last NL title before 2016,Modern Era
-1985,St. Louis Cardinals,101,61,.623,Los Angeles Dodgers,St. Louis Cardinals,Kirk Gibson's 9th-inning slam,Modern Era
-1986,New York Mets,108,53,.671,Philadelphia Phillies,New York Mets,108 wins;Dykstra;2nd WS,Modern Era
-1987,St. Louis Cardinals,95,67,.586,San Francisco Giants,St. Louis Cardinals,Mccarver,Crow/Holland,Modern Era
-1988,L.A. Dodgers,94,67,.583,Cincinnati Reds,L.A. Dodgers,"Gibson's 9th-inning HR;Kirk Gibson",Modern Era
-1989,Chicago Cubs,93,69,.574,San Francisco Giants,Oakland Athletics,情有独钟,Dustaniles,Modern Era
-1990,Cincinnati Reds,91,71,.562,Pittsburgh Pirates,Cincinnati Reds,1st NL pennant for 6 years,Modern Era
-1991,Atlanta Braves,94,68,.580,Pittsburgh Pirates,Atlanta Braves,1st of 14 consecutive div titles,Rise of the Braves
-1992,Atlanta Braves,98,64,.605,Cardinals,Atlanta Braves,2nd straight NL pennant,Rise of the Braves
-1993,Philadelphia Phillies,97,65,.599,Atlanta Braves,Philadelphia Phillies,97 wins;Schilling/Draper heroics,Rise of the Braves
-1994,No Champion,N/A,N/A,N/A,N/A,No WS,1994 players' strike canceled season,Rise of the Braves
-1995,Atlanta Braves,90,54,.625,Cincinnati Reds,Atlanta Braves,1st of back-to-back titles,Rise of the Braves
-1996,Atlanta Braves,96,66,.593,St. Louis Cardinals,Atlanta Braves,3rd straight NL title,Rise of the Braves
-1997,Florida Marlins,92,70,.568,Atlanta Braves,Florida Marlins,1st expansion NL title;WS debut,Rise of the Braves
-1998,Atlanta Braves,106,56,.654,Chicago Cubs,Atlanta Braves,106 wins;Maddux/Glavine/Smoltz peak,Rise of the Braves
-1999,Atlanta Braves,103,59,.637,New York Mets,Atlanta Braves,3rd straight;103 wins,Rise of the Braves
-2000,St. Louis Cardinals,95,67,.586,Atlanta Braves,New York Yankees,La Russa's 1st of 3 titles,Rise of the Braves
-2001,Arizona Diamondbacks,92,70,.568,Atlanta Braves,Arizona Diamondbacks,1st expansion team title;Johnson/Rondell,Modern Resurgence
-2002,Atlanta Braves,101,59,.630,St. Louis Cardinals,Anaheim Angels,101 wins;Semitch's great year,Modern Resurgence
-2003,Florida Marlins,91,71,.562,Chicago Cubs,Florida Marlins,Wild card champs;Pavano 96K,Modern Resurgence
-2004,St. Louis Cardinals,105,57,.648,Houston Astros,St. Louis Cardinals,105 wins;Pujols/Williams 300/500,Modern Resurgence
-2005,Houston Astros (No NL champion designated),N/A,N/A,N/A,St. Louis Cardinals,Chicago White Sox,AL won;Astros moved to AL,Modern Resurgence
-2006,St. Louis Cardinals,83,78,.516,New York Mets,St. Louis Cardinals,Wild card champs;lowest win% NL title,Modern Resurgence
-2007,Colorado Rockies,90,73,.552,Arizona Diamondbacks,Colorado Rockies,Wild card entrant;Chambers HR,Modern Resurgence
-2008,Philadelphia Phillies,92,70,.568,Chicago Cubs,Philadelphia Phillies,1st Phils pennant since 1993,Modern Resurgence
-2009,Philadelphia Phillies,93,69,.574,Cincinnati Reds,Philadelphia Phillies,Back-to-back NL flags,Modern Resurgence
-2010,San Francisco Giants,92,70,.568,Philadelphia Phillies,San Francisco Giants,3rd WS title in 5 years,Modern Resurgence
-2011,St. Louis Cardinals,90,72,.556,Milwaukee Brewers,St. Louis Cardinals,NLCS comeback vs Phils,Modern Resurgence
-2012,San Francisco Giants,94,68,.580,Cincinnati Reds,San Francisco Giants,2nd straight Giants WS title,Modern Resurgence
-2013,St. Louis Cardinals,97,65,.599,Atlanta Braves,St. Louis Cardinals,Wainwright 22W;Kooper N.Y.,Modern Resurgence
-2014,San Francisco Giants,88,74,.543,St. Louis Cardinals,San Francisco Giants,3rd WS title in 5 years,Modern Resurgence
-2015,Chicago Cubs,97,65,.599,St. Louis Cardinals,Chicago Cubs,End 108-year drought! Cubs WS,Modern Resurgence
-2016,Chicago Cubs,103,58,.640,New York Mets,Chicago Cubs,Back-to-back;1st 103-win season,Modern Resurgence
-2017,Los Angeles Dodgers,104,58,.642,Chicago Cubs,Chicago Cubs,Dodgers 104 wins but Cubs won WS,Modern Dodgers
-2018,Los Angeles Dodgers,92,71,.565,Milwaukee Brewers,Boston Red Sox,Dodgers 6th straight NL West,Modern Dodgers
-2019,Washington Nationals,93,69,.574,Los Angeles Dodgers,Washington Nationals,Nationals' 1st WS title,Modern Dodgers
-2020,Los Angeles Dodgers,43,17,.717,Atlanta Braves,Los Angeles Dodgers,Best shortened NL record (.717),Modern Dodgers
-2021,Atlanta Braves,88,73,.547,Los Angeles Dodgers,Atlanta Braves,Braves break 26-year WS drought,Modern Dodgers
-2022,Los Angeles Dodgers,111,51,.685,Philadelphia Phillies,Houston Astros,Best 162-game NL record,Modern Dodgers
-2023,Atlanta Braves,104,58,.641,Los Angeles Dodgers,Texas Rangers,104 wins;Aaron Judge was AL,Modern Dodgers
-2024,Los Angeles Dodgers,98,64,.605,New York Mets,Los Angeles Dodgers,Back-to-back WS titles,Modern Dodgers
-2025,Los Angeles Dodgers,96,66,.593,Philadelphia Phillies,Los Angeles Dodgers,3rd WS title in 5 years;back-to-back,Modern Dodgers
+year,franchise,division,record,wins,losses,win_pct,pennant,ws_champion,division_winner,wild_card,wswinner,wswins,owins,notes
+1876,Chicago White Stockings,N/A,52-14,52,14,.784,Yes,Yes,N/A,N/A,Chicago White Stockings,4-0,N/A,Inaugural NL season
+1877,Boston Red Caps,N/A,61-17,61,17,.782,Yes,Yes,N/A,N/A,Boston Red Caps,4-0,N/A,
+1878,Boston Red Caps,N/A,41-21,41,21,.661,Yes,Yes,N/A,N/A,Boston Red Caps,4-0,N/A,First full 84-game season
+1879,Providence Grays,N/A,59-25,59,25,.702,Yes,Yes,N/A,N/A,Providence Grays,3-0,N/A,
+1880,Chicago White Stockings,N/A,67-17,67,17,.798,Yes,Yes,N/A,N/A,Chicago White Stockings,4-0,N/A,
+1881,Chicago White Stockings,N/A,56-28,56,28,.667,Yes,Yes,N/A,N/A,Chicago White Stockings,4-0,N/A,
+1882,Chicago White Stockings,N/A,55-25,55,25,.688,Yes,Yes,N/A,N/A,Chicago White Stockings,4-0,N/A,
+1883,Boston,N/A,82-40,82,40,.672,Yes,Yes,N/A,N/A,Boston,4-0,N/A,
+1884,Providence Grays,N/A,84-28,84,28,.750,Yes,Yes,N/A,N/A,Providence Grays,4-0,N/A,
+1885,Chicago White Stockings,N/A,87-25,87,25,.777,Yes,Yes,N/A,N/A,Chicago White Stockings,4-0,N/A,
+1886,Chicago White Stockings,N/A,90-34,90,34,.726,Yes,Yes,N/A,N/A,Chicago White Stockings,4-0,N/A,
+1888,New York Giants,N/A,84-47,84,47,.641,Yes,Yes,N/A,N/A,New York Giants,4-0,N/A,
+1889,New York Giants,N/A,83-43,83,43,.659,Yes,Yes,N/A,N/A,New York Giants,4-0,N/A,
+1890,Brooklyn,N/A,86-48,86,48,.642,Yes,Yes,N/A,N/A,Brooklyn,4-0,N/A,
+1891,Boston,N/A,87-51,87,51,.630,Yes,Yes,N/A,N/A,Boston,4-0,N/A,
+1892,Boston,N/A,102-48,102,48,.680,Yes,Yes,N/A,N/A,Boston,4-0,N/A,First 154-game season
+1893,Boston,N/A,86-43,86,43,.667,Yes,Yes,N/A,N/A,Boston,4-0,N/A,
+1894,Baltimore,N/A,88-39,88,39,.693,Yes,Yes,N/A,N/A,Baltimore,4-0,N/A,
+1895,Baltimore,N/A,87-43,87,43,.669,Yes,Yes,N/A,N/A,Baltimore,4-0,N/A,
+1896,Baltimore,N/A,90-34,90,34,.726,Yes,Yes,N/A,N/A,Baltimore,4-0,N/A,
+1897,Boston,N/A,93-39,93,39,.705,Yes,Yes,N/A,N/A,Boston,4-0,N/A,
+1898,Boston,N/A,102-47,102,47,.685,Yes,Yes,N/A,N/A,Boston,4-0,N/A,
+1899,Boston,N/A,102-47,102,47,.685,Yes,Yes,N/A,N/A,Boston,4-0,N/A,
+1900,Brooklyn,N/A,82-54,82,54,.603,Yes,Yes,N/A,N/A,Brooklyn,4-0,N/A,
+1901,Chicago,N/A,93-55,93,55,.630,Yes,Yes,N/A,N/A,Chicago,4-0,N/A,
+1902,Pittsburgh Pirates,N/A,103-36,103,36,.740,Yes,Yes,N/A,N/A,Pittsburgh Pirates,4-0,N/A,
+1903,New York Giants,N/A,105-48,105,48,.686,Yes,Yes,N/A,N/A,New York Giants,4-0,N/A,First modern WS
+1904,New York Giants,N/A,96-56,96,56,.632,Yes,No,N/A,N/A,New York Giants,N/A,N/A,No WS played
+1905,New York Giants,N/A,105-48,105,48,.686,Yes,Yes,N/A,N/A,New York Giants,4-1,N/A,First official WS
+1906,Chicago Cubs,N/A,116-36,116,36,.763,Yes,Yes,N/A,N/A,Chicago Cubs,4-2,N/A,Best season ever (.763)
+1908,Chicago Cubs,N/A,99-55,99,55,.644,Yes,Yes,N/A,N/A,Chicago Cubs,4-1,N/A,
+1909,Pittsburgh Pirates,N/A,110-42,110,42,.723,Yes,Yes,N/A,N/A,Pittsburgh Pirates,4-3,N/A,
+1910,Chicago Cubs,N/A,104-50,104,50,.675,Yes,Yes,N/A,N/A,Chicago Cubs,4-1,N/A,
+1911,New York Giants,N/A,99-54,99,54,.647,Yes,Yes,N/A,N/A,New York Giants,4-2,N/A,
+1912,New York Giants,N/A,103-48,103,48,.682,Yes,Yes,N/A,N/A,New York Giants,4-3,N/A,
+1913,New York Giants,N/A,96-57,96,57,.627,Yes,Yes,N/A,N/A,New York Giants,4-1,N/A,
+1914,Boston Braves,N/A,94-59,94,59,.613,Yes,Yes,N/A,N/A,Boston Braves,4-0,N/A,Miracle Braves
+1915,Philadelphia Phillies,N/A,90-62,90,62,.592,Yes,Yes,N/A,N/A,Philadelphia Phillies,4-1,N/A,
+1916,Brooklyn Robins,N/A,94-60,94,60,.610,Yes,Yes,N/A,N/A,Brooklyn Robins,4-1,N/A,
+1917,New York Giants,N/A,98-56,98,56,.636,Yes,Yes,N/A,N/A,New York Giants,4-2,N/A,
+1918,Chicago Cubs,N/A,84-45,84,45,.651,Yes,Yes,N/A,N/A,Chicago Cubs,3-1,N/A,WWI shortened season
+1919,Cincinnati Reds,N/A,96-44,96,44,.686,Yes,Yes,N/A,N/A,Cincinnati Reds,5-4,N/A,First WS after Black Sox
+1920,Brooklyn Robins,N/A,93-61,93,61,.604,Yes,Yes,N/A,N/A,Brooklyn Robins,3-4,N/A,
+1921,New York Giants,N/A,94-59,94,59,.612,Yes,Yes,N/A,N/A,New York Giants,4-3,N/A,
+1922,New York Giants,N/A,93-61,93,61,.603,Yes,Yes,N/A,N/A,New York Giants,4-0,N/A,
+1923,New York Giants,N/A,95-58,95,58,.621,Yes,Yes,N/A,N/A,New York Giants,4-2,N/A,
+1924,New York Giants,N/A,93-60,93,60,.608,Yes,Yes,N/A,N/A,New York Giants,4-3,N/A,
+1925,Pittsburgh Pirates,N/A,95-58,95,58,.620,Yes,Yes,N/A,N/A,Pittsburgh Pirates,4-3,N/A,
+1926,St. Louis Cardinals,N/A,89-65,89,65,.578,Yes,Yes,N/A,N/A,St. Louis Cardinals,4-3,N/A,First of 11 WS titles
+1927,New York Giants,N/A,92-62,92,62,.597,Yes,Yes,N/A,N/A,New York Giants,4-2,N/A,
+1928,New York Giants,N/A,93-61,93,61,.604,Yes,Yes,N/A,N/A,New York Giants,4-0,N/A,
+1929,Chicago Cubs,N/A,98-54,98,54,.646,Yes,Yes,N/A,N/A,Chicago Cubs,4-2,N/A,
+1930,St. Louis Cardinals,N/A,92-62,92,62,.597,Yes,Yes,N/A,N/A,St. Louis Cardinals,4-2,N/A,
+1931,St. Louis Cardinals,N/A,101-53,101,53,.656,Yes,Yes,N/A,N/A,St. Louis Cardinals,4-3,N/A,
+1932,Chicago Cubs,N/A,90-64,90,64,.584,Yes,Yes,N/A,N/A,Chicago Cubs,4-2,N/A,
+1933,New York Giants,N/A,91-61,91,61,.599,Yes,Yes,N/A,N/A,New York Giants,4-1,N/A,
+1934,St. Louis Cardinals,N/A,105-49,105,49,.682,Yes,Yes,N/A,N/A,St. Louis Cardinals,4-3,N/A,Dean 30 wins
+1935,Chicago Cubs,N/A,100-54,100,54,.649,Yes,Yes,N/A,N/A,Chicago Cubs,4-2,N/A,
+1936,New York Giants,N/A,92-62,92,62,.597,Yes,Yes,N/A,N/A,New York Giants,4-2,N/A,
+1937,New York Giants,N/A,82-67,82,67,.551,Yes,Yes,N/A,N/A,New York Giants,4-1,N/A,
+1938,New York Giants,N/A,83-67,83,67,.554,Yes,Yes,N/A,N/A,New York Giants,4-2,N/A,
+1939,New York Giants,N/A,106-45,106,45,.701,Yes,Yes,N/A,N/A,New York Giants,4-0,N/A,
+1940,New York Giants,N/A,103-51,103,51,.671,Yes,Yes,N/A,N/A,New York Giants,4-1,N/A,
+1941,Brooklyn Dodgers,N/A,100-54,100,54,.649,Yes,Yes,N/A,N/A,Brooklyn Dodgers,4-1,N/A,
+1942,St. Louis Cardinals,N/A,106-48,106,48,.688,Yes,Yes,N/A,N/A,St. Louis Cardinals,4-1,N/A,First of 5 straight
+1943,St. Louis Cardinals,N/A,105-49,105,49,.683,Yes,Yes,N/A,N/A,St. Louis Cardinals,4-1,N/A,
+1944,St. Louis Cardinals,N/A,105-49,105,49,.683,Yes,Yes,N/A,N/A,St. Louis Cardinals,4-2,N/A,WWII season
+1945,Chicago Cubs,N/A,98-56,98,56,.638,Yes,Yes,N/A,N/A,Chicago Cubs,4-3,N/A,
+1946,St. Louis Cardinals,N/A,98-58,98,58,.627,Yes,Yes,N/A,N/A,St. Louis Cardinals,4-3,N/A,
+1947,Chicago Cubs,N/A,86-68,86,68,.558,Yes,Yes,N/A,N/A,Chicago Cubs,4-3,N/A,
+1948,Boston Braves,N/A,91-62,91,62,.595,Yes,Yes,N/A,N/A,Boston Braves,4-2,N/A,
+1949,Boston Braves,N/A,96-58,96,58,.623,Yes,Yes,N/A,N/A,Boston Braves,4-1,N/A,
+1950,New York Giants,N/A,86-68,86,68,.558,Yes,Yes,N/A,N/A,New York Giants,4-0,N/A,
+1951,New York Giants,N/A,98-59,98,59,.623,Yes,Yes,N/A,N/A,New York Giants,4-2,N/A,Shot Heard Round the World
+1952,Boston Braves,N/A,98-56,98,56,.638,Yes,Yes,N/A,N/A,Boston Braves,4-3,N/A,
+1953,Boston Braves,N/A,92-62,92,62,.597,Yes,Yes,N/A,N/A,Boston Braves,4-1,N/A,
+1954,New York Giants,N/A,97-57,97,57,.630,Yes,Yes,N/A,N/A,New York Giants,4-0,N/A,
+1955,Brooklyn Dodgers,N/A,98-55,98,55,.641,Yes,Yes,N/A,N/A,Brooklyn Dodgers,4-3,N/A,First Brooklyn WS title
+1956,L.A. Dodgers,N/A,96-68,96,68,.585,Yes,Yes,N/A,N/A,L.A. Dodgers,4-3,N/A,
+1957,Brooklyn Dodgers,N/A,92-62,92,62,.597,Yes,Yes,N/A,N/A,Brooklyn Dodgers,4-3,N/A,
+1958,L.A. Dodgers,N/A,93-61,93,61,.603,Yes,Yes,N/A,N/A,L.A. Dodgers,4-3,N/A,First LA season
+1959,L.A. Dodgers,N/A,88-68,88,68,.564,Yes,Yes,N/A,N/A,L.A. Dodgers,4-2,N/A,
+1960,Pittsburgh Pirates,N/A,95-59,95,59,.617,Yes,Yes,N/A,N/A,Pittsburgh Pirates,4-3,N/A,
+1961,Cincinnati Reds,N/A,93-61,93,61,.604,Yes,Yes,N/A,N/A,Cincinnati Reds,4-1,N/A,
+1962,L.A. Dodgers,N/A,102-40,102,40,.718,Yes,Yes,L.A. Dodgers,N/A,L.A. Dodgers,4-0,N/A,First 162G season (156G)
+1963,L.A. Dodgers,N/A,105-57,105,57,.648,Yes,Yes,L.A. Dodgers,N/A,L.A. Dodgers,4-0,N/A,
+1964,St. Louis Cardinals,N/A,93-69,93,69,.574,Yes,Yes,N/A,N/A,St. Louis Cardinals,4-3,N/A,
+1965,L.A. Dodgers,N/A,97-65,97,65,.599,Yes,Yes,N/A,N/A,L.A. Dodgers,4-3,N/A,
+1966,L.A. Dodgers,N/A,95-67,95,67,.586,Yes,Yes,N/A,N/A,L.A. Dodgers,4-3,N/A,
+1967,L.A. Dodgers,N/A,102-60,102,60,.630,Yes,Yes,L.A. Dodgers,N/A,L.A. Dodgers,4-0,N/A,
+1968,St. Louis Cardinals,N/A,97-65,97,65,.598,Yes,Yes,N/A,N/A,St. Louis Cardinals,4-3,N/A,Year of the Pitcher
+1969,New York Mets,N/A,100-62,100,62,.617,Yes,Yes,N.Y. Mets,N/A,New York Mets,4-1,N/A,Miracle Mets; first NLCS
+1970,Cincinnati Reds,N/A,102-60,102,60,.630,Yes,Yes,Cincinnati Reds,N/A,Cincinnati Reds,3-1,Cincinnati Reds,N/A,Big Red Machine begins
+1971,Pittsburgh Pirates,N/A,97-65,97,65,.599,Yes,Yes,N/A,Pittsburgh Pirates,Pittsburgh Pirates,3-1,Cincinnati Reds,N/A,
+1972,Cincinnati Reds,N/A,95-59,95,59,.617,Yes,Yes,Cincinnati Reds,N/A,Cincinnati Reds,3-2,Cincinnati Reds,N/A,
+1973,New York Mets,N/A,82-79,82,79,.509,Yes,Yes,N.Y. Mets,N/A,New York Mets,3-4,Cincinnati Reds,N/A,Miracle Mets repeat
+1974,Pittsburgh Pirates,N/A,88-74,88,74,.542,Yes,Yes,Pittsburgh Pirates,N/A,Pittsburgh Pirates,3-1,Cincinnati Reds,N/A,
+1975,Cincinnati Reds,N/A,108-54,108,54,.667,Yes,Yes,Cincinnati Reds,N/A,Cincinnati Reds,3-1,Cincinnati Reds,N/A,Big Red Machine dynasty
+1976,Cincinnati Reds,N/A,102-60,102,60,.630,Yes,Yes,Cincinnati Reds,N/A,Cincinnati Reds,3-0,Cincinnati Reds,N/A,Big Red Machine repeat
+1977,Philadelphia Phillies,N/A,101-61,101,61,.623,Yes,Yes,N.A./Philly,N/A,Philadelphia Phillies,3-4,Cincinnati Reds,N/A,
+1978,Pittsburgh Pirates,N/A,88-74,88,74,.542,Yes,Yes,Pittsburgh Pirates,N/A,Pittsburgh Pirates,3-1,Cincinnati Reds,N/A,
+1979,Pittsburgh Pirates,N/A,98-64,98,64,.605,Yes,Yes,Pittsburgh Pirates,N/A,Pittsburgh Pirates,3-2,L.A. Dodgers,N/A,
+1980,Philadelphia Phillies,N/A,91-69,91,69,.571,Yes,Yes,N.A./Philly,N/A,Philadelphia Phillies,3-4,L.A. Dodgers,N/A,
+1981,L.A. Dodgers,N/A,63-45,63,45,.583,Yes,Yes,N.A./Dodgers,N/A,L.A. Dodgers,3-2,L.A. Dodgers,N/A,Split season from strike
+1982,St. Louis Cardinals,N/A,92-70,92,70,.568,Yes,Yes,N.A./Cardinals,N/A,St. Louis Cardinals,3-4,L.A. Dodgers,N/A,
+1983,Philadelphia Phillies,N/A,90-72,90,72,.556,Yes,Yes,N.A./Phillies,N/A,Philadelphia Phillies,3-1,L.A. Dodgers,N/A,
+1984,Chicago Cubs,N/A,96-65,96,65,.595,Yes,Yes,N.A./Cubs,N/A,Chicago Cubs,3-2,San Diego Padres,N/A,
+1985,St. Louis Cardinals,N/A,101-61,101,61,.623,Yes,Yes,N.A./Cardinals,N/A,St. Louis Cardinals,4-3,St. Louis Cardinals,N/A,
+1986,St. Louis Cardinals,N/A,79-83,79,83,.488,Yes,Yes,N.A./Mets,N/A,St. Louis Cardinals,4-3,New York Mets,N/A,Wild card champion
+1987,St. Louis Cardinals,N/A,95-67,95,67,.586,Yes,Yes,N.A./Cardinals,N/A,St. Louis Cardinals,4,1,N/A,
+1988,L.A. Dodgers,N/A,94-67,94,67,.585,Yes,Yes,N.A./Dodgers,N/A,L.A. Dodgers,4-1,St. Louis Cardinals,N/A,
+1989,Chicago Cubs,N/A,93-69,93,69,.574,Yes,Yes,N.A./Cubs,N/A,Chicago Cubs,4-2,N/A,
+1990,Cincinnati Reds,N/A,91-71,91,71,.561,Yes,Yes,N.A./Reds,N/A,Cincinnati Reds,4-2,St. Louis Cardinals,N/A,
+1991,Atlanta Braves,N/A,94-68,94,68,.580,Yes,Yes,N.A./Braves,N/A,Atlanta Braves,4-3,Minnesota Twins,N/A,First of 14 consecutive div titles
+1992,Atlanta Braves,N/A,98-64,98,64,.605,Yes,Yes,N.A./Braves,N/A,Atlanta Braves,4-2,Atlanta Braves,N/A,
+1993,Philadelphia Phillies,N/A,97-65,97,65,.598,Yes,Yes,N.A./Phillies,N/A,Philadelphia Phillies,4-2,Toronto Blue Jays,N/A,
+1994,Cincinnati Reds,66-48,N/A,No,No,N/A,N/A,1994 strike voided WS,N/A,
+1995,Atlanta Braves,N/A,90-54,90,54,.625,Yes,Yes,N.A./Braves,N/A,Atlanta Braves,4-2,Cleveland Indians,N/A,
+1996,Atlanta Braves,N/A,96-66,96,66,.593,Yes,Yes,N.A./Braves,N/A,Atlanta Braves,4-2,New York Yankees,N/A,
+1997,Florida Marlins,N/A,92-70,92,70,.568,Yes,Yes,N.A./Marlins,N/A,Florida Marlins,4-3,Cleveland Indians,N/A,
+1998,Atlanta Braves,N/A,106-56,106,56,.654,Yes,Yes,N.A./Braves,N/A,Atlanta Braves,4-2,New York Yankees,N/A,
+1999,Atlanta Braves,N/A,103-59,103,59,.636,Yes,Yes,N.A./Braves,N/A,Atlanta Braves,4-2,New York Yankees,N/A,
+2000,St. Louis Cardinals,N/A,95-67,95,67,.586,Yes,Yes,N.A./Cardinals,N/A,St. Louis Cardinals,4-2,New York Yankees,N/A,
+2001,Arizona Diamondbacks,N/A,92-70,92,70,.568,Yes,Yes,N.A./D-backs,N/A,Arizona Diamondbacks,4-3,New York Yankees,N/A,
+2002,Atlanta Braves,N/A,101-59,101,59,.633,Yes,Yes,N.A./Braves,N/A,Atlanta Braves,4-3,Anaheim Angels,N/A,
+2003,Florida Marlins,N/A,91-71,91,71,.563,Yes,Yes,N.A./Marlins,N/A,Florida Marlins,4-2,Anaheim Angels,N/A,
+2004,St. Louis Cardinals,N/A,105-57,105,57,.648,Yes,Yes,N.A./Cardinals,N/A,St. Louis Cardinals,4-0,Boston Red Sox,N/A,
+2005,St. Louis Cardinals,N/A,100-62,100,62,.617,Yes,Yes,N.A./Cardinals,N/A,St. Louis Cardinals,4-0,Houston Astros,N/A,Houston in AL
+2006,St. Louis Cardinals,N/A,83-78,N/A,Yes,Yes,N.A./Cardinals,N/A,St. Louis Cardinals,4-0,St. Louis Cardinals,N/A,Lowest-win% NL champ
+2007,Colorado Rockies,N/A,90-73,N/A,Yes,Yes,N.A./Rockies,N/A,Colorado Rockies,4-0,Dodi N.A,Colorado Rockies,N/A,
+2008,Philadelphia Phillies,N/A,92-70,N/A,Yes,Yes,N.A./Phillies,N/A,Philadelphia Phillies,4-2,Philadelphia Phillies,N/A,
+2009,Philadelphia Phillies,N/A,93-69,N/A,Yes,Yes,N.A./Phillies,N/A,Philadelphia Phillies,4-2,Philadelphia Phillies,N/A,
+2010,San Francisco Giants,N/A,92-70,N/A,Yes,Yes,N.A./Giants,N/A,San Francisco Giants,4-1,San Francisco Giants,N/A,
+2011,St. Louis Cardinals,N/A,90-72,N/A,Yes,Yes,N.A./Cardinals,N/A,St. Louis Cardinals,4-1,St. Louis Cardinals,N/A,
+2012,San Francisco Giants,N/A,94-68,N/A,Yes,Yes,N.A./Giants,N/A,San Francisco Giants,4-0,San Francisco Giants,N/A,
+2013,St. Louis Cardinals,N/A,97-65,N/A,Yes,Yes,N.A./Cardinals,N/A,St. Louis Cardinals,4-2,St. Louis Cardinals,N/A,
+2014,San Francisco Giants,N/A,90-72,N/A,Yes,Yes,N.A./Giants,N/A,San Francisco Giants,4-0,San Francisco Giants,N/A,
+2015,Chicago Cubs,N/A,97-65,N/A,Yes,Yes,N.A./Cubs,N/A,Chicago Cubs,4-0,Chicago Cubs,N/A,100-win season
+2016,Chicago Cubs,N/A,103-58,N/A,Yes,Yes,N.A./Cubs,N/A,Chicago Cubs,4-3,Chicago Cubs,N/A,Ended 108-year drought
+2017,L.A. Dodgers,N/A,104-58,N/A,Yes,Yes,N.A./Dodgers,N/A,L.A. Dodgers,4-1,Houston Astros,N/A,
+2018,L.A. Dodgers,N/A,92-71,N/A,Yes,Yes,N.A./Dodgers,N/A,L.A. Dodgers,4-1,Boston Red Sox,N/A,
+2019,Wash. Nationals,N/A,93-69,N/A,Yes,Yes,N.A./Nationals,N/A,Wash. Nationals,4-0,Houston Astros,N/A,
+2020,L.A. Dodgers,N/A,43-17,N/A,Yes,Yes,N.A./Dodgers,N/A,L.A. Dodgers,4-2,Tampa Bay Rays,N/A,Best shortened-season record
+2021,Atlanta Braves,N/A,88-73,N/A,Yes,Yes,N.A./Braves,N/A,Atlanta Braves,4-2,Houston Astros,N/A,
+2022,St. Louis Cardinals,N/A,93-69,N/A,Yes,Yes,N.A./Cardinals,N/A,St. Louis Cardinals,4-1,Houston Astros,N/A,
+2023,Atlanta Braves,N/A,104-58,N/A,Yes,Yes,N.A./Braves,N/A,Atlanta Braves,4-1,Texas Rangers,N/A,
+2024,L.A. Dodgers,N/A,98-64,N/A,Yes,Yes,N.A./Dodgers,N/A,L.A. Dodgers,4-1,New York Yankees,N/A,
+2025,L.A. Dodgers,N/A,96-66,N/A,Yes,Yes,N.A./Dodgers,N/A,L.A. Dodgers,4-1,Toronto Blue Jays,N/A,Back-to-back titles; Ohtani era begins
