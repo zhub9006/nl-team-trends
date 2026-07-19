@@ -1,6 +1,10 @@
-# NL Team Trends Repository
+# NL Team Trends
 
-Comprehensive research project compiling historical **National League (NL)** team performance data, win-loss records, season trends, and championship history from 1876 to present — for analyzing team dominance, franchise trajectories, and the evolving NL competitive landscape.
+Comprehensive research project compiling historical **National League (NL)** team performance data, win-loss records, season trends, and championship history from 1876 to present — built for statistical analysis, visualization, and historical inquiry.
+
+## Overview
+
+The National League is baseball's oldest professional league, founded on **February 2, 1876** as the first fully professional baseball organization to survive to the present day — replacing the National Association. This repository serves as a centralized research hub for all NL franchise records, head-to-head performance matrices, era-specific trends, and win-loss analysis.
 
 ---
 
@@ -26,14 +30,13 @@ Comprehensive research project compiling historical **National League (NL)** tea
 
 ---
 
-## 📊 Key Historical Data Points (Updated July 2026)
+## 📊 Key Historical Data Points (Updated July 2025)
 
 ### NL Founding & Evolution
 - **NL Founded**: February 2, 1876 (replacing the National Association)
 - **Original 8 teams (1876)**: Boston Red Caps, Chicago White Stockings, Cincinnati Reds, Hartford Dark Blues, Louisville Grays, Philadelphia Athletics, Brooklyn Mutuals, St. Louis Browns
 - **NL expanded**: 8 teams (1876) → 12 (1900) → 16 (1969) → 15 (1998–present)
 - **Key relocations**: Brooklyn → LA (1958), NY Giants → SF (1958), Montreal Expos → Washington Nationals (2005)
-- **150th Anniversary**: 2026
 
 ### Schedule Eras & Key Records
 | Era | Games/Season | Notes |
@@ -54,7 +57,7 @@ Comprehensive research project compiling historical **National League (NL)** tea
 | Cincinnati Reds | 5 | 21,139 | 10,511 | 10,501 | .500 | 1990 |
 | Pittsburgh Pirates | 5 | 21,519 | 10,724 | 10,661 | .501 | 1979 |
 | Atlanta Braves | 4 | 22,474 | 11,245 | 11,075 | .504 | 2021 |
-| Chicago Cubs | 3 | 22,513 | 11,473 | 10,879 | .513 | 2016 |
+| Chicago Cubs | 3 | 22,513 | 11,473 | 10,879 | .516 | 2016 |
 | Miami Marlins | 2 | 5,271 | 2,434 | 2,837 | .462 | 2003 |
 | New York Mets | 2 | 10,231 | 4,939 | 5,284 | .483 | 1986 |
 | Philadelphia Phillies | 2 | 21,907 | 10,357 | 11,435 | .475 | 2008 |
@@ -75,10 +78,8 @@ Comprehensive research project compiling historical **National League (NL)** tea
 | Most consecutive division titles | 14 | Atlanta Braves (1991–2005) |
 | Most straight pennant run | 5 | St. Louis Cardinals (1942–1946) |
 | Most NL West titles straight | 8 | LA Dodgers (2018–2025) |
-| Most recent back-to-back WS (NL) | 2024, 2025 | LA Dodgers |
-| 1994 season voided | Strike canceled WS | Only time NL/AL pennants not awarded since 1904 |
 | Dodgers modern dynasty | 3 WS titles in 5 years (2020, 2024, 2025) | — |
-| AL vs NL WS dominance | AL 68, NL 53 of 121 total | Yankees account for 27 of AL's total |
+| AL vs NL WS dominance | AL 68, NL 53 of 121 total | — |
 
 ### Team-vs-Team H2H W-L Matrix Summary (Baseball Almanac 1876-2026)
 
@@ -116,7 +117,6 @@ Key inter-franchise W-L totals for NL teams against each other:
 
 | Year | NL Champion | WS Result | NL East | NL Central | NL West |
 |------|------------|-----------|---------|------------|---------|
-| 2026 | TBD (in progress) | TBD | Braves (56-41) | Brewers (61-37) | Dodgers (62-36) |
 | 2025 | LA Dodgers (96-66) | Dodgers beat Toronto 4-3 | Phillies (96-66) | Brewers (97-65) | Dodgers |
 | 2024 | LA Dodgers (98-64) | Dodgers beat NYY 4-1 | Braves (89-73) | Brewers (93-69) | Dodgers |
 | 2023 | Braves (104-58) | TX Rangers (AL won) | Braves (104-58) | Brewers (92-70) | Dodgers (100-62) |
@@ -132,35 +132,27 @@ Key inter-franchise W-L totals for NL teams against each other:
 
 ```
 nl-team-trends/
-├── README.md                              ← Research overview & key findings (updated 2026)
+├── README.md                              ← Research overview & key findings (this file)
 ├── DATA_INDEX.md                          ← Data file index & conventions
 ├── source_references.md                   ← Detailed source attribution
-├── requirements.txt                       ← Python dependencies for analysis
+├── requirements.txt                       ← Python dependencies
 ├── data/
-│   ├── nl_historical_performance.csv      ← Season-by-season standings (1876-2026)
-│   ├── nl_all_time_records.csv            ← All-time franchise records (corrected 2026)
-│   ├── nl_all_time_records_v2.csv         ← Expanded records with H2H & drought data (v2)
-│   ├── nl_all_time_records_complete.csv   ← Comprehensive records with H2H, droughts, notes (v3)
-│   ├── nl_comparative_ranking.csv         ← Clean NL team ranking by WS titles, pennants, W-L% ★ NEW
-│   ├── nl_championship_trends.csv         ← Championship highlights by era (through 2026)
+│   ├── nl_historical_performance.csv      ← Season-by-season standings (1876-2025)
+│   ├── nl_all_time_records.csv            ← All-time franchise records
+│   ├── nl_championship_trends.csv         ← Championship highlights by era
 │   ├── nl_championship_milestones.csv     ← Championship milestones CSV
 │   ├── nl_notable_records.csv             ← Key single-season & franchise records
 │   ├── nl_team_vs_team_summary.csv        ← H2H W-L summary matrix (key matchups)
-│   ├── nl_team_vs_team_full.csv           ← Full NL H2H matrix (all pairings, 1876-2026)
-│   ├── nl_recent_standings.csv            ← Divisional standings 2014-2026
-│   ├── nl_seasonal_standings.csv          ← Full seasonal breakdown with division splits
-│   ├── nl_season_standings_2025_2026.csv  ← 2025-2026 season standings by division
-│   └── nl_pennant_winners.csv             ← All NL pennant winners 1876-2025
+│   ├── nl_recent_standings.csv            ← Divisional standings 2014-2025
+│   ├── nl_seasonal_standings.csv          ← Full seasonal breakdown w/ division splits
+│   ├── nl_season_standings_2025_2026.csv  ← 2025-2026 season standings
+│   ├── nl_pennant_winners.csv             ← All NL pennant winners 1876-2025
+│   └── source_references.md               ← Detailed source attribution
 ├── docs/
 │   └── data_notes.md                      ← Methodology, conventions & caveats
 ├── visualizations/
 │   └── README.md                          ← Visualization roadmap & tools
-├── notebooks/
-│   └── explore_nl_data.ipynb              ← Starter Jupyter notebook for EDA
-├── scripts/
-│   ├── data_loader.py                     ← Python utility to load & explore data
-│   └── README.md                          ← Scripts directory documentation
-└── charts/                                ← (generated) Chart output directory
+└── notebooks/                             ← (planned) analysis Jupyter notebooks
 ```
 
 ---
@@ -175,21 +167,16 @@ nl-team-trends/
 - **Source priority**: Baseball Almanac H2H > Baseball Reference standings > ESPN/MLB.com WS > Wikipedia verification
 
 ### Data Files Index
+
 | File | Description | Rows | Last Updated |
 |------|-------------|------|-------------|
-| `nl_historical_performance.csv` | Season-by-season NL standings with W-L%, division, championship flags | 151+ years × ~15 teams | Jul 2026 |
-| `nl_all_time_records.csv` | All-time franchise records with pennants, div titles, games, W/L | 15 teams | Jul 2026 |
-| `nl_all_time_records_complete.csv` | Complete all-time NL records with H2H, droughts, notes | 15 teams | Jul 2026 |
-| `nl_comparative_ranking.csv` | Clean NL team ranking by WS titles, pennants, W-L%, drought data | 15 teams | Jul 2026 |
-| `nl_championships_ranking.csv` | NL teams ranked by WS titles, pennants, division titles | 15 teams | Jul 2026 |
-| `nl_championship_trends.csv` | Championship highlights by era | 8 eras | Jul 2026 |
-| `nl_championship_milestones.csv` | Key championship milestones by decade/era | 20 milestones | Jul 2026 |
-| `nl_notable_records.csv` | Key single-season & franchise records | 20 records | Jul 2026 |
-| `nl_team_vs_team_summary.csv` | H2H W-L summary matrix (key matchups) | 18 pairs | Jul 2026 |
-| `nl_team_vs_team_full.csv` | Full NL H2H matrix (all pairings) | 29 pairs | Jul 2026 |
-| `nl_recent_standings.csv` | Divisional standings 2014-2026 | 30 entries | Jul 2026 |
-| `nl_seasonal_standings.csv` | Full seasonal breakdown with division splits | 144 entries | Jul 2026 |
-| `nl_season_standings_2025_2026.csv` | 2025-2026 season standings by division | 32 entries | Jul 2026 |
-| `nl_pennant_winners.csv` | All NL pennant winners with records & WS results | 152 entries | Jul 2026 |
-| `nl_divisional_titles.csv` | Division title winners by year & division | 120 entries | Jul 2026 |
-| `nl_wild_card_winners.csv` | Wild card/playoff winners by year | 56 entries | Jul 2026 |
+| `nl_historical_performance.csv` | Season-by-season NL standings with W-L%, division winners | 144+ | 2025 |
+| `nl_all_time_records.csv` | All-time franchise records with W/L, pennants, WS titles | 15 | 2025 |
+| `nl_championship_trends.csv` | Championship highlights by era | 8 | 2025 |
+| `nl_championship_milestones.csv` | Championship milestones by decade/era | 40+ | 2025 |
+| `nl_notable_records.csv` | Key single-season & franchise records | 19 | 2025 |
+| `nl_team_vs_team_summary.csv` | H2H W-L summary matrix (key matchups) | 66 | 2025 |
+| `nl_recent_standings.csv` | Divisional standings 2014-2025 | 12 | 2025 |
+| `nl_seasonal_standings.csv` | Full seasonal breakdown with division splits | 144+ | 2025 |
+| `nl_season_standings_2025_2026.csv` | 2025-2026 season standings by division | 30 | 2025 |
+| `nl_pennant_winners.csv` | All NL pennant winners 1876-2025 | 148 | 2025 |
