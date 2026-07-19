@@ -1,45 +1,63 @@
 # Methodology, Conventions & Caveats
 
-## Data Methodology
+## Data Conventions
 
-- All data sourced from public baseball reference archives and historical databases.
-- Franchise-wide win-loss totals include all NL seasons from founding year through present.
-- Season-by-season data focuses on division winners, pennant winners, and key performance metrics.
-- Park factors, ERA, and advanced metrics are included where reliably available.
+### Team Names
+- Canonical NL team names are used throughout
+- Franchise movements are noted parenthetically (e.g., "Brooklyn Superbas/Dodgers", "NY Giants/SF Giants")
+- Historical names preserved where relevant (e.g., "Chicago White Stockings" for the 1876–1890s era)
+- Relocated franchises treated as continuous entities (NY Giants → SF Giants, Brooklyn → LA Dodgers, Montreal Expos → Washington Nationals)
 
-## Key Conventions
+### Win-Loss Format
+- Standard W-L-T format (Wins-Losses-Ties)
+- Ties are excluded from win percentage calculations
+- Win % = W / (W + L), rounded to 3 decimal places
+- Regular-season wins only; postseason results tracked in separate fields
 
-1. Schedule length: Pre-1893 seasons varied (mostly 120-140 games). 1893-1961 seasons had 154 games. 1962-present (mostly) 162 games. Some shortened seasons noted (1995 strike, 2020 COVID, 1994 strike).
-2. Division alignment: NL had East/West from 1969-1993. Central division added 1994. 2024 realignment: 15 teams evenly split.
-3. Franchise naming: Current names used for all entries; historical names cross-referenced in notes.
-4. Pennant counting: Includes both pre-WS (pre-1903) and modern pennants.
+### Schedule Eras
+| Era | Games/Season | Notes |
+|-----|-------------|-------|
+| 1876 | 60 | First season (varied) |
+| 1878 | 84 | First full season |
+| 1880s | 84–112 | Itinerant schedules |
+| 1892 | 154 | Standard 154-game schedule begins |
+| 1962 | 162 | Expansion to 162 games |
+| 2020 | 60 | Shortened COVID season |
+| 2021–present | 162 | Full 162-game schedule |
 
-## Known Limitations
+### Win Percentage by Era
+- 154-game era: ~.564 = .500 (average)\\
+- 162-game era: ~.560 = .500 (average)
+- Use era-adjusted benchmarks when comparing across schedule lengths
+- The 116-36 (.763) 1906 Cubs record was within a 154-game-era schedule (120 games that year)
 
-- Pre-1900 data may have incomplete records or conflicts between sources.
-- Early franchise totals vary across sources depending on whether preseason/exhibition games are included.
-- Park factors are only available from roughly 1950 onward with reliable normalization.
-- The 1994 season is incomplete; division winners shown but no postseason results.
-- 2020 data is from a 60-game season — use caution comparing to full 162-game seasons.
+## Key Caveats
 
-## Suggested Analyses
+1. **Schedule length variation**: Pre-1892 schedules varied from 60–140+ games per team. Do not compare raw win totals across eras without adjusting for schedule length.
 
-- EDA on pennant frequency by team and era
-- Win% trends over decades (moving averages)
-- Championship drought analysis (time between titles)
-- Head-to-head matchup win rates over time
-- Correlation between spring training performance and regular season outcomes
-- Park factor impact on win totals by decade
-- Subdivision analysis: How often do division winners also win the WS?
+2. **League composition changes**: The NL had as few as 4 teams in some years (1876–1882) and as many as 12 by 1900. Playoff structures also changed over time.
 
-## Visualization Roadmap
+3. **Interleague play**: From 1997 onward, NL teams play regular-season games against AL opponents. Win-loss records in LCS/WS include both leagues.
 
-| Chart | Type | Data File | Insight |
-|-------|------|-----------|---------|
-| Win% by decade | Heatmap | nl_seasonal_standings.csv | Dominant eras & decline trends |
-| Pennant timeline | Gantt chart | nl_pennant_winners.csv | Championship streaks & gaps |
-| Franchise wins bar chart | Horizontal bar | nl_all_time_records.csv | Giants, Dodgers, Cards lead |
-| H2H matrix | 16×16 heatmap | nl_team_vs_team_summary.csv | Rivalry intensity visualization |
-| Drought chart | Strip plot | nl_championship_milestones.csv | Time between titles |
-| Moving average trend | Line chart | nl_historical_performance.csv | League parity over time |
-| Season-by-season rollout | Faceted line | nl_seasonal_standings.csv | Individual franchise trajectories |
+4. **H2H data limitations**: Baseball Almanac's H2H matrices include historical team names but may have gaps in early years. Cross-reference with Lahman Database for highest accuracy.
+
+5. **Tie handling**: Before 1920, ties were common. Many sources drop ties from W% calculations. Our convention excludes ties.
+
+6. **Franchise continuity**: When a franchise relocated (NY Giants → SF Giants, Brooklyn → LA Dodgers, Montreal → Washington Nationals), all historical wins are attributed to the current franchise. This is the standard convention in MLB record-keeping.
+
+7. **1994 season**: The MLB players' strike cut the 1994 NL season short (no WS was held). No NL champion was crowned.
+
+## Data Quality Assurance
+
+- Primary source: Lahman Baseball Database (CSV, updated quarterly)
+- Verification: Cross-referenced against Baseball-Reference and Baseball Almanac
+- H2H matrices: Sourced from Baseball Almanac (updated daily during season)
+- Seasonal standings: Validated against multiple sources
+
+## Suggested Analysis Approaches
+
+1. **Era comparison**: Normalize W% by schedule length before comparing across eras
+2. **H2H trends**: Track how head-to-head records shift over decades to identify the "evolving rivalry"
+3. **Dynasty identification**: Use rolling 5-year windows to identify sustained periods of excellence
+4. **Drought analysis**: Measure time since last championship for each franchise
+5. **Visualization**: Use the interactive tools at https://inkandthunder.github.io/win-loss-visualizer/ as a reference for YoY W-L plotting
