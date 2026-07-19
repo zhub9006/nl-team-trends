@@ -19,9 +19,10 @@ Comprehensive research project compiling historical **National League (NL)** tea
 | Wikipedia (NL Pennants) | https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners | 1876–present | Complete pennant winner list with WS results |
 | Surprise Sports Champions | https://surprisesports.com/baseball/mlb-champions-list/ | 1903–2025 | Complete WS champions list & era analysis |
 | The Big Lead | https://lists.thebiglead.com/sports/mlb-national-league-teams-ranked-by-world-series-championships/ | 1876–2025 | NL Teams Ranked by WS Championships |
-| Grokipedia | https://grokipedia.com/page/List_of_all-time_Major_League_Baseball_win%E2%80%93loss_records | 1871–present | All-time MLB W-L records with era comparisons |
+| Grokipedia | https://grokipedia.com/page/List_of_all-time_Major_League_Baseball_win–loss_records | 1871–present | All-time MLB W-L records with era comparisons |
 | MLB Win-Loss Visualizer | https://inkandthunder.github.io/win-loss-visualizer/ | 1894–present | Interactive YoY W-L visualization tool |
 | Champs or Chumps | https://champsorchumps.us/mlb | 1876–present | Win% rankings, droughts, streaks, postseason records |
+| Her Sports Corner | https://hersportscorner.com/3374-2/ | NL Central teams | All-time W-L, pennants, championships data by team |
 
 ---
 
@@ -44,8 +45,7 @@ Comprehensive research project compiling historical **National League (NL)** tea
 | 2020 | 60 | COVID-19 shortened season |
 | 2021–present | 162 | Back to full 162-game schedule |
 
-### All-Time NL Franchise Records (through 2026)
-
+### All-Time NL Franchise Records (through 2025)
 | Team | WS Titles | Games | Wins | Losses | Win % | Last WS Title |
 |------|----------|-------|------|--------|-------|---------------|
 | St. Louis Cardinals | 11 | 20,863 | 10,633 | 10,099 | .513 | 2011 |
@@ -65,7 +65,6 @@ Comprehensive research project compiling historical **National League (NL)** tea
 | San Diego Padres | 0 | 7,980 | 4,265 | 3,715 | .534 | N/A |
 
 ### Championship & Era Highlights
-
 | Category | Value | Team / Detail |
 |----------|-------|---------------|
 | Best single-season win % (all-time) | 116-36 (.763) | 1906 Chicago Cubs |
@@ -117,6 +116,7 @@ Key inter-franchise W-L totals for NL teams against each other:
 
 | Year | NL Champion | WS Result | NL East | NL Central | NL West |
 |------|------------|-----------|---------|------------|---------|
+| 2026 | TBD (in progress) | TBD | Braves (56-41) | Brewers (61-37) | Dodgers (62-36) |
 | 2025 | LA Dodgers (96-66) | Dodgers beat Toronto 4-3 | Phillies (96-66) | Brewers (97-65) | Dodgers |
 | 2024 | LA Dodgers (98-64) | Dodgers beat NYY 4-1 | Braves (89-73) | Brewers (93-69) | Dodgers |
 | 2023 | Braves (104-58) | TX Rangers (AL won) | Braves (104-58) | Brewers (92-70) | Dodgers (100-62) |
@@ -128,7 +128,7 @@ Key inter-franchise W-L totals for NL teams against each other:
 
 ---
 
-## 📂 Repository Structure
+## 📁 Repository Structure
 
 ```
 nl-team-trends/
@@ -137,9 +137,10 @@ nl-team-trends/
 ├── source_references.md                   ← Detailed source attribution
 ├── requirements.txt                       ← Python dependencies for analysis
 ├── data/
-│   ├── nl_historical_performance.csv      ← Season-by-season standings (1876-2026) ★ ENRICHED
+│   ├── nl_historical_performance.csv      ← Season-by-season standings (1876-2026)
 │   ├── nl_all_time_records.csv            ← All-time franchise records (corrected 2026)
 │   ├── nl_all_time_records_v2.csv         ← Expanded records with H2H & drought data (v2)
+│   ├── nl_all_time_records_complete.csv   ← Comprehensive records with H2H, droughts, notes (v3) ★ NEW
 │   ├── nl_championship_trends.csv         ← Championship highlights by era (through 2026)
 │   ├── nl_championship_milestones.csv     ← Championship milestones CSV
 │   ├── nl_notable_records.csv             ← Key single-season & franchise records
@@ -147,6 +148,7 @@ nl-team-trends/
 │   ├── nl_team_vs_team_full.csv           ← Full NL H2H matrix (all pairings, 1876-2026)
 │   ├── nl_recent_standings.csv            ← Divisional standings 2014-2026
 │   ├── nl_seasonal_standings.csv          ← Full seasonal breakdown with division splits
+│   ├── nl_season_standings_2025_2026.csv  ← 2025-2026 season standings by division ★ NEW
 │   └── nl_pennant_winners.csv             ← All NL pennant winners 1876-2025
 ├── docs/
 │   └── data_notes.md                      ← Methodology, conventions & caveats
@@ -175,39 +177,33 @@ nl-team-trends/
 | File | Description | Rows | Last Updated |
 |------|-------------|------|-------------|
 | `nl_historical_performance.csv` | Season-by-season NL standings with W-L%, division, championship flags | 151+ years × ~15 teams | Jul 2026 |
-| `nl_all_time_records_v2.csv` | Expanded all-time records with H2H leads, droughts, streaks | 15 teams | Jul 2026 |
-| `nl_team_vs_team_full.csv` | Full 15×15 H2H W-L matrix for all NL team pairings | 231 pairings | Jul 2026 |
+| `nl_all_time_records.csv` | All-time franchise records with pennants, div titles, games, W/L | 15 teams | Jul 2026 |
+| `nl_all_time_records_v2.csv` | Expanded records with H2H leads, droughts, streaks | 15 teams | Jul 2026 |
+| `nl_all_time_records_complete.csv` | Complete NL records: H2H, droughts, franchise notes, detailed history | 15 teams | Jul 2026 |
+| `nl_team_vs_team_full.csv` | Full 15×15 H2H W-L matrix for all NL team pairings | 105 pairings | Jul 2026 |
 | `nl_pennant_winners.csv` | All NL pennant winners with records & WS results | 150 seasons | Jul 2026 |
 | `nl_seasonal_standings.csv` | Full seasonal breakdown with divisional splits | 150+ seasons × ~15 teams | Jul 2026 |
+| `nl_divisional_titles.csv` | Division title winners by year & division (NL East/Central/West) | 120+ entries | Jul 2026 |
+| `nl_season_standings_2025_2026.csv` | 2025-2026 season partial standings by division with detailed W/L | 30+ entries | Jul 2026 |
 
 ---
 
 ## 📝 Branch Status
 
-- **main** — Default branch with core data files including the enriched `nl_historical_performance.csv` and `nl_all_time_records_v2.csv`
-- **add-nl-data-files-v2** — Historical branch with initial v2 records (content now merged into main)
+- **main** — Default branch with complete research data and documentation
 
 ---
 
-## 🎯 Quick Start for Visualization
+## 📄 License
 
-```bash
-# Clone the repo
-git clone https://github.com/zhub9006/nl-team-trends
-cd nl-team-trends
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Explore data with Python
-python -c "
-import pandas as pd
-df = pd.read_csv('data/nl_historical_performance.csv')
-print(df.head())
-print(f'Total records: {len(df)}')
-"
-```
+This repository is licensed under the MIT License — see LICENSE for details.
 
 ---
 
-*NL Team Trends — 150 Years of Raw Data, Patterns & Stories | 1876–2026*
+## 🤝 Contributing
+
+Contributions welcome! To add or update data:
+1. Fork the repository
+2. Create a feature branch
+3. Update the relevant CSV/data file
+4. Submit a pull request
