@@ -1,126 +1,151 @@
-season,year,team,games,wins,losses,ties,win_pct,division,league_champion,pennant_winner,ws_champion,runs_scored,runs_allowed,notes
-1,1876,Boston Red Caps,60,39,21,0,0.650,West,Yes,Yes,No,312,228,Original NL member; first NL champion
-1,1876,Chicago White Stockings,60,52,14,4,0.794,West,No,No,No,428,216,Best win pct of 1876 NL season
-1,1876,Cincinnati Reds,60,28,19,3,0.596,West,No,No,No,258,249,
-1,1876,Brooklyn Hartfords,60,25,19,6,0.570,West,No,No,No,218,243,
-1,1876, Louisville Grays,60,30,36,0,0.455,West,No,No,No,265,312,
-1,1876,Philadelphia Athletics,60,14,45,1,0.237,West,No,No,No,218,325,
-1,1876,St. Louis Brown Stockings,60,20,46,0,0.303,West,No,No,No,253,378,
-2,1877,Boston Red Caps,61,42,18,1,0.700,West,Yes,Yes,No,313,210,
-2,1877,Chicago White Stockings,61,26,33,2,0.441,West,No,No,No,184,265,
-3,1878,Boston Red Caps,60,41,19,0,0.683,West,Yes,Yes,No,295,191,
-3,1878,Chicago White Stockings,60,30,30,0,0.500,West,No,No,No,229,235,
-3,1878,Buffalo Bisons,60,34,26,0,0.567,West,No,No,No,203,195,NL expansion
-3,1878,Providence Grays,60,37,23,0,0.617,West,No,No,No,214,173,
-4,1879,Boston Red Caps,84,54,28,2,0.655,West,Yes,Yes,No,392,273,
-4,1879,Providence Grays,84,59,25,0,0.702,West,No,No,No,327,203,
-4,1879,Buffalo Bisons,84,46,32,6,0.590,West,No,No,No,301,268,
-4,1879,Chicago White Stockings,84,46,33,5,0.582,West,No,No,No,299,253,
-5,1880,Chicago White Stockings,83,67,17,0,0.798,West,No,No,No,424,212,
-5,1880,Providence Grays,83,52,33,1,0.612,West,No,No,No,350,302,
-6,1881,Chicago White Stockings,84,56,28,0,0.667,West,No,No,No,337,251,
-6,1881,Buffalo Bisons,84,45,38,1,0.542,West,No,No,No,285,275,
-6,1881,Providence Grays,84,47,37,0,0.560,West,No,No,No,321,338,
-6,1881,Detroit Wolverines,84,41,43,0,0.488,West,No,No,No,255,263,NL expansion
-6,1881,Troy Trojans,84,39,45,0,0.464,West,No,No,No,268,319,
-7,1882,Chicago White Stockings,84,55,29,1,0.655,West,Yes,Yes,No,367,247,
-7,1882,Providence Grays,84,52,32,0,0.619,West,No,No,No,330,280,
-7,1882,Detroit Wolverines,84,42,41,1,0.506,West,No,No,No,295,312,
-7,1882,Philadelphia Quakers,84,31,49,4,0.388,West,No,No,No,200,318,NL expansion
-8,1883,Boston Red Caps,98,63,35,0,0.643,West,Yes,Yes,No,415,352,
-8,1883,Chicago White Stockings,98,59,39,0,0.602,West,No,No,No,402,364,
-8,1883,Providence Grays,98,58,40,0,0.592,West,No,No,No,365,326,
-8,1883,New York Gothams,98,46,50,2,0.479,West,No,No,No,316,339,NL expansion
-9,1884,New York Gothams,112,62,50,0,0.554,West,No,No,No,450,428,
-9,1884,Providence Grays,112,84,28,0,0.750,West,No,No,Yes,No data stored,Best WL% of 19th-century NL era
-10,1885,Chicago White Stockings,112,87,25,0,0.777,West,Yes,Yes,No,No data stored,.777 best of era; led NL
-10,1885,New York Gothams,112,66,46,0,0.589,West,No,No,No,No data stored,
-11,1886,Chicago White Stockings,112,90,22,0,0.804,West,Yes,Yes,No,No data stored,.804 best WL% in NL history at that time
-11,1887,Detroit Wolverines,112,79,45,0,0.637,West,Yes,Yes,Yes,No data stored,1887 WS champion (NL)
-11,1888,New York Gothams,112,84,28,0,0.750,West,Yes,Yes,Yes,No data stored,1888 WS champion (NL)
-11,1889,New York Gothams,112,83,29,0,0.741,West,Yes,Yes,No,No data stored,
-12,1890,Brooklyn Bridegrooms,132,76,56,0,0.576,East,Yes,Yes,No,No data stored,First NL team to switch leagues
-12,1890,Chicago White Stockings,132,67,65,0,0.508,West,No,No,No,No data stored,
-12,1890,Buffalo Bisons,132,81,51,0,0.614,West,No,No,No,No data stored,
-13,1891,Boston Beaneaters,132,87,51,0,0.632,East,Yes,Yes,No,No data stored,
-13,1891,Chicago Colts,132,82,53,0,0.606,West,No,No,No,No data stored,
-14,1892,Boston Beaneaters,150,102,48,0,0.680,East,Yes,Yes,No,No data stored,First 154-game NL season (split)
-14,1892,Cleveland Spiders,150,93,56,0,0.624,West,No,No,No,No data stored,
-14,1892,Brooklyn Grooms,150,95,59,0,0.615,East,No,No,No,No data stored,
-15,1893,Boston Beaneaters,126,86,43,0,0.667,East,Yes,Yes,No,No data stored,
-15,1893,Cleveland Spiders,126,72,57,0,0.559,West,No,No,No,No data stored,
-15,1893,Chicago Colts,126,56,71,0,0.441,West,No,No,No,No data stored,
-16,1894,Baltimore Orioles,132,89,39,0,0.694,East,Yes,Yes,No,No data stored,.694; NL pennant
-16,1894,New York Giants,132,88,44,0,0.667,East,No,No,No,No data stored,
-16,1894,Brooklyn Grooms,132,70,61,0,0.534,East,No,No,No,No data stored,
-17,1895,Baltimore Orioles,132,87,43,0,0.669,East,Yes,Yes,No,No data stored,
-17,1895,Cleveland Spiders,132,84,46,0,0.646,West,No,No,No,No data stored,
-18,1896,Baltimore Orioles,132,90,39,0,0.697,East,Yes,Yes,No,No data stored,
-18,1896,Chicago Colts,132,71,57,0,0.554,West,No,No,No,No data stored,
-18,1896,Cleveland Spiders,132,80,48,0,0.625,West,No,No,No,No data stored,
-19,1897,Baltimore Orioles,132,90,40,0,0.692,East,Yes,Yes,No,No data stored,
-19,1897,Boston Beaneaters,132,93,39,0,0.705,East,No,No,No,No data stored,
-19,1897,Cleveland Spiders,132,69,62,0,0.527,West,No,No,No,No data stored,
-20,1898,Boston Beaneaters,132,102,30,0,0.773,East,Yes,Yes,No,No data stored,.773; best WL% of 1890s NL
-20,1899,Boston Beaneaters,132,100,32,0,0.756,East,Yes,Yes,No,No data stored,
-20,1899,Baltimore Orioles,132,86,46,0,0.652,East,No,No,No,No data stored,
-21,1900,Boston Beaneaters,132,81,48,0,0.623,East,Yes,Yes,No,No data stored,
-21,1900,Brooklyn Superbas,132,86,43,1,0.667,East,No,No,No,No data stored,
-21,1900,Chicago White Stockings,132,65,75,0,0.464,West,No,No,No,No data stored,
-21,1900,Cincinnati Reds,132,62,77,1,0.447,West,No,No,No,No data stored,
-21,1900,Philadelphia Phillies,132,78,53,0,0.592,East,No,No,No,No data stored,
-21,1900,Pittsburgh Pirates,132,83,51,0,0.618,East,No,No,No,No data stored,
-21,1900,St. Louis Cardinals,132,65,75,0,0.464,West,No,No,No,No data stored,
-21,1900,New York Giants,132,60,78,0,0.435,East,No,No,No,No data stored,
-22,1901,Chicago Cubs,136,78,58,0,0.574,West,No,No,No,No data stored,
-22,1901,Brooklyn Superbas,136,73,63,0,0.537,East,No,No,No,No data stored,
-22,1901,Pittsburgh Pirates,136,76,56,0,0.574,East,No,No,No,No data stored,
-22,1901,St. Louis Cardinals,136,76,64,0,0.543,Central,No,No,No,No data stored,
-22,1901,Cincinnati Reds,136,64,72,0,0.471,West,No,No,No,No data stored,
-22,1901,New York Giants,136,66,66,0,0.500,East,No,No,No,No data stored,
-22,1901,Philadelphia Phillies,136,68,64,0,0.515,Central,No,No,No,No data stored,
-22,1901,Chicago Orphans,136,53,83,0,0.390,West,No,No,No,No data stored,
-22,1901,Washington Senators,136,61,75,0,0.449,East,No,No,No,No data stored,NL expansion
-23,1902,Pittsburgh Pirates,136,103,36,0,0.743,East,Yes,Yes,No,No data stored,Strongest NL team of early 1900s
-23,1903,Pittsburgh Pirates,136,91,49,0,0.650,East,Yes,Yes,No,No data stored,First NL pennant contested against AL
-23,1904,New York Giants,136,105,49,0,0.682,East,Yes,Yes,No,No data stored,Giants refused 1904 WS
-23,1905,New York Giants,136,105,48,1,0.686,East,Yes,Yes,Yes,No data stored,.686 WL%; Won 1905 WS
-24,1906,Chicago Cubs,116,116,36,0,0.763,West,Yes,Yes,No,No data stored,.763 = best full-season WL% in MLB history
-24,1909,Pittsburgh Pirates,136,110,42,1,0.724,East,Yes,Yes,Yes,No data stored,.724; Won 1909 WS
-25,1916,Boston Braves,154,89,63,2,0.586,East,Yes,Yes,No,No data stored,1914 miraculous rise to pennant
-26,1920,Brooklyn Robins,154,93,61,0,0.604,East,Yes,Yes,No,No data stored,
-27,1926,St. Louis Cardinals,154,89,65,0,0.578,Central,Yes,Yes,Yes,No data stored,Won 1926 WS; first Cardinals WS title
-28,1931,St. Louis Cardinals,154,101,53,0,0.656,Central,Yes,Yes,No,No data stored,Franchise-best 101 wins
-29,1934,St. Louis Cardinals,154,95,58,1,0.619,Central,Yes,Yes,Yes,No data stored,1934 WS champions
-30,1941,Brooklyn Dodgers,154,100,54,0,0.649,East,Yes,Yes,No,No data stored,.649; best NL record since 1906 Cubs
-31,1942,St. Louis Cardinals,154,106,48,0,0.688,Central,Yes,Yes,Yes,No data stored,.688; began Cards 1942-46 dynasty
-32,1943,St. Louis Cardinals,154,105,49,0,0.682,Central,Yes,Yes,Yes,No data stored,
-33,1944,St. Louis Cardinals,154,105,49,0,0.682,Central,Yes,Yes,Yes,No data stored,
-34,1946,St. Louis Cardinals,154,98,56,0,0.636,Central,Yes,Yes,Yes,No data stored,Completed 5 straight NL pennants
-35,1951,New York Giants,154,98,59,3,0.623,East,Yes,Yes,No,No data stored,Bobby Thomson Shot Heard Round the World
-36,1954,New York Giants,154,97,57,0,0.629,East,Yes,Yes,No,No data stored,Dynasty era Giants
-37,1959,Milwaukee Braves,154,86,68,0,0.558,West,Yes,Yes,No,No data stored,
-38,1962,San Francisco Giants,162,103,62,0,0.623,West,Yes,Yes,No,No data stored,162-game schedule begins
-39,1966,Los Angeles Dodgers,162,95,67,0,0.586,West,Yes,Yes,No,No data stored,
-40,1969,New York Mets,162,100,62,0,0.617,East,Yes,Yes,Yes,No data stored,Miracle Mets; 1st expansion team NL WS champ
-41,1970,Cincinnati Reds,162,102,60,0,0.630,West,Yes,Yes,No,No data stored,.630; Big Red Machine Begins
-42,1973,Cincinnati Reds,162,99,63,0,0.611,West,Yes,Yes,No,No data stored,Dominant Reds 1970s
-43,1976,Cincinnati Reds,162,102,60,0,0.630,West,Yes,Yes,Yes,No data stored,.630; Big Red Machine finale; 1976 WS
-44,1980,Philadelphia Phillies,163,91,71,1,0.561,East,Yes,Yes,Yes,No data stored,.561; Phillies first WS title
-45,1984,Chicago Cubs,163,96,67,0,0.589,West,Yes,Yes,No,No data stored,1984 NL champions
-46,1985,St. Louis Cardinals,163,101,61,1,0.623,Central,Yes,Yes,Yes,No data stored,.623; Cardinals won 1985 WS
-47,1986,New York Mets,163,108,54,1,0.667,East,Yes,Yes,Yes,No data stored,.667; 1986 WS; iconic season
-48,1988,Los Angeles Dodgers,163,94,67,2,0.584,West,Yes,Yes,Yes,No data stored,.584; Hershiser-led; 1988 WS
-49,1990,Cincinnati Reds,162,91,71,0,0.562,West,Yes,Yes,Yes,No data stored,.562; 1990 WS; Big Red Machine rebirth
-50,1993,Atlanta Braves,162,104,58,0,0.642,West,Yes,Yes,No,No data stored,Start of Braves dynasty era
-51,1997,Florida Marlins,162,92,70,0,0.568,East,Yes,Yes,Yes,No data stored,1st-year expansion team wins WS
-52,2001,Arizona Diamondbacks,162,92,70,0,0.568,West,Yes,Yes,Yes,No data stored,Expansion team wins WS in 2nd year
-53,2004,St. Louis Cardinals,162,105,57,0,0.648,Central,Yes,Yes,Yes,No data stored,.648; D-cardinals 2004 Cardinals
-54,2005,Chicago Cubs,162,79,56,0,0.584,Central,Yes,Yes,No,No data stored,Cubs break 108-year WS drought
-55,2012,San Francisco Giants,162,94,68,0,0.580,West,Yes,Yes,No,No data stored,
-56,2016,Chicago Cubs,162,103,58,1,0.641,Central,Yes,Yes,Yes,No data stored,.641; ended 108-year drought; NLCS comeback vs Dodgers
-57,2020,Los Angeles Dodgers,60,43,17,0,0.717,West,Yes,Yes,Yes,No data stored,.717; best shortened NL season record; COVID-19
-58,2022,LA Dodgers,162,111,51,0,0.685,West,Yes,Yes,No,No data stored,Best 162-game NL season record
-59,2023,Atlanta Braves,162,104,58,0,0.642,East,Yes,Yes,No,No data stored,.642; Braves 14th division title in 23 years
-60,2024,LA Dodgers,162,98,64,0,0.605,West,Yes,Yes,Yes,No data stored,.605; 9th WS title for Dodgers
-61,2025,LA Dodgers,162,96,66,0,0.593,West,Yes,Yes,Yes,No data stored,.593; 3rd title in 5 years; back-to-back
+Year,NL_Champion,Champion_Wins,Champion_Losses,Champion_WPct,Second_Place,Second_Wins,Second_Losses,Second_WPct,WS_Champion,WS_Result,Era
+1876,Chicago White Stockings,52,14,0.788,Hartford Dark Blues,47,21,0.691,None,NE,no WS,1870s
+1877,Brooklyn Hartfords,42,23,0.646,Chicago White Stockings,30,16,0.652,None,NE,no WS,1870s
+1878,Boston Red Caps,41,19,0.683,Cincinnati Reds,37,23,0.617,None,NE,no WS,1870s
+1879,Providence Grays,59,25,0.702,Boston Red Caps,54,28,0.659,None,NE,no WS,1870s
+1880,Chicago White Stockings,67,17,0.798,Providence Grays,52,20,0.722,None,NE,no WS,1880s
+1881,Chicago White Stockings,56,28,0.667,Providence Grays,56,28,0.667,None,NE,no WS,1880s
+1882,Providence Grays,52,20,0.722,St. Louis Brown Stockings,37,43,0.463,None,NE,no WS,1880s
+1883,Providence Grays,58,29,0.667,Boston Beaneaters,63,35,0.643,None,NE,no WS,1880s
+1884,Providence Grays,84,28,0.750,New York Metropolitans,75,32,0.701,None,NE,no WS,1880s
+1885,Chicago White Stockings,87,25,0.777,New York Metropolitans,85,27,0.759,None,NE,no WS,1880s
+1886,Chicago White Stockings,90,34,0.726,New York Metropolitans,76,33,0.697,None,NE,no WS,1880s
+1887,Detroit Wolverines,79,45,0.637,Chicago White Stockings,70,43,0.619,None,NE,no WS,1880s
+1888,New York Giants,84,47,0.641,Chicago White Stockings,81,47,0.634,None,NE,no WS,1880s
+1889,Brooklyn Bridegrooms,93,44,0.679,St. Louis Browns,90,50,0.643,None,NE,no WS,1880s
+1890,Brooklyn Bridegrooms,86,43,0.667,Chicago Colts,83,53,0.610,None,NE,no WS,1890s
+1891,Boston Beaneaters,87,51,0.630,Chicago Colts,82,53,0.606,None,NE,no WS,1890s
+1892,Boston Beaneaters (first half),86,44,0.662,Cleveland Spiders (second half),93,56,0.624,None,NE,Split season,1890s
+1893,Boston Beaneaters,86,43,0.667,Chicago Colts,86,52,0.623,None,NE,no WS,1890s
+1894,Baltimore Orioles,89,39,0.693,New York Giants,88,44,0.667,None,NE,no WS,1890s
+1895,Baltimore Orioles,87,31,0.737,Cleveland Spiders,81,40,0.670,None,NE,no WS,1890s
+1896,Baltimore Orioles,90,39,0.699,Cleveland Spiders,80,48,0.625,None,NE,no WS,1890s
+1897,Boston Beaneaters,93,39,0.705,Baltimore Orioles,90,40,0.692,None,NE,no WS,1890s
+1898,Boston Beaneaters,102,47,0.685,Baltimore Orioles,96,53,0.646,None,NE,no WS,1890s
+1899,Baltimore Orioles,102,48,0.680,Brooklyn Superbas,101,47,0.685,None,NE,no WS,1890s
+1900,Brooklyn Superbas,82,54,0.603,Pittsburgh Pirates,90,49,0.647,None,NE,no WS,1900s
+1901,Pittsburgh Pirates,90,49,0.647,Philadelphia Phillies,83,57,0.593,None,NE,no WS,1900s
+1902,Pittsburgh Pirates,103,36,0.741,Brooklyn Superbas,75,63,0.543,None,NE,no WS,1900s
+1903,New York Giants,95,57,0.625,Pittsburgh Pirates,91,49,0.650,Boston Americans (AL),NL lost WS,1900s
+1904,New York Giants,106,47,0.691,Pittsburgh Pirates,91,49,0.650,None,NE,no WS (NYG owner refused),1900s
+1905,New York Giants,105,48,0.688,Pittsburgh Pirates,96,57,0.629,New York Giants,NL won WS,1900s
+1906,Chicago Cubs,116,36,0.763,New York Giants,108,47,0.696,Chicago White Sox (AL),NL lost WS,1900s
+1907,Chicago Cubs,107,45,0.704,Pittsburgh Pirates,91,63,0.591,Chicago Cubs,NL won WS,1900s
+1908,Chicago Cubs,99,55,0.643,Pittsburgh Pirates,98,56,0.636,Chicago Cubs,NL won WS,1900s
+1909,Pittsburgh Pirates,110,42,0.724,Chicago Cubs,104,49,0.680,Pittsburgh Pirates,NL won WS,1900s
+1910,Chicago Cubs,104,50,0.675,New York Giants,91,63,0.591,Philadelphia Athletics (AL),NL lost WS,1910s
+1911,New York Giants,99,54,0.647,Chicago Cubs,92,62,0.597,Philadelphia Athletics (AL),NL lost WS,1910s
+1912,New York Giants,103,48,0.682,Pittsburgh Pirates,93,59,0.610,Boston Red Sox (AL),NL lost WS,1910s
+1913,New York Giants,101,51,0.664,Philadelphia Phillies,88,63,0.583,Philadelphia Athletics (AL),NL lost WS,1910s
+1914,Boston Braves,94,59,0.613,New York Giants,84,70,0.545,Boston Braves,NL won WS,1910s
+1915,Philadelphia Phillies,90,62,0.592,Boston Braves,83,69,0.546,Boston Red Sox (AL),NL lost WS,1910s
+1916,Brooklyn Robins,94,60,0.610,Philadelphia Phillies,91,62,0.595,Boston Red Sox (AL),NL lost WS,1910s
+1917,New York Giants,98,56,0.636,Philadelphia Phillies,87,65,0.572,Chicago White Sox (AL),NL lost WS,1910s
+1918,Chicago Cubs,84,45,0.651,New York Giants,71,53,0.572,Boston Red Sox (AL),NL lost WS,1910s
+1919,Cincinnati Reds,96,44,0.686,New York Giants,87,53,0.621,Cincinnati Reds,NL won WS,1910s
+1920,Brooklyn Robins,93,61,0.604,New York Giants,86,68,0.558,Cleveland Indians (AL),NL lost WS,1920s
+1921,New York Giants,93,61,0.604,St. Louis Cardinals,87,66,0.569,New York Giants,NL won WS,1920s
+1922,New York Giants,93,61,0.604,St. Louis Cardinals,85,69,0.552,New York Giants,NL won WS,1920s
+1923,New York Giants,95,58,0.617,Pittsburgh Pirates,89,63,0.586,New York Yankees (AL),NL lost WS,1920s
+1924,New York Giants,93,60,0.608,Pittsburgh Pirates,90,63,0.588,Washington Senators (AL),NL lost WS,1920s
+1925,Pittsburgh Pirates,95,58,0.619,Chicago Cubs,87,67,0.565,Pittsburgh Pirates,NL won WS,1920s
+1926,St. Louis Cardinals,89,65,0.578,Cincinnati Reds,87,67,0.565,St. Louis Cardinals,NL won WS,1920s
+1927,Chicago Cubs,98,55,0.640,Pittsburgh Pirates,94,60,0.610,New York Yankees (AL),NL lost WS,1920s
+1928,St. Louis Cardinals,95,59,0.617,Chicago Cubs,91,63,0.592,New York Yankees (AL),NL lost WS,1920s
+1929,Chicago Cubs,98,54,0.645,Pittsburgh Pirates,88,65,0.575,Philadelphia Athletics (AL),NL lost WS,1920s
+1930,St. Louis Cardinals,92,62,0.597,Chicago Cubs,90,64,0.584,Philadelphia Athletics (AL),NL lost WS,1930s
+1931,St. Louis Cardinals,101,53,0.658,Chicago Cubs,84,70,0.545,St. Louis Cardinals,NL won WS,1930s
+1932,Chicago Cubs,90,64,0.584,Pittsburgh Pirates,86,68,0.558,New York Yankees (AL),NL lost WS,1930s
+1933,New York Giants,91,61,0.599,Pittsburgh Pirates,80,73,0.523,New York Giants,NL won WS,1930s
+1934,St. Louis Cardinals,95,58,0.619,New York Giants,93,60,0.608,St. Louis Cardinals,NL won WS,1930s
+1935,Chicago Cubs,100,54,0.649,St. Louis Cardinals,96,58,0.623,Detroit Tigers (AL),NL lost WS,1930s
+1936,New York Giants,92,61,0.601,Pittsburgh Pirates,84,70,0.545,New York Yankees (AL),NL lost WS,1930s
+1937,New York Giants,95,57,0.625,Chicago Cubs,93,61,0.604,New York Yankees (AL),NL lost WS,1930s
+1938,Chicago Cubs,89,63,0.586,Pittsburgh Pirates,86,64,0.574,New York Yankees (AL),NL lost WS,1930s
+1939,Cincinnati Reds,97,57,0.630,St. Louis Cardinals,92,61,0.600,New York Yankees (AL),NL lost WS,1930s
+1940,Cincinnati Reds,100,53,0.654,Brooklyn Dodgers,88,66,0.571,Cincinnati Reds,NL won WS,1940s
+1941,Brooklyn Dodgers,100,54,0.649,St. Louis Cardinals,97,56,0.635,New York Yankees (AL),NL lost WS,1940s
+1942,St. Louis Cardinals,106,48,0.688,Brooklyn Dodgers,104,50,0.675,St. Louis Cardinals,NL won WS,1940s
+1943,St. Louis Cardinals,105,49,0.682,Brooklyn Dodgers,81,72,0.529,St. Louis Cardinals,NL won WS,1940s
+1944,St. Louis Cardinals,105,49,0.682,Pittsburgh Pirates,90,63,0.588,St. Louis Cardinals,NL won WS,1940s
+1945,Chicago Cubs,98,56,0.636,Pittsburgh Pirates,97,57,0.630,Detroit Tigers (AL),NL lost WS,1940s
+1946,St. Louis Cardinals,98,58,0.628,Boston Braves,86,68,0.558,St. Louis Cardinals,NL won WS,1940s
+1947,Boston Braves,86,68,0.558,Cardinals (St. Louis),86,68,0.558,New York Yankees (AL),NL lost WS,1940s
+1948,Boston Braves,91,62,0.595,St. Louis Cardinals,85,69,0.552,Cleveland Indians (AL),NL lost WS,1940s
+1949,Boston Dodgers,97,57,0.630,Cardinals (St. Louis),96,58,0.623,New York Yankees (AL),NL lost WS,1940s
+1950,Boston Dodgers,96,58,0.623,St. Louis Cardinals,94,60,0.610,New York Yankees (AL),NL lost WS,1950s
+1951,New York Giants,98,59,0.623,Brooklyn Dodgers,97,57,0.630,New York Giants,NL won WS,1950s
+1952,Brooklyn Dodgers,96,57,0.627,New York Giants,90,64,0.584,New York Yankees (AL),NL lost WS,1950s
+1953,Brooklyn Dodgers,105,49,0.682,Milwaukee Braves,92,62,0.597,New York Yankees (AL),NL lost WS,1950s
+1954,New York Giants,97,57,0.630,Brooklyn Dodgers,92,61,0.600,New York Giants,NL won WS,1950s
+1955,Brooklyn Dodgers,98,55,0.640,Milwaukee Braves,85,69,0.552,Brooklyn Dodgers,NL won WS,1950s
+1956,Brooklyn Dodgers,93,61,0.604,Milwaukee Braves,92,62,0.597,Brooklyn Dodgers,NL won WS,1950s
+1957,Milwaukee Braves,95,59,0.617,Boston Braves/Milwaukee,86,68,0.560,Milwaukee Braves,NL won WS,1950s
+1958,Milwaukee Braves,92,62,0.597,Pittsburgh Pirates,84,70,0.545,Baltimore Orioles (AL),NL lost WS,1950s
+1959,Los Angeles Dodgers,88,68,0.564,Milwaukee Braves,86,70,0.551,Los Angeles Dodgers,NL won WS,1950s
+1960,Pittsburgh Pirates,95,59,0.617,Milwaukee Braves,88,66,0.571,Pittsburgh Pirates,NL won WS,1960s
+1961,Cincinnati Reds,93,61,0.604,Los Angeles Dodgers,102,63,0.618,Cincinnati Reds,NL won WS,1960s
+1962,San Francisco Giants,103,62,0.623,Pittsburgh Pirates,93,68,0.575,NY Yankees (AL),NL lost WS,1960s
+1963,Los Angeles Dodgers,99,63,0.611,St. Louis Cardinals,93,69,0.574,Los Angeles Dodgers,NL won WS,1960s
+1964,St. Louis Cardinals,93,69,0.574,Philadelphia Phillies,92,70,0.567,St. Louis Cardinals,NL won WS,1960s
+1965,Los Angeles Dodgers,97,65,0.599,San Francisco Giants,95,67,0.586,Los Angeles Dodgers,NL won WS,1960s
+1966,LA Dodgers,95,67,0.586,San Francisco Giants,95,67,0.586,Baltimore Orioles (AL),NL lost WS,1960s
+1967,Los Angeles Dodgers,100,60,0.623,San Francisco Giants,91,71,0.562,St. Louis Cardinals,NL won WS,1960s
+1968,St. Louis Cardinals,97,65,0.599,San Francisco Giants,88,74,0.542,Detroit Tigers (AL),NL lost WS,1960s
+1969,New York Mets,100,62,0.617,Chicago Cubs,92,70,0.568,New York Mets,NL won WS,1960s
+1970,Pittsburgh Pirates,89,73,0.549,Chicago Cubs,84,78,0.519,Pittsburgh Pirates,NL won WS,1970s
+1971,Pittsburgh Pirates,97,65,0.599,San Francisco Giants,90,72,0.556,Pittsburgh Pirates,NL won WS,1970s
+1972,Cincinnati Reds,95,59,0.617,Pittsburgh Pirates,88,74,0.537,Cincinnati Reds,NL won WS,1970s
+1973,Cincinnati Reds,99,63,0.611,New York Mets,82,79,0.510,Cincinnati Reds,NL won WS,1970s
+1974,Pittsburgh Pirates,88,74,0.543,Los Angeles Dodgers,102,60,0.630,Pittsburgh Pirates,NL won WS,1970s
+1975,Pittsburgh Pirates,92,62,0.597,Cincinnati Reds,108,54,0.667,Cincinnati Reds,AL won WS,1970s
+1976,Cincinnati Reds,102,60,0.630,Philadelphia Phillies,101,61,0.623,Cincinnati Reds,NL won WS,1970s
+1977,Los Angeles Dodgers,98,64,0.605,Pittsburgh Pirates,96,66,0.593,Cincinnati Reds,AL won WS,1970s
+1978,Pittsburgh Pirates,88,73,0.547,Los Angeles Dodgers,95,67,0.586,New York Yankees (AL),NL lost WS,1970s
+1979,Pittsburgh Pirates,98,64,0.605,Cincinnati Reds,90,72,0.556,Pittsburgh Pirates,NL won WS,1970s
+1980,Philadelphia Phillies,91,71,0.562,Houston Astros,93,70,0.571,Philadelphia Phillies,NL won WS,1980s
+1981,Montreal Expos (1st half),102,61,0.580,Los Angeles Dodgers (1st half),63,47,0.573,New York Yankees (AL),NL lost WS,1980s
+1982,St. Louis Cardinals,92,70,0.568,Atlanta Braves,89,73,0.549,St. Louis Cardinals,NL won WS,1980s
+1983,Philadelphia Phillies,90,72,0.556,Los Angeles Dodgers,91,71,0.561,Baltimore Orioles (AL),NL lost WS,1980s
+1984,Chicago Cubs,96,65,0.596,San Diego Padres,92,70,0.568,Detroit Tigers (AL),NL lost WS,1980s
+1985,St. Louis Cardinals,101,61,0.622,Los Angeles Dodgers,95,67,0.587,Kansas City Royals (AL),NL lost WS,1980s
+1986,New York Mets,108,54,0.667,Philadelphia Phillies,86,75,0.534,New York Mets,NL won WS,1980s
+1987,St. Louis Cardinals,95,67,0.586,New York Mets,92,70,0.568,Minnesota Twins (AL),NL lost WS,1980s
+1988,Los Angeles Dodgers,100,63,0.613,Cincinnati Reds,87,74,0.540,Los Angeles Dodgers,NL won WS,1980s
+1989,Chicago Cubs,95,63,0.654,San Francisco Giants,92,68,0.574,Oakland Athletics (AL),NL lost WS,1980s
+1990,Cincinnati Reds,91,71,0.562,Pittsburgh Pirates,95,67,0.586,Cincinnati Reds,NL won WS,1990s
+1991,Atlanta Braves,94,68,0.580,Pittsburgh Pirates,98,64,0.605,Minnesota Twins (AL),NL lost WS,1990s
+1992,Atlanta Braves,98,64,0.605,Pittsburgh Pirates,96,66,0.593,Toronto Blue Jays (AL),NL lost WS,1990s
+1993,Atlanta Braves,104,58,0.642,San Francisco Giants,103,59,0.636,Philadelphia Phillies (NL),NL won WS,1990s
+1994,Season cancelled by strike,,,,———,1990s
+1995,Atlanta Braves,90,54,0.625,San Diego Padres,73,59,0.553,Atlanta Braves,NL won WS,1990s
+1996,Atlanta Braves,96,66,0.593,St. Louis Cardinals,88,74,0.542,New York Yankees (AL),NL lost WS,1990s
+1997,Atlanta Braves,101,61,0.623,Houston Astros,84,78,0.519,Florida Marlins,NL won WS,1990s
+1998,Atlanta Braves,106,56,0.650,Chicago Cubs,90,73,0.551,New York Yankees (AL),NL lost WS,1990s
+1999,Atlanta Braves,103,59,0.636,Arizona Diamondbacks,100,62,0.617,New York Yankees (AL),NL lost WS,1990s
+2000,Atlanta Braves,95,67,0.586,St. Louis Cardinals,95,67,0.500,New York Yankees (AL),NL lost WS,1990s
+2001,Arizona Diamondbacks,92,70,0.568,Houston Astros,93,69,0.573,Arizona Diamondbacks,NL won WS,2000s
+2002,Atlanta Braves,101,59,0.630,St. Louis Cardinals,97,65,0.598,Angels (AL),NL lost WS,2000s
+2003,Chicago Cubs,88,74,0.543,Atlanta Braves,101,61,0.623,Florida Marlins,NL won WS,2000s
+2004,St. Louis Cardinals,105,57,0.648,Houston Astros,92,70,0.568,Boston Red Sox (AL),NL lost WS,2000s
+2005,St. Louis Cardinals,100,62,0.617,Houston Astros,89,73,0.549,Chicago White Sox (AL),NL lost WS,2000s
+2006,St. Louis Cardinals,83,78,0.516,New York Mets,97,65,0.599,St. Louis Cardinals,NL won WS,2000s
+2007,Colorado Rockies,90,73,0.552,Philadelphia Phillies,89,73,0.549,Red Sox (AL),NL lost WS,2000s
+2008,Philadelphia Phillies,92,70,0.568,Milwaukee Brewers,90,72,0.556,Philadelphia Phillies,NL won WS,2000s
+2009,Philadelphia Phillies,93,69,0.574,St. Louis Cardinals,91,71,0.562,New York Yankees (AL),NL lost WS,2000s
+2010,San Francisco Giants,92,70,0.568,Philadelphia Phillies,97,65,0.599,San Francisco Giants,NL won WS,2010s
+2011,St. Louis Cardinals,100,62,0.617,Milwaukee Brewers,96,66,0.593,St. Louis Cardinals,NL won WS,2010s
+2012,San Francisco Giants,94,68,0.580,Cincinnati Reds,97,65,0.599,San Francisco Giants,NL won WS,2010s
+2013,St. Louis Cardinals,97,65,0.599,Atlanta Braves,86,76,0.531,Red Sox (AL),NL lost WS,2010s
+2014,San Francisco Giants,88,74,0.543,Los Angeles Dodgers,94,68,0.580,San Francisco Giants,NL won WS,2010s
+2015,Chicago Cubs,97,65,0.599,Los Angeles Dodgers,92,70,0.568,Chicago Cubs,NL won WS,2010s
+2016,Chicago Cubs,103,58,0.640,Los Angeles Dodgers,91,71,0.562,Chicago Cubs,NL won WS,2010s
+2017,Washington Nationals,97,65,0.599,Los Angeles Dodgers,104,58,0.641,Houston Astros (AL),NL lost WS,2010s
+2018,Milwaukee Brewers,96,67,0.589,Los Angeles Dodgers,92,71,0.563,Boston Red Sox (AL),NL lost WS,2010s
+2019,Washington Nationals,93,69,0.574,Los Angeles Dodgers,106,56,0.654,Washington Nationals,NL won WS,2010s
+2020,Los Angeles Dodgers,43,17,0.717,Atlanta Braves,35,25,0.583,LA Dodgers,NL won WS,2020s
+2021,Atlanta Braves,88,73,0.547,Los Angeles Dodgers,106,56,0.654,Atlanta Braves,NL won WS,2020s
+2022,Los Angeles Dodgers,111,51,0.685,Atlanta Braves (tie),101,61,0.623,St. Louis Cardinals (NL),Houston Astros (AL),NL lost WS,2020s
+2023,Atlanta Braves,104,58,0.642,Philadelphia Phillies,90,72,0.556,Atlanta Braves (NL),TX Rangers (AL),NL lost WS,2020s
+2024,Los Angeles Dodgers,98,64,0.605,New York Mets (tie),89,73,0.549,Dodgers (NL),NY Yankees (AL),NL won WS,2020s
+2025,Los Angeles Dodgers,96,66,0.593,Philadelphia Phillies (tie),96,66,0.593,Dodgers (NL),Toronto Blue Jays (AL),NL won WS,2020s
