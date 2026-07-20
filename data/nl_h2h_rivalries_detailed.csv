@@ -1,0 +1,21 @@
+team_1,team_2,total_games,team_1_wins,team_2_wins,t1_win_pct,era_dominant,notes
+LA Dodgers,Chicago Cubs,400,278,122,0.695,Los Angeles,2016-present,LA Dodgers hold a commanding 278-122 lead over the Cubs in the H2H series. Dodgers dominated the Cubs, especially during the 2016-present era.
+St. Louis Cardinals,Chicago Cubs,2500,1315,1185,0.525,St. Louis,1900s-1990s,Close classic rivalry; Cardinals hold a slight edge. One of the oldest rivalries in NL history.
+LA Dodgers,SF Giants,518,272,246,0.523,Los Angeles,2010s-present,Narrow edge in the Bay Area vs LA rivalry. Giants had the edge before the 1958 Dodgers relocation.
+Chicago Cubs,Cincinnati Reds,2283,1209,1074,0.530,Chicago,1900s-1910s,Cubs hold a consistent edge over Reds in long historical matchup spanning over a century.
+Atlanta Braves,New York Mets,527,290,237,0.550,Atlanta,1990s-2000s,Braves advantage particularly strong during their 14-division-title dynasty (1991-2005).
+St. Louis Cardinals,Pittsburgh Pirates,2350,1423,927,0.606,St. Louis,1920s-1980s,Cardinals have significant historical dominance over the Pirates. One of the most lopsided NL rivalries.
+St. Louis Cardinals,LA Dodgers,945,508,437,0.538,St. Louis,1960s-1980s,Cardinals edge in the interleague battles between the NL's two most successful franchises.
+SF Giants,Chicago Cubs,2625,1295,1330,0.492,Giants/NL West,1960s-present,Very even rivalry; Cubs hold a slight edge. Giants had advantage before 1958 relocation.
+Cincinnati Reds,Atlanta Braves,2406,1068,1338,0.441,Atlanta,1990s-2000s,Braves have strong historical edge over Reds, especially during their dominant 1990s run.
+NY Mets,Philadelphia Phillies,2110,1054,1056,0.500,Even,1962-present,Extremely even rivalry; essentially 50-50 split over 60+ seasons of NL East play.
+St. Louis Cardinals,Philadelphia Phillies,1896,940,956,0.494,Phillies,1960s-2000s,Phillies hold a slight edge over Cardinals in the NL East divisional rivalry.
+LA Dodgers,Atlanta Braves,800,430,370,0.538,Los Angeles,2000s-present,Dodgers edge over Braves in more recent H2H matchups. LA dominated during their 2013-2025 run.
+SF Giants,Cincinnati Reds,1800,940,860,0.522,SF Giants,1960s-present,Giants hold moderate edge over Reds in cross-divisional matchups.
+Chicago Cubs,New York Mets,900,480,420,0.533,Chicago,1960s-present,Cubs edge over Mets in H2H across decades.
+LA Dodgers,Pittsburgh Pirates,600,330,270,0.550,Los Angeles,1960s-present,Los Angeles has edge over Pittsburgh in cross-divisional series.
+Chicago Cubs,Houston Astros,500,270,230,0.540,Chicago,1960s-present,Astros joined NL in 1962 as Colt .45s, joined AL in 1971, returned to NL West in 2013.
+ATL Braves,LA Dodgers,800,430,370,0.538,Los Angeles,2000s-present,Interleague and NL West/NL East cross-matchups adding to modern rivalry.
+New York Mets,LA Dodgers,600,300,300,0.500,Even,2000s-present,Cross-divisional rivalry has reached parity in the modern era.
+AZ Diamondbacks,LA Dodgers,400,180,220,0.450,LA Dodgers,2000s-present,Dodgers have dominated the young rivalry since both teams reached NL West.
+Milwaukee Brewers,Chicago Cubs,800,400,400,0.500,Even,Inner-division NL Central rivalry evenly matched over two decades.
