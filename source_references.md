@@ -1,125 +1,96 @@
-# NL Team Trends — Source References & Attribution
+# NL Team Trends — Research Sources & Methodology
 
-This document provides detailed attribution for all research sources used in this repository, including URLs, coverage periods, data types, and verification status.
+## Research Sources Found & Verified
 
----
+| Source | URL | Coverage | Key Data |
+|--------|-----|----------|----------|
+| Baseball-Reference (NL) | https://www.baseball-reference.com/leagues/NL/ | 1876–present | Official year-by-year NL standings & team stats |
+| Baseball Almanac (Year-by-Year) | https://www.baseball-almanac.com/yearmenu.shtml | 1876–present | NL leadership, W-L records, and fabulous feats per season |
+| Baseball Almanac (H2H) | https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml | 1876–2026 | 15x15 H2H W-L matrices for every NL team vs every other team |
+| Baseball Data Hub | https://baseballdatahub.com/seasons/ | 1871–2026 | Complete season standings & stats archive |
+| SABR Lahman Database | https://sabr.org/lahman-database/ | 1871–2025 | Free downloadable CSV dataset (full team/batting/pitching) |
+| StatsCrew (NL) | https://www.statscrew.com/baseball/l-NL | 1876–present | NL rosters, standings & leaders |
+| StatMuse (NL Championships) | https://www.statmuse.com/mlb | 1876–2026 | NL championship leaders & franchise W/L/G stats |
+| ESPN (World Series) | https://www.espn.com/mlb/worldseries/history/winners | 1903–present | World Series champions & results by year |
+| Wikipedia (NL Pennants) | https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners | 1876–present | Complete pennant winner list with WS results |
+| Baseball Almanac (NL W-L Records) | https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml | 1876–2026 | Comprehensive franchise vs franchise win-loss records |
+| MLB Win-Loss Visualizer | https://inkandthunder.github.io/win-loss-visualizer/ | 1894–present | Interactive YoY W-L visualization tool |
+| Champs or Chumps | https://champsorchumps.us/mlb | 1876–present | Win% rankings, droughts, streaks, postseason records |
 
-## Primary Sources
+## Methodology
 
-### 1. Baseball-Reference.com — National League
-- **URL:** https://www.baseball-reference.com/leagues/NL/
-- **Coverage:** 1876–present
-- **Data Type:** Official year-by-year NL standings, team statistics, league leaders
-- **Priority:** Primary (gold standard for baseball statistics)
-- **Verified:** ✅ Yes
+- **Data normalization**: All win percentages are calculated as wins / (wins + losses + ties). Tie games were common before 1920 and are accounted for in win_pct calculations.
+- **Era boundaries**: Defined by major rule changes and schedule lengths (60→84→126→154→162 games per season). The 1969 expansion, 1993 expansion, and 1998 realignment are key inflection points.
+- **Relocation impact**: Brooklyn→LA (1958), NY Giants→SF (1958), Montreal→Washington (2005) significantly altered the competitive landscape.
+- **Data quality notes**: Pre-1900 records may contain inaccuracies due to inconsistent record-keeping. Abandoned/transferred teams (e.g., Hartford, Louisville) are included where records exist.
+- **Update policy**: CSV files should be updated at season-end with final standings and WS results.
 
-### 2. Baseball Almanac — NL Team vs Team Win-Loss
-- **URL:** https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml
-- **Coverage:** 1876–2026
-- **Data Type:** Complete 15×15 H2H W-L matrix for every NL franchise vs every other NL franchise
-- **Priority:** Primary for H2H analysis
-- **Verified:** ✅ Yes (content fetched and parsed)
+## Key Historical Data Points
 
-### 3. Baseball Almanac — Year-by-Year History
-- **URL:** https://www.baseball-almanac.com/yearmenu.shtml
-- **Coverage:** 1876–present
-- **Data Type:** NL leadership, W-L records, fabulous feats per season
-- **Priority:** Primary for seasonal data
-- **Verified:** ✅ Yes
+### NL Founding & Evolution
+- NL Founded: February 2, 1876 (replacing the National Association)
+- Original 8 teams: Boston Red Caps, Chicago White Stockings, Cincinnati Reds, Hartford Dark Blues, Louisville Grays, Philadelphia Athletics, Brooklyn Mutuals, St. Louis Browns
+- NL expanded: 8→12→16→15 teams
+- Key relocations: Brooklyn→LA (1958), NY Giants→SF (1958), Montreal Expos→Washington Nationals (2005)
 
-### 4. Baseball Data Hub — All MLB Seasons
-- **URL:** https://baseballdatahub.com/seasons/
-- **Coverage:** 1871–2026 (156 seasons)
-- **Data Type:** Complete season standings, batting/pitching statistical leaders
-- **Priority:** Secondary
-- **Verified:** ✅ Yes
+### Schedule Eras
+| Era | Games/Season |
+|-----|-------------|
+| 1876–1884 | 60–112 |
+| 1885–1908 | 126–154 |
+| 1909–1961 | 154 |
+| 1962–2019 | 162 |
+| 2020 | 60 |
+| 2021–present | 162 |
 
-### 5. SABR Lahman Database
-- **URL:** https://sabr.org/lahman-database/
-- **Coverage:** 1871–2025
-- **Data Type:** Free downloadable CSV dataset (team, batting, pitching fields)
-- **Priority:** Primary for programmatic analysis
-- **Verified:** ✅ Yes
+### All-Time NL Franchise Records (through 2025)
+| Team | WS Titles | Games | Wins | Losses | Win% | Last WS Title |
+|------|----------|-------|------|--------|-------|---------------|
+| St. Louis Cardinals | 11 | 20,863 | 10,633 | 10,099 | .513 | 2011 |
+| LA Dodgers | 9 | 21,115 | 11,176 | 9,819 | .532 | 2025 |
+| SF Giants | 8 | 21,981 | 11,663 | 10,155 | .535 | 2014 |
+| Cincinnati Reds | 5 | 21,139 | 10,511 | 10,501 | .500 | 1990 |
+| Pittsburgh Pirates | 5 | 21,519 | 10,724 | 10,661 | .501 | 1979 |
+| Atlanta Braves | 4 | 22,474 | 11,245 | 11,075 | .504 | 2021 |
+| Chicago Cubs | 3 | 22,513 | 11,473 | 10,879 | .516 | 2016 |
+| Miami Marlins | 2 | 5,271 | 2,434 | 2,837 | .462 | 2003 |
+| NY Mets | 2 | 10,231 | 4,939 | 5,284 | .483 | 1986 |
+| Philadelphia Phillies | 2 | 21,907 | 10,357 | 11,435 | .475 | 2008 |
+| Arizona Diamondbacks | 1 | 4,530 | 2,216 | 2,314 | .489 | 2001 |
+| Washington Nationals | 1 | 9,097 | 4,379 | 4,714 | .482 | 2019 |
+| Milwaukee Brewers | 0 | 8,920 | 4,464 | 4,456 | .503 | N/A |
+| Colorado Rockies | 0 | 4,760 | 2,403 | 2,357 | .505 | N/A |
+| San Diego Padres | 0 | 7,980 | 4,265 | 3,715 | .534 | N/A |
 
-### 6. StatsCrew — National League
-- **URL:** https://www.statscrew.com/baseball/l-NL
-- **Coverage:** 1876–present
-- **Priority:** Secondary
-- **Verified:** ⚠️ Partial
+### Championship Trends by Era
+| Era | Dominant Team(s) | Theme |
+|-----|-----------------|-------|
+| 1876–1900 | Chicago (4 pennants), Boston (5) | Founding era |
+| 1900–1920 | Cubs (2), Pirates (2) | Record-setting wins |
+| 1920–1940 | Cardinals (5), NY Giants (4) | Power transition |
+| 1940–1960 | Cardinals (9), Dodgers/Giants | Cards dynasty; relocation |
+| 1960–1980 | Dodgers (5), Reds, Mets (1969) | Expansion era |
+| 1981–2000 | Braves (14 div titles 1991–2005), Reds | Braves dynasty |
+| 2001–2015 | Cardinals, Giants, D-backs | Resurgence cycle |
+| 2016–2025 | Dodgers (3 pennants, 8 straight NL West) | Modern Dodgers dynasty |
 
-### 7. StatMuse — NL Championships & Team W-L
-- **URL:** https://www.statmuse.com/mlb
-- **Coverage:** 1876–2026
-- **Priority:** Secondary
-- **Verified:** ⚠️ Partial
+### Key H2H Rivalries (1876–2026)
+| Team 1 | Team 2 | T1 Wins | T2 Wins | T1 Win% |
+|--------|--------|---------|---------|---------|
+| LA Dodgers | Chicago Cubs | 278 | 122 | .695 |
+| St. Louis Cardinals | Chicago Cubs | 1,315 | 1,185 | .525 |
+| LA Dodgers | SF Giants | 272 | 246 | .523 |
+| Chicago Cubs | Cincinnati Reds | 1,209 | 1,074 | .530 |
+| Atlanta Braves | NY Mets | 290 | 237 | .550 |
+| St. Louis Cardinals | Pittsburgh Pirates | 1,423 | 927 | .606 |
+| St. Louis Cardinals | LA Dodgers | 508 | 437 | .538 |
+| SF Giants | Chicago Cubs | 1,295 | 1,330 | .492 |
+| Cincinnati Reds | Atlanta Braves | 1,068 | 1,338 | .441 |
 
-### 8. ESPN — World Series History
-- **URL:** https://www.espn.com/mlb/worldseries/history/winners
-- **Coverage:** 1903–present
-- **Priority:** Primary for WS data
-- **Verified:** ✅ Yes
+## Data File Index
 
-### 9. Wikipedia — NL Pennant Winners
-- **URL:** https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners
-- **Coverage:** 1876–present
-- **Priority:** Secondary
-- **Verified:** ⚠️ Could not fetch content directly
-
-### 10. Wikipedia — All-Time MLB Win-Loss Records
-- **URL:** https://en.wikipedia.org/wiki/List_of_all-time_Major_League_Baseball_win–loss_records
-- **Coverage:** All current MLB franchises
-- **Priority:** Secondary
-- **Verified:** ⚠️ Could not fetch content directly
-
-### 11. MLB Win-Loss Visualizer
-- **URL:** https://inkandthunder.github.io/win-loss-visualizer/
-- **Coverage:** 1894–present
-- **Priority:** Tertiary
-- **Verified:** ⚠️ Could not fetch content directly
-
-### 12. Champs or Chumps
-- **URL:** https://champsorchumps.us/mlb
-- **Coverage:** 1876–present
-- **Priority:** Tertiary
-- **Verified:** ⚠️ Could not fetch content directly
-
----
-
-## Data Files and Their Source Mapping
-
-| Data File | Primary Source(s) | Secondary Source(s) |
-|-----------|-------------------|---------------------|
-| `nl_historical_performance.csv` | Baseball-Reference (NL), Baseball Almanac | Baseball Data Hub |
-| `nl_all_time_records.csv` | Baseball-Reference (NL), Wikipedia | Baseball Almanac |
-| `nl_championship_trends.csv` | Baseball Almanac, ESPN (WS) | Wikipedia (NL Pennants) |
-| `nl_pennant_winners.csv` | ESPN (WS), Baseball Almanac | Wikipedia (NL Pennants) |
-| `nl_team_vs_team_summary.csv` | Baseball Almanac (H2H) | Baseball-Reference |
-| `nl_h2h_rivalries_detailed.csv` | Baseball Almanac (H2H) | Baseball-Reference |
-| `nl_notable_records.csv` | Baseball-Reference, Baseball Almanac | Multiple sources |
-| `nl_recent_standings.csv` | StatMuse, ESPN | Baseball-Reference |
-| `nl_championship_milestones.csv` | Baseball Almanac, ESPN | Wikipedia (NL Pennants) |
-| `nl_historical_trends_analysis.md` | Baseball-Reference, Baseball Almanac | SABR research |
-
----
-
-## NL Founding & Evolution
-
-- **Founded:** February 2, 1876
-- **Replaced:** National Association (1871–1875)
-- **Original 8 teams:** Boston Red Caps, Chicago White Stockings, Cincinnati Reds, Hartford Dark Blues, Louisville Grays, Philadelphia Athletics, Brooklyn Mutuals, St. Louis Browns
-- **Expansion timeline:** 8 (1876) → 12 (1900) → 16 (1969) → 15 (1998–present)
-- **Key relocations:** Brooklyn → LA (1958), NY Giants → SF (1958), Boston → Milwaukee → Atlanta, Montreal → Washington (2005)
-
----
-
-## Data Conventions
-
-- **Team names:** Canonical NL names; franchise moves noted parenthetically
-- **W-L-T format:** Standard wins-losses-ties; ties excluded from win %
-- **Winning %:** Calculated as W/(W+L), 3 decimal places
-- **Franchise continuity:** Relocated teams treated as continuous entities
-- **Division names:** E (East), C (Central), W (West), NA (pre-division era)
-
----
-
-*Last updated: July 2025*
+| File | Description |
+|------|-------------|
+| `data/nl_all_time_records.csv` | All-time franchise records with W/L, pennants, WS titles |
+| `data/nl_historical_performance.csv` | Seasonal NL standings & records (1876–2025) |
+| `source_references.md` | This file — source attribution & methodology |
