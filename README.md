@@ -21,6 +21,7 @@ The National League is baseball's oldest professional league, founded on **Febru
 | StatMuse (NL Championships) | https://www.statmuse.com/mlb | 1876–2026 | NL championship leaders & franchise W/L/G stats |
 | ESPN (World Series) | https://www.espn.com/mlb/worldseries/history/winners | 1903–present | World Series champions & results by year |
 | Wikipedia (NL Pennants) | https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners | 1876–present | Complete pennant winner list with WS results |
+| Baseball Almanac (NL W-L Records) | https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml | 1876–2026 | Comprehensive franchise vs franchise win-loss records |
 | MLB Win-Loss Visualizer | https://inkandthunder.github.io/win-loss-visualizer/ | 1894–present | Interactive YoY W-L visualization tool |
 | Champs or Chumps | https://champsorchumps.us/mlb | 1876–present | Win% rankings, droughts, streaks, postseason records |
 
@@ -95,14 +96,16 @@ The National League is baseball's oldest professional league, founded on **Febru
 ```
 nl-team-trends/
 ├── README.md                              ← This file — research overview & key findings
-├── source_references.md                   ← Detailed source attribution
+├── source_references.md                   ← Detailed source attribution & methodology notes
 ├── DATA_INDEX.md                          ← Data file index & conventions
 ├── requirements.txt                       ← Python dependencies
 ├── data/
 │   ├── nl_all_time_records.csv            ← All-time franchise records with W/L, pennants, WS titles
 │   ├── nl_championship_trends.csv         ← Championship highlights by era
-│   ├── nl_championship_milestones.csv     ← Key championship milestones
-│   ├── nl_historical_performance.csv      ← Seasonal NL standings (1876-2025) — see DATA_INDEX.md
+│   ├── nl_championship_milestones.csv     ← Key championship milestones by decade/era
+│   ├── nl_historical_performance.csv      ← Seasonal NL standings & records (1876-2025)
+│   ├── nl_historical_trends_analysis.md   ← Comprehensive era-by-era historical trends analysis
+│   ├── nl_h2h_rivalries_detailed.csv      ← Detailed H2H rivalry data with dominant eras & notes
 │   ├── nl_notable_records.csv             ← Key single-season & franchise records
 │   ├── nl_pennant_winners.csv             ← Complete NL pennant winners 1876-2025
 │   ├── nl_recent_standings.csv            ← Divisional standings 2013-2025
@@ -141,12 +144,53 @@ unzip master.zip
 ```python
 import pandas as pd
 
+# All-time franchise records
 records = pd.read_csv('data/nl_all_time_records.csv')
 print(records.sort_values('ws_titles', ascending=False).head())
 
+# H2H rivalry summary
 h2h = pd.read_csv('data/nl_team_vs_team_summary.csv')
-trends = pd.read_csv('data/nl_championship_trends.csv')
+
+# Detailed H2H rivalries with era context
+h2h_detailed = pd.read_csv('data/nl_h2h_rivalries_detailed.csv')
+print(h2h_detailed.sort_values('t1_win_pct', ascending=False))
+
+# Historical trends analysis
+with open('data/nl_historical_trends_analysis.md') as f:
+    print(f.read())
+
+# Seasonal performance data (1876-2025)
+seasonal = pd.read_csv('data/nl_historical_performance.csv')
+print(seasonal.head())
 ```
+
+---
+
+## Key Research Findings
+
+### 1. Franchise Dominance Patterns
+- The **St. Louis Cardinals** hold the most World Series titles in the NL (11) and have competed in 20,863 games
+- The **LA Dodgers** hold the most NL pennants (26) and have 9 WS titles
+- The **San Francisco Giants** have a .535 all-time win% — the highest among the NL's traditional powers
+- The **Atlanta Braves** ran the most dominant dynasty (14 straight division titles, 1991-2005)
+
+### 2. Era-Specific Trends
+- **Dead-Ball Era (1900-1919)**: Giants won 8 pennants in 22 years; record-setting team wins
+- **Cards Dynasty (1930s-1940s)**: 6 pennants in 8 years; 3 straight WS titles 1942-1944
+- **Braves Dynasty (1990s)**: 14 consecutive division titles; 1995 WS champion
+- **Modern Dodgers (2013-2025)**: 8 straight NL West titles, most consistent NL dominance today
+
+### 3. H2H Rivalry Insights
+- Most one-sided: Cardinals vs. Pirates (60.6% Cardinals)
+- Most competitive: Mets vs. Phillies (essentially 50-50)
+- Biggest modern gap: Dodgers vs. Cubs (69.5% Dodgers)
+- Relocation dramatically reshaped the NL competitive map (Brooklyn→LA, NY Giants→SF)
+
+### 4. Notable Historical Trends
+- The 1914 "Miracle Braves" went from last place on July 4 to World Series champions
+- The 1969 Mets won 100 games in their first year after relocating from the Polo Grounds to Shea
+- The "Big Red Machine" Reds won 3 consecutive pennants (1972-1976) and 2 WS titles
+- The Cubs' 108-year drought (1908-2016) is the longest in American professional sports history
 
 ---
 
@@ -155,9 +199,9 @@ trends = pd.read_csv('data/nl_championship_trends.csv')
 Contributions are welcome! Here are some ways to help:
 
 1. **Add more seasons** — Update `nl_historical_performance.csv` with current/recent season data
-2. **Expand H2H data** — Complete the 15x15 matrix from Baseball Almanac
+2. **Expand H2H data** — Complete the 15x15 matrix from Baseball Almanac's full 15x15 H2H data
 3. **Build notebooks** — Add Jupyter notebooks for analysis in `notebooks/`
-4. **Create visualizations** — Add charts and graphs to `visualizations/`
+4. **Create visualizations** — Add charts and graphs to `visualizations/` using the roadmap in `visualizations/README.md`
 5. **Add more data sources** — Expand `source_references.md` with new verified sources
 
 ---
