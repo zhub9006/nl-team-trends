@@ -41,7 +41,13 @@ Comprehensive list of verified sources used for NL team performance research.
 - Winning % calculated as W/(W+L) to 3 decimal places.
 - Regular-season wins only; postseason results tracked separately.
 - Relocated teams treated as continuous franchises (e.g., NY Giants → SF Giants).
+- H2H data uses Baseball Almanac's comprehensive franchise-vs-franchise records, which track all interleague and intradivisional matchups (1876–2026).
+
+## Key New Additions (July 2026)
+
+- **H2H detailed rivalry data**: `data/nl_h2h_rivalries_detailed.csv` — 20 key rivalries with era-dominance context and analytical notes, compiled from the Baseball Almanac 15×15 H2H matrix.
+- **Historical trends analysis**: `data/nl_historical_trends_analysis.md` — Comprehensive era-by-era breakdowns of ERA-SPECIFIC trends, franchise dominance patterns, and seasonal record analysis.
 
 ## Data Currency
 
-All data reflects the 2025 MLB season. The Lahman Database serves as the primary downloadable dataset for programmatic analysis.
+All data reflects the 2025 MLB season (with H2H data including 2026 season through July 2026). The Lahman Database serves as the primary downloadable dataset for programmatic analysis.
