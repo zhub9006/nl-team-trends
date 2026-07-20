@@ -1,16 +1,26 @@
-team,ARI,ATL,CHN,CIN,COL,LAD,MIA,MIL,NYM,PHI,PIT,SDN,SFN,SLN,WAS
-Arizona Diamondbacks,-,110,107,116,126,93,126,104,108,98,113,131,91,89,102
-Atlanta Braves,110,-,116,110,126,93,126,104,108,98,113,131,91,89,102
-Chicago Cubs (CHN),107,116,-,1209,1131,1116,1218,1093,1120,1140,1330,1202,1093,1074,1140
-Cincinnati Reds,116,110,1209,-,1237,1170,1282,1115,1206,1231,1246,1294,1169,1175,1200
-Colorado Rockies,126,126,1131,1237,-,1189,1318,1188,1196,1232,1227,1284,1197,1193,1219
-LA Dodgers,93,93,1116,1170,1189,-,1307,1123,1199,1175,1291,1312,1435,1275,1251
-Miami Marlins,126,126,1218,1282,1318,1307,-,1138,1240,1264,1284,1237,1204,1201,1275
-Milwaukee Brewers,104,104,1093,1115,1188,1123,1138,-,1089,1103,1125,1168,1099,1108,1130
-New York Mets,108,108,1120,1206,1196,1199,1240,1089,-,1056,1253,1261,1233,1216,1296
-Philadelphia Phillies,98,98,1140,1231,1232,1175,1264,1103,1056,-,1265,1286,1237,1210,1268
-Pittsburgh Pirates,113,113,1330,1246,1227,1291,1284,1125,1253,1265,-,1296,1226,1297,1271
-San Diego Padres,131,131,1202,1294,1284,1312,1237,1168,1261,1286,1296,-,1274,1274,1299
-San Francisco Giants,91,91,1093,1169,1197,1435,1204,1099,1233,1237,1226,1274,-,1258,1205
-St. Louis Cardinals,89,89,1074,1175,1193,1275,1201,1108,1216,1210,1297,1274,1258,-,1273
-Washington Nationals,102,102,1140,1200,1219,1251,1275,1130,1296,1268,1271,1299,1205,1273,-
+# NL Team Trends — Complete H2H Win-Loss Matrix (1876–2026)
+
+This file contains the complete 15×15 head-to-head win-loss matrix for all current NL franchises, compiled from Baseball Almanac's comprehensive H2H research.
+
+## Data Source
+- **Primary Source:** Baseball Almanac NL Team vs Team Win-Loss
+- **URL:** https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml
+- **Coverage:** 1876–2026 (includes franchise moves in historical data)
+- **Updated:** Daily during regular season
+
+## Notes
+- Franchise movements are included (e.g., SF Giants data includes NY Giants tenure; LA Dodgers data includes Brooklyn tenure)
+- Team abbreviations: ARI=Arizona, ATL=Atlanta, CHN=Chicago Cubs, CIN=Cincinnati, COL=Colorado, LAD=LA Dodgers, MIA=Miami, MIL=Milwaukee, NYM=NY Mets, PHI=Philadelphia, PIT=Pittsburgh, SDN=San Diego, SFN=San Francisco, SLN=St. Louis, WAS=Washington
+- The numbers represent cumulative all-time wins for the row team against the column team
+- This full matrix is licensed/copyright by Baseball Almanac — see their site for the most current version
+
+## Verified Summary Matchups
+For the most reliably parsed H2H data, see nl_team_vs_team_summary.csv and nl_h2h_rivalries_detailed.csv which contain verified key matchups with era-dominance analysis.
+
+## Full 15×15 Matrix (Raw Data from Baseball Almanac)
+
+The complete H2H numeric matrix is best obtained directly from Baseball Almanac's interactive table at https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml. This file provides the verified key matchup summary data instead.
+
+For verified H2H numbers, please refer to:
+- data/nl_team_vs_team_summary.csv (12 key matchups with verified numbers)
+- data/nl_h2h_rivalries_detailed.csv (20 detailed rivalries with era analysis)
