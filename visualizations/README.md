@@ -1,105 +1,103 @@
-# Visualization Roadmap
+# Visualizations Roadmap — nl-team-trends
 
-## Planned Visualizations for NL Team Trends
+## Planned Visualization Projects
 
-This directory will house all analysis notebooKS, scripts, and output visualizations.
+### 1. Win-Loss Trends Over Time
+- **Type**: Line chart
+- **Data Source**: `data/nl_historical_performance.csv`
+- **Description**: Plot each NL team's cumulative win% over the decades (1876–present)
+- **Tools**: matplotlib, seaborn, or plotly for interactive version
+- **Insight**: See how franchise trajectories diverge and converge over time
 
----
+### 2. World Series Titles by Team
+- **Type**: Bar chart
+- **Data Source**: `data/nl_all_time_records.csv`
+- **Description**: Horizontal bar chart of WS titles for each NL team
+- **Tools**: matplotlib or plotly
+- **Insight**: Cardinals (11) vs Dodgers (9) vs Giants (8) dominance
 
-## 1. Win-Loss Trend Lines by Franchise (1876–2025)
-- **Type:** Multi-line chart
-- **Data Source:** nl_historical_performance_detailed.csv, nl_all_time_records.csv
-- **Tool:** matplotlib / plotly
-- **Goal:** Show franchise power curves; highlight dominant eras
+### 3. Head-to-Head Rivalry Heatmap
+- **Type**: Heatmap / matrix
+- **Data Source**: `data/nl_h2h_rivalries_detailed.csv`
+- **Description**: 15×15 matrix of H2H win% for all NL team vs NL team matchups
+- **Tools**: seaborn heatmap or plotly
+- **Insight**: Color-coded view of who dominates whom (Cardinals vs Pirates 60.6% is most lopsided)
 
-## 2. Pennant Count Bar Chart by Franchise
-- **Type:** Horizontal bar chart
-- **Data Source:** nl_all_time_records.csv
-- **Tool:** matplotlib / seaborn
-- **Goal:** Compare pennant totals across all 15 NL franchises
+### 4. Championship Timeline by Era
+- **Type**: Timeline / Sankey diagram
+- **Data Source**: `data/nl_championship_trends.csv`
+- **Description**: Visual flow of pennant winners + WS champions by decade
+- **Tools**: plotly or matplotlib
+- **Insight**: See dynasty periods (1942-46 Cardinals, 1991-2005 Braves, 2018-2025 Dodgers)
 
-## 3. World Series Timeline Heatmap
-- **Type:** Heatmap (teams × years)
-- **Data Source:** nl_historical_performance_detailed.csv, nl_pennant_winners_recent.csv
-- **Tool:** plotly
-- **Goal:** Visualize WS appearances and results by franchise
+### 5. Pitching vs Hitting Performance Over Time
+- **Type**: Dual-axis line chart
+- **Data Source**: SABR Lahman Database (separate from this repo)
+- **Description**: NL ERA and run scoring trends by era (Dead-Ball, Live-Ball, Integration, Steroids)
+- **Tools**: matplotlib or plotly
+- **Insight**: Correlation between pitching dominance eras and low-scoring games
 
-## 4. Championship Drought Duration Chart
-- **Type:** Bar chart + timeline
-- **Data Source:** nl_historical_performance_detailed.csv
-- **Tool:** matplotlib
-- **Goal:** Compare championship droughts (Cubs 108 years vs others)
+### 6. Breakeven Chart
+- **Type**: Scatter plot with varying point sizes
+- **Data Source**: `data/nl_all_time_records.csv`
+- **Description**: Win% over time with number of games as point size (shows "more data = more stability")
+- **Tools**: matplotlib or plotly
+- **Insight**: Small franchises (Marlins) can't win titles despite shorter history
 
-## 5. Era-Based Win% Distribution
-- **Type:** Histogram + KDE
-- **Data Source:** nl_historical_performance_detailed.csv
-- **Tool:** matplotlib / seaborn
-- **Goal:** Show how winning margins have changed across eras
+### 7. Win Probability by Decade Flywheel
+- **Type**: Box plot or violin plot
+- **Data Source**: `data/nl_historical_performance.csv` (season-by-season)
+- **Description**: Distribution of team win% within each decade
+- **Tools**: seaborn
+- **Insight**: How competitive the NL was in each era (1990s flattened by Braves monopoly)
 
-## 6. Head-to-Head Matchup Matrix Heatmap
-- **Type:** Matrix heatmap
-- **Data Source:** nl_team_v_team_wl.csv (future)
-- **Tool:** seaborn
-- **Goal:** Visualize NL team-vs-team historical dominance
+### 8. Draft: Interleague Era Comparison (1876-1902 vs 1903-Present)
+- **Type**: Overlapping histograms
+- **Data Source**: `data/nl_historical_performance.csv`
+- **Description**: Compare NL-only pennant winners with NL teams in World Series era
+- **Tools**: matplotlib
+- **Insight**: How much the WS changed NL competitive dynamics post-1903
 
-## 7. Division Championship Timeline
-- **Type:** Sankey diagram or alluvial chart
-- **Data Source:** nl_historical_performance_detailed.csv
-- **Tool:** plotly
-- **Goal:** Show how pennant power shifted between teams and divisions
+## Suggested Tools
 
-## 8. Run Differential Analysis by Era
-- **Type:** Scatter plot / box plot
-- **Data Source:** nl_historical_performance_detailed.csv (future)
-- **Tool:** matplotlib
-- **Goal:** Correlate run differential with championships
+| Tool | Use Case | Installation |
+|------|----------|--------------|
+| matplotlib | Static charts | `pip install matplotlib` |
+| seaborn | Statistical viz | `pip install seaborn` |
+| plotly | Interactive HTML charts | `pip install plotly` |
+| streamlit | Web dashboard | `pip install streamlit` |
+| pandas | Data manipulation | `pip install pandas` |
+| jupyter | Notebook environment | `pip install jupyter` |
 
-## 9. Interactive Dashboard
-- **Type:** Web dashboard
-- **Data Source:** All CSVs
-- **Tool:** Plotly Dash or Streamlit
-- **Goal:** Interactive exploration of NL trends
+## Quick Start (Jupyter Notebook)
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
 
-## 10. Machine Learning: Pennant Prediction
-- **Type:** Classification / regression model
-- **Data Source:** Future expanded dataset with batting/pitching stats
-- **Tool:** scikit-learn
-- **Goal:** Predict pennant winners based on seasonal statistics
+# Load data
+all_time = pd.read_csv('data/nl_all_time_records.csv')
+h2h = pd.read_csv('data/nl_h2h_rivalries_detailed.csv')
+seasonal = pd.read_csv('data/nl_historical_performance.csv')
 
----
+# Bar chart: WS titles by team
+ax = all_time.sort_values('WS_Titles', ascending=True).plot(
+    x='Team', y='WS_Titles', kind='barh', figsize=(10, 6),
+    color='steelblue', edgecolor='white')
+plt.title('NL World Series Titles by Team')
+plt.xlabel('Number of WS Titles')
+plt.tight_layout()
+plt.savefig('charts/ws_titles_by_team.png', dpi=150)
+plt.show()
 
-## Recommended Tools
-
-| Tool | Use Case |
-|------|----------|
-| matplotlib | Static charts, publication-ready figures |
-| seaborn | Statistical visualizations, heatmaps, distributions |
-| plotly | Interactive charts, dashboards, 3D plots |
-| pandas | Data loading, wrangling, aggregation |
-| numpy | Numerical computations |
-| jupyter | Interactive notebook environment |
-
-## File Naming Convention
-- `viz_{name}.py` — Python script for a specific visualization
-- `viz_{name}.html` — HTML output from plotly (if interactive)
-- `viz_{name}.png` / `.svg` — Static image output
-- `notebooks/{name}.ipynb` — Jupyter notebook with analysis
-
----
-
-## Quick Start
-
-```bash
-# Clone the repo
-git clone https://github.com/zhub9006/nl-team-trends.git
-cd nl-team-trends
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run a visualization script
-python viz_pennant_bars.py
-
-# Launch interactive dashboard
-streamlit run dashboards/main_dashboard.py
+# H2H heatmap
+from matplotlib.colors import Normalize
+from matplotlib.cm import ScalarMappable
+fig, ax = plt.subplots(figsize=(14, 10))
+heat_data = ... # pivot h2h data
+sns.heatmap(heat_data, annot=True, fmt='.1%', cmap='RdYlGn_r', ax=ax)
+plt.title('NL Team vs Team Win% H2H (1876-2026)')
+plt.tight_layout()
+plt.savefig('charts/h2h_heatmap.png', dpi=150)
+plt.show()
 ```

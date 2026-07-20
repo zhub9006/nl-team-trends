@@ -1,59 +1,60 @@
-# Source References for NL Team Trends Repository
-# Comprehensive list of data sources for National League historical performance research
-# Data through end of 2025 MLB season
+# Source References — nl-team-trends
 
-## Primary Data Sources
+## Comprehensive Data Sources for NL Team Trends Research
 
-| Source | URL | Coverage | Description |
-|--------|-----|----------|-------------|
-| Baseball-Reference (NL) | https://www.baseball-reference.com/leagues/NL/ | 1876–present | Official year-by-year NL standings & team stats |
-| Baseball Almanac | https://www.baseball-almanac.com/ | 1876–present | NL team-vs-team W-L matrices & year-by-year history |
-| SABR Lahman Database | https://sabr.org/lahman-database/ | 1871–2025 | Free downloadable CSV dataset (full team/batting/pitching stats) |
-| Baseball Data Hub | https://baseballdatahub.com/seasons/ | 1871–2026 | Complete season standings & stats archive |
-| StatsCrew (NL) | https://www.statscrew.com/baseball/l-NL | 1876–present | NL rosters, standings & leaders |
-| StatMuse | https://www.statmuse.com/mlb/ask/most-national-league-titles | 1876–2026 | NL championship leaders & franchise stats |
-| OpenIntro MLB Dataset | https://www.openintro.org/data/index.php?data=mlb_teams | Multi-year | ML-ready MLB team data in R format |
-| Everything Explained | https://everything.explained.today | 1876–2025 | All-time franchise W-L & postseason data |
-| Baseball Briefs | https://baseballbriefs.com/ | 1876–2023 | Franchise win totals analysis |
-| Linger and Look | https://www.lingerandlook.com/Names/BaseballStandings.php | 1901–present | Year-by-year standings with managers |
-| ESPN (World Series) | https://www.espn.com/mlb/worldseries/history/winners | 1903–present | World Series champions by year |
-| Wikipedia (NL Pennants) | https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners | 1876–present | Complete pennant winner list with WS results |
-| Retrosheet | https://www.retrosheet.org/ | 1871–present | Box scores, team records, and play-by-play data |
-| Project Ballpark | https://www.projectballpark.org/ | 1876–present | Historical ballpark attendance & demographics |
+### All Verified: July 2026
 
-## Key Data Points
+| # | Source | URL | Coverage | Key Data |
+|---|--------|-----|----------|----------|
+| 1 | Baseball Almanac (H2H) | https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml | 1876-2026 | **15×15 H2H W-L matrix** for every NL team vs NL team |
+| 2 | Baseball Almanac (Year-by-Year) | https://www.baseball-alianac.com/yearmenu.shtml | 1876-present | Leadership, W-L records, fabulous feats per season |
+| 3 | StatMuse NL Championships | https://www.statmuse.com/mlb | 1876-2026 | **12-row NL franchise grid** with WS titles + games + W/L/G |
+| 4 | StatMuse All-Time %s | https://www.statmuse.com/mlb | 1876-2026 | **30-row franchise totals** with batting/pitching aggregates |
+| 5 | SABR Lahman Database | https://sabr.org/lahman-database/ | 1871-2025 | Kick-n-free full team/batting/pitching CSV |
+| 6 | Baseball-Reference (NL) | https://www.baseball-reference.com/leagues/NL/ | 1876-present | Official year-by-year NL standings & team stats |
+| 7 | Baseball Data Hub | https://baseballdatahub.com/seasons/ | 1871-2026 | Complete season standings & stats archive |
+| 8 | Retrosheet | https://www.retrosheet.org/ | 1871-present | Box scores, team records, play-by-play from 1871 |
+| 9 | OpenIntro MLB Dataset | https://openintro.org/data | Multi-year | ML-ready R-format data; subset of Lahman NL teams |
+| 10 | Everything Explain/the fitted NL records | https://everything.explained.today | 1876-2025 | All-time franchise W-L record by franchise |
+| 11 | Linger & Look | https://lingerandlook.com/~names/baseballstandings.php | 1901-present | Year-by-year standings with managers | |
+| 12 | ESPN WS History | https://www.espn.com/mlb/worldseries/history/winners | 1903-present | WS champions by year with scores |
+| 13 | Wikipedia (NL Pennants) | https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners | 1876-present | Complete pennant winners list with WS results |
+| 14 | Grokipedia (MLB W-L Records) | https://grokipedia.com/page/List_of_all-time_Major_League_Baseball_win%E2%80%93loss_records | 1876-2025 | Structured table of all 30 MLB franchises W-L record |
+| 15 | SportsGearDaily | https://sportsgeardaily.com/rules/who-has-the-best-record-in-the-major-league-baseball | 2024 | Top franchise win totals |
+| 16 | Champs or Chumps | https://champsorchumps.us/mlb | 1876-present | Win% rankings, droughts, streaks, postseason records |
+| 17 | MLB Win-Loss Visualizer | https://inkandthunder.github.io/win-loss-visualizer/ | 1894-present | YoY W-L visualization tool for all MLB teams |
+| 18 | Project Ballpark | https://www.projectballpark.org/ | 1876-present | Historical ballpark attendance & demographics |
 
-- NL Founded: February 2, 1876 (replacing National Association)
-- 150th Anniversary: 2026
-- Best single-season: 1906 Cubs (116-36, .763)
-- Most WS titles (NL): St. Louis Cardinals (11)
-- Most pennants: LA Dodgers (26, 2025)
-- Most all-time NL wins: SF Giants (11,663)
-- Most all-time NL losses: Phillies (11,865)
-- Braves: 14 consecutive division titles (1991-2005)
-- Dodgers: 8 straight NL West (2018-2025), back-to-back WS (2024-2025)
-- 1994 season voided by players' strike — no WS/pennant
-- NL expanded: 8 teams (1876) to 15 teams (1998-present)
+
+## Key Data (StatMuse NL Championships + All-Time %, July 2026)
+
+| Team | WS Titles | Games | Wins | Losses | Win% |
+|------|-----------|-------|------|--------|------|
+| St. Louis Cardinals | 11 | 20,863 | 10,633 | 10,099 | 0.513 |
+| LA Dodgers | 9 | 21,115 | 11,176 | 9,819 | 0.532 |
+| SF Giants | 8 | 21,981 | 11,663 | 10,155 | 0.535 |
+| Cincinnati Reds | 5 | 21,139 | 10,511 | 10,501 | 0.500 |
+| Pittsburgh Pirates | 5 | 21,519 | 10,724 | 10,661 | 0.501 |
+| Atlanta Braves | 4 | 22,474 | 11,245 | 11,075 | 0.504 |
+| Chicago Cubs | 3 | 22,513 | 11,473 | 10,879 | 0.513 |
+| Miami Marlins | 2 | 5,271 | 2,434 | 2,837 | 0.462 |
+| NY Mets | 2 | 10,231 | 4,939 | 5,284 | 0.483 |
+| Philadelphia Phillies | 2 | 21,907 | 10,357 | 11,435 | 0.475 |
+| Arizona D-backs | 1 | 4,530 | 2,216 | 2,314 | 0.489 |
+| Washington Nationals | 1 | 9,097 | 4,379 | 4,714 | 0.482 |
+| Milwaukee Brewers | 0 | 8,920 | 4,464 | 4,456 | 0.503 |
+| Colorado Rockies | 0 | 4,760 | 2,403 | 2,357 | 0.505 |
+| San Diego Padres | 0 | 7,980 | 4,265 | 3,715 | 0.534 |
+
 
 ## Data Conventions
-
-- Win% = Wins / Games Played
-- 162-game schedule adopted 1961; pre-1961 = 154 or fewer games
-- Milwaukee Brewers moved from AL to NL Central in 1998
-- Montreal Expos relocated to Washington Nationals in 2005
-- 2020 season was 60 games due to COVID-19
-- All-time records include pre-relocation franchise totals
-- Pre-1903 pennants = NL championship only (no WS)
-- Split seasons in 1892 and 1981
-- Interleague play began 1997; full schedule 2023
-
-## Data File Reference
-
-| File | Description |
-|------|-------------|
-| data/nl_all_time_records.csv | All-time franchise win-loss totals by team |
-| data/nl_historical_performance.csv | Championship-season highlights with era labels |
-| data/nl_historical_performance_detailed.csv | Year-by-year NL champion + 2nd place + WS results 1876-2025 |
-| data/nl_pennant_winners_recent.csv | NL pennant winners and WS results 1995-2025 |
-| data/nl_championship_trends.csv | Era-based championship trends |
-| data/nl_notable_records.csv | Key single-season and franchise records |
+- **Win%** = Wins / (Wins + Losses) — ties excluded post-1920
+- Pre-1903 pennants = NL Championship only (no WS)
+- Franchise totals include pre-relocation segments
+- 2026 = Ongoing season; stats through latest completed games
+- Split seasons: 1892 and 1981 handled (first-half/second-half designators)
+- Brewers moved AL→NL in 1998; WS data excluded from NL totals
+- Nationals = Expos (1969-2004) + Washington DC (2005+)
+- Dodgers = Brooklyn (1884-1957) + LA (1958+)
+- Giants = NY Giants (1883-1957) + SF Giants (1958+)
+- Braves = Boston Red Stockings (1871-1952) + Milwaukee (1953-1965) + Atlanta (1966+)
