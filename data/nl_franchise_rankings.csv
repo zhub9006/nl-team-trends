@@ -1,0 +1,16 @@
+rank,team,ws_titles,pennants,games,wins,losses,win_pct,ws_pct,era_dominance,key_achievements
+1,St. Louis Cardinals,11,19,20863,10633,10099,0.513,0.524,"1926–1946; 1964–1968; 1982; 2006; 2011",Most WS titles in NL; 10+ pennants tied with Dodgers
+2,Los Angeles Dodgers,9,26,21115,11176,9819,0.532,0.533,"1955; 1959; 1963; 1965; 1981; 2020; 2024; 2025",Most NL pennants (26); .532 all-time win%
+3,San Francisco Giants,8,23,21981,11663,10155,0.535,0.529,"1904; 1905; 1921; 1922; 1933; 1951; 1954; 2010; 2012; 2014",Highest all-time win% (.535); 3 WS titles in 5 years (2010-2014)
+4,Cincinnati Reds,5,10,21139,10511,10501,0.500,0.500,"1919; 1939; 1940; 1975; 1976; 1990",Big Red Machine (3 pennants 1972-76); 1990 surprise champions
+5,Pittsburgh Pirates,5,9,21519,10724,10661,0.501,0.556,"1901; 1902; 1925; 1960; 1971; 1979",.556 WS win rate — best in NL among 5+ title teams
+6,Atlanta Braves,4,17,22474,11245,11075,0.504,0.471,"1914; 1957; 1995; 2021",14 consecutive division titles (1991-2005); longest dynasty run
+7,Chicago Cubs,3,17,22513,11473,10879,0.516,0.333,"1906; 1907; 1908; 2016",108-year championship drought (1908-2016); longest in N. American pro sports
+8,Miami Marlins,2,2,5271,2434,2837,0.462,0.667,"1997; 2003",World Series champs in just 5th and 8th seasons; smallest market dynasty
+9,New York Mets,2,5,10231,4939,5284,0.483,0.400,"1969; 1986; 2000; 2015",1969 Miracle Mets; 1986 iconic championship
+10,Philadelphia Phillies,2,11,21907,10357,11435,0.475,0.182,"1915; 1950; 1980; 1993; 2008; 2009",Longest active WS drought among multi-title NL teams
+11,Arizona Diamondbacks,1,2,4530,2216,2314,0.489,0.444,2001,One WS title in 24 seasons — won in very first postseason appearance
+12,Washington Nationals,1,3,9097,4379,4714,0.482,0.250,"1981; 2012; 2019",2019 WS champions after 50+ years as expansion/exposition franchise
+13,San Diego Padres,0,2,7980,4265,3715,0.534,0.000,—,Highest win% (.534) among teams with zero WS titles
+14,Colorado Rockies,0,1,4760,2403,2357,0.505,0.000,2007,2007 NL champions — only NL pennant; one season of dominance
+15,Milwaukee Brewers,0,0,8920,4464,4456,0.503,0.000,—,.503 all-time win%; only NL team never to win a pennant
