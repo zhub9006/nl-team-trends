@@ -1,9 +1,15 @@
-# Data Files Index — nl-team-trends
+# NL Team Trends — Data Placeholder
 
-> **This file has been superseded by `DATA_INDEX.md`.**
-> Please refer to `DATA_INDEX.md` for the current data file index, conventions, and how-to guide.
-> This placeholder file is retained for historical reference only.
+This file serves as a placeholder for additional data files that will be added to the repository.
 
-For the active data index, see: [DATA_INDEX.md](DATA_INDEX.md)
+## Planned Data Files
 
-For methodology and conventions, see: [docs/data_notes.md](docs/data_notes.md)
+| File | Status | Description |
+|------|--------|-------------|
+| `nl_championship_milestones.csv` | ✅ Created | Championship milestones by decade/era |
+| `nl_seasonal_standings.csv` | 🔜 Planned | Full seasonal breakdown with division splits |
+| `nl_historical_trends_analysis.md` | ✅ Created | Comprehensive era-by-era historical trends analysis |
+
+## Usage
+
+This file can be removed once all planned data files are in place.

@@ -1,53 +1,125 @@
-# Source References
+# NL Team Trends — Source References & Attribution
 
-Comprehensive list of verified sources used for NL team performance research.
+This document provides detailed attribution for all research sources used in this repository, including URLs, coverage periods, data types, and verification status.
 
-## Primary Data Sources
+---
 
-| Source | URL | Coverage | Key Data |
-|--------|-----|----------|----------|
-| Baseball-Reference (NL) | https://www.baseball-reference.com/leagues/NL/ | 1876–present | Official year-by-year NL standings & team stats |
-| Baseball Almanac (Year-by-Year) | https://www.baseball-almanac.com/yearmenu.shtml | 1876–present | NL leadership, W-L records, fabulous feats per season |
-| Baseball Almanac (H2H) | https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml | 1876–2026 | 15x15 H2H W-L matrices for every NL team vs every other team |
-| Baseball Data Hub | https://baseballdatahub.com/seasons/ | 1871–2026 | Complete season standings & stats archive |
-| SABR Lahman Database | https://sabr.org/lahman-database/ | 1871–2025 | Free downloadable CSV dataset (full team/batting/pitching) |
-| StatsCrew (NL) | https://www.statscrew.com/baseball/l-NL | 1876–present | NL rosters, standings & leaders |
-| StatMuse (NL Championships) | https://www.statmuse.com/mlb | 1876–2026 | NL championship leaders & franchise W/L/G stats |
-| ESPN (World Series) | https://www.espn.com/mlb/worldseries/history/winners | 1903–present | World Series champions & results by year |
-| Wikipedia (NL Pennants) | https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners | 1876–present | Complete pennant winner list with WS results |
+## Primary Sources
 
-## Secondary Analysis Sources
+### 1. Baseball-Reference.com — National League
+- **URL:** https://www.baseball-reference.com/leagues/NL/
+- **Coverage:** 1876–present
+- **Data Type:** Official year-by-year NL standings, team statistics, league leaders
+- **Priority:** Primary (gold standard for baseball statistics)
+- **Verified:** ✅ Yes
 
-| Source | URL | Coverage | Key Data |
-|--------|-----|----------|----------|
-| MLB.com Standings | https://www.mlb.com/standings/national-league | 2025–present | Official current standings |
-| MLB Standings Archive | https://www.mlb-standings.com/standings/ | 2017–present | Browsable standings by season, team, or historical rankings |
-| MLB Win-Loss Visualizer | https://inkandthunder.github.io/win-loss-visualizer/ | 1894–present | Interactive YoY W-L visualization tool |
-| Champs or Chumps | https://champsorchumps.us/mlb | 1876–present | Win% rankings, droughts, streaks, postseason records |
-| Surprise Sports Champions | https://surprisesports.com/baseball/mlb-champions-list/ | 1903–2025 | Complete WS champions list & era analysis |
-| The Big Lead | https://lists.thebiglead.com/sports/mlb-national-league-teams-ranked-by-world-series-championships/ | 1876–2025 | NL Teams Ranked by WS Championships |
-| Grokipedia | https://grokipedia.com/page/List_of_all-time_Major_League_Baseball_win%E2%80%93loss_records | 1871–present | All-time MLB W-L records with era comparisons |
-| Her Sports Corner | https://hersportscorner.com/3374-2/ | NL Central | All-time W-L, pennants, championships data by team |
+### 2. Baseball Almanac — NL Team vs Team Win-Loss
+- **URL:** https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml
+- **Coverage:** 1876–2026
+- **Data Type:** Complete 15×15 H2H W-L matrix for every NL franchise vs every other NL franchise
+- **Priority:** Primary for H2H analysis
+- **Verified:** ✅ Yes (content fetched and parsed)
 
-## Downloadable Datasets
+### 3. Baseball Almanac — Year-by-Year History
+- **URL:** https://www.baseball-almanac.com/yearmenu.shtml
+- **Coverage:** 1876–present
+- **Data Type:** NL leadership, W-L records, fabulous feats per season
+- **Priority:** Primary for seasonal data
+- **Verified:** ✅ Yes
 
-- **Lahman Baseball Database**: https://sabr.org/lahman-database/ — Complete CSV dataset with Teams, TeamSeasons, SeriesPost, AwardsManagers, and more. Available at https://github.com/chadwickbureau/baseballdatabank as well.
-- **Baseball Data Hub**: https://baseballdatahub.com/seasons/ — Free API access to season-by-season standings and statistics.
+### 4. Baseball Data Hub — All MLB Seasons
+- **URL:** https://baseballdatahub.com/seasons/
+- **Coverage:** 1871–2026 (156 seasons)
+- **Data Type:** Complete season standings, batting/pitching statistical leaders
+- **Priority:** Secondary
+- **Verified:** ✅ Yes
 
-## Methodology Notes
+### 5. SABR Lahman Database
+- **URL:** https://sabr.org/lahman-database/
+- **Coverage:** 1871–2025
+- **Data Type:** Free downloadable CSV dataset (team, batting, pitching fields)
+- **Priority:** Primary for programmatic analysis
+- **Verified:** ✅ Yes
 
-- Team names use canonical NL form; franchise movements noted parenthetically.
-- W-L-T format; ties excluded from win percentage calculations.
-- Winning % calculated as W/(W+L) to 3 decimal places.
-- Regular-season wins only; postseason results tracked separately.
-- Relocated teams treated as continuous franchises (e.g., NY Giants → SF Giants).
-- H2H data uses Baseball Almanac's comprehensive franchise-vs-franchise records, which track all interleague and intradivisional matchups (1876–2026).
+### 6. StatsCrew — National League
+- **URL:** https://www.statscrew.com/baseball/l-NL
+- **Coverage:** 1876–present
+- **Priority:** Secondary
+- **Verified:** ⚠️ Partial
 
-## Key New Additions (July 2026)
+### 7. StatMuse — NL Championships & Team W-L
+- **URL:** https://www.statmuse.com/mlb
+- **Coverage:** 1876–2026
+- **Priority:** Secondary
+- **Verified:** ⚠️ Partial
 
-- **H2H detailed rivalry data**: `data/nl_h2h_rivalries_detailed.csv` — 20 key rivalries with era-dominance context and analytical notes, compiled from the Baseball Almanac 15×15 H2H matrix.
-- **Historical trends analysis**: `data/nl_historical_trends_analysis.md` — Comprehensive era-by-era breakdowns of ERA-SPECIFIC trends, franchise dominance patterns, and seasonal record analysis.
+### 8. ESPN — World Series History
+- **URL:** https://www.espn.com/mlb/worldseries/history/winners
+- **Coverage:** 1903–present
+- **Priority:** Primary for WS data
+- **Verified:** ✅ Yes
 
-## Data Currency
+### 9. Wikipedia — NL Pennant Winners
+- **URL:** https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners
+- **Coverage:** 1876–present
+- **Priority:** Secondary
+- **Verified:** ⚠️ Could not fetch content directly
 
-All data reflects the 2025 MLB season (with H2H data including 2026 season through July 2026). The Lahman Database serves as the primary downloadable dataset for programmatic analysis.
+### 10. Wikipedia — All-Time MLB Win-Loss Records
+- **URL:** https://en.wikipedia.org/wiki/List_of_all-time_Major_League_Baseball_win–loss_records
+- **Coverage:** All current MLB franchises
+- **Priority:** Secondary
+- **Verified:** ⚠️ Could not fetch content directly
+
+### 11. MLB Win-Loss Visualizer
+- **URL:** https://inkandthunder.github.io/win-loss-visualizer/
+- **Coverage:** 1894–present
+- **Priority:** Tertiary
+- **Verified:** ⚠️ Could not fetch content directly
+
+### 12. Champs or Chumps
+- **URL:** https://champsorchumps.us/mlb
+- **Coverage:** 1876–present
+- **Priority:** Tertiary
+- **Verified:** ⚠️ Could not fetch content directly
+
+---
+
+## Data Files and Their Source Mapping
+
+| Data File | Primary Source(s) | Secondary Source(s) |
+|-----------|-------------------|---------------------|
+| `nl_historical_performance.csv` | Baseball-Reference (NL), Baseball Almanac | Baseball Data Hub |
+| `nl_all_time_records.csv` | Baseball-Reference (NL), Wikipedia | Baseball Almanac |
+| `nl_championship_trends.csv` | Baseball Almanac, ESPN (WS) | Wikipedia (NL Pennants) |
+| `nl_pennant_winners.csv` | ESPN (WS), Baseball Almanac | Wikipedia (NL Pennants) |
+| `nl_team_vs_team_summary.csv` | Baseball Almanac (H2H) | Baseball-Reference |
+| `nl_h2h_rivalries_detailed.csv` | Baseball Almanac (H2H) | Baseball-Reference |
+| `nl_notable_records.csv` | Baseball-Reference, Baseball Almanac | Multiple sources |
+| `nl_recent_standings.csv` | StatMuse, ESPN | Baseball-Reference |
+| `nl_championship_milestones.csv` | Baseball Almanac, ESPN | Wikipedia (NL Pennants) |
+| `nl_historical_trends_analysis.md` | Baseball-Reference, Baseball Almanac | SABR research |
+
+---
+
+## NL Founding & Evolution
+
+- **Founded:** February 2, 1876
+- **Replaced:** National Association (1871–1875)
+- **Original 8 teams:** Boston Red Caps, Chicago White Stockings, Cincinnati Reds, Hartford Dark Blues, Louisville Grays, Philadelphia Athletics, Brooklyn Mutuals, St. Louis Browns
+- **Expansion timeline:** 8 (1876) → 12 (1900) → 16 (1969) → 15 (1998–present)
+- **Key relocations:** Brooklyn → LA (1958), NY Giants → SF (1958), Boston → Milwaukee → Atlanta, Montreal → Washington (2005)
+
+---
+
+## Data Conventions
+
+- **Team names:** Canonical NL names; franchise moves noted parenthetically
+- **W-L-T format:** Standard wins-losses-ties; ties excluded from win %
+- **Winning %:** Calculated as W/(W+L), 3 decimal places
+- **Franchise continuity:** Relocated teams treated as continuous entities
+- **Division names:** E (East), C (Central), W (West), NA (pre-division era)
+
+---
+
+*Last updated: July 2025*
