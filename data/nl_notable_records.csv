@@ -1,21 +1,23 @@
-category,record,team_detail,value,year,notes
-Best Single-Season,Best NL winning percentage,1906 Chicago Cubs,.763 (116-36),1906,All-time MLB record for winning percentage; 154-game season
-Best Single-Season,Best 162-game NL record,2022 LA Dodgers,.685 (111-51),2022,Most wins ever in 162-game schedule era
-Best Single-Season,Best shortened NL record,2020 LA Dodgers,.717 (43-17),2020,COVID-19 60-game season; record in shortened-season context
-Best Single-Season,Most NL wins in a season,1906 Chicago Cubs,116,1906,154-game era; 4 more than next best (112 by 1998 Yankees)
-Best Single-Season,Longest NL winning streak,2021 LA Dodgers / Chicago Cubs,21,2021,Cubs won 21 in a row before St. Louis ended it; LA won 19 straight in 2022
-Best Franchise,Most all-time NL franchise wins,San Francisco Giants,11,663,1883-2025,Includes NY Giants era; longest franchise win total in NL history
-Best Franchise,Most all-time NL franchise losses,Philadelphia Phillies,11,865,1883-2025,Unfortunate distinction; .466 win% is lowest among active franchises
-Best Franchise,Most pennants,LA Dodgers,26,1876-2025,Includes Brooklyn and NY Dodgers totals;
-Best Franchise,Most WS titles,St. Louis Cardinals,11,1926-2011,26 WS appearances; 11 titles; most of any NL team
-Best Franchise,Longest WS drought,Chicago Cubs,108 years,1908-2016,Longest championship drought in North American pro sports history
-Best Franchise,Most consecutive division titles,Atlanta Braves,14,1991-2005,Longest run of any division in any major American pro sport
-Best Franchise,Highest franchise win%,Miami Marlins,.569,1993-2025,But fewest games played (4,280); has won 2 WS titles despite short history
-Best Franchise,Most expansion team pennants,Florida Marlins,2,1993-2003,Both WS appearances came in Florida Marlins seasons
-Best Franchise,Most recent dynasty,LA Dodgers,8 straight NL West,2018-2025,Dodgers have been NL dominant for nearly a decade
-Worst Franchise,Most all-time NL franchise losses already covered above,Philadelphia Phillies,11,865,1883-2025,.466 win% worst among 15 NL franchises
-Worst Single-Season,Fewest wins in a full season,1916 Philadelphia Phillies,36,1916,140-game WWI season; worst record in modern NL
-Worst Single-Season,Most losses in a season,1899 Cleveland Spiders / 1916 Phillies,134,1899 / 1916,1899 Cleveland famous for worst season (20-134 overall)
-Historic Milestone,100th anniversary NL founding,1976 NL,100 years,1976,Cincinnati Reds won 100th anniversary NL pennant
-Historic Milestone,150th anniversary NL founding,2026 NL,150 years,2026,NL celebrates sesquicentennial; Dodgers dynasty backdrop
- indiv
+Team,Category,Year,Value,Details
+St. Louis Cardinals,Most WS Titles,All-time,11,Most in NL; 2nd most in MLB
+Los Angeles Dodgers,Most NL Pennants,All-time,26,Includes Brooklyn + LA eras
+San Francisco Giants,Most All-Time NL Wins,All-time,11663,Highest win total of any NL franchise
+Philadelphia Phillies,Most All-Time NL Losses,All-time,11435,Most losses among NL teams
+Chicago Cubs,Best NL Single Season (.763),1906,116-36,.763,Best NL season winning percentage ever (154-game era)
+Los Angeles Dodgers,Best 162-Game NL Season,2022,111-51,.685,Best 162-game NL record
+Los Angeles Dodgers,Best Shortened-Season NL Record,2020,43-17,.717,Best NL record in COVID season
+Cardinals,Longest WS Title Streak,1942-1944,3 consecutive,Only NL team with 3 straight WS titles
+Atlanta Braves,Longest Division Title Streak,1991-2005,14 consecutive,Most consecutive div titles in MLB history
+Dodgers,Most Consecutive NL West Titles,2018-2025,8 consecutive,Most one-sided division control since 1969
+Dodgers,Back-to-Back WS Titles,2024-2025,2,First NL team back-to-back since 2001 Cardinals
+Cardinals,Longest WS Drought,1982-2006,24 years,24-year gap between WS titles
+Cubs,Longest Championship Drought,1908-2016,108 years,Longest in American professional sports
+Mets,Most Wins by a Sub-.500 Team,1969,100-62,.617,1969 Miracle Mets won WS at .617 win%
+Dodgers,Most Recent Back-to-Back,2024-2025,2,First NL back-to-back since Braves in 1995-96
+Diamondbacks,Fastest Expansion Team to WS,2001,Year 3,Only 2nd-year expansion team to win WS
+Phillies,Most Losses by a Pennant Winner,2009,93-69,.574,Won NL pennant with 2nd-most losses (later lost WS)
+Reds,Big Red Machine Pennant Run,1972-1976,3 pennants in 5 years,NL pennant dynasty
+Giants,Most Successful Recent Era,2010-2014,3 WS titles in 5 years,2010-12 & 2014 WS champions
+Cardinals,21st Century WS Success,2006-2011,2 WS titles in 6 years,2006 & 2011 WS champions
+Nationals,2019 WS Underdogs,2019,93-69,.574,Nationals won first-ever WS
+Brewers,Most Losses Despite .503 Win%,All-time,4456,4456 losses despite .503 all-time winning percentage

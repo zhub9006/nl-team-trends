@@ -1,16 +1,16 @@
-Franchise,First_Season,Division,Games_Played,Wins,Losses,Win_Pct,Pennants,WS_Titles,Active_Flag
-San Francisco Giants,1883,West,21722,11663,10059,0.535,23,8,TRUE
-Los Angeles Dodgers,1884,West,21722,11586,10136,0.531,26,8,TRUE
-St. Louis Cardinals,1882,Central,22486,11413,11073,0.509,19,11,TRUE
-Chicago Cubs,1876,Central,22222,11474,10748,0.516,17,3,TRUE
-Cincinnati Reds,1882,Central,22222,11060,11162,0.498,10,5,TRUE
-Atlanta Braves,1876,East,22070,11245,10825,0.504,18,4,TRUE
-Pittsburgh Pirates,1882,Central,21820,10959,10861,0.501,9,5,TRUE
-Philadelphia Phillies,1883,East,22222,10357,11865,0.466,8,2,TRUE
-New York Mets,1962,East,9520,4899,4621,0.514,2,2,TRUE
-Washington Nationals,1969,East,8230,4379,3851,0.532,0,0,TRUE
-San Diego Padres,1969,West,7980,4265,3715,0.533,0,0,TRUE
-Milwaukee Brewers,1969,Central,8920,4464,4456,0.503,0,0,TRUE
-Colorado Rockies,1993,West,4760,2403,2357,0.505,0,0,TRUE
-Miami Marlins,1993,East,4280,2435,1845,0.569,2,2,TRUE
-Arizona Diamondbacks,1998,West,4160,2216,1944,0.532,1,1,TRUE
+Team,First_Season,Division,WS_Titles,Games,Total_Wins,Total_Losses,Win_Pct,Active,Key_Era,Notes
+St. Louis Cardinals,1882,Central,11,20863,10633,10099,0.513,Yes,1942-1946 dynasty; 2006-2011 modern,Most WS titles in NL; 513-year franchise average (cards)
+Los Angeles Dodgers,1884,West,9,21115,11176,9819,0.532,Yes,Broady era 1955+; 2020-2025 modern dynasty,Most NL pennants (26); 8 straight NL West
+San Francisco Giants,1883,West,8,21981,11663,10155,0.535,Yes,NY Giants 1910-1920s; SF 2010-2014,Most all-time NL wins (11,663)
+Cincinnati Reds,1882,Central,5,21139,10511,10501,0.500,Yes,Big Red Machine 1975-76; 1919 champion,10,511 franchise wins
+Pittsburgh Pirates,1882,Central,5,21519,10724,10661,0.501,Yes,1960-1971 dynasty; 1979 WS title,Roberto Clemente era; 10,724 wins
+Atlanta Braves,1876,East,4,22474,11245,11075,0.504,Yes,1991-2005: 14 consecutive division titles,Longest division streak in MLB history
+Chicago Cubs,1876,Central,3,22513,11473,10879,0.513,Yes,1906 best NL season; 2016 ended 108yr drought,Best NL season winpct ever (9763)
+Miami Marlins,1993,East,2,5271,2434,2837,0.462,Yes,1997 + 2003 champion,Smallest franchise by games; 2nd-yr champs
+New York Mets,1962,East,2,10231,4939,5284,0.483,Yes,1969 Miracle; 1986 WS return,Only champs with winpct below .500
+Philadelphia Phillies,1883,East,2,21907,10357,11435,0.475,Yes,1980 first title; 2008 WS; 2025 NL runner-up,Most all-time NL losses (11435)
+Arizona Diamondbacks,1998,West,1,4530,2216,2314,0.489,Yes,2001 WS title (2nd yr team),Youngest champs in NL; 2025 PC
+Washington Nationals,1969,East,1,9097,4379,4714,0.482,Yes,Expos relocated 2005 Washington DC,2019 only WS title across franchise history
+Milwaukee Brewers,1969,Central,0,8920,4464,4456,0.503,Yes,Atlanta Pilots in 1969; AL-NL switch 1998,Never won NL pennant; 3-sport statmuse
+Colorado Rockies,1993,West,0,4760,2403,2357,0.505,Yes,1995 first season; Rockies Unit at Coors,0 titles; best winpct among 0-title NL teams
+San Diego Padres,1969,West,0,7980,4265,3715,0.534,Yes,2022 WS runners-up,Best winpct among active NL zero-title franchises
