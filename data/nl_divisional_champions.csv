@@ -1,0 +1,171 @@
+division,year,team,wins,losses,win_pct,notes
+NL East,1969,New York Mets,100,62,.617,Inaugural NL East season; Miracle Mets win WS
+NL East,1970,Pittsburgh Pirates,89,73,.549
+NL East,1971,Pittsburgh Pirates,97,65,.599
+NL East,1972,Cincinnati Reds,95,59,.617
+NL East,1973,New York Mets,82,79,.509
+NL East,1974,Pittsburgh Pirates,88,74,.543
+NL East,1975,Cincinnati Reds,108,54,.667
+NL East,1976,Cincinnati Reds,102,60,.630
+NL East,1977,Philadelphia Phillies,101,61,.623
+NL East,1978,Pittsburgh Pirates,88,73,.547
+NL East,1979,Pittsburgh Pirates,98,64,.605
+NL East,1980,Philadelphia Phillies,91,71,.562
+NL East,1981,St. Louis Cardinals,59,43,.577,Split season (strike)
+NL East,1982,St. Louis Cardinals,92,70,.568
+NL East,1983,Philadelphia Phillies,90,72,.556
+NL East,1984,Chicago Cubs,96,65,.595
+NL East,1985,St. Louis Cardinals,101,61,.623
+NL East,1986,New York Mets,108,54,.667
+NL East,1987,St. Louis Cardinals,95,67,.586
+NL East,1988,St. Louis Cardinals,85,77,.525
+NL East,1989,Chicago Cubs,93,69,.574
+NL East,1991,Atlanta Braves,94,68,.580
+NL East,1992,Atlanta Braves,98,64,.605
+NL East,1993,Philadelphia Phillies,97,65,.599
+NL East,1994,Montreal Expos,74,40,.649,Strike; no champion declared
+NL East,1995,Atlanta Braves,90,54,.625
+NL East,1996,Atlanta Braves,96,66,.588
+NL East,1997,Atlanta Braves,101,61,.619
+NL East,1998,Atlanta Braves,106,56,.654
+NL East,1999,Atlanta Braves,103,59,.636
+NL East,2000,Atlanta Braves,101,60,.627
+NL East,2001,Atlanta Braves,88,74,.546
+NL East,2002,Atlanta Braves,101,59,.630
+NL East,2003,Atlanta Braves,101,61,.623
+NL East,2004,Atlanta Braves,96,66,.594
+NL East,2005,Atlanta Braves,90,72,.556
+NL East,2006,New York Mets,97,65,.599
+NL East,2007,Philadelphia Phillies,89,73,.549
+NL East,2008,Philadelphia Phillies,92,70,.568
+NL East,2009,Philadelphia Phillies,93,69,.574
+NL East,2010,Philadelphia Phillies,97,65,.599
+NL East,2011,Philadelphia Phillies,102,60,.630
+NL East,2012,Washington Nationals,98,64,.605
+NL East,2013,Atlanta Braves,96,66,.593
+NL East,2014,Washington Nationals,96,66,.593
+NL East,2015,New York Mets,90,72,.556
+NL East,2016,Washington Nationals,95,67,.586
+NL East,2017,Washington Nationals,97,65,.599
+NL East,2018,Atlanta Braves,90,72,.556
+NL East,2019,Atlanta Braves,97,65,.599
+NL East,2020,Atlanta Braves,35,25,.583,60-game season
+NL East,2021,Atlanta Braves,88,73,.547
+NL East,2022,Atlanta Braves,101,61,.619
+NL East,2023,Atlanta Braves,104,58,.641
+NL East,2024,Atlanta Braves,89,73,.549
+NL East,2025,Philadelphia Phillies,96,66,.593
+NL Central,1969,Atlanta Braves,93,69,.573
+NL Central,1970,Cincinnati Reds,102,60,.630
+NL Central,1971,Pittsburgh Pirates,97,65,.599
+NL Central,1972,Cincinnati Reds,95,59,.617
+NL Central,1973,Cincinnati Reds,99,65,.604
+NL Central,1974,Pittsburgh Pirates,88,74,.543
+NL Central,1975,Cincinnati Reds,108,54,.667
+NL Central,1976,Cincinnati Reds,102,60,.630
+NL Central,1977,Philadelphia Phillies,101,61,.623
+NL Central,1978,Pittsburgh Pirates,88,73,.547
+NL Central,1979,Pittsburgh Pirates,98,64,.605
+NL Central,1980,Philadelphia Phillies,91,71,.562
+NL Central,1981,St. Louis Cardinals,59,43,.577
+NL Central,1982,St. Louis Cardinals,92,70,.568
+NL Central,1983,Philadelphia Phillies,90,72,.556
+NL Central,1984,Chicago Cubs,96,65,.595
+NL Central,1985,St. Louis Cardinals,101,61,.623
+NL Central,1986,New York Mets,108,54,.667
+NL Central,1987,St. Louis Cardinals,95,67,.586
+NL Central,1988,St. Louis Cardinals,85,77,.525
+NL Central,1989,Chicago Cubs,93,69,.574
+NL Central,1990,Cincinnati Reds,91,71,.562
+NL Central,1991,Atlanta Braves,94,68,.580
+NL Central,1992,Atlanta Braves,98,64,.605
+NL Central,1993,Philadelphia Phillies,97,65,.599
+NL Central,1994,Montreal Expos,74,40,.649,Strike
+NL Central,1995,Atlanta Braves,90,54,.625
+NL Central,1996,Atlanta Braves,96,66,.588
+NL Central,1997,Atlanta Braves,101,61,.619
+NL Central,1998,Atlanta Braves,106,56,.654
+NL Central,1999,Atlanta Braves,103,59,.636
+NL Central,2000,Atlanta Braves,101,60,.627
+NL Central,2001,Houston Astros,93,69,.574
+NL Central,2002,Atlanta Braves,101,59,.630
+NL Central,2003,Chicago Cubs,88,74,.543
+NL Central,2004,St. Louis Cardinals,105,57,.648
+NL Central,2005,St. Louis Cardinals,100,62,.617
+NL Central,2006,St. Louis Cardinals,83,78,.516
+NL Central,2007,Arizona Diamondbacks,90,73,.552
+NL Central,2008,Chicago Cubs,97,64,.601
+NL Central,2009,St. Louis Cardinals,91,71,.562
+NL Central,2010,Cincinnati Reds,91,71,.562
+NL Central,2011,Milwaukee Brewers,96,67,.588
+NL Central,2012,St. Louis Cardinals,88,74,.541
+NL Central,2013,St. Louis Cardinals,97,65,.599
+NL Central,2014,St. Louis Cardinals,90,72,.556
+NL Central,2015,St. Louis Cardinals,100,62,.617
+NL Central,2016,Chicago Cubs,103,58,.640
+NL Central,2017,Washington Nationals,97,65,.599
+NL Central,2018,Milwaukee Brewers,96,67,.588
+NL Central,2019,St. Louis Cardinals,91,71,.562
+NL Central,2020,Milwaukee Brewers,29,31,.483,60-game season
+NL Central,2021,Milwaukee Brewers,95,67,.586
+NL Central,2022,St. Louis Cardinals,93,69,.574
+NL Central,2023,Milwaukee Brewers,92,70,.568
+NL Central,2024,Milwaukee Brewers,93,69,.573
+NL Central,2025,Milwaukee Brewers,97,65,.599
+NL West,1969,Atlanta Braves,93,69,.573
+NL West,1970,Cincinnati Reds,102,60,.630
+NL West,1971,San Francisco Giants,90,72,.556
+NL West,1972,Cincinnati Reds,95,59,.617
+NL West,1973,New York Mets,82,79,.509
+NL West,1974,Pittsburgh Pirates,88,74,.543
+NL West,1975,Cincinnati Reds,108,54,.667
+NL West,1976,Cincinnati Reds,102,60,.630
+NL West,1977,Philadelphia Phillies,101,61,.623
+NL West,1978,Pittsburgh Pirates,88,73,.547
+NL West,1979,Pittsburgh Pirates,98,64,.605
+NL West,1980,Philadelphia Phillies,91,71,.562
+NL West,1981,Los Angeles Dodgers,63,47,.577
+NL West,1982,Los Angeles Dodgers,87,73,.543
+NL West,1983,Atlanta Braves,88,74,.543
+NL West,1984,San Diego Padres,92,70,.568
+NL West,1985,Los Angeles Dodgers,95,67,.587
+NL West,1986,New York Mets,108,54,.667
+NL West,1987,St. Louis Cardinals,95,67,.586
+NL West,1988,Los Angeles Dodgers,94,67,.584
+NL West,1989,Chicago Cubs,93,69,.574
+NL West,1990,Cincinnati Reds,91,71,.562
+NL West,1991,Atlanta Braves,94,68,.580
+NL West,1992,Atlanta Braves,98,64,.605
+NL West,1993,Philadelphia Phillies,97,65,.599
+NL West,1994,Montreal Expos,74,40,.649,Strike
+NL West,1995,Atlanta Braves,90,54,.625
+NL West,1996,Atlanta Braves,96,66,.588
+NL West,1997,Atlanta Braves,101,61,.619
+NL West,1998,Atlanta Braves,106,56,.654
+NL West,1999,Atlanta Braves,103,59,.636
+NL West,2000,St. Louis Cardinals,95,67,.586
+NL West,2001,Arizona Diamondbacks,92,70,.568
+NL West,2002,Atlanta Braves,101,59,.630
+NL West,2003,Chicago Cubs,88,74,.543
+NL West,2004,St. Louis Cardinals,105,57,.648
+NL West,2005,St. Louis Cardinals,100,62,.617
+NL West,2006,St. Louis Cardinals,83,78,.516
+NL West,2007,Colorado Rockies,90,73,.552
+NL West,2008,Philadelphia Phillies,92,70,.568
+NL West,2009,Philadelphia Phillies,93,69,.574
+NL West,2010,San Francisco Giants,92,70,.568
+NL West,2011,St. Louis Cardinals,90,72,.556
+NL West,2012,San Francisco Giants,94,68,.580
+NL West,2013,St. Louis Cardinals,97,65,.599
+NL West,2014,Washington Nationals,96,66,.593
+NL West,2015,St. Louis Cardinals,100,62,.617
+NL West,2016,Los Angeles Dodgers,91,71,.561
+NL West,2017,Los Angeles Dodgers,104,58,.642
+NL West,2018,Los Angeles Dodgers,92,71,.564
+NL West,2019,Los Angeles Dodgers,106,56,.654
+NL West,2020,Los Angeles Dodgers,43,17,.717,60-game season
+NL West,2021,Los Angeles Dodgers,106,56,.654
+NL West,2022,Los Angeles Dodgers,111,51,.685
+NL West,2023,Los Angeles Dodgers,100,62,.617
+NL West,2024,Los Angeles Dodgers,98,64,.605
+NL West,2025,Los Angeles Dodgers,95,67,.586
