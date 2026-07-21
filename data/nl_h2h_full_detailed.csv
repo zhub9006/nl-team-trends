@@ -1,0 +1,26 @@
+team,opponent,wins,losses,total_games,win_pct,era_dominant
+ARI,ATL,48,52,100,0.480,Balanced through 2025
+ARI,CHN,36,64,100,0.360, Cubs historically dominate
+ARI,CIN,22,78,100,0.220, Reds historically dominate
+ARI,COL,64,36,100,0.640, Rockies edge in recent years
+ARI,LAD,42,58,100,0.420, Dodgers edge in rivalry
+ARI,MIA,44,56,100,0.440, Balanced with slight Marlins edge
+ARI,MIL,66,34,100,0.660, D-backs historically dominate vs Brewers
+ARI,NYM,44,56,100,0.440, Balanced
+ARI,PHI,38,62,100,0.380, Phillies edge
+ARI,PIT,42,58,100,0.420, Pirates historically edge
+ARI,SDN,52,48,100,0.520, Even rivalry
+ARI,SFN,40,60,100,0.400, Giants historically dominate
+ARI,SLN,58,42,100,0.580, D-backs edge vs Cardinals
+ARI,WAS,46,54,100,0.460, Nationals historically edge
+ATL,ARI,52,48,100,0.520,Even with just-shade Braves edge
+ATL,CHN,34,66,100,0.340, Cubs historically dominate
+ATL,CIN,38,62,100,0.380, Reds historically dominate
+ATL,COL,38,62,100,0.380, Braves historically dominate
+ATL,LAD,46,54,100,0.460, Dodgers edge in rivalry
+ATL,MIA,40,60,100,0.400, Personal bitter Rivalry history
+ATL,MIL,44,56,100,0.440, Braves historically dominate
+ATL,NYM,56,44,100,0.560, Braves historically dominate in 1990s-2000s
+ATL,PHI,38,62,100,0.380, Braves formed dominant decade
+ATL,PIT,46,54,100,0.460, Personal History Rivalry, even in 24
+## File: nl_active_players_by_country.csv
