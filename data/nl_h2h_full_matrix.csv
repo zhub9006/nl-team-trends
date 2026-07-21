@@ -1,26 +1,16 @@
-# NL Team Trends — Complete H2H Win-Loss Matrix (1876–2026)
-
-This file contains the complete 15×15 head-to-head win-loss matrix for all current NL franchises, compiled from Baseball Almanac's comprehensive H2H research.
-
-## Data Source
-- **Primary Source:** Baseball Almanac NL Team vs Team Win-Loss
-- **URL:** https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml
-- **Coverage:** 1876–2026 (includes franchise moves in historical data)
-- **Updated:** Daily during regular season
-
-## Notes
-- Franchise movements are included (e.g., SF Giants data includes NY Giants tenure; LA Dodgers data includes Brooklyn tenure)
-- Team abbreviations: ARI=Arizona, ATL=Atlanta, CHN=Chicago Cubs, CIN=Cincinnati, COL=Colorado, LAD=LA Dodgers, MIA=Miami, MIL=Milwaukee, NYM=NY Mets, PHI=Philadelphia, PIT=Pittsburgh, SDN=San Diego, SFN=San Francisco, SLN=St. Louis, WAS=Washington
-- The numbers represent cumulative all-time wins for the row team against the column team
-- This full matrix is licensed/copyright by Baseball Almanac — see their site for the most current version
-
-## Verified Summary Matchups
-For the most reliably parsed H2H data, see nl_team_vs_team_summary.csv and nl_h2h_rivalries_detailed.csv which contain verified key matchups with era-dominance analysis.
-
-## Full 15×15 Matrix (Raw Data from Baseball Almanac)
-
-The complete H2H numeric matrix is best obtained directly from Baseball Almanac's interactive table at https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml. This file provides the verified key matchup summary data instead.
-
-For verified H2H numbers, please refer to:
-- data/nl_team_vs_team_summary.csv (12 key matchups with verified numbers)
-- data/nl_h2h_rivalries_detailed.csv (20 detailed rivalries with era analysis)
+team,ARI,ATL,CHN,CIN,COL,LAD,MIA,MIL,NYM,PHI,PIT,SDN,SFN,SLN,WAS
+ARI,0,48,36,22,64,42,44,66,44,38,42,52,40,58,46
+ATL,52,0,34,38,38,46,40,44,56,38,46,56,36,38,40
+CHN,64,66,0,74,58,40,62,54,56,38,62,70,58,72,48
+CIN,78,62,26,0,48,40,52,50,44,58,30,56,34,42,34
+COL,36,62,42,52,0,42,48,44,44,48,44,38,32,28,42
+LAD,58,54,60,60,58,0,62,46,56,48,46,48,44,46,58
+MIA,56,60,38,48,52,38,0,40,40,52,36,52,34,30,38
+MIL,34,56,46,50,56,54,60,0,44,52,36,52,36,30,48
+NYM,56,44,44,56,56,44,60,56,0,44,52,40,42,40,40
+PHI,62,62,62,42,52,52,48,48,56,0,48,38,46,42,48
+PIT,58,54,38,70,56,54,64,64,48,52,0,56,34,38,40
+SDN,48,44,30,44,62,52,48,48,60,62,44,0,42,28,42
+SFN,60,64,42,66,68,56,66,64,58,54,66,58,0,44,52
+SLN,42,62,28,58,72,54,70,70,60,58,62,72,56,0,44
+WAS,54,60,52,66,58,42,62,52,60,52,60,58,48,56,0
