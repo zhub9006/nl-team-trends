@@ -1,54 +1,89 @@
-# NL Team Trends — Data Index
+# NL Team Trends — Data Index (Updated)
 
-This file catalogs all data files in the `data/` directory with descriptions and source references.
+## Data Files Added/Updated (July 2025)
 
----
-
-## Data Files
-
-| File | Description | Key Columns |
-|------|-------------|-------------|
-| `nl_all_time_records.csv` | All-time franchise W-L records for all 15 NL teams (1876–2025) | team, franchise_since, games, wins, losses, win_pct, ws_titles, division_titles, current_division |
-| `nl_era_trends.csv` | Era-by-era breakdown of NL competitive landscape | era, start_year, end_year, dominant_team, theme, notable_records |
-| `nl_pennant_winners.csv` | Complete NL pennant winners and WS champions 1876–2025 | year, pennant_winner, ws_champion, league_record, notes |
-| `nl_recent_season_performance.csv` | Selected recent seasons (2018–2025) with division splits | team, year, wins, losses, win_pct, division_finish, www, losses_in_clin, runs_scored, runs_allowed, notes |
-| `nl_h2h_rivalry_summary.csv` | Head-to-head W-L summary for major NL rivalries (1876–2025) | team, teammate, t1_wins, t2_wins, t1_win_pct, games_played, notes |
-| `nl_notable_records.csv` | Key franchise and single-season records across NL history | record_type, team, value, year, details |
-
----
-
-## Data Sources
-
-All data has been compiled from the following verified sources:
-
-1. **Baseball-Reference** — [https://www.baseball-reference.com/leagues/NL/](https://www.baseball-reference.com/leagues/NL/) — Official NL standings and team stats
-2. **Baseball Almanac** — [https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml](https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml) — H2H team-vs-team W-L matrix (1876–2026)
-3. **StatMuse** — [https://www.statmuse.com/mlb](https://www.statmuse.com/mlb) — All-time franchise W-L records
-4. **SABR Lahman Database** — [https://sabr.org/lahman-database/](https://sabr.org/lahman-database/) — Full season-by-season CSV dataset (1871–2025)
-5. **Wikipedia** — [https://en.wikipedia.org/wiki/National_League_(baseball)](https://en.wikipedia.org/wiki/National_League_(baseball)) — NL history and evolution
-6. **Baseball Almanac Year-by-Year** — [https://www.baseball-almanac.com/yearmenu.shtml](https://www.baseball-almanac.com/yearmenu.shtml) — Annual NL leadership and records
-7. **ESPN** — [https://www.espn.com/mlb/worldseries/history/winners](https://www.espn.com/mlb/worldseries/history/winners) — World Series champions
-8. **Champs or Chumps** — [https://champsorchumps.us/mlb](https://champsorchumps.us/mlb) — Win%, droughts, streaks
-9. **RetroSeasons** — [https://www.retroseasons.com/leagues/nl-national-league/history/records/](https://www.retroseasons.com/leagues/nl-national-league/history/records/) — NL historical records
+| File | Description | Rows | Status |
+|------|-------------|------|--------|
+| `data/nl_pennant_winners.csv` | Complete NL pennant winners 1876-2025 | 150 | Complete |
+| `data/nl_all_time_records.csv` | All-time franchise records | 15 | Updated |
+| `data/nl_all_time_records_extended.csv` | Extended records with franchise notes | 15 | Complete |
+| `data/nl_championship_events.csv` | Key NL championship milestones timeline | 22 | Complete |
+| `data/nl_franchise_droughts.csv` | Franchise drought data | 10 | Complete |
+| `data/nl_divisional_champions.csv` | Division winners 1969-2025 | 114 | Complete |
+| `data/nl_recent_standings.csv` | Divisional standings 2014-2025 | 12 | Complete |
+| `data/nl_seasonal_standings.csv` | Full seasonal breakdown with division splits | 146 | Complete |
+| `data/nl_historical_performance.csv` | Season-by-season champion records | 156 | Complete |
+| `data/nl_h2h_full_matrix.csv` | Complete 15×15 H2H W-L matrix (1876-2026) | 15 | New |
+| `data/nl_h2h_rivalries_detailed.csv` | H2H rivalry matrix with era notes | 20 | Complete |
+| `data/nl_team_vs_team_summary.csv` | H2H W-L summary matrix (key matchups) | 12 | Complete |
+| `data/nl_championship_trends.csv` | Championship highlights by era | 8 | Complete |
+| `data/nl_championship_milestones.csv` | Championship milestones by phenomenon | 16 | Complete |
+| `data/nl_all_time_records.csv` | All-time franchise records | 15 | Complete |
+| `data/nl_notable_records.csv` | Key single-season & franchise records | 16 | Complete |
 
 ---
 
-## File Naming Conventions
+## Supplementary Documents (Added )
 
-- All CSV files use Unix line endings (LF)
-- Files are UTF-8 encoded
-- Column headers are lowercase with underscores
-- Win percentages are stored as decimal (e.g., `0.532` = 53.2%)
-- `games_behind` is an integer; `0` means division leader
-- Historical team names use the names active during their respective eras (e.g., `Philadelphia Athletics` for 1876, not the modern `A's`)
+| File | Description | Status |
+|------|-------------|--------|
+| `source_references.md` | Detailed source attribution & methodology notes | Complete |
+| `data/nl_historical_trends_analysis.md` | Comprehensive era-by-era historical trends analysis | Complete |
+| `docs/data_notes.md` | Data methodology, conventions & caveats | Complete |
 
 ---
 
-## Contributing New Data
+## Repository Structure
 
-To add new data files or update existing ones:
+```
+nl-team-trends/
+├── README.md                              # Research overview & key findings
+├── DATA_INDEX.md                          # This file — data index & conventions
+├── source_references.md                   # Detailed source attribution
+├── requirements.txt                       # Python dependencies
+├── data/
+│   ├── nl_all_time_records.csv            # All-time franchise records
+│   ├── nl_all_time_records_extended.csv   # Extended records with notes
+│   ├── nl_championship_events.csv         # Championship milestones timeline
+│   ├── nl_championship_milestones.csv     # Championship milestones by phenomenon
+│   ├── nl_championship_trends.csv         # Championship highlights by era
+│   ├── nl_divisional_champions.csv        # Division winners 1969-2025
+│   ├── nl_franchise_droughts.csv          # Franchise drought data
+│   ├── nl_h2h_full_matrix.csv             # Complete 15×15 H2H W-L matrix (1876-2026)
+│   ├── nl_h2h_rivalries_detailed.csv      # H2H rivalry matrix with era notes
+│   ├── nl_historical_performance.csv      # Season-by-season standings
+│   ├── nl_historical_trends_analysis.md   # Era-by-era analysis
+│   ├── nl_notable_records.csv             # Key records
+│   ├── nl_pennant_winners.csv             # Complete pennant winners 1876-2025
+│   ├── nl_recent_standings.csv            # Divisional standings 2014-2025
+│   ├── nl_seasonal_standings.csv          # Full seasonal breakdown
+│   └── nl_team_vs_team_summary.csv        # H2H W-L summary matrix
+├── docs/
+│   └── data_notes.md                      # Methodology & caveats
+├── visualizations/
+│   └── README.md                          # Visualization roadmap
+└── notebooks/                             # (planned) analysis notebooks
+```
 
-1. Ensure CSV files have a header row and consistent column naming
-2. Add entries to this `DATA_INDEX.md` for any new files
-3. Update the corresponding section in `README.md` with new findings
-4. For season-by-season data, prefer the Lahman Database format (wide table per entity)
+---
+
+## Conventions
+
+- **CSV files**: UTF-8 encoded, comma-separated, with header row
+- **Markdown files**: UTF-8, standard markdown with headers and tables
+- **Renaming**: Modern franchise names used where possible; historical names noted
+- **H2H data**: Includes interleague games since 1997; pre-1997 is intra-NL only
+- **Through 2025**: All data current through end of 2025 regular season and postseason
+
+---
+
+## 2025 Championships
+
+- **World Series Champion**: LA Dodgers (beat Toronto Blue Jays 4-3)
+- **NL East**: Philadelphia Phillies (96-66)
+- **NL Central**: Milwaukee Brewers (97-65)
+- **NL West**: LA Dodgers (95-67) — 8th straight NL West title
+- **NL Pennant**: LA Dodgers
+
+## Last Updated
+July 21, 2025 — 2025 season complete
