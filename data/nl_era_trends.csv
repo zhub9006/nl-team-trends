@@ -1,9 +1,8 @@
-era,start_year,end_year,games_per_season,dominant_team,pennant_count,ws_wins,key_theme,notable_teams,expansion_info,rule_changes
-Founding Era,1876,1900,60–112,Boston (5 pennants),5,0,First professional league; 8→12 teams; varied schedules,"Chicago (4), Hartford, Louisville","60-game schedule (1876–1877), 72–84 games (1878–1884), 84-game schedule (1892)",
-Dead-Ball Era,1901,1919,126–154,New York Giants (8 pennants),8,3,Record-setting wins; Giants dynasty,"Chicago Cubs (4), Brooklyn Dodgers","Brooklyn Dodgers joined (1884)",140 games (1901–1919),
-Transition Era,1920,1945,154,St. Louis Cardinals (9 pennants),9,7,Cards dynasty; franchise relocation,Boston Braves (1914),St. Louis (5 straight 1942-44),154-game schedule begins ~1892,
-Expansion Era,1946,1968,154,Los Angeles Dodgers (5 pennants),5,4,Post-WWII power; Brooklyn→LA; NY→SF,"St. Louis Cardinals (4); Pittsburgh, Milwaukee Braves","Milwaukee Braves (1953)",154-game schedule,
-Modern Expansion,1969,1992,162,Atlanta Braves (14 div titles),—,—,Championship surge; 1994 strike,"Cincinnati Big Red Machine; 1969 Mets","Montreal Expos (1969); San Diego (1969)",162-game schedule (1962),
-Late 20th,1993,2005,162,Atlanta Braves (14 straight div titles),—,2,Atlanta dynasty; interleague play,"Florida Marlins (1997); Arizona (2001)","Arizona Diamondbacks (1998); Tampa Bay (AL)",162-game schedule; interleague play,
-21st Century,2006,2015,162,St. Louis Cardinals (3 titles),—,2,Cycle of champions; Cubs drought ends,"Cardinals (3); Giants (3); Dodgers (1)",None,162-game schedule; Wild Card game,
-Modern Era,2016,2025,162,Los Angeles Dodgers (3 pennants, 8 straight NL West),—,1,Dodgers modern dynasty; 100+ win seasons,"Chicago Cubs (2016); Braves (2021)",None,162-game schedule; expanded playoffs,
+era,start_year,end_year,games_per_season,num_teams,dominant_team,theme,nl_leader_in_wins,notable_records
+Dead-Ball Era,1876,1919,60-154,8-12,Chicago Cubs / Boston,Founding era: 8 teams expand to 12,Various year-by-year leaders,1906 Cubs 116 wins (154 games)
+Live-Ball Era,1920,1941,154,12-16,New York Giants / St. Louis Cardinals,Power transition; Giants franchise dominates,Various year-by-year leaders,1930 Cardinals .648 win% (101-56)
+Post-War Dynasty,1942,1960,154,12-16,St. Louis Cardinals,Dynasty era: 6 pennants in 8 years; relocation,Various year-by-year leaders,1945 Cubs 98-56; last NL title for 71 years
+Expansion Era,1961,1980,162,16-18,Los Angeles Dodgers / Cincinnati Reds,Expansion; Miracle Mets; Big Red Machine,Various year-by-year leaders,1975-76 Reds 108-54 and 102-60; 1969 Mets miracle
+Free Agency & Braves Era,1981,2000,162,16-18,Atlanta Braves,14 straight division titles (1991-2005),Various year-by-year leaders,1995 Braves 90-54; 1998 Braves 106-56
+Wild Card & Resurgence,2001,2015,162,16,St. Louis Cardinals / San Francisco Giants,Resurgence cycle; Cubs 108-year drought ends,Various year-by-year leaders,2016 Cubs 103-58; ended longest drought in pro sports
+Modern Dodgers Dynasty,2016,2025,162,15,Los Angeles Dodgers,8 straight NL West titles; 3 pennants since 2018,Various year-by-year leaders,2022 Padres 89-73; 2024 Dodgers 98-64

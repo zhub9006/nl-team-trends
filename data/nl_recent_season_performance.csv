@@ -1,0 +1,16 @@
+team,year,wins,losses,win_pct,division_finish,www,losses_in_clin,runs_scored,runs_allowed,games_behind,notes
+Arizona Diamondbacks,2023,84,78,0.519,1st NL West,44-37,40-41,731,747,0,Wild Card winner; won NL pennant
+Atlanta Braves,2023,104,58,0.642,1st NL East,55-26,49-32,916,649,0,104 wins but eliminated in NLDS
+Atlanta Braves,2022,101,61,0.623,1st NL East,54-27,47-34,765,669,0,NLDS loss to Phillies
+Atlanta Braves,2021,88,73,0.547,1st NL East,44-37,44-36,730,704,0,Won World Series
+Chicago Cubs,2016,103,58,0.640,1st NL Central,55-26,48-32,808,642,0,Ended 108-year championship drought
+Colorado Rockies,2022,68,94,0.420,4th NL West,35-46,33-48,710,829,31,.336 win% worst in Rockies history
+Colorado Rockies,2018,91,72,0.562,2nd NL West,48-33,43-39,720,699,8,Wild Card winner; lost NLDS
+Los Angeles Dodgers,2024,98,64,0.605,1st NL West,52-29,46-35,868,662,0,NL Pennant; lost WS
+Los Angeles Dodgers,2023,100,62,0.617,1st NL West,54-27,46-35,847,673,0,NL Pennant; lost WS
+Miami Marlins,2023,84,78,0.519,4th NL East,43-38,41-40,700,767,14,
+New York Mets,2022,101,61,0.623,1st NL East,54-27,47-34,769,693,0,NLDS loss to Padres
+Philadelphia Phillies,2022,87,75,0.537,2nd NL East,48-33,39-42,703,669,14,NLCS runner-up
+San Diego Padres,2022,89,73,0.549,2nd NL West,47-34,42-39,752,691,3,WILDCARD; NLDS loss to Dodgers
+St. Louis Cardinals,2022,93,69,0.574,2nd NL Central,48-33,45-36,714,686,11,NLDS loss to Padres
+Washington Nationals,2019,93,69,0.574,1st NL East,49-32,44-37,729,627,0,Won World Series (first since 2012)

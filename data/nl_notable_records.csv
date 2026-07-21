@@ -1,17 +1,8 @@
-team,year,achievement,category,value,details
-Chicago Cubs,1906,Best single-season W-L record (all NL),Win%,.763,116-36; still the best NL season ever
-Los Angeles Dodgers,2020,Best shortened-season NL record,Win%,.717,43-17 in 60-game COVID season
-Los Angeles Dodgers,2022,Best 162-game NL season record,Win%,.685,111-51; most wins in 162-game era
-St. Louis Cardinals,1942-1946,Most consecutive pennants,Streak,5,1942 43 44 45 46 WS titles
-Atlanta Braves,1991-2005,Most consecutive division titles,Streak,14,Eastern Division
-Los Angeles Dodgers,2018-2025,Most consecutive NL West titles,Streak,8,Dominant West Coast run
-St. Louis Cardinals,1926,First WS title by an NL team,WS,—,Beat Yankees 4-3
-Los Angeles Dodgers,2024-2025,Back-to-back WS titles (NL first since Yankees),WS,—,Beat Yankees 4-1; Blue Jays 4-3
-New York Mets,1969,Most improbable pennant run,Miracle,—,Worst to first; GS heroics
-Atlanta Braves,1995,Most dominant single postseason,Postseason,—,Swept both rounds
-St. Louis Cardinals,2011,Most dramatic late-season rally,Walk-off,—,10.5 GB Aug 25 to WS title
-Chicago Cubs,2016,Broke 108-year WS drought,History,—,Beat Indians 4-3
-Los Angeles Dodgers,2020-2025,3 WS titles in 5-year span,WS,3 of 5,Tied NA record for WS in 5 years
-Philadelphia Phillies,2008,First NL champ to beat AL champion in WS,WS,—,Beat Rays 4-1
-San Francisco Giants,2010-2014,Most recent NL three-peat cycle,3-peat,3 titles,2010 12 14 (not consecutive)
-Cincinnati Reds,1975-1976,First NL back-to-back WS since 1920s,WS,Back-to-back,Beat Yankees both years
+record_type,team,value,year,details
+Most WS Titles (NL),St. Louis Cardinals,11,All-time,Most World Series championships in NL
+Most NL Pennants,Los Angeles Dodgers,26,All-time,Most pennant wins (includes NY Giants era)
+Most Division Titles (Modern),Atlanta Braves,18,1991-2023,Braves ran most consistent division dominance
+Highest Single-Season Win %,Live-Ball Era,St. Louis Cardinals,1942 .648 (105-57),Best all-time for full NL season
+Longest Championship Drought,Chicago Cubs,108 years,1908-2016,Longest drought in North American pro sports
+Most Consecutive Pennants,St. Louis Cardinals,8,1926-1934,Won pennants in 8 consecutive years
+Fastest 100-win team,Chicago Cubs,100 by game 142,1935,Reached 100 wins fastest in 154-game era
