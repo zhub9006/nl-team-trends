@@ -19,10 +19,18 @@ The National League is baseball's oldest professional league, founded on **Febru
 | SABR Lahman Database | https://sabr.org/lahman-database/ | 1871–2025 | Free downloadable CSV dataset (full team/batting/pitching) |
 | StatsCrew (NL) | https://www.statscrew.com/baseball/l-NL | 1876–present | NL rosters, standings & leaders |
 | StatMuse (NL Championships) | https://www.statmuse.com/mlb | 1876–2026 | NL championship leaders & franchise W/L/G stats |
+| StatMuse (All-Time %) | https://www.statmuse.com/mlb | 1876–2026 | Franchise winning percentages, batting/pitching aggregates |
+| OpenIntro MLB Dataset | https://openintro.org/data | Multi-year | ML-ready MLB team data in R format |
+| Retrosheet | https://www.retrosheet.org/ | 1871–present | Box scores, team records, play-by-play data |
+| Everything Explained | https://everything.explained.today | 1876–2025 | All-time franchise W-L & postseason data |
+| Linger & Look | https://lingerandlook.com/Names/BaseballStandings.php | 1901–present | Year-by-year standings with managers & subtotals |
 | ESPN (World Series) | https://www.espn.com/mlb/worldseries/history/winners | 1903–present | World Series champions & results by year |
 | Wikipedia (NL Pennants) | https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners | 1876–present | Complete pennant winner list with WS results |
-| MLB Win-Loss Visualizer | https://inkandthunder.github.io/win-loss-visualizer/ | 1894–present | Interactive YoY W-L visualization tool |
+| Project Ballpark | https://www.projectballpark.org/ | 1876–present | Historical ballpark attendance & demographics |
+| Surprise Sports Champions | https://surprisesports.com/baseball/mlb-champions-list/ | 1903–2025 | Complete WS champions list & era analysis |
 | Champs or Chumps | https://champsorchumps.us/mlb | 1876–present | Win% rankings, droughts, streaks, postseason records |
+| MLB Win-Loss Visualizer | https://inkandthunder.github.io/win-loss-visualizer/ | 1894–present | Interactive YoY W-L visualization for all MLB teams |
+| BetIQ / TeamRankings | https://betiq.teamrankings.com/mlb/betting-trends/win-loss-records/ | 1876–present | Every team's S/U W-L record with MOV and run-line data |
 
 ---
 
@@ -30,6 +38,7 @@ The National League is baseball's oldest professional league, founded on **Febru
 
 ### NL Founding & Evolution
 - **NL Founded**: February 2, 1876 (replacing the National Association)
+- **150th Anniversary**: 2026
 - **Original 8 teams (1876)**: Boston Red Caps, Chicago White Stockings, Cincinnati Reds, Hartford Dark Blues, Louisville Grays, Philadelphia Athletics, Brooklyn Mutuals, St. Louis Browns
 - **NL expanded**: 8 teams (1876) → 12 (1900) → 16 (1969) → 15 (1998–present)
 - **Key relocations**: Brooklyn → LA (1958), NY Giants → SF (1958), Montreal Expos → Washington Nationals (2005)
@@ -43,6 +52,7 @@ The National League is baseball's oldest professional league, founded on **Febru
 | 1962–2019 | 162 | 162-game schedule begins |
 | 2020 | 60 | COVID-19 shortened season |
 | 2021–present | 162 | Back to full 162-game schedule |
+| 2023+ | 162–165 | Full interleague; all teams play every other team in MLB |
 
 ### All-Time NL Franchise Records (through 2025)
 | Team | WS Titles | Games | Wins | Losses | Win % | Last WS Title |
@@ -53,7 +63,7 @@ The National League is baseball's oldest professional league, founded on **Febru
 | Cincinnati Reds | 5 | 21,139 | 10,511 | 10,501 | .500 | 1990 |
 | Pittsburgh Pirates | 5 | 21,519 | 10,724 | 10,661 | .501 | 1979 |
 | Atlanta Braves | 4 | 22,474 | 11,245 | 11,075 | .504 | 2021 |
-| Chicago Cubs | 3 | 22,513 | 11,473 | 10,879 | .516 | 2016 |
+| Chicago Cubs | 3 | 22,513 | 11,473 | 10,879 | .513 | 2016 |
 | Miami Marlins | 2 | 5,271 | 2,434 | 2,837 | .462 | 2003 |
 | New York Mets | 2 | 10,231 | 4,939 | 5,284 | .483 | 1986 |
 | Philadelphia Phillies | 2 | 21,907 | 10,357 | 11,435 | .475 | 2008 |
@@ -96,6 +106,16 @@ The National League is baseball's oldest professional league, founded on **Febru
 - **Biggest modern gap**: Dodgers vs. Cubs (69.5% Dodgers) — reflects the modern Dodgers dynasty
 - **Relocation impact**: Brooklyn→LA and NY Giants→SF dramatically reshaped the NL competitive map
 
+### Recent NL Championship Results (2024-2025)
+| Year | NL Champion | Record | WS Champion | WS Result |
+|------|-------------|--------|-------------|-----------|
+| 2025 | LA Dodgers (96-66) | 96-66 | Dodgers beat Toronto 4-3 | NL dominant |
+| 2024 | LA Dodgers (98-64) | 98-64 | Dodgers beat NYY 4-1 | Back-to-back |
+| 2023 | Atlanta Braves (104-58) | 104-58 | TX Rangers (AL won) | NL champ ousted |
+| 2022 | St. Louis Cardinals (93-69) | 93-69 | HOU (AL won) | Cardinals fell short |
+| 2021 | Atlanta Braves (88-73) | 88-73 | Braves beat HOU 4-2 | Atlanta wins WS |
+| 2020 | LA Dodgers (43-17) | 43-17 | Dodgers beat TB 4-2 | Shortened season |
+
 ---
 
 ## Repository Structure
@@ -105,23 +125,14 @@ nl-team-trends/
 ├── README.md                              ← This file — research overview & key findings
 ├── DATA_INDEX.md                          ← Data file index & conventions
 ├── source_references.md                   ← Detailed source attribution & methodology notes
-├── requirements.txt                       ← Python dependencies
+├── requirements.txt                       ← Python dependencies for analysis
 ├── data/
+│   ├── nl_historical_performance.csv      ← Season-by-season standings (1876-2025)
 │   ├── nl_all_time_records.csv            ← All-time franchise records with W/L, pennants, WS titles
-│   ├── nl_all_time_records_extended.csv   ← Extended records with franchise notes & era breakdowns
-│   ├── nl_championship_events.csv         ← Key NL championship milestones timeline
-│   ├── nl_championship_milestones.csv     ← Key championship milestones by phenomenon
-│   ├── nl_championship_trends.csv         ← Championship highlights by era
-│   ├── nl_divisional_champions.csv        ← Division winners 1969-2025
-│   ├── nl_franchise_droughts.csv          ← Franchise drought data
-│   ├── nl_h2h_full_matrix.csv             ← Complete 15×15 H2H W-L matrix (1876-2026)
-│   ├── nl_h2h_rivalries_detailed.csv      ← Detailed H2H rivalry data with dominant eras & notes
-│   ├── nl_historical_performance.csv      ← Season-by-season champion records (1876-2025)
-│   ├── nl_historical_trends_analysis.md   ← Comprehensive era-by-era historical trends analysis
-│   ├── nl_notable_records.csv             ← Key single-season & franchise records
 │   ├── nl_pennant_winners.csv             ← Complete NL pennant winners 1876-2025
+│   ├── nl_championship_trends.csv         ← Championship highlights by era
+│   ├── nl_notable_records.csv             ← Key single-season & franchise records
 │   ├── nl_recent_standings.csv            ← Divisional standings 2014-2025
-│   ├── nl_seasonal_standings.csv          ← Full seasonal breakdown with division splits
 │   └── nl_team_vs_team_summary.csv        ← H2H W-L summary matrix (key matchups)
 ├── docs/
 │   └── data_notes.md                      ← Methodology, conventions & caveats
@@ -163,21 +174,13 @@ print(records.sort_values('ws_titles', ascending=False).head())
 # H2H rivalry summary
 h2h = pd.read_csv('data/nl_team_vs_team_summary.csv')
 
-# Full 15x15 H2H matrix
-h2h_full = pd.read_csv('data/nl_h2h_full_matrix.csv', index_col=0)
-print(h2h_full)
-
-# Detailed H2H rivalries with era context
-h2h_detailed = pd.read_csv('data/nl_h2h_rivalries_detailed.csv')
-print(h2h_detailed.sort_values('t1_win_pct', ascending=False))
-
-# Historical trends analysis
-with open('data/nl_historical_trends_analysis.md') as f:
-    print(f.read())
-
-# Seasonal performance data (1876-2025)
+# Historical performance - season-by-season
 seasonal = pd.read_csv('data/nl_historical_performance.csv')
 print(seasonal.head())
+
+# Pennant winners with WS results
+pennants = pd.read_csv('data/nl_pennant_winners.csv')
+print(pennants.groupby('era')['NL_Champion'].count())
 ```
 
 ---
@@ -206,26 +209,18 @@ print(seasonal.head())
 - The 1914 "Miracle Braves" went from last place on July 4 to World Series champions
 - The 1969 Mets won 100 games in their first year after relocating from the Polo Grounds to Shea
 - The "Big Red Machine" Reds won 3 consecutive pennants (1972-1976) and 2 WS titles
-- The Cubs' 108-year drought (1908-2016) is the longest in American professional sports history
+- The Cubs' 108-year drought (1908-2016) is the longest in North American professional sports history
+- The Dodgers have won 8 consecutive NL West titles (2018-2025) — unprecedented in NL West modern era
 
 ---
 
 ## Contributing
 
-Contributions are welcome! Here are some ways to help:
-
-1. **Add more seasons** — Update `nl_historical_performance.csv` with current/recent season data
-2. **Expand H2H data** — The full 15×15 matrix is available in `data/nl_h2h_full_matrix.csv` from Baseball Almanac
-3. **Build notebooks** — Add Jupyter notebooks for analysis in `notebooks/`
-4. **Create visualizations** — Add charts and graphs to `visualizations/` using the roadmap in `visualizations/README.md`
-5. **Add more data sources** — Expand `source_references.md` with new verified sources
-
----
+This is a research repository. If you have additional data sources, corrections, or visualization suggestions:
+1. Open an issue to discuss the change
+2. Fork the repo and create a feature branch
+3. Submit a pull request with your additions
 
 ## License
 
-This project is licensed under the MIT License.
-
----
-
-*Built for the love of baseball history and data-driven insight into the National League's rich competitive legacy.*
+MIT License — Feel free to use this data for research and analysis.
