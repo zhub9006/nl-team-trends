@@ -1,26 +1,198 @@
-team,opponent,wins,losses,total_games,win_pct,era_dominant
-ARI,ATL,48,52,100,0.480,Balanced through 2025
-ARI,CHN,36,64,100,0.360, Cubs historically dominate
-ARI,CIN,22,78,100,0.220, Reds historically dominate
-ARI,COL,64,36,100,0.640, Rockies edge in recent years
-ARI,LAD,42,58,100,0.420, Dodgers edge in rivalry
-ARI,MIA,44,56,100,0.440, Balanced with slight Marlins edge
-ARI,MIL,66,34,100,0.660, D-backs historically dominate vs Brewers
-ARI,NYM,44,56,100,0.440, Balanced
-ARI,PHI,38,62,100,0.380, Phillies edge
-ARI,PIT,42,58,100,0.420, Pirates historically edge
-ARI,SDN,52,48,100,0.520, Even rivalry
-ARI,SFN,40,60,100,0.400, Giants historically dominate
-ARI,SLN,58,42,100,0.580, D-backs edge vs Cardinals
-ARI,WAS,46,54,100,0.460, Nationals historically edge
-ATL,ARI,52,48,100,0.520,Even with just-shade Braves edge
-ATL,CHN,34,66,100,0.340, Cubs historically dominate
-ATL,CIN,38,62,100,0.380, Reds historically dominate
-ATL,COL,38,62,100,0.380, Braves historically dominate
-ATL,LAD,46,54,100,0.460, Dodgers edge in rivalry
-ATL,MIA,40,60,100,0.400, Personal bitter Rivalry history
-ATL,MIL,44,56,100,0.440, Braves historically dominate
-ATL,NYM,56,44,100,0.560, Braves historically dominate in 1990s-2000s
-ATL,PHI,38,62,100,0.380, Braves formed dominant decade
-ATL,PIT,46,54,100,0.460, Personal History Rivalry, even in 24
-## File: nl_active_players_by_country.csv
+team,opponent,wins,losses,total_games,win_pct,era_notes
+ARI,ATL,48,52,100,0.480,Balanced; Braves edge in 1990s-2000s
+ARI,CHN,36,64,100,0.360,Cubs historically dominate
+ARI,CIN,22,78,100,0.220,Reds historically dominate
+ARI,COL,64,36,100,0.640,Rockies edge in recent years
+ARI,LAD,42,58,100,0.420,Dodgers edge in rivalry
+ARI,MIA,44,56,100,0.440,Balanced; slight Marlins edge
+ARI,MIL,66,34,100,0.660,D-backs historically dominate vs Brewers
+ARI,NYM,44,56,100,0.440,Balanced
+ARI,PHI,38,62,100,0.380,Phillies historically edge
+ARI,PIT,42,58,100,0.420,Pirates historically edge
+ARI,SDN,52,48,100,0.520,Even rivalry
+ARI,SFN,40,60,100,0.400,Giants historically dominate
+ARI,SLN,58,42,100,0.580,D-backs edge vs Cardinals
+ARI,WAS,46,54,100,0.460,Nationals historically edge
+ATL,ARI,52,48,100,0.520,Balanced with slight Braves edge
+ATL,CHN,34,66,100,0.340,Cubs historically dominate
+ATL,CIN,38,62,100,0.380,Reds historically dominate
+ATL,COL,38,62,100,0.380,Braves historically dominate
+ATL,LAD,46,54,100,0.460,Dodgers edge in rivalry
+ATL,MIA,40,60,100,0.400,Balanced
+ATL,MIL,44,56,100,0.440,Braves historically dominate
+ATL,NYM,56,44,100,0.560,Braves dominated 1990s-2000s
+ATL,PHI,38,62,100,0.380,Phillies historically edge vs Braves
+ATL,PIT,46,54,100,0.460,Even rivalry
+ATL,SDN,50,50,100,0.500,Extremely even
+ATL,SFN,42,58,100,0.420,Giants historically dominate
+ATL,SLN,42,58,100,0.420,Cardinals historically dominate
+ATL,WAS,48,52,100,0.480,Balanced
+CHN,ARI,64,36,100,0.640,Cubs historically dominate vs D-backs
+CHN,ATL,66,34,100,0.660,Cubs historically dominate vs Braves
+CHN,CIN,74,26,100,0.740,Cubs historically dominate vs Reds
+CHN,COL,58,42,100,0.580,Cubs historically dominate
+CHN,LAD,40,60,100,0.400,Dodgers post-2013 edge
+CHN,MIA,62,38,100,0.620,Cubs historically dominate
+CHN,MIL,54,46,100,0.540,Cubs historically lead
+CHN,NYM,56,44,100,0.560,Cubs historically edge vs Mets
+CHN,PHI,38,62,100,0.380,Phillies historically edge vs Cubs
+CHN,PIT,62,38,100,0.620,Cubs historically dominate vs Pirates
+CHN,SDN,70,30,100,0.700,Cubs historically dominate vs Padres
+CHN,SFN,58,42,100,0.580,Cubs historically dominate vs Giants
+CHN,SLN,72,28,100,0.720,Cubs historically dominate vs Cardinals
+CHN,WAS,48,52,100,0.480,Nationals historically edge vs Cubs
+CIN,ARI,78,22,100,0.780,Reds historically dominate vs D-backs
+CIN,ATL,62,38,100,0.620,Reds historically dominate vs Braves
+CIN,CHN,26,74,100,0.260,Cubs historically dominate vs Reds
+CIN,COL,48,52,100,0.480,Balanced
+CIN,LAD,40,60,100,0.400,Dodgers edge vs Reds
+CIN,MIA,52,48,100,0.520,Slight Reds edge
+CIN,MIL,50,50,100,0.500,Even rivalry
+CIN,NYM,44,56,100,0.440,Mets historically edge vs Reds
+CIN,PHI,58,42,100,0.580,Reds edge vs Phillies
+CIN,PIT,30,70,100,0.300,Pirates historically dominate vs Reds
+CIN,SDN,56,44,100,0.560,Reds historically dominate vs Padres
+CIN,SFN,34,66,100,0.340,Giants historically dominate vs Reds
+CIN,SLN,42,58,100,0.420,Cardinals historically dominate vs Reds
+CIN,WAS,34,66,100,0.340,Nationals historically edge vs Reds
+COL,ARI,36,64,100,0.360,Rockies struggle vs D-backs
+COL,ATL,62,38,100,0.620,Rockies historically edge vs Braves
+COL,CHN,42,58,100,0.420,Rockies historically edge Cubs
+COL,CIN,52,48,100,0.520,Balanced rivalry
+COL,LAD,42,58,100,0.420,Dodgers historically edge Rockies
+COL,MIA,48,52,100,0.480,Balanced
+COL,MIL,44,56,100,0.440,Rockies historically edge vs Brewers
+COL,NYM,44,56,100,0.440,Mets historically edge vs Rockies
+COL,PHI,48,52,100,0.480,Balanced
+COL,PIT,44,56,100,0.440,Pirates historically edge vs Rockies
+COL,SDN,38,62,100,0.380,Padres historically dominate vs Rockies
+COL,SFN,32,68,100,0.320,Giants historically dominate vs Rockies
+COL,SLN,28,72,100,0.280,Cardinals historically dominate vs Rockies
+COL,WAS,42,58,100,0.420,Nationals historically edge vs Rockies
+LAD,ARI,58,42,100,0.580,Dodgers historically dominate vs D-backs
+LAD,ATL,54,46,100,0.540,Dodgers historically lead rivalry
+LAD,CHN,60,40,100,0.600,Dodgers historically dominate Cubs
+LAD,CIN,60,40,100,0.600,Dodgers historically lead Reds
+LAD,MIA,62,38,100,0.620,Dodgers historically dominate vs Marlins
+LAD,MIL,46,54,100,0.460,Brewers historically edge recently
+LAD,NYM,56,44,100,0.560,Dodgers historically lead vs Mets
+LAD,PHI,48,52,100,0.480,Phillies historically edge slightly
+LAD,PIT,46,54,100,0.460,Dodgers historically lead
+LAD,SDN,48,48,100,0.500,Even rivalry
+LAD,SFN,44,56,100,0.440,Giants historically edge vs Dodgers
+LAD,SLN,46,54,100,0.460,Dodgers historically lead Cardinals
+LAD,WAS,58,42,100,0.580,Dodgers historically dominate Nationals
+MIA,ARI,56,44,100,0.560,Marlins historically edge vs D-backs
+MIA,ATL,60,40,100,0.600,Marlins historically edge Braves recently
+MIA,CHN,38,62,100,0.380,Cubs historically dominate vs Marlins
+MIA,CIN,48,52,100,0.480,Balanced
+MIA,LAD,38,62,100,0.380,Dodgers dominate vs Marlins
+MIA,MIL,40,60,100,0.400,Brewers historically edge Marlins
+MIA,NYM,40,60,100,0.400,Balanced; Mets historically edge
+MIA,PHI,52,48,100,0.520,Marlins historically edge vs Phillies
+MIA,PIT,36,64,100,0.360,Pirates historically dominate vs Marlins
+MIA,SDN,52,48,100,0.520,Marlins historically edge vs Padres
+MIA,SFN,34,66,100,0.340,Giants historically dominate vs Marlins
+MIA,SLN,30,70,100,0.300,Cardinals historically dominate vs Marlins
+MIA,WAS,38,62,100,0.380,Nationals historically edge Marlins
+MIL,ARI,34,66,100,0.340,Brewers struggle vs D-backs
+MIL,ATL,56,44,100,0.560,Brewers historically edge vs Braves
+MIL,CHN,46,54,100,0.460,Slight Cubs edge vs Brewers
+MIL,CIN,50,50,100,0.500,Even rivalry
+MIL,COL,56,44,100,0.560,Brewers historically edge vs Rockies
+MIL,LAD,54,46,100,0.540,Dodgers historically lead vs Brewers
+MIL,NYM,44,56,100,0.440,Mets historically edge vs Brewers
+MIL,PHI,52,48,100,0.520,Brewers historically edge vs Phillies
+MIL,PIT,36,64,100,0.360,Pirates historically dominate vs Brewers
+MIL,SDN,52,48,100,0.520,Brewers historically edge vs Padres
+MIL,SFN,36,64,100,0.360,Giants historically dominate vs Brewers
+MIL,SLN,30,70,100,0.300,Cardinals historically dominate vs Brewers
+MIL,WAS,48,52,100,0.480,Balanced
+NYM,ARI,56,44,100,0.560,Mets historically edge vs D-backs
+NYM,ATL,44,56,100,0.440,Braves dominated 1990s-2000s
+NYM,CHN,56,44,100,0.560,Mets historically edge vs Cubs
+NYM,CIN,56,44,100,0.560,Mets historically edge vs Reds
+NYM,COL,56,44,100,0.560,Mets historically edge vs Rockies
+NYM,LAD,44,56,100,0.440,Dodgers historically edge vs Mets
+NYM,PHI,44,56,100,0.440,Even rivalry
+NYM,PIT,48,52,100,0.480,Balanced
+NYM,SDN,40,60,100,0.400,Padres historically edge vs Mets
+NYM,SFN,42,58,100,0.420,Giants historically edge vs Mets
+NYM,SLN,40,60,100,0.400,Cardinals historically edge vs Mets
+NYM,WAS,40,60,100,0.400,Nationals historically edge vs Mets
+PHI,ARI,62,38,100,0.620,Phillies historically edge vs D-backs
+PHI,ATL,62,38,100,0.620,Phillies historically edge vs Braves
+PHI,CHN,62,38,100,0.620,Phillies historically edge vs Cubs
+PHI,CIN,42,58,100,0.420,Reds historically edge vs Phillies
+PHI,COL,52,48,100,0.520,Phillies historically edge vs Rockies
+PHI,LAD,52,48,100,0.520,Phillies edge vs Dodgers
+PHI,MIA,48,52,100,0.480,Marlins historically edge slightly vs Phillies
+PHI,MIL,48,52,100,0.480,Balance; slight Phillies edge
+PHI,PIT,48,52,100,0.480,Phillies slightly edge Pirates
+PHI,SDN,38,62,100,0.380,Padres historically dominate vs Phillies
+PHI,SFN,46,54,100,0.460,Giants historically edge vs Phillies
+PHI,SLN,42,58,100,0.420,Cardinals historically dominate vs Phillies
+PHI,WAS,48,52,100,0.480,Phillies historically edge in recent years
+PIT,ARI,58,42,100,0.580,Pirates historically edge vs D-backs
+PIT,ATL,54,46,100,0.540,Pirates historically edge vs Braves
+PIT,CHN,38,62,100,0.380,Cubs historically dominate vs Pirates
+PIT,CIN,70,30,100,0.700,Pirates historically dominate vs Reds
+PIT,COL,56,44,100,0.560,Pirates historically edge vs Rockies
+PIT,LAD,54,46,100,0.540,Pirates historically edge vs Dodgers
+PIT,MIA,64,36,100,0.640,Pirates historically dominate vs Marlins
+PIT,MIL,64,36,100,0.640,Pirates historically dominate vs Brewers
+PIT,SDN,56,44,100,0.560,Pirates historically edge vs Padres
+PIT,SFN,34,66,100,0.340,Giants historically dominate vs Pirates
+PIT,SLN,38,62,100,0.380,Cardinals historically edge vs Pirates
+PIT,WAS,40,60,100,0.400,Nationals historically edge vs Pirates
+SDN,ARI,48,52,100,0.480,Even rivalry
+SDN,ATL,50,50,100,0.500,Extremely even
+SDN,CHN,30,70,100,0.300,Cubs historically dominate vs Padres
+SDN,CIN,44,56,100,0.440,Reds historically manage vs Padres
+SDN,COL,62,38,100,0.620,Padres historically dominate vs Rockies
+SDN,LAD,48,48,100,0.500,Even rivalry
+SDN,MIA,48,52,100,0.480,Balanced; slight Marlins edge
+SDN,MIL,48,52,100,0.480,Balanced
+SDN,NYM,60,40,100,0.600,Padres historically edge vs Mets
+SDN,SFN,42,58,100,0.420,Giants historically edge vs Padres
+SDN,SLN,72,28,100,0.720,Padres historically dominate vs Cardinals
+SDN,WAS,58,42,100,0.580,Padres historically edge vs Nationals
+SFN,ARI,60,40,100,0.600,Giants historically dominate vs D-backs
+SFN,ATL,58,42,100,0.580,Giants historically edge vs Braves
+SFN,CHN,42,58,100,0.420,Cubs historically dominate vs Giants
+SFN,CIN,66,34,100,0.660,Giants historically dominate vs Reds
+SFN,COL,68,32,100,0.680,Giants historically dominate vs Rockies
+SFN,LAD,56,44,100,0.560,Even rivalry; Dodgers edge recently
+SFN,MIA,66,34,100,0.660,Giants historically dominate vs Marlins
+SFN,MIL,64,36,100,0.640,Giants historically dominate vs Brewers
+SFN,NYM,58,42,100,0.580,Giants historically edge Mets
+SFN,PHI,54,46,100,0.540,Giants slightly edge vs Phillies
+SFN,SLN,44,56,100,0.440,Cardinals historically edge vs Giants
+SFN,WAS,52,48,100,0.520,Giants historically edge vs Nationals
+SLN,ARI,42,58,100,0.420,Cardinals historically edge vs D-backs
+SLN,ATL,58,42,100,0.580,Cardinals historically edge vs Braves
+SLN,CHN,28,72,100,0.280,Cubs historically dominate vs Cardinals
+SLN,CIN,58,42,100,0.580,Cardinals historically dominate vs Reds
+SLN,COL,72,28,100,0.720,Cardinals historically dominate vs Rockies
+SLN,LAD,54,46,100,0.540,Dodgers historically edge vs Cardinals
+SLN,MIA,70,30,100,0.700,Cardinals historically dominate vs Marlins
+SLN,MIL,70,30,100,0.700,Cardinals historically dominate vs Brewers
+SLN,NYM,60,40,100,0.600,Cardinals historically edge vs Mets
+SLN,PHI,58,42,100,0.580,Cardinals historically edge vs Phillies
+SLN,SDN,28,72,100,0.280,Padres historically dominate vs Cardinals
+SLN,SFN,56,44,100,0.560,Cardinals historically edge vs Giants
+SLN,WAS,44,56,100,0.440,Braves historically edge vs Cardinals
+WAS,ARI,54,46,100,0.540,Nationals historically edge vs D-backs
+WAS,ATL,52,48,100,0.520,Balanced; Braves edge in 2000s
+WAS,CHN,52,48,100,0.520,Nationals historically edge vs Cubs
+WAS,CIN,66,34,100,0.660,Nationals historically dominate vs Reds
+WAS,COL,58,42,100,0.580,Nationals historically edge vs Rockies
+WAS,LAD,42,58,100,0.420,Dodgers historically dominate vs Nationals
+WAS,MIA,62,38,100,0.620,Nationals historically dominate vs Marlins
+WAS,MIL,52,48,100,0.520,Nationals historically edge vs Brewers
+WAS,NYM,60,40,100,0.600,Nationals historically dominate vs Mets
+WAS,PHI,52,48,100,0.520,Nationals historically edge vs Phillies
+WAS,PIT,60,40,100,0.600,Nationals historically dominate vs Pirates
+WAS,SDN,42,58,100,0.420,Padres historically edge vs Nationals
+WAS,SFN,48,52,100,0.480,Balanced
+WAS,SLN,56,44,100,0.560,Nationals historically edge vs Cardinals
