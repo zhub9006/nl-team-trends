@@ -7,7 +7,7 @@ Below is a comprehensive catalog of all research sources used to compile the his
 ## Primary Data Sources
 
 ### 1. Baseball-Reference (NL)
-- **URL**: https://www.baseball-reference.com/leagues/NL/index.shtml
+- **URL**: https://www.baseball-reference.com/leagues/NL/
 - **Coverage**: 1876–present
 - **Key Data**: Official year-by-year NL standings, team statistics, leaderboards
 - **Verified By**: Long-standing authoritative baseball reference site; data cross-checked with Baseball Almanac
@@ -27,76 +27,119 @@ Below is a comprehensive catalog of all research sources used to compile the his
 - **Verified By**: Primary H2H data source; cross-checked with existing repo H2H files
 - **Used For**: Rivalry analysis, detailed H2H matrices
 
-### 4. Sports Reference (Baseball-Reference)
-- **URL**: https://www.baseball-reference.com/
-- **Coverage**: 1871–present
-- **Key Data**: Complete MLB player, team, and league stats, awards, records
-- **Verified By**: Industry-standard baseball statistics authority
-- **Used For**: Supplementary statistics, franchise timelines
-
-### 5. SABR Lahman Database
+### 4. SABR Lahman Database
 - **URL**: https://sabr.org/lahman-database/
 - **Coverage**: 1871–present (including Negro Leagues)
 - **Key Data**: Free downloadable CSV datasets — full team/batting/pitching/fielding
 - **Verified By**: Created by SABR member Sean Lahman; used by researchers worldwide
 - **Used For**: Programmatic analysis, advanced statistics, data science workflows
-- **Note**: Recommended download at https://github.com/chadwickbureau/baseballdatabank
+- **Download**: https://github.com/chadwickbureau/baseballdatabank
 
-### 6. Baseball Data Hub
+### 5. Baseball Data Hub
 - **URL**: https://baseballdatahub.com/seasons/
 - **Coverage**: 1871–2026
 - **Key Data**: Complete season standings & stats archive, proprietary PIV metric
 - **Verified By**: Authoritative archive with 150+ years of MLB history
 - **Used For**: Season-by-season standings data
 
-### 7. StatsCrew (NL)
+### 6. StatsCrew (NL)
 - **URL**: https://www.statscrew.com/baseball/l-NL
 - **Coverage**: 1876–present
 - **Key Data**: NL rosters, standings, and leaders
 - **Verified By**: Consistent with other sources
 - **Used For**: Supplementary standings and roster data
 
-### 8. StatMuse (NL Championships)
+### 7. StatMuse (NL Championships & All-Time %)
 - **URL**: https://www.statmuse.com/mlb
 - **Coverage**: 1876–2026
-- **Key Data**: NL championship leaders, franchise W/L/G stats
+- **Key Data**: NL championship leaders, franchise W/L/G stats, all-time win percentages
 - **Verified By**: Modern statistical platform with consistent data
-- **Used For**: Championship records, franchise statistics
+- **Used For**: Championship records, franchise statistics, win% rankings
 
-### 9. ESPN (World Series)
+### 8. ESPN (World Series)
 - **URL**: https://www.espn.com/mlb/worldseries/history/winners
 - **Coverage**: 1903–present
 - **Key Data**: World Series champions & results by year
 - **Verified By**: Official MLB broadcast partner
 - **Used For**: World Series results, champion verification
 
-### 10. Wikipedia — NL Pennant Winners
+### 9. Wikipedia — NL Pennant Winners
 - **URL**: https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners
 - **Coverage**: 1876–present
 - **Key Data**: Complete pennant winner list with WS results
 - **Verified By**: Community-maintained; cross-checked with Baseball Almanac
 - **Used For**: Pennant winner verification, era context
 
-### 11. Wikipedia — All-Time MLB Win-Loss Records
+### 10. Wikipedia — All-Time MLB Win-Loss Records
 - **URL**: https://en.wikipedia.org/wiki/List_of_all-time_Major_League_Baseball_win-loss_records
 - **Coverage**: All 30 current MLB teams through 2025 season
 - **Key Data**: All-time franchise records ranked by win-loss percentage
 - **Verified By**: Cross-checked with Baseball-Reference and Baseball Almanac
 - **Used For**: All-time franchise rankings, franchise notes
 
-### 12. MLB Win-Loss Visualizer
+### 11. MLB Win-Loss Visualizer
 - **URL**: https://inkandthunder.github.io/win-loss-visualizer/
 - **Coverage**: 1894–present
 - **Key Data**: Interactive year-over-year W-L visualization tool
 - **Verified By**: Open-source visualization tool; data consistent with other sources
 - **Used For**: Visualizing win-loss trends over time
 
-### 13. Champs or Chumps
+### 12. Champs or Chumps
 - **URL**: https://champsorchumps.us/mlb
 - **Coverage**: 1876–present
-- **Key Data**: Win% rankings, droughts, streaks, postseason records
+- **Key Data**: Win% rankings, droughts, streaks, postseason records, full standings history
 - **Verified By**: Comprehensive stat tracking site
-- **Used For**: Drought analysis, streak tracking, win% rankings
+- **Used For**: Drought analysis, streak tracking, win% rankings, season-specific standings
+
+### 13. Everything Explained — Baseball
+- **URL**: https://everything.explained.today
+- **Coverage**: 1876–2025
+- **Key Data**: All-time franchise W-L & postseason data in accessible format
+- **Verified By**: Aggregates data from multiple primary sources
+- **Used For**: Quick reference for franchise records and W-L data
+
+### 14. Linger & Look — Baseball Standings
+- **URL**: https://lingerandlook.com/Names/BaseballStandings.php
+- **Coverage**: 1901–present
+- **Key Data**: Year-by-year standings with managers and subtotals
+- **Verified By**: Consistent with Baseball-Reference standings
+- **Used For**: Supplementary standings with managerial context
+
+### 15. Retrosheet
+- **URL**: https://www.retrosheet.org/
+- **Coverage**: 1871–present
+- **Key Data**: Box scores, team records, play-by-play data; downloadable CSVs for team stats
+- **Verified By**: Gold standard for historical baseball data
+- **Used For**: Play-by-play data, team statistics (batting/pitching/fielding)
+- **CSVs**: https://www.retrosheet.org/downloads/othercsvs.html
+
+### 16. Project Ballpark
+- **URL**: https://www.projectballpark.org/
+- **Coverage**: 1876–present
+- **Key Data**: Historical ballpark attendance and demographics
+- **Verified By**: Academic research project
+- **Used For**: Contextual analysis of franchise attendance and fan base
+
+### 17. Surprise Sports Champions
+- **URL**: https://surprisesports.com/baseball/mlb-champions-list/
+- **Coverage**: 1903–2025
+- **Key Data**: Complete World Series champions list with era analysis
+- **Verified By**: Independent recap with results
+- **Used For**: Championship timeline and WS results
+
+### 18. BetIQ / TeamRankings
+- **URL**: https://betiq.teamrankings.com/mlb/betting-trends/win-loss-records/
+- **Coverage**: 1876–present
+- **Key Data**: Every team's S/U W-L record with MOV and run-line data
+- **Verified By**: Betting analytics platform
+- **Used For**: Modern W-L trend data, betting context
+
+### 19. OpenIntro MLB Dataset
+- **URL**: https://openintro.org/data
+- **Coverage**: Multi-year MLB data
+- **Key Data**: ML-ready MLB team data in R format
+- **Verified By**: OpenIntro Statistics initiative
+- **Used For**: Data science / ML pipelines with MLB data
 
 ---
 
@@ -134,4 +177,4 @@ Below is a comprehensive catalog of all research sources used to compile the his
 
 ---
 
-*Last Updated: July 2025*
+*Last Updated: July 2026*
