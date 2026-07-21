@@ -69,3 +69,83 @@ year,pennant_winner,ws_opponent,ws_result,ws_yr,regular_season_wins,regular_seas
 1943,St. Louis Cardinals,New York Yankees (AL),Won,1943,105,49
 1944,St. Louis Cardinals,St. Louis Browns (AL),Won,1944,105,49
 1945,Detroit Tigers (AL),Chicago Cubs,Lost,1945,88,65
+1946,St. Louis Cardinals,Boston Red Sox (AL),Won,1946,105,49
+1947,Brooklyn Dodgers,New York Yankees (AL),Lost,1947,94,60
+1948,Boston Braves,Cleveland Indians (AL),Lost,1948,91,62
+1949,Boston Braves,New York Yankees (AL),Lost,1949,96,58
+1950,Boston Braves,New York Yankees (AL),Lost,1950,96,58
+1951,New York Giants,New York Yankees (AL),Lost,1951,98,59
+1952,Brooklyn Dodgers,New York Yankees (AL),Lost,1952,96,57
+1953,Brooklyn Dodgers,New York Yankees (AL),Lost,1953,105,49
+1954,New York Giants,Cleveland Indians (AL),Won,1954,97,57
+1955,Brooklyn Dodgers,New York Yankees (AL),Won,1955,98,55
+1956,Brooklyn Dodgers,New York Yankees (AL),Lost,1956,93,61
+1957,Milwaukee Braves,New York Yankees (AL),Lost,1957,95,59
+1958,Milwaukee Braves,New York Yankees (AL),Lost,1958,92,62
+1959,Los Angeles Dodgers,Chicago White Sox (AL),Lost,1959,88,66
+1960,Pittsburgh Pirates,New York Yankees (AL),Won,1960,95,59
+1961,Cincinnati Reds,New York Yankees (AL),Lost,1961,93,61
+1962,San Francisco Giants,New York Yankees (AL),Lost,1962,103,57
+1963,Los Angeles Dodgers,New York Yankees (AL),Won,1963,99,63
+1964,St. Louis Cardinals,New York Yankees (AL),Lost,1964,93,69
+1965,Los Angeles Dodgers,Baltimore Orioles (AL),Won,1965,97,65
+1966,Los Angeles Dodgers,Baltimore Orioles (AL),Lost,1966,95,67
+1967,St. Louis Cardinals,Boston Red Sox (AL),Lost,1967,101,60
+1968,St. Louis Cardinals,Boston Red Sox (AL),Lost,1968,97,65
+1969,New York Mets,Baltimore Orioles (AL),Won,1969,100,62
+1970,Pittsburgh Pirates,Baltimore Orioles (AL),Lost,1970,89,73
+1971,Pittsburgh Pirates,Baltimore Orioles (AL),Won,1971,97,65
+1972,Cincinnati Reds,Oakland Athletics (AL),Lost,1972,95,59
+1973,New York Mets,Oakland Athletics (AL),Lost,1973,82,79
+1974,Pittsburgh Pirates,Oakland Athletics (AL),Lost,1974,88,74
+1975,Cincinnati Reds,Boston Red Sox (AL),Won,1975,108,54
+1976,Cincinnati Reds,New York Yankees (AL),Won,1976,102,60
+1977,Philadelphia Phillies,Boston Red Sox (AL),Lost,1977,101,61
+1978,Pittsburgh Pirates,Boston Yankees (AL),Lost,1978,88,73
+1979,Pittsburgh Pirates,Baltimore Orioles (AL),Won,1979,98,64
+1980,Philadelphia Phillies,Kansas City Royals (AL),Lost,1980,91,71
+1981,Los Angeles Dodgers,New York Yankees (AL),Won,1981,63,47
+1982,St. Louis Cards,Milwaukee Brewers (AL),Lost,1982,95,67
+1983,Philadelphia Phillies,Baltimore Orioles (AL),Lost,1983,90,72
+1984,Chicago Cubs,Detroit Tigers (AL),Lost,1984,96,65
+1985,St. Louis Cardinals,Kansas City Royals (AL),Lost,1985,101,61
+1986,New York Mets,Boston Red Sox (AL),Won,1986,108,54
+1987,St. Louis Cardinals,Minnesota Twins (AL),Lost,1987,95,67
+1988,Los Angeles Dodgers,Oakland Athletics (AL),Lost,1988,94,67
+1989,Chicago Cubs,Oakland Athletics (AL),Lost,1989,93,69
+1990,Cincinnati Reds,Oakland Athletics (AL),Won,1990,91,71
+1991,Atlanta Braves,Minnesota Twins (AL),Lost,1991,94,68
+1992,Atlanta Braves,Toronto Blue Jays (AL),Lost,1992,98,64
+1993,Philadelphia Phillies,Toronto Blue Jays (AL),Lost,1993,97,65
+1994,—,—,—,—,StrikeEnded,—
+1995,Atlanta Braves,Cleveland Indians (AL),Won,1995,90,54
+1996,Atlanta Braves,New York Yankees (AL),Lost,1996,96,66
+1997,Florida Marlins,Cleveland Indians (AL),Won,1997,92,70
+1998,Atlanta Braves,New York Yankees (AL),Lost,1998,106,56
+1999,Atlanta Braves,New York Yankees (AL),Lost,1999,103,59
+2000,St. Louis Cardinals,New York Yankees (AL),Lost,2000,95,67
+2001,Arizona Diamondbacks,New York Yankees (AL),Won,2001,92,70
+2002,St. Louis Cardinals,Angels (AL),Lost,2002,97,65
+2003,Florida Marlins,New York Yankees (AL),Won,2003,91,71
+2004,St. Louis Cardinals,Boston Red Sox (AL),Lost,2004,105,57
+2005,St. Louis Cardinals,Chicago White Sox (AL),Lost,2005,100,62
+2006,St. Louis Cardinals,Detroit Tigers (AL),Won,2006,83,78
+2007,Colorado Rockies,Boston Red Sox (AL),Lost,2007,90,73
+2008,Philadelphia Phillies,Tampa Bay Rays (AL),Won,2008,92,70
+2009,Philadelphia Phillies,New York Yankees (AL),Lost,2009,93,69
+2010,San Francisco Giants,Texas Rangers (AL),Won,2010,92,70
+2011,St. Louis Cardinals,Texas Rangers (AL),Won,2011,90,72
+2012,San Francisco Giants,Detroit Tigers (AL),Won,2012,94,68
+2013,St. Louis Cardinals,Boston Red Sox (AL),Lost,2013,97,65
+2014,San Francisco Giants,Kansas City Royals (AL),Won,2014,90,72
+2015,St. Louis Cardinals,Kansas City Royals (AL),Lost,2015,100,62
+2016,Chicago Cubs,Cleveland Indians (AL),Won,2016,103,58
+2017,Los Angeles Dodgers,Houston Astros (AL),Lost,2017,104,58
+2018,Los Angeles Dodgers,Boston Red Sox (AL),Lost,2018,92,71
+2019,Washington Nationals,Houston Astros (AL),Won,2019,93,69
+2020,Los Angeles Dodgers,Tampa Bay Rays (AL),Won,2020,43,17
+2021,Atlanta Braves,Houston Astros (AL),Won,2021,88,73
+2022,St. Louis Cardinals,Houston Astros (AL),Lost,2022,93,69
+2023,Atlanta Braves,Texas Rangers (AL),Lost,2023,104,58
+2024,Los Angeles Dodgers,New York Yankees (AL),Won,2024,98,64
+2025,Los Angeles Dodgers,Toronto Blue Jays (AL),Won,2025,95,67
