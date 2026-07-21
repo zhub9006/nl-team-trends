@@ -1,0 +1,151 @@
+Year,NL_Champion,Champion_W,Champion_L,Champion_WPct,Runner_Up,Runner_Up_W,Runner_Up_L,Runner_Up_WPct,WS_Champion,WS_Result,Games,ERA
+1876,Chicago White Stockings,52,14,0.788,Hartford Dark Blues,47,21,0.691,,NL won (no WS),76,1870s
+1877,Brooklyn Hartfords,42,23,0.646,Chicago White Stockings,30,16,0.652,,NL won (no WS),68,1870s
+1878,Boston Red Caps,41,19,0.683,Cincinnati Reds,37,23,0.617,,NL won (no WS),68,1870s
+1879,Providence Grays,59,25,0.702,Boston Red Caps,54,28,0.659,,NL won (no WS),84,1870s
+1880,Chicago White Stockings,67,17,0.798,Providence Grays,52,20,0.722,,NL won (no WS),84,1880s
+1881,Chicago White Stockings,56,28,0.667,Providence Grays,47,27,0.635,,NL won (no WS),84,1880s
+1882,Providence Grays,52,20,0.722,St. Louis Brown Stockings,37,43,0.463,,NL won (no WS),84,1880s
+1883,Providence Grays,58,29,0.667,Boston Beaneaters,70,42,0.625,,NL won (no WS),98,1880s
+1884,Providence Grays,84,28,0.750,New York Metropolitans,75,32,0.701,,NL won (no WS),112,1880s
+1885,Chicago White Stockings,87,25,0.777,New York Metropolitans,85,27,0.759,,NL won (no WS),116,1880s
+1886,Chicago White Stockings,90,34,0.726,Detroit Wolverines,85,38,0.689,,NL won (no WS),124,1880s
+1887,Detroit Wolverines,79,45,0.637,St. Louis Louis Browns,95,40,0.704,,NL won (no WS),126,1880s
+1888,New York Giants,84,47,0.641,Baltimore Orioles,85,38,0.689,,NL won (no WS),134,1880s
+1889,Brooklyn Bridegrooms,93,44,0.679,St. Louis Browns,90,50,0.643,,NL won (no WS),136,1880s
+1890,Boston Beaneaters,86,43,0.667,Brooklyn Bridegrooms,86,43,0.667,,NL won (no WS),136,1880s
+1891,Boston Beaneaters,87,51,0.630,Chicago Colts,82,53,0.606,,NL won (no WS),138,1890s
+1892,Boston Beaneaters (split),86,44,0.662,Cleveland Spiders (split),93,56,0.624,,NL won (no WS),150,1890s
+1893,Boston Beaneaters,86,43,0.667,Pittsburgh Pirates,72,60,0.545,,NL won (no WS),130,1890s
+1894,Baltimore Orioles,89,39,0.693,New York Giants,88,44,0.667,,NL won (no WS),128,1890s
+1895,Baltimore Orioles,87,31,0.737,Cleveland Spiders,81,40,0.669,,NL won (no WS),130,1890s
+1896,Baltimore Orioles,90,39,0.699,Brooklyn Superbas,89,44,0.669,,NL won (no WS),129,1890s
+1897,Boston Beaneaters,93,39,0.705, Baltimore Superbas,89,44,0.669,,NL won (no WS),129,1890s
+1898,Boston Beaneaters,102,47,0.685,Cleveland Spiders,81,40,0.669,,NL won (no WS),154,1890s
+1899,Baltimore Orioles,102,48,0.680,Brooklyn Superbas,101,47,0.685,,NL won (no WS),154,1890s
+1900,Brooklyn Superbas,82,54,0.603,,NL won (no WS),134,1900s
+1901,Pittsburgh Pirates,90,49,0.647,,NL won (no WS),138,1900s
+1902,Pittsburgh Pirates,103,36,0.741,,NL won (no WS),138,1900s
+1903,New York Giants,95,57,0.625,Pittsburgh Pirates,91,49,0.650,Boston Americans (AL),NL lost WS 4-1,142,1900s
+1904,New York Giants,106,47,0.691,,NL won (no WS — declined),153,1900s
+1905,New York Giants,105,48,0.688,Pittsburgh Pirates,96,57,0.629,New York Giants,NL won WS 4-1,153,1900s
+1906,Chicago Cubs,116,36,0.763,New York Giants,108,47,0.696,Chicago White Sox (AL),NL lost WS 4-2,154,1900s
+1907,Chicago Cubs,107,45,0.704,Pittsburgh Pirates,91,63,0.591,Chicago Cubs,NL won WS 4-0,154,1900s
+1908,Chicago Cubs,99,55,0.643,Pittsburgh Pirates,98,56,0.638,Chicago Cubs,NL won WS 4-1,154,1900s
+1909,Pittsburgh Pirates,110,42,0.724,Chicago Cubs,104,49,0.680,Pittsburgh Pirates,NL won WS 4-3,154,1900s
+1910,Chicago Cubs,104,50,0.675,,NL won (no WS),154,1910s
+1911,New York Giants,99,54,0.647,,NL won (no WS),154,1910s
+1912,New York Giants,103,48,0.682,,NL won (no WS),154,1910s
+1913,New York Giants,101,49,0.673,,NL won (no WS),154,1910s
+1914,Boston Braves,94,59,0.613,New York Giants,84,70,0.545,Boston Braves,NL won WS 4-0,153,1910s
+1915,Pittsburgh Pirates,93,58,0.616,,NL won (no WS),138,1910s
+1916,Brooklyn Robins,94,60,0.610,,NL won (no WS),154,1910s
+1917,New York Giants,98,56,0.636,,NL won (no WS),153,1910s
+1918,Chicago Cubs,84,45,0.651,,NL won (no WS),130,1910s
+1919,Cincinnati Reds,96,44,0.686,,NL won (no WS),140,1910s
+1920,Brooklyn Robins,93,61,0.604,,NL won (no WS),154,1920s
+1921,New York Giants,94,59,0.614,,NL won (no WS),153,1920s
+1922,New York Giants,93,61,0.604,,NL won (no WS),153,1920s
+1923,New York Giants,95,58,0.617,,NL won (no WS),154,1920s
+1924,New York Giants,93,60,0.608,,NL won (no WS),155,1920s
+1925,Pittsburgh Pirates,95,58,0.621,,NL won (no WS),154,1920s
+1926,St. Louis Cardinals,89,65,0.579,,NL won (no WS — lost WS to Yanks),154,1920s
+1927,Chicago Cubs,98,54,0.645,,NL won (no WS),154,1920s
+1928,St. Louis Cardinals,95,59,0.617,,NL won (no WS),154,1920s
+1929,Chicago Cubs,98,54,0.645,,NL won (no WS),154,1920s
+1930,St. Louis Cardinals,92,62,0.597,,NL won (no WS),154,1930s
+1931,St. Louis Cardinals,103,48,0.684,,NL won (no WS — won WS),154,1930s
+1932,Chicago Cubs,90,64,0.584,,NL won (no WS),154,1930s
+1933,New York Giants,91,61,0.599,,NL won (no WS — won WS),154,1930s
+1934,St. Louis Cardinals,95,58,0.619,,NL won (no WS — won WS),154,1930s
+1935,Chicago Cubs,100,54,0.649,,NL won (no WS),154,1930s
+1936,New York Giants,92,62,0.597,,NL won (no WS),154,1930s
+1937,New York Giants,95,57,0.625,,NL won (no WS),154,1930s
+1938,Chicago Cubs,89,63,0.586,,NL won (no WS),154,1930s
+1939,Cincinnati Reds,97,57,0.630,,NL won (no WS — won WS),154,1930s
+1940,Cincinnati Reds,100,53,0.654,,NL won (no WS — won WS),154,1940s
+1941,Brooklyn Dodgers,100,54,0.649,,NL won (no WS),154,1940s
+1942,St. Louis Cardinals,106,48,0.688,,NL won (no WS — won WS),154,1940s
+1943,St. Louis Cardinals,105,49,0.682,,NL won (no WS — won WS),154,1940s
+1944,St. Louis Cardinals,105,49,0.682,,NL won (no WS — won WS vs Browns AL),154,1940s
+1945,Chicago Cubs,98,56,0.636,,NL won (no WS - lost WS to Tigers),154,1940s
+1946,St. Louis Cardinals,98,56,0.636,,NL won (no WS — won WS),154,1940s
+1947,Brooklyn Dodgers,94,60,0.610,,NL won (no WS),155,1940s
+1948,Boston Braves,91,62,0.595,,NL won (no WS),154,1940s
+1949,Brooklyn Dodgers,97,67,0.591,,NL won (no WS),164,1940s
+1950,Philadelphia Phillies,91,63,0.591,,NL won (no WS),148,1950s
+1951,New York Giants,98,59,0.622,,NL won (no WS — won WS),157,1950s
+1952,Brooklyn Dodgers,96,57,0.627,,NL won (no WS),153,1950s
+1953,Brooklyn Dodgers,105,49,0.682,,NL won (no WS),154,1950s
+1954,New York Giants,97,57,0.630,,NL won (no WS — won WS),154,1950s
+1955,Brooklyn Dodgers,98,55,0.641,,NL won (no WS — won WS),153,1950s
+1956,Brooklyn Dodgers,93,61,0.604,,NL won (no WS),154,1950s
+1957,Milwaukee Braves,88,66,0.571,,NL won (no WS),154,1950s
+1958,Brooklyn Dodgers,84,70,0.545,,NL won (no WS),154,1950s
+1959,LA Dodgers,88,68,0.564,,NL won (no WS — won WS),154,1950s
+1960,Pittsburgh Pirates,95,59,0.614,,NL won (no WS — won WS),154,1960s
+1961,Cincinnati Reds,93,61,0.604,,NL won (no WS — won WS),162,1960s
+1962,San Francisco Giants,103,57,0.648,,NL won (no WS),164,1960s
+1963,LA Dodgers,99,63,0.611,,NL won (no WS — won WS),164,1960s
+1964,St. Louis Cardinals,93,69,0.574,,NL won (no WS — won WS),164,1960s
+1965,LA Dodgers,97,65,0.599,,NL won (no WS — won WS),164,1960s
+1966,LA Dodgers,95,67,0.587,,NL won (no WS),164,1960s
+1967,St. Louis Cardinals,101,60,0.627,,NL won (no WS — won WS),164,1960s
+1968,St. Louis Cardinals,97,65,0.599,,NL won (no WS),164,1960s
+1969,New York Mets,100,62,0.617,,NL won (no WS — won WS),164,1960s
+1970,Cincinnati Reds,102,60,0.630,,NL won (no WS),162,1970s
+1971,Pittsburgh Pirates,97,65,0.599,,NL won (no WS — won WS),162,1970s
+1972,Cincinnati Reds,95,59,0.617,,NL won (no WS),157,1970s
+1973,New York Mets,82,79,0.509,,NL won (no WS),162,1970s
+1974,Pittsburgh Pirates,88,74,0.543,,NL won (no WS),162,1970s
+1975,Cincinnati Reds,108,54,0.667,,NL won (no WS — won WS),162,1970s
+1976,Cincinnati Reds,102,60,0.630,,NL won (no WS — won WS),162,1970s
+1977,Philadelphia Phillies,101,61,0.623,,NL won (no WS),162,1970s
+1978,Pittsburgh Pirates,88,73,0.547,,NL won (no WS),163,1970s
+1979,Pittsburgh Pirates,98,64,0.605,,NL won (no WS — won WS),163,1970s
+1980,Philadelphia Phillies,91,71,0.562,,NL won (no WS — won WS),163,1970s
+1981,Montreal Expos,63,47,0.571,,NL won (no WS — lost WS to Dodgers),56,1980s
+1982,St. Louis Cardinals,92,70,0.568,,NL won (no WS — won WS),163,1980s
+1983,Philadelphia Phillies,90,72,0.556,,NL won (no WS),162,1980s
+1984,Chicago Cubs,96,65,0.596,,NL won (no WS),163,1980s
+1985,St. Louis Cardinals,101,61,0.623,,NL won (no WS),163,1980s
+1986,New York Mets,108,54,0.667,,NL won (no WS — won WS),162,1980s
+1987,St. Louis Cardinals,95,67,0.586,,NL won (no WS),163,1980s
+1988,LA Dodgers,94,67,0.584,,NL won (no WS — won WS),163,1980s
+1989,Chicago Cubs,93,69,0.574,,NL won (no WS),163,1980s
+1990,Cincinnati Reds,91,71,0.562,,NL won (no WS — won WS),162,1990s
+1991,Atlanta Braves,94,68,0.580,,NL won (no WS),162,1990s
+1992,Atlanta Braves,98,64,0.605,,NL won (no WS),162,1990s
+1993,Philadelphia Phillies,97,65,0.599,,NL won (no WS),162,1990s
+1994,None (strike),—,—,—,None,—,—,—,None,No WS (strike),—,1990s
+1995,Atlanta Braves,90,54,0.625,,NL won (no WS — won WS),144,1990s
+1996,Atlanta Braves,96,66,0.593,,NL won (no WS),162,1990s
+1997,Florida Marlins,92,70,0.568,,NL won (no WS — won WS),162,1990s
+1998,San Diego Padres,98,64,0.605,,NL won (no WS),163,1990s
+1999,Atlanta Braves,103,59,0.636,,NL won (no WS),162,1990s
+2000,New York Mets,94,68,0.580,,NL won (no WS),163,2000s
+2001,Arizona Diamondbacks,92,70,0.568,,NL won (no WS — won WS),163,2000s
+2002,St. Louis Cardinals,97,65,0.599,,NL won (no WS),163,2000s
+2003,Florida Marlins,91,71,0.562,,NL won (no WS — won WS),162,2000s
+2004,St. Louis Cardinals,105,57,0.648,,NL won (no WS),162,2000s
+2005,St. Louis Cardinals,100,62,0.617,,NL won (no WS),162,2000s
+2006,St. Louis Cardinals,83,78,0.516,,NL won (no WS — won WS),161,2000s
+2007,Colorado Rockies,90,73,0.552,,NL won (no WS),163,2000s
+2008,Philadelphia Phillies,92,70,0.568,,NL won (no WS — won WS),163,2000s
+2009,Philadelphia Phillies,93,69,0.574,,NL won (no WS),163,2000s
+2010,Philadelphia Phillies,97,65,0.599,,NL won (no WS),162,2010s
+2011,St. Louis Cardinals,90,72,0.556,,NL won (no WS — won WS),162,2010s
+2012,San Francisco Giants,94,68,0.580,,NL won (no WS),163,2010s
+2013,St. Louis Cardinals,97,65,0.599,,NL won (no WS),162,2010s
+2014,Washington Nationals,96,66,0.593,,NL won (no WS),162,2010s
+2015,St. Louis Cardinals,100,62,0.617,,NL won (no WS),162,2010s
+2016,Chicago Cubs,103,58,0.640,,NL won (no WS — won WS),162,2010s
+2017,LA Dodgers,104,58,0.642,,NL won (no WS),162,2010s
+2018,LA Dodgers,92,71,0.564,,NL won (no WS),162,2010s
+2019,LA Dodgers,106,56,0.654,,NL won (no WS),162,2010s
+2020,Los Angeles Dodgers,43,17,0.717,,NL won (no WS),60,2020s
+2021,Atlanta Braves,88,73,0.547,,NL won (no WS — won WS),162,2020s
+2022,St. Louis Cardinals (Wild Card),93,69,0.574,,NL won (no WS),162,2020s
+2023,Atlanta Braves,104,58,0.641,,NL won (no WS),162,2020s
+2024,Los Angeles Dodgers,98,64,0.605,,NL won (no WS — won WS),162,2020s
+2025,Los Angeles Dodgers,96,66,0.593,,NL won (no WS — won WS),162,2020s
