@@ -1,34 +1,25 @@
-# Charts Directory
+# Charts & Static Visualizations
 
-Output directory for generated visualization charts.
+This directory will contain static chart images and saved visualization outputs.
 
-## Naming Convention
+## Planned Visualizations
 
-`charts/<year>-<chart_type>_<descriptor>.png`
-
-## Examples
-
-- `2025-pentant_winners_by_franchise.png`
-- `2025-162_game_win_pct_comparison.png`
-- `2025-championship_drought_timeline.png`
-- `2025-h2h_w_l_heatmap.png`
-
-## Generating Charts
-
-```bash
-pip install -r requirements.txt
-python scripts/data_loader.py
-```
+### Common Output Formats
+- `.png` — Static images for use in README and docs
+- `.svg` — Scalable vector graphics for web and print
+- `.pdf` — Print-ready charts
 
 ## Planned Chart Types
 
-| Chart | Description | Data Source |
-|-------|-------------|-------------|
-| Pennant Winners by Franchise | Bar chart of pennant titles per team | nl_pennant_winners.csv |
-| 162-Game Win% Comparison | Top 10 teams by win% | nl_all_time_records.csv |
-| Championship Drought Timeline | Years since last WS title | nl_all_time_records.csv |
-| H2H W-L Heatmap | 15×15 team-vs-team matrix | nl_team_vs_team_summary.csv |
-| NL West Dominance | Dodgers' consecutive titles | nl_recent_standings.csv |
-| Era-Based Win% Comparison | Grouped bar by era | nl_pennant_winners.csv |
-| Run Differential Over Time | Year-by-year run differential | nl_recent_standings.csv |
-| Division Dominance | Stacked area by division | nl_recent_standings.csv |
+1. **NL Win% Trends Line Chart** — `charts/nl_win_pct_trends.png`
+2. **Championship Treemap** — `charts/championship_treemap.png`
+3. **H2H Heatmap** — `charts/h2h_heatmap.png`
+4. **Dynasty Timeline Gantt Chart** — `charts/dynasty_timeline.png`
+5. **WS Title Distribution Bar Chart** — `charts/ws_titles_bar.png`
+6. **Division Dominance Heatmap** — `charts/division_dominance.png`
+7. **Win% Distribution Box Plot** — `charts/win_pct_boxplot.png`
+8. **Interleague Win Ratio Line Chart** — `charts/interleague_ratio.png`
+
+## Generating Charts
+
+Use the example scripts in `notebooks/` or standalone scripts in `scripts/` to generate chart outputs and save them here.

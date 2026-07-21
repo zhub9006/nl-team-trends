@@ -1,44 +1,45 @@
-# NL Team Trends — Analysis Notebooks
+# Analysis Notebooks
 
-This directory contains Jupyter Notebooks for exploring and visualizing National League team performance data.
+This directory contains Jupyter notebooks for analysis and visualization of NL team trends data.
 
-## Available Notebooks
+## Planned / Available Notebooks
 
 | Notebook | Description |
 |----------|-------------|
-| `01_eda_nl_standings.ipynb` | Exploratory data analysis of NL season-by-season standings |
-| `02_championship_trends.ipynb` | Championship and dynasty analysis by era |
-| `03_h2h_rivalries.ipynb` | Head-to-head rivalry heatmaps and trend lines |
-| `04_franchise_comparison.ipynb` | Franchise win-loss comparison across eras |
-| `05_win_pct_evolution.ipynb` | Win percentage evolution over time by division |
+| `01_eda_nl_standings.ipynb` | Exploratory Data Analysis of NL seasonal standings (1876-2025) |
+| `02_championship_trends.ipynb` | Championship heatmaps, dynasty timelines, eras analysis |
+| `03_h2h_rivalries.ipynb` | Head-to-head rivalry visualizations and matrices |
+| `04_win_percentage_trends.ipynb` | Win% distribution by era, team rankings, and cross-era comparisons |
+| `05_dynamic_dashboards.ipynb` | Interactive Plotly/Streamlit dashboards |
 
-## Quick Start
+## Setup
 
-1. Install dependencies:
-   ```bash
-   pip install -r ../requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+jupyter notebook
+```
 
-2. Launch Jupyter:
-   ```bash
-   jupyter notebook
-   ```
+## Data Loading Template
 
-3. Open a notebook and follow the guided analysis steps.
+```python
+import pandas as pd
 
-## Data Files Used
+# Load all-time records
+records = pd.read_csv('data/nl_all_time_records.csv')
 
-All notebooks use CSV files from the `data/` directory:
-- `nl_historical_performance.csv` — Season-by-season standings
-- `nl_all_time_records.csv` — Franchise records
-- `nl_championship_trends.csv` — Era highlights
-- `nl_team_vs_team_summary.csv` — H2H matrices
-- `nl_recent_standings.csv` — Recent divisional data
+# Load pennant winners
+pennants = pd.read_csv('data/nl_pennant_winners.csv')
 
-## Suggested Workflow
+# Load seasonal standings
+seasonal = pd.read_csv('data/nl_seasonal_standings.csv')
 
-1. **Load & clean** → Read CSV, handle era-specific schedule lengths
-2. **Explore** → Summary stats, distributions, missing data
-3. **Visualize** → Line charts (trends), heatmaps (H2H), bar charts (comparisons)
-4. **Analyze** → Dynasty detection, drought analysis, era comparisons
-5. **Conclude** → Key takeaways and hypotheses for further research
+# Load H2H rivalries
+h2h = pd.read_csv('data/nl_h2h_rivalries_detailed.csv')
+
+# Load recent standings
+recent = pd.read_csv('data/nl_recent_standings.csv')
+
+print(f"Records loaded: {len(records)} teams")
+print(f"Pennant data: {len(pennants)} seasons")
+print(f"Seasonal data: {len(seasonal)} team-seasons")
+```
