@@ -1,151 +1,150 @@
-year,pennant_winner,ws_champion,league_record,notes
-1876,Chicago,Chicago White Stockings,52-14,First NL season; Chicago dominated
-1877,Boston,Boston Red Caps,42-18,
-1878,Boston,Boston Red Caps,41-19,
-1879,Providence,Providence,59-25,
-1880,Chicago,Chicago White Stockings,67-17,
-1881,Chicago,Chicago White Stockings,56-28,
-1882,Providence,Providence,52-32,
-1883,Philadelphia,Providence,58-40,
-1884,Providence,Providence,84-28,
-1885,Chicago,Chicago White Stockings,87-25,
-1886,Chicago,Chicago White Stockings,90-34,
-1887,Detroit,Detroit,79-45,
-1888,Chicago,New York,92-43,
-1889,New York,New York,100-44,
-1890,Brooklyn,Boston,82-44,
-1891,Boston,WC Boston,87-51,
-1892,Chicago,Chicago,102-48,
-1893,Pittsburgh,Pittsburgh,81-48,
-1894,Baltimore,Baltimore,88-39,
-1895,Baltimore,Baltimore,87-43,
-1896,Baltimore,Baltimore,90-39,
-1897,Boston,Boston,93-42,
-1898,Boston,Boston,102-47,
-1899,Boston,Brooklyn,101-47,
-1900,Brooklyn,Brooklyn,82-54,
-1901,Philadelphia,Philadelphia,91-58,
-1902,Pittsburgh,Pittsburgh,103-36,
-1903,Boston BU,Boston,91-47,
-1904,NY Giants (no WS),NY Giants,94-59,(no World Series held)
-1905,NY Giants,NY Giants,105-48,
-1906,Chicago,Chicago,116-36,
-1907,Chicago,Chicago,107-45,
-1908,Chicago,Chicago,99-55,
-1909,Pittsburgh,Pittsburgh,110-42,
-1910,Phil,Phil,91-62,
-1911,NJ Giants,NJ Giants,99-54,
-1912,NJ Giants,NJ Giants,93-48,
-1913,NJ Giants,NJ Giants,91-49,
-1914,Boston Bows,Boston,94-59,
-1915,Phil,Phil,91-62,
-1916,Phil,Phil,91-62,
-1917,NY Giants,NY Giants,98-56,
-1918,CH Cubs (no WS),CH Cubs,84-45,
-1919,Cincinnati,Cincinnati,96-44,
-1920,Brooklyn,Brooklyn,93-61,
-1921,NY Giants,NY Giants,94-59,
-1922,NY Giants,NY Giants,93-61,
-1923,NY Giants,NY Yankees,91-63,
-1924,Washington,Washington,92-62,
-1925,Pittsburgh,Pittsburgh,95-58,
-1926,St. Louis,St. Louis,89-65,
-1927,NY Giants,NY Yankees,92-62,
-1928,NY Giants,NY Yankees,93-61,
-1929,Chicago,Philadelphia,98-54,
-1930,St. Louis,Philadelphia,101-53,
-1931,St. Louis,St. Louis,101-53,
-1932,CH Cubs,NY Yankees,90-64,
-1933,NY Giants,Washington,91-61,
-1934,St. Louis,St. Louis,95-58,
-1935,CH Cubs,CH Cubs,100-54,
-1936,NY Giants,NY Giants,92-62,
-1937,NY Giants,NY Yankees,95-57,
-1938,Chicago,NY Yankees,89-63,
-1939,NY Giants,Cincinnati,90-59,
-1940,Cincinnati,Cincinnati,100-53,
-1941,Brooklyn,Brooklyn,100-54,
-1942,St. Louis,St. Louis,106-48,
-1943,St. Louis,St. Louis,105-49,
-1944,St. Louis,St. Louis,105-49,
-1945,CH Cubs,Detroit,98-56,
-1946,St. Louis,St. Louis,98-56,
-1947,Brooklyn,NY Yankees,94-60,
-1948,Boston,Boston,96-59,
-1949,Brooklyn,Dodgers,97-57,
-1950,Phil,Phil,91-63,
-1951,NY Giants,NY Yankees,98-59,
-1952,Dodgers,NY Yankees,96-57,
-1953,Dodgers,Dodgers,100-54,
-1954,NY Giants,NY Giants,97-57,
-1955,Brooklyn,Brooklyn,98-55,
-1956,Dodgers,Dodgers,95-61
-1957,Milwaukee,Milwaukee,95-59,
-1958,Milwaukee,Milwaukee,92-62,
-1959,Los Angeles,Los Angeles,88-66,
-1960,Pittsburgh,Pittsburgh,95-59,
-1961,Cincinnati,Cincinnati,93-61,
-1962,SFG Giants,NY Yankees,103-62,
-1963,Los Angeles,Los Angeles,99-63,
-1964,STL Cardinals,STL Cardinals,93-69,
-1965,LA Dodgers,LA Dodgers,97-65,
-1966,LA Dodgers,LA Dodgers,95-67,
-1967,STL Cardinals,STL Cardinals,101-60,
-1968,STL Cardinals,STL Cardinals,97-65,
-1969,NY Mets,NY Mets,100-62,
-1970,Cincinnati,Cincinnati,102-60,
-1971,Pittsburgh,Pittsburgh,97-65,
-1972,Cincinnati,Cincinnati,95-59,
-1973,NY Mets,Oakland,82-79,
-1974,Pittsburgh,Pittsburgh,88-74,
-1975,Cincinnati,Cincinnati,108-54,
-1976,Cincinnati,Cincinnati,102-60,
-1977,LA Dodgers,NY Yankees,98-64,
-1978,LA Dodgers,NY Yankees,98-63,
-1979,Pittsburgh,Pittsburgh,98-64,
-1980,Philadelphia,Philadelphia,91-71,
-1981,Montreal,LA Dodgers,36-21 (split),
-1982,St. Louis,St. Louis,92-70,
-1983,Philadelphia,Philadelphia,90-72,
-1984,Chicago Cubs,Detroit,96-65,
-1985,MO Cardinals,MO Cardinals,101-61,
-1986,NY Mets,NY Mets,108-54,
-1987,MO Cardinals,Minnesota,95-67,
-1988,Los Angeles,Los Angeles,94-67,
-1989,SF Giants,Oakland,92-70,
-1990,Cincinnati,Cincinnati,91-71,
-1991,ATL Braves,Minnesota,94-68,
-1992,Atlanta,Toronto,98-64,
-1993,Philadelphia,Toronto,97-65,
-1994,Cubs (strike),Cubs (strike),69-46 (strike-shortened, no WS),
-1995,ATL Braves,Atlanta,90-54,
-1996,ATL Braves,NY Yankees,96-66,
-1997,FL Marlins,Florida,92-70,
-1998,ATL Braves,New York,106-56,
-1999,ATL Braves,New York,103-59,
-2000,NY Mets,Mets/Angels,97-66,
-2001,Arizona,Arizona,92-70,
-2002,St. Louis,Angels,97-65,
-2003,FL Marlins,Florida,91-71,
-2004,St. Louis,Red Sox,105-57,
-2005,Houston,White Sox,89-73,
-2006,St. Louis,Cardinals,83-78,
-2007,AZ Diamondbacks,Red Sox,89-73,
-2008,Philadelphia,Philadelphia,92-70,
-2009,Philadelphia,Philadelphia,93-69,
-2010,San Francisco,San Francisco,92-70,
-2011,St. Louis,St. Louis,90-72,
-2012,San Francisco,San Francisco,94-68,
-2013,St. Louis,Los Angeles,97-65,
-2014,Washington,San Francisco,96-66,
-2015,CH Cubs, Kansas City, 97-65,
-2016,CH Cubs,Chicago, 103-58,
-2017,Los Angeles,Los Angeles,104-58,
-2018,CH Cubs,Red Sox,95-67,
-2019,Washington,Washington,93-69,
-2020,LA Dodgers,LA Dodgers,43-17,
-2021,ATL Braves,Houston,88-73,
-2022,Los Angeles,Houston,100-62,
-2023,Los Angeles,Los Angeles,100-62,
-2024,Los Angeles,Los Angeles,98-64,
-2025,Los Angeles,Los Angeles,
+year,era,NL_champion,ws_result,champion_record
+1876,Founding Era,Chicago White Stockings,Won WS 4–1–1,n/a
+1877,Founding Era,Boston Red Caps,Won WS 4–2–1,n/a
+1878,Founding Era,Providence Grays,Won WS 4–1,n/a
+1879,Founding Era,Providence Grays,Won WS 3–0,n/a
+1880,Founding Era,Chicago White Stockings,Won WS 4–0–1,n/a
+1881,Founding Era,Chicago White Stockings,Won WS 3–0–1,n/a
+1882,Founding Era,Chicago White Stockings,Won WS 4–0–1,n/a
+1883,Founding Era,Boston Beaneaters,Won WS 5–2–2,n/a
+1884,Founding Era,Providence Grays,Lost WS 0–3,n/a
+1885,Founding Era,Chicago White Stockings,Tied 3–3–1 vs StL,n/a
+1886,Founding Era,St. Louis Browns vs Chi (NL),StL won 4–2,n/a
+1888,Founding Era,New York Giants,Won WS 6–4,n/a
+1889,Founding Era,New York Giants,Won WS 6–3,n/a
+1890,Founding Era,Boston Beaneaters,Won WS 5–2–1,n/a
+1891,Founding Era,Boston Beaneaters,Won WS,n/a
+1892,Merger Era,Boston Beaneaters,Best record (no WS),n/a
+1893,Merger Era,Boston Beaneaters,Best record (no WS),n/a
+1894,Merger Era,Baltimore Orioles,Best record (no WS),n/a
+1895,Merger Era,Baltimore Orioles,Best record (no WS),n/a
+1896,Merger Era,Baltimore Orioles,Best record (no WS),n/a
+1897,Merger Era,Baltimore Orioles,Best record (no WS),n/a
+1898,Merger Era,Boston Beaneaters,Best record (no WS),n/a
+1899,Merger Era,Brooklyn Superbas,Best record (no WS),n/a
+1900,Merger Era,Pittsburgh Pirates,Best record (no WS),n/a
+1901,Transition Era,Philadelphia Phillies,Best record (no WS),n/a
+1902,Transition Era,Pittsburgh Pirates,Best record (no WS),n/a
+1903,Transition Era,Pittsburgh Pirates,Won WS 5–3 vs BOS AL,93–60
+1904,Transition Era,New York Giants,Declined WS,93–60
+1905,Transition Era,New York Giants,Won WS 4–1 vs PHI AL,105–47
+1906,Transition Era,Chicago Cubs,Won WS 2–1 vs CHI AL,116–36
+1907,Transition Era,Chicago Cubs,Won WS 4–0 vs DET AL,107–45
+1908,Transition Era,Chicago Cubs,Won WS 4–1 vs DET AL,99–55
+1909,Transition Era,Pittsburgh Pirates,Won WS 4–3 vs DET AL,110–42
+1910,Transition Era,Chicago Cubs,Lost WS 1–4 vs PHI AL,104–50
+1911,Transition Era,New York Giants,Lost WS 2–4 vs PHI AL,99–54
+1912,Transition Era,N/A,n/a,n/a
+1913,Transition Era,N/A,n/a,n/a
+1914,Transition Era,Boston Braves,Won WS 4–0 vs PHI AL,94–59
+1915,Transition Era,N/A,n/a,n/a
+1916,Transition Era,N/A,n/a,n/a
+1917,Transition Era,N/A,n/a,n/a
+1918,Transition Era,N/A,n/a,n/a
+1919,Transition Era,Cincinnati Reds,Won WS 5–3 vs CHI AL,93–61
+1920,Expansion Era,N/A,n/a,n/a
+1921,Expansion Era,New York Giants,Won WS 5–3 vs NYY AL,94–59
+1922,Expansion Era,New York Giants,Won WS 4–0–1 vs NYY AL,93–61
+1923,Expansion Era,N/A,n/a,n/a
+1924,Expansion Era,N/A,n/a,n/a
+1925,Expansion Era,Pittsburgh Pirates,Won WS 4–3 vs WAS AL,95–58
+1926,Expansion Era,St. Louis Cardinals,Won WS 4–3 vs NYY AL,89–65
+1927,Expansion Era,N/A,n/a,n/a
+1928,Expansion Era,N/A,n/a,n/a
+1929,Expansion Era,N/A,n/a,n/a
+1930,Expansion Era,N/A,n/a,n/a
+1931,Expansion Era,N/A,n/a,n/a
+1932,Expansion Era,N/A,n/a,n/a
+1933,Expansion Era,New York Giants,Won WS 4–1 vs WAS AL,91–61
+1934,Expansion Era,St. Louis Cardinals,Won WS 4–3 vs DET AL,95–58
+1935,Expansion Era,N/A,n/a,n/a
+1936,Expansion Era,N/A,n/a,n/a
+1937,Expansion Era,N/A,n/a,n/a
+1938,Expansion Era,N/A,n/a,n/a
+1939,Expansion Era,N/A,n/a,n/a
+1940,Expansion Era,N/A,n/a,n/a
+1941,Expansion Era,N/A,n/a,n/a
+1942,Expansion Era,St. Louis Cardinals,Won WS 4–1 vs NYY AL,106–48
+1943,Expansion Era,N/A,n/a,n/a
+1944,Expansion Era,St. Louis Cardinals,Won Streetcar Series 4–2 vs SLB AL,105–49
+1945,Expansion Era,N/A,n/a,n/a
+1946,Expansion Era,St. Louis Cardinals,Won WS 4–3 vs BOS AL,98–56
+1947,Expansion Era,N/A,n/a,n/a
+1948,Expansion Era,N/A,n/a,n/a
+1949,Expansion Era,N/A,n/a,n/a
+1950,Expansion Era,N/A,n/a,n/a
+1951,Expansion Era,New York Giants,Won WS 4–1–1 vs NYY AL,98–56
+1952,Expansion Era,N/A,n/a,n/a
+1953,Expansion Era,N/A,n/a,n/a
+1954,Expansion Era,New York Giants,Won WS 4–0 vs CLE AL,97–57
+1955,Expansion Era,N/A,n/a,n/a
+1956,Expansion Era,N/A,n/a,n/a
+1957,Expansion Era,N/A,n/a,n/a
+1958,Expansion Era,N/A,n/a,n/a
+1959,Expansion Era,N/A,n/a,n/a
+1960,Expansion Era,N/A,n/a,n/a
+1961,Expansion Era,N/A,n/a,n/a
+1962,Expansion Era,N/A,n/a,n/a
+1963,Expansion Era,LA Dodgers,Won WS 4–0 vs NYY AL,104–51
+1964,Expansion Era,St. Louis Cardinals,Won WS 4–3 vs NYY AL,93–69
+1965,Expansion Era,LA Dodgers,Won WS 4–3 vs MIN AL,97–65
+1966,Expansion Era,N/A,n/a,n/a
+1967,Expansion Era,St. Louis Cardinals,Won WS 4–3 vs BOS AL,101–60
+1968,Expansion Era,N/A,n/a,n/a
+1969,Expansion Era,NY Mets,Won WS 4–1 vs BAL AL,100–62
+1970,Expansion Era,N/A,n/a,n/a
+1971,Expansion Era,Pittsburgh Pirates,Won WS 4–3 vs BAL AL,97–65
+1972,Expansion Era,N/A,n/a,n/a
+1973,Expansion Era,N/A,n/a,n/a
+1974,Expansion Era,N/A,n/a,n/a
+1975,Expansion Era,Cincinnati Reds,Won WS 4–3 vs BOS AL,108–54
+1976,Expansion Era,Cincinnati Reds,Won WS 4–0 vs NYY AL,102–60
+1977,Expansion Era,N/A,n/a,n/a
+1978,Expansion Era,N/A,n/a,n/a
+1979,Expansion Era,Pittsburgh Pirates,Won WS 4–3 vs BAL AL,98–64
+1980,Expansion Era,N/A,n/a,n/a
+1981,Expansion Era,LA Dodgers,Won WS 4–2 (split season) vs NYY AL,36–21 + 27–26
+1982,Expansion Era,St. Louis Cardinals,Won WS 4–3 vs MIL AL,92–70
+1983,Expansion Era,Philadelphia Phillies,Won WS 4–1 vs BAL AL,90–72
+1984,Expansion Era,San Diego Padres,Lost WS 1–4 vs DET AL,92–70
+1985,Expansion Era,St. Louis Cardinals,Won WS 4–3 vs KC AL,101–61
+1986,Expansion Era,NY Mets,Won WS 4–3 vs BOS AL,108–54
+1987,Expansion Era,N/A,n/a,n/a
+1988,Expansion Era,LA Dodgers,Won WS 4–1 vs OAK AL,94–67
+1989,Expansion Era,N/A,n/a,n/a
+1990,Expansion Era,Cincinnati Reds,Won WS 4–0 vs OAK AL,91–71
+1991,Expansion Era,N/A,n/a,n/a
+1992,Expansion Era,N/A,n/a,n/a
+1993,Expansion Era,N/A,n/a,n/a
+1994,Expansion Era,Season cancelled by strike,No WS played,68–46 at strike
+1995,Expansion Era,N/A,n/a,n/a
+1996,Expansion Era,N/A,n/a,n/a
+1997,Expansion Era,FLA Marlins,Won WS 4–3 vs CLE AL,92–70
+1998,Expansion Era,N/A,n/a,n/a
+1999,Expansion Era,N/A,n/a,n/a
+2000,Expansion Era,N/A,n/a,n/a
+2001,Expansion Era,AZ Diamondbacks,Won WS 4–3 vs NYY AL,92–70
+2002,Expansion Era,N/A,n/a,n/a
+2003,Expansion Era,FLA Marlins,Won WS 4–2 vs NYY AL,91–71
+2004,Expansion Era,N/A,n/a,n/a
+2005,Expansion Era,N/A,n/a,n/a
+2006,Expansion Era,St. Louis Cardinals,Won WS 4–1 vs DET AL,83–78
+2007,Expansion Era,N/A,n/a,n/a
+2008,Expansion Era,Philadelphia Phillies,Lost WS 1–4 vs TB AL,92–70
+2009,Expansion Era,N/A,n/a,n/a
+2010,Expansion Era,N/A,n/a,n/a
+2011,Expansion Era,St. Louis Cardinals,Won WS 4–3 vs TEX AL,90–72
+2012,Expansion Era,SF Giants,Won WS 4–0 vs DET AL,94–68
+2013,Expansion Era,N/A,n/a,n/a
+2014,Expansion Era,SF Giants,Won WS 4–3 vs KC AL,88–74
+2015,Expansion Era,N/A,n/a,n/a
+2016,Modern Era,Chicago Cubs,Won WS 4–3 vs CLE AL,103–58
+2017,Modern Era,N/A,n/a,n/a
+2018,Modern Era,N/A,n/a,n/a
+2019,Modern Era,Wash Nationals,Lost WS 1–4 vs HOU AL,93–69
+2020,Modern Era,LA Dodgers,Won WS 4–2 vs TB AL,43–17
+2021,Modern Era,Atlanta Braves,Won WS 4–2 vs HOU AL,88–73
+2022,Modern Era,N/A,n/a,n/a
+2023,Modern Era,Atlanta Braves,Lost WS 1–4 vs TEX AL,104–58
+2024,Modern Era,LA Dodgers,Won WS 4–1 vs NYY AL,98–64
+2025,Modern Era,LA Dodgers,Won WS 4–3 vs TOR AL,96–66
