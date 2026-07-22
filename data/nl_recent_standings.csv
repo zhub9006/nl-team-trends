@@ -1,50 +1,13 @@
-year,era,NL_champion,ws_result,champion_record,Division_Winner_East,Division_Winner_Central,Division_Winner_West
-2025,Modern Era,LA Dodgers,Won WS vs TOR 4–3,96–66,Atlanta Braves,Milwaukee Brewers,LA Dodgers
-2024,Modern Era,LA Dodgers,Won WS vs NYY 4–1,98–64,Atlanta Braves,Cincinnati Reds,LA Dodgers
-2023,Modern Era,Atlanta Braves,Lost WS vs TEX 1–4,104–58,Atlanta Braves,Cincinnati Reds,LA Dodgers
-2022,Modern Era,St. Louis Cardinals,Lost WS vs HOU,93–69,Philadelphia Phillies,St. Louis Cardinals,LA Dodgers
-2021,Modern Era,Atlanta Braves,Won WS vs HOU 4–2,88–73,Atlanta Braves,St. Louis Cardinals,LA Dodgers
-2020,Modern Era,LA Dodgers,Won WS vs TB 4–2,43–17,Atlanta Braves,Chicago Cubs,LA Dodgers
-2019,Modern Era,Wash Nationals,Lost WS vs HOU,93–69,Atlanta Braves,St. Louis Cardinals,LA Dodgers
-2018,N/A,N/A,N/A,n/a,Atlanta Braves,St. Louis Cardinals,LA Dodgers
-2017,N/A,N/A,N/A,n/a,Washington Nationals,Chicago Cubs,LA Dodgers
-2016,Modern Era,Chicago Cubs,Won WS vs CLE 4–3,103–58,Washington Nationals,Chicago Cubs,LA Dodgers
-2015,N/A,N/A,N/A,n/a,Atlanta Braves,St. Louis Cardinals,LA Dodgers
-2014,Modern Era,SF Giants,Won WS vs KC 4–3,88–74,Washington Nationals,Cincinnati Reds,LA Dodgers
-2013,N/A,N/A,N/A,n/a,Atlanta Braves,Pittsburgh Pirates,LA Dodgers
-2012,Modern Era,SF Giants,Won WS vs DET 4–0,94–68,Washington Nationals,Cincinnati Reds,LA Dodgers
-2011,Modern Era,St. Louis Cardinals,Won WS vs TEX 4–3,90–72,Philadelphia Phillies,St. Louis Cardinals,LA Dodgers
-2010,N/A,N/A,N/A,n/a,Philadelphia Phillies,Cincinnati Reds,San Francisco Giants
-2009,N/A,N/A,N/A,n/a,Philadelphia Phillies,St. Louis Cardinals,LA Dodgers
-2008,Modern Era,Philadelphia Phillies,Lost WS vs TB 1–4,92–70,Philadelphia Phillies,Chicago Cubs,LA Dodgers
-2007,N/A,N/A,N/A,n/a,Philadelphia Phillies,Chicago Cubs,Coors field
-2006,Modern Era,St. Louis Cardinals,Won WS vs DET 4–1,83–78,New York Mets,St. Louis Cardinals,San Diego Padres
-2005,N/A,N/A,N/A,n/a,Atlanta Braves,St. Louis Cardinals,San Diego Padres
-2004,N/A,N/A,N/A,n/a,Atlanta Braves,St. Louis Cardinals,San Francisco Giants
-2003,Modern Era,FLA Marlins,Won WS vs NYY 4–2,91–71,Atlanta Braves,Chicago Cubs,San Francisco Giants
-2002,N/A,N/A,N/A,n/a,Atlanta Braves,Arizona Diamondbacks,San Francisco Giants
-2001,Modern Era,AZ Diamondbacks,Won WS vs NYY 4–3,92–70,Atlanta Braves,Cincinnati Reds,Arizona Diamondbacks
-2000,N/A,N/A,N/A,n/a,Atlanta Braves,Cincinnati Reds,San Francisco Giants
-1999,N/A,N/A,N/A,n/a,Atlanta Braves,Cincinnati Reds,Arizona Diamondbacks
-1998,N/A,N/A,N/A,n/a,Atlanta Braves,Cincinnati Reds,San Diego Padres
-1997,Modern Era,FLA Marlins,Won WS vs CLE 4–3,92–70,Atlanta Braves,Houston Astros,San Francisco Giants
-1996,N/A,N/A,N/A,n/a,Atlanta Braves,Broadcast first
-1995,N/A,N/A,N/A,n/a,Atlanta Braves,Cincinnati Reds,LA Dodgers
-1994,Expansion Era,Season cancelled, n/a,72–57 (strike),Atlanta Braves,Cincinnati Reds,Los Angeles Dodgers
-1993,N/A,N/A,N/A,n/a,Philadelphia Phillies,Montreal Expos,Atlanta Braves
-1992,N/A,N/A,N/A,n/a,Montreal Expos,Pittsburgh Pirates,Atlanta Braves
-1991,N/A,N/A,N/A,n/a,Atlanta Braves,Pittsburgh Pirates,Montreal Expos
-1990,N/A,N/A,N/A,n/a,Philadelphia Phillies,Cincinnati Reds,San Diego Padres
-1989,N/A,N/A,N/A,n/a,Chicago Cubs,San Francisco Giants,Chicago Cubs
-1988,N/A,N/A,N/A,n/a,New York Mets,St. Louis Cardinals,LA Dodgers
-1987,N/A,N/A,N/A,n/a,St. Louis Cardinals,Cincinnati Reds,San Francisco Giants
-1986,N/A,N/A,n/a,ny mets,St. Louis Cardinals,New York Mets,San Diego Padres
-1985,N/A,N/A,N/A,n/a,St. Louis Cardinals,Cincinnati Reds,LA Dodgers
-1984,N/A,N/A,N/A,n/a,Chicago Cubs,San Diego Padres,San Diego Padres
-1983,N/A,N/A,N/A,n/a,Philadelphia Phillies,Atlanta Braves,Philadelphia Phillies
-1982,N/A,N/A,N/A,n/a,St. Louis Cardinals,Atlanta Braves,San Diego Padres
-1981,N/A,N/A,N/A,n/a,Montreal Expos,St. Louis Cardinals,San Diego Padres
-1980,N/A,N/A,N/A,n/a,Philadelphia Phillies,Houston Astros,Atlanta Braves
-1979,N/A,N/A,N/A,n/a,Montreal Expos,Pittsburgh Pirates,Cincinnati Reds
-1978,N/A,N/A,N/A,n/a,Atlanta Braves,Los Angeles Dodgers,Los Angeles Dodgers
-1977,N/A,N/A,N/A,n/a,N/A,N/A,N/A
+year,era,NL_champion,ws_result,champion_record,NL_East_1,NL_Central_1,NL_West_1,strike_postseason
+2025,Modern Era,LA Dodgers,Won WS 4–3 vs TOR,96-66,Philadelphia, Milwaukee, Los Angeles,
+2024,Modern Era,LA Dodgers,Won WS 4–1 vs NYY,98-64,Atlanta, Milwaukee, Los Angeles,
+2023,Modern Era,Atlanta Braves,Lost WS 1–4 vs TEX,104-58,Atlanta, Milwaukee, Los Angeles,
+2022,Modern Era,St. Louis Cardinals,Lost WS 3–4 vs HOU,93-69,Philadelphia, St. Louis, Los Angeles,
+2021,Modern Era,Atlanta Braves,Won WS 4–2 vs HOU,88-73,Atlanta, Milwaukee, San Francisco,
+2020,Modern Era,LA Dodgers,Won WS 4–2 vs TB,43-17,Atlanta, St. Louis, Los Angeles,Strike started Aug 12
+2019,Modern Era,Wash Nationals,Lost WS 1–4 vs HOU,93-69,Atlanta, St. Louis, LA Dodgers,
+2018,Modern Era,Los Angeles Dodgers,Lost WS 1–4 vs BOS,92-71,Atlanta, Milwaukee, LA Dodgers,
+2017,Modern Era,Los Angeles Dodgers,Lost WS 1–4 vs HOU,104-58,Atlanta, Chicago, LA Dodgers,
+2016,Modern Era,Chicago Cubs,Won WS 4–3 vs CLE,103-58,Atlanta, Chicago, LA Dodgers,
+2015,Modern Era,St. Louis Cardinals,Lost WS 1–4 vs KC,100-62,Atlanta, St. Louis, LA Dodgers,
+2014,Modern Era,San Francisco Giants,Won WS 4–3 vs KC,88-74,Atlanta, St. Louis, LA Dodgers
