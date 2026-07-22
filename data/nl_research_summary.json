@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "repository": "nl-team-trends",
+    "last_updated": "2026-07-22",
+    "description": "Consolidated research summary of National League historical performance data, trends, and key findings",
+    "sources_count": 19,
+    "coverage_period": "1876-2025"
+  },
+  "nl_founding": {
+    "date": "1876-02-02",
+    "replaced": "National Association",
+    "original_teams": ["Boston Red Caps", "Chicago White Stockings", "Cincinnati Reds", "Hartford Dark Blues", "Louisville Grays", "Philadelphia Athletics", "Brooklyn Mutuals", "St. Louis Browns"],
+    "current_teams": 15,
+    "expansion_history": "8(1876) → 12(1900) → 16(1969) → 15(1998-present)",
+    "key_relocations": ["Brooklyn → LA (1958)", "NY Giants → SF (1958)", "Montreal Expos → Washington (2005)"]
+  },
+  "schedule_eras": [
+    {"era": "1876-1884", "games": "60-112", "notes": "Varied schedules; 1st full season 1878"},
+    {"era": "1885-1908", "games": "126-154", "notes": "Standard 154-game era begins ~1892"},
+    {"era": "1909-1961", "games": "154", "notes": "Consistent 154-game schedule"},
+    {"era": "1962-2019", "games": "162", "notes": "162-game schedule begins"},
+    {"era": "2020", "games": "60", "notes": "COVID-19 shortened season"},
+    {"era": "2021-present", "games": "162", "notes": "Back to full 162-game schedule"},
+    {"era": "2023+", "games": "162-165", "notes": "Full interleague; all teams play every other MLB team"}
+  ],
+  "all_time_franchise_records": [
+    {"team": "St. Louis Cardinals", "ws_titles": 11, "games": 20863, "wins": 10633, "losses": 10099, "win_pct": 0.513, "last_ws": 2011},
+    {"team": "Los Angeles Dodgers", "ws_titles": 9, "games": 21115, "wins": 11176, "losses": 9819, "win_pct": 0.532, "last_ws": 2025},
+    {"team": "San Francisco Giants", "ws_titles": 8, "games": 21981, "wins": 11663, "losses": 10155, "win_pct": 0.535, "last_ws": 2014},
+    {"team": "Cincinnati Reds", "ws_titles": 5, "games": 21139, "wins": 10511, "losses": 10501, "win_pct": 0.500, "last_ws": 1990},
+    {"team": "Pittsburgh Pirates", "ws_titles": 5, "games": 21519, "wins": 10724, "losses": 10661, "win_pct": 0.501, "last_ws": 1979},
+    {"team": "Atlanta Braves", "ws_titles": 4, "games": 22474, "wins": 11245, "losses": 11075, "win_pct": 0.504, "last_ws": 2021},
+    {"team": "Chicago Cubs", "ws_titles": 3, "games": 22513, "wins": 11473, "losses": 10879, "win_pct": 0.513, "last_ws": 2016},
+    {"team": "Miami Marlins", "ws_titles": 2, "games": 5271, "wins": 2434, "losses": 2837, "win_pct": 0.462, "last_ws": 2003},
+    {"team": "New York Mets", "ws_titles": 2, "games": 10231, "wins": 4939, "losses": 5284, "win_pct": 0.483, "last_ws": 1986},
+    {"team": "Philadelphia Phillies", "ws_titles": 2, "games": 21907, "wins": 10357, "losses": 11435, "win_pct": 0.475, "last_ws": 2008},
+    {"team": "Arizona Diamondbacks", "ws_titles": 1, "games": 4530, "wins": 2216, "losses": 2314, "win_pct": 0.489, "last_ws": 2001},
+    {"team": "Washington Nationals", "ws_titles": 1, "games": 9097, "wins": 4379, "losses": 4714, "win_pct": 0.482, "last_ws": 2019},
+    {"team": "Milwaukee Brewers", "ws_titles": 0, "games": 8920, "wins": 4464, "losses": 4456, "win_pct": 0.503, "last_ws": "N/A"},
+    {"team": "Colorado Rockies", "ws_titles": 0, "games": 4760, "wins": 2403, "losses": 2357, "win_pct": 0.505, "last_ws": "N/A"},
+    {"team": "San Diego Padres", "ws_titles": 0, "games": 7980, "wins": 4265, "losses": 3715, "win_pct": 0.534, "last_ws": "N/A"}
+  ],
+  "championship_trends_by_era": [
+    {"era": "1876-1900", "dominant": "Chicago (4 pennants), Boston (5)", "theme": "Founding era; 8→12 teams"},
+    {"era": "1900-1920", "dominant": "Cubs (2 pennants), Pirates (2)", "theme": "Record-setting wins"},
+    {"era": "1920-1940", "dominant": "Cardinals (5 pennants), NY Giants (4)", "theme": "Power transition; franchise migration"},
+    {"era": "1940-1960", "dominant": "Cardinals (9 pennants), Dodgers/Giants", "theme": "Cards dynasty; 1951 NYG; relocation"},
+    {"era": "1960-1980", "dominant": "Dodgers (5 pennants), Reds, Mets (1969)", "theme": "Expansion; Miracle Mets; Big Red Machine"},
+    {"era": "1981-2000", "dominant": "Braves (14 div titles 1991-2005), Reds", "theme": "Braves dynasty; 1994 strike impact"},
+    {"era": "2001-2015", "dominant": "Cardinals, Giants, D-backs", "theme": "Resurgence cycle; Cubs drought"},
+    {"era": "2016-2025", "dominant": "Dodgers (3 pennants, 8 straight NL West)", "theme": "Modern Dodgers dynasty"}
+  ],
+  "key_h2h_rivalries": [
+    {"team1": "LA Dodgers", "team2": "Chicago Cubs", "t1_wins": 278, "t2_wins": 122, "t1_pct": 0.695, "era_dominant": "LA Dodgers (2016-present)"},
+    {"team1": "St. Louis Cardinals", "team2": "Chicago Cubs", "t1_wins": 1315, "t2_wins": 1185, "t1_pct": 0.525, "era_dominant": "St. Louis (1900s-1990s)"},
+    {"team1": "LA Dodgers", "team2": "SF Giants", "t1_wins": 272, "t2_wins": 246, "t1_pct": 0.523, "era_dominant": "LA Dodgers (2010s-present)"},
+    {"team1": "St. Louis Cardinals", "team2": "Pittsburgh Pirates", "t1_wins": 1423, "t2_wins": 927, "t1_pct": 0.606, "era_dominant": "St. Louis (1920s-1980s)"},
+    {"team1": "Atlanta Braves", "team2": "NY Mets", "t1_wins": 290, "t2_wins": 237, "t1_pct": 0.550, "era_dominant": "Atlanta (1990s-2000s)"},
+    {"team1": "NY Mets", "team2": "Philadelphia Phillies", "t1_wins": 2110, "t2_wins": 2116, "t1_pct": 0.500, "era_dominant": "Essentially even over 60+ seasons"}
+  ],
+  "recent_nl_championships": [
+    {"year": 2025, "champion": "LA Dodgers", "record": "96-66", "ws_result": "Won WS 4-3 vs TOR"},
+    {"year": 2024, "champion": "LA Dodgers", "record": "98-64", "ws_result": "Won WS 4-1 vs NYY"},
+    {"year": 2023, "champion": "Atlanta Braves", "record": "104-58", "ws_result": "Lost WS 1-4 vs TEX"},
+    {"year": 2022, "champion": "St. Louis Cardinals", "record": "93-69", "ws_result": "Lost WS 3-4 vs HOU"},
+    {"year": 2021, "champion": "Atlanta Braves", "record": "88-73", "ws_result": "Won WS 4-2 vs HOU"},
+    {"year": 2020, "champion": "LA Dodgers", "record": "43-17", "ws_result": "Won WS 4-2 vs TB"}
+  ],
+  "key_insights": [
+    "Most one-sided H2H: Cardinals vs Pirates (60.6% Cardinals) — one of the most lopsided rivalries in NL history",
+    "Most competitive H2H: Mets vs Phillies (essentially 50-50 over 2,100+ games)",
+    "Biggest modern gap: Dodgers vs Cubs (69.5% Dodgers) — reflects the modern Dodgers dynasty",
+    "Relocation impact: Brooklyn→LA and NY Giants→SF dramatically reshaped the NL competitive map",
+    "The Cardinals hold the most WS titles (11) and most NL pennants",
+    "The Dodgers have the most NL pennants (26) and 9 WS titles",
+    "The Giants have the highest all-time winning percentage (.535)",
+    "The Braves ran the most dominant dynasty (14 straight division titles, 1991-2005)",
+    "The 1906 Cubs hold the best single-season record (.763, 116-36)",
+    "The 2020 Dodgers hold the best COVID-era record (.717, 43-17)"
+  ]
+}
