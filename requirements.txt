@@ -1,8 +1,46 @@
+# NL Team Trends — Python Requirements
+
+## Core Analysis Dependencies
+
+```
 pandas>=1.5.0
+numpy>=1.21.0
 matplotlib>=3.5.0
 seaborn>=0.12.0
-plotly>=5.10.0
-numpy>=1.23.0
-dataprep>=0.8.0
+```
+
+## Jupyter Notebook Support
+
+```
 jupyter>=1.0.0
-nbconvert>=7.0.0
+ipykernel>=6.0.0
+```
+
+## Additional Analysis (optional)
+
+```
+scipy>=1.7.0      # Statistical analysis
+plotly>=5.0.0     # Interactive visualizations
+```
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+```python
+import pandas as pd
+
+# Load NL performance data
+df = pd.read_csv('data/nl_historical_performance.csv')
+
+# Aggregate by era
+era_stats = df.groupby(['era', 'year'])['win_pct'].mean()
+
+# Compare teams over time
+team_stats = df.groupby('team').agg({'wins': 'sum', 'losses': 'sum'})
+team_stats['win_pct'] = team_stats['wins'] / (team_stats['wins'] + team_stats['losses'])
+```
