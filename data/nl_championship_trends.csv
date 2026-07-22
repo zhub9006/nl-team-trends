@@ -1,5 +1,151 @@
-era,start_year,end_year,dominant_team,theme,pennants_during_era,ws_titles_during_era,key_notes
-Founding Era,1876,1886,Chicago White Stockings / Boston Red Caps,Predecessor-era founding teams establishing dominance,4,3,8 original NL teams; 154-game schedule not yet standard
-Transition Era,1887,1919,New York Giants / Pittsburgh Pirates,Franchise migrations & record-setting wins,8,4,Brooklyn & NY Giants relocate; Dead Ball Era; first WS in 1903
-Expansion Era,1920,1968,St. Louis Cardinals / LA Dodgers / NY Giants,Franchise mobility & dynasties; 1969 divisional split,16,8,Cardinals dynasty (1926-1946); Dodgers-Giants rivalry; Miracle Mets 1969
-Modern Era,1969,2025,LA Dodgers / St. Louis Cardinals / Atlanta Braves / SF Giants,Expansion, free agency, salary cap, & inter-league play,10,13,1994 strike; Braves dynasty 1991-2005; Cubs 2016 drought ends; 3-division format; Dodgers dynasty 2020-2025
+year,era,champion_string,ws_result,champion_record
+1876,Founding Era,Chicago White Stockings,Won WS vs Hartford,4–1–1 (5 games)
+1877,Founding Era,Boston Red Caps,Won WS vs Louisville,4–2–1 (7 games)
+1878,Founding Era,Providence Grays,Won WS vs Boston,4–1 (5 games)
+1879,Founding Era,Providence Grays,Won WS vs Troy,3–0 (3 games)
+1880,Founding Era,Chicago White Stockings,Won WS vs Cincinnati,4–0–1 (5 games)
+1881,Founding Era,Chicago White Stockings,Won WS vs Providence,3–0–1 (4 games)
+1882,Founding Era,Chicago White Stockings,Won WS vs Cincinnati,4–0–1 (5 games)
+1883,Founding Era,Boston Beaneaters,Won WS vs Providence,5–2–2 (9 games)
+1884,Founding Era,Providence Grays (NL),Lost WS vs NY Metropolitan,0–3 (3 games)
+1885,Founding Era,Chicago White Stockings vs St. Louis (AA),Series ended in tie,3–3–1 (7 games)
+1886,Founding Era,St. Louis Browns (AA) vs Chicago (NL),St. Louis won,4–2 (6 games)
+1887,Founding Era,Mixed NL-AA hybrid format (Detroit),n/a,2–1 (3 games)
+1888,Founding Era,New York Giants vs St. Louis (AA),NY Giants won,6–4 (10 games)
+1889,Founding Era,New York Giants vs Brooklyn (AA),NY Giants won,6–3 (9 games)
+1890,Founding Era,Boston Beaneaters vs Louisville (AA),Boston won,5–2–1 (8 games)
+1891,Merger Era,Boston Beaneaters vs Philadelphia Athletics (AA),Boston won,Best-of-7 recommended
+1892,Merger Era,Boston Beaneaters,n/a,84–35 (.706)
+1893,Merger Era,Boston Beaneaters,n/a,86–43 (.667)
+1894,Merger Era,Baltimore Orioles,n/a,89–39 (.695)
+1895,Merger Era,Baltimore Orioles,n/a,87–43 (.669)
+1896,Merger Era,Baltimore Orioles,n/a,90–39 (.698)
+1897,Merger Era,Baltimore Orioles,n/a,90–40 (.692)
+1898,Merger Era,Boston Beaneaters,n/a,102–47 (.685)
+1899,Merger Era,Brooklyn Superbas,n/a,101–47 (.682)
+1900,Merger Era,Pittsburgh Pirates,n/a,79–60 (.568)
+1901,Transition Era,Philadelphia Phillies,n/a,87–51 (.630)
+1902,Transition Era,Pittsburgh Pirates,n/a,87–68 (.561)
+1903,Transition Era,Pittsburgh Pirates,Won WS vs Boston AL,5–3 (9 games)
+1904,Transition Era,New York Giants,Declined WS,no series played,93–60 (.608)
+1905,Transition Era,New York Giants,Won WS vs Philadelphia AL,4–1 (8 games)
+1906,Transition Era,Chicago Cubs,Won WS vs Chicago AL,2–1 (3 games)
+1907,Transition Era,Chicago Cubs,Won WS vs Detroit AL,4–0 (5 games)
+1908,Transition Era,Chicago Cubs,Won WS vs Detroit AL,4–1 (5 games)
+1909,Transition Era,Pittsburgh Pirates,Won WS vs Detroit AL,4–3 (7 games)
+1910,Transition Era,Chicago Cubs,Lost WS vs Philadelphia AL,1–4 (5 games)
+1911,Transition Era,New York Giants,Lost WS vs Philadelphia AL,2–4 (6 games)
+1912,Transition Era,N/A,n/a,
+1913,Transition Era,N/A,n/a,
+1914,Transition Era,Boston Braves,Won WS vs Philadelphia AL,4–0 (5 games)
+1915,Transition Era,Boston Red Sox (AL),n/a,
+1916,Transition Era,N/A,n/a,
+1917,Transition Era,N/A,n/a,
+1918,Transition Era,N/A,n/a,
+1919,Transition Era,Cincinnati Reds,Won WS vs Chicago AL,5–3 (9 games)
+1920,Expansion Era,N/A,n/a,
+1921,Expansion Era,New York Giants,Won WS vs NY Yankees,5–3 (8 games)
+1922,Expansion Era,New York Giants,Won WS vs NY Yankees,4–0–1 (5 games)
+1923,Expansion Era,N/A,n/a,
+1924,Expansion Era,N/A,n/a,
+1925,Expansion Era,Pittsburgh Pirates,Won WS vs Washington AL,4–3 (7 games)
+1926,Expansion Era,St. Louis Cardinals,Won WS vs NY Yankees,4–3 (7 games)
+1927,Expansion Era,N/A,n/a,
+1928,Expansion Era,N/A,n/a,
+1929,Expansion Era,N/A,n/a,
+1930,Expansion Era,N/A,n/a,
+1931,Expansion Era,N/A,n/a,
+1932,Expansion Era,N/A,n/a,
+1933,Expansion Era,New York Giants,Won WS vs Washington AL,4–1 (5 games)
+1934,Expansion Era,St. Louis Cardinals,Won WS vs Detroit AL,4–3 (7 games)
+1935,Expansion Era,N/A,n/a,
+1936,Expansion Era,N/A,n/a,
+1937,Expansion Era,N/A,n/a,
+1938,Expansion Era,N/A,n/a,
+1939,Expansion Era,N/A,n/a,
+1940,Expansion Era,N/A,n/a,
+1941,Expansion Era,N/A,n/a,
+1942,Expansion Era,St. Louis Cardinals,Won WS vs NY Yankees,4–1 (5 games)
+1943,Expansion Era,N/A,n/a,
+1944,Expansion Era,St. Louis Cardinals,Won Streetcar Series vs St. Louis Browns,4–2 (6 games)
+1945,Expansion Era,N/A,n/a,
+1946,Expansion Era,St. Louis Cardinals,Won WS vs Boston Red Sox,4–3 (7 games)
+1947,Expansion Era,N/A,n/a,
+1948,Expansion Era,N/A,n/a,
+1949,Expansion Era,N/A,n/a,
+1950,Expansion Era,N/A,n/a,
+1951,Expansion Era,New York Giants,Won WS vs NY Yankees,4–1–1 (6 games)
+1952,Expansion Era,N/A,n/a,
+1953,Expansion Era,N/A,n/a,
+1954,Expansion Era,New York Giants,Won WS vs Cleveland AL,4–0 (5 games)
+1955,Expansion Era,N/A,n/a,
+1956,Expansion Era,N/A,n/a,
+1957,Expansion Era,N/A,n/a,
+1958,Expansion Era,N/A,n/a,
+1959,Expansion Era,N/A,n/a,
+1960,Expansion Era,N/A,n/a,
+1961,Expansion Era,N/A,n/a,
+1962,Expansion Era,N/A,n/a,
+1963,Expansion Era,LA Dodgers,Won WS vs NY Yankees,4–0 (5 games)
+1964,Expansion Era,St. Louis Cardinals,Won WS vs NY Yankees,4–3 (7 games)
+1965,Expansion Era,LA Dodgers,Won WS vs Minnesota Twins,4–3 (7 games)
+1966,Expansion Era,N/A,n/a,
+1967,Expansion Era,St. Louis Cardinals,Won WS vs Boston Red Sox,4–3 (7 games)
+1968,Expansion Era,N/A,n/a,
+1969,Expansion Era,NY Mets,Won WS vs Baltimore Orioles,4–1 (5 games)
+1970,Expansion Era,N/A,n/a,
+1971,Expansion Era,Pittsburgh Pirates,Won WS vs Baltimore Orioles,4–3 (7 games)
+1972,Expansion Era,N/A,n/a,
+1973,Expansion Era,N/A,n/a,
+1974,Expansion Era,N/A,n/a,
+1975,Expansion Era,Cincinnati Reds,Won WS vs Boston Red Sox,4–3 (7 games)
+1976,Expansion Era,Cincinnati Reds,Won WS vs NY Yankees,4–0 (5 games)
+1977,Expansion Era,N/A,n/a,
+1978,Expansion Era,N/A,n/a,
+1979,Expansion Era,Pittsburgh Pirates,Won WS vs Baltimore Orioles,4–3 (7 games)
+1980,Expansion Era,N/A,n/a,
+1981,Expansion Era,LA Dodgers,Won WS vs NY Yankees,2–0 (DS) then 4–2 (WS)
+1982,Expansion Era,St. Louis Cardinals,Won WS vs Milwaukee Brewers,4–3 (7 games)
+1983,Expansion Era,Philadelphia Phillies,Won WS vs Baltimore Orioles,4–1 (7 games)
+1984,Expansion Era,San Diego Padres,Lost WS vs Detroit Tigers,1–4 (5 games)
+1985,Expansion Era,St. Louis Cardinals,Won WS vs Kansas City Royals,4–3 (7 games)
+1986,Expansion Era,NY Mets,Won WS vs Boston Red Sox,4–3 (7 games)
+1987,Expansion Era,N/A,n/a,
+1988,Expansion Era,LA Dodgers,Won WS vs Oakland A's,4–1 (5 games)
+1989,Expansion Era,N/A,n/a,
+1990,Expansion Era,Cincinnati Reds,Won WS vs Oakland A's,4–0 (5 games)
+1991,Expansion Era,N/A,n/a,
+1992,Expansion Era,N/A,n/a,
+1993,Expansion Era,N/A,n/a,
+1994,Expansion Era,Season cancelled by players' strike,n/a,144 games planned
+1995,Expansion Era,N/A,n/a,
+1996,Expansion Era,N/A,n/a,
+1997,Expansion Era,FLA Marlins,Won WS vs Cleveland Indians,4–3 (7 games)
+1998,Expansion Era,N/A,n/a,
+1999,Expansion Era,N/A,n/a,
+2000,Expansion Era,N/A,n/a,
+2001,Expansion Era,AZ Diamondbacks,Won WS vs NY Yankees,4–3 (7 games)
+2002,Expansion Era,N/A,n/a,
+2003,Expansion Era,FLA Marlins,Won WS vs NY Yankees,4–2 (6 games)
+2004,Expansion Era,N/A,n/a,
+2005,Expansion Era,N/A,n/a,
+2006,Expansion Era,St. Louis Cardinals,Won WS vs Detroit Tigers,4–1 (5 games)
+2007,Expansion Era,N/A,n/a,
+2008,Expansion Era,Philadelphia Phillies,Lost WS vs Tampa Bay Rays,1–4 (5 games)
+2009,Expansion Era,N/A,n/a,
+2010,Expansion Era,N/A,n/a,
+2011,Expansion Era,St. Louis Cardinals,Won WS vs TX Rangers,4–3 (7 games)
+2012,Expansion Era,SF Giants,Won WS vs Detroit Tigers,4–0 (5 games)
+2013,Expansion Era,N/A,n/a,
+2014,Expansion Era,SF Giants,Won WS vs Kansas City Royals,4–3 (7 games)
+2015,Expansion Era,N/A,n/a,
+2016,Modern Era,Chicago Cubs,Won WS vs Cleveland Indians,4–3 (7 games)
+2017,Expansion Era,N/A,n/a,
+2018,Expansion Era,N/A,n/a,
+2019,Modern Era,Wash Nationals,Lost WS vs Houston Astros,1–4 (5 games)
+2020,Modern Era,LA Dodgers,Won WS vs Tampa Bay Rays,4–2 (5 games)
+2021,Modern Era,Atlanta Braves,Won WS vs Houston Astros,4–2 (5 games)
+2022,Modern Era,N/A,n/a,
+2023,Modern Era,Atlanta Braves,Lost WS vs Texas Rangers,1–4 (5 games)
+2024,Modern Era,LA Dodgers,Won WS vs NY Yankees,4–1 (5 games)
+2025,Modern Era,LA Dodgers,Won WS vs Toronto Blue Jays,4–3 (7 games)
