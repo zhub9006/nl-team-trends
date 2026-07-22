@@ -1,47 +1,94 @@
-# Visualization Roadmap
+# NL Team Trends — Visualization Roadmap
 
-This document outlines planned visualizations and recommended tools for the NL Team Trends project.
+## Overview
 
-## Recommended Visualization Tools
+This document outlines the planned visualizations for the NL Team Trends project, along with recommended tools and data sources.
 
-| Tool | Best For | Setup | Link |
-|------|----------|-------|------|
-| Matplotlib | Static charts (bar, line, scatter) | pip install matplotlib | https://matplotlib.org |
-| Seaborn | Statistical heatmaps, distribution plots | pip install seaborn | https://seaborn.pydata.org |
-| Plotly | Interactive dashboards & hover tooltips | pip install plotly | https://plotly.com |
-| Streamlit | Full web app dashboards | pip install streamlit | https://streamlit.io |
-| Foliium | Geographic maps (team locations over time) | pip install folium | https://python-visualization.github.io/foliium |
-| WordCloud | Championship word clouds by era | pip install wordcloud | https://amueller.github.io/word_cloud |
+## Visualization Projects
 
-## Proposed Visualizations
+### 1. NL Win-Loss Trends Over Time
+- **Type**: Multi-line time series chart
+- **Description**: Plot win percentage for each NL franchise from 1876 to present, grouped by era
+- **Data Source**: `data/nl_historical_performance.csv`
+- **Tools**: matplotlib, seaborn, plotly
+- **Insights**: Identify dynasties, droughts, and franchise trajectories
 
-### 1. NL Win-Loss Trends Over Time (Line Chart)
-X-axis: Year (1876-2025), Y-axis: Win % or total wins, one line per team or per division. Highlight dominant eras.
+### 2. NL Team vs Team H2H Heatmap
+- **Type**: Heatmap / matrix visualization
+- **Description**: 15×15 matrix showing win-loss records for every NL team vs every other NL team
+- **Data Source**: `data/nl_team_vs_team_summary.csv`
+- **Tools**: seaborn (heatmap), plotly (interactive)
+- **Insights**: Identify geographic and historical rivalries
 
-### 2. Championship Hierarchy (Treemap or Sunburst)
-Each ring represents a level: League to Division to Championship outcome. Color by WS win vs loss.
+### 3. World Series Titles by Franchise
+- **Type**: Horizontal bar chart
+- **Description**: Bar chart showing WS titles per NL franchise, sorted by count
+- **Data Source**: `data/nl_all_time_records.csv`
+- **Tools**: matplotlib, plotly
+- **Insights**: Visualize dynasty franchises
 
-### 3. Head-to-Head Heatmap (Seaborn)
-15x15 matrix of all NL teams. Values: total H2H wins for team (row) vs opponent (column). Color gradient source: data/nl_team_vs_team_summary.csv.
+### 4. Championship Era Comparison
+- **Type**: Grouped bar chart or stacked area chart
+- **Description**: Compare NL WS winners across eras (Founding through Modern)
+- **Data Source**: `data/nl_pennant_winners.csv`, `data/nl_championship_trends.csv`
+- **Tools**: matplotlib, seaborn
+- **Insights**: Identify era-specific dominance patterns
 
-### 4. Dynasty Timeline (Gantt Chart)
-Horizontal bars spanning years of sustained success. Group by franchise. Annotate with WS titles and pennants.
+### 5. Pennant Winners by Year (Timeline)
+- **Type**: Timeline / Gantt-style chart
+- **Description**: Show pennant winners from 1876–2025 with color coding by team
+- **Data Source**: `data/nl_pennant_winners.csv`
+- **Tools**: plotly, altair
+- **Insights**: Visualize franchise sustained success
 
-### 5. WS Title Distribution (Bar Chart and Pie)
-How many WS titles each NL team holds. Compare NL vs AL. Source data: data/nl_all_time_records.csv.
+### 6. Franchise Win% Distribution
+- **Type**: Box plot or violin plot
+- **Description**: Show distribution of seasonal win percentages by franchise
+- **Data Source**: `data/nl_historical_performance.csv`
+- **Tools**: seaborn, plotly
+- **Insights**: Identify consistency vs. volatility patterns
 
-### 6. Division Dominance Heatmap
-Rows: divisions (NL East, NL Central, NL West). Columns: decades. Cells: which team dominated that division in that decade.
+### 7. NL Division Dominance Map
+- **Type**: Stacked area chart
+- **Description**: Show which NL division dominated each era
+- **Data Source**: `data/nl_recent_standings.csv`
+- **Tools**: matplotlib, plotly
+- **Insights**: Track shift of competitive balance across divisions
 
-### 7. Win % Distribution by Era (Box Plot)
-Show spread of win percentages within each era. Identify outlier seasons. Source data: data/nl_historical_performance.csv.
+### 8. Interactive Dashboard
+- **Type**: Plotly Dash or Streamlit web app
+- **Description**: Interactive dashboard combining multiple views
+- **Data Source**: All CSV files
+- **Tools**: Streamlit, Plotly Dash, voila
+- **Features**: Team selector, era slider, H2H lookup, record comparison
 
-### 8. Interleague H2H Trends (Line Chart)
-Track NL vs AL win ratio since 1997. Source data: data/nl_notable_records.csv.
+## Tool Recommendations
 
-## Getting Started
+### Python Libraries
+- **pandas**: Data manipulation and analysis
+- **matplotlib**: Static publication-quality figures
+- **seaborn**: Statistical visualizations
+- **plotly**: Interactive web-based charts
+- **altair**: Declarative statistical visualization
+- **jupyter**: Notebook environment for exploration
 
-1. Install dependencies: pip install -r requirements.txt
-2. Download Lahman Database: wget https://github.com/chadwickbureau/baseballdatabank/archive/refs/heads/master.zip
-3. Load data: python -c "import pandas as pd; df = pd.read_csv('data/nl_all_time_records.csv')"
-4. Plot! See notebooks/01_eda_nl_standings.ipynb for a template
+### Quick Start
+```bash
+pip install -r requirements.txt
+jupyter notebook
+```
+
+## File Organization
+
+```
+visualizations/
+├── README.md                  ← This file
+├── v1_win_loss_trends.py      ← Time series of W% by team
+├── v2_h2h_heatmap.py          ← H2H rivalry heatmap
+├── v3_ws_titles_bar.py        ← WS titles by franchise
+├── v4_era_comparison.py       ← Championship by era
+├── v5_timeline.py             ← Pennant winners timeline
+├── v6_distribution.py         ← Win% distribution
+├── v7_division_dominance.py   ← Division comparison
+└── dashboard_app.py           ← Interactive dashboard
+```
