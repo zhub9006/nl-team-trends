@@ -1,8 +1,27 @@
-record_type,team,value,year,details
-Most WS Titles (NL),St. Louis Cardinals,11,All-time,Most World Series championships in NL
-Most NL Pennants,Los Angeles Dodgers,26,All-time,Most pennant wins (includes NY Giants era)
-Most Division Titles (Modern),Atlanta Braves,18,1991-2023,Braves ran most consistent division dominance
-Highest Single-Season Win %,Live-Ball Era,St. Louis Cardinals,1942 .648 (105-57),Best all-time for full NL season
-Longest Championship Drought,Chicago Cubs,108 years,1908-2016,Longest drought in North American pro sports
-Most Consecutive Pennants,St. Louis Cardinals,8,1926-1934,Won pennants in 8 consecutive years
-Fastest 100-win team,Chicago Cubs,100 by game 142,1935,Reached 100 wins fastest in 154-game era
+category,team,value,season,notes
+Franchise Wins,St. Louis Cardinals,10633,,Most NL wins all-time
+Franchise Wins,Los Angeles Dodgers,11176,,
+Franchise Wins,San Francisco Giants,11663,,Highest NL win% among traditional powers
+Franchise Losses,New York Mets,5284,,
+Franchise Losses,Atlanta Braves,11075,,
+Franchise Win%,SF Giants,0.535,,Highest all-time win% among NL powers
+Franchise Win%,Milwaukee Brewers,0.503,,Most even record (closest to .500 among teams with significant games)
+Single Season Wins,Chicago Cubs,116,1906,Tied for most wins in a single NL season (155 games)
+Single Season Wins,Los Angeles Dodgers,106,2025,,36-0 start was franchise record
+Single Season Wins,Atlanta Braves,104,2023,,Most wins in 162-game era for NL
+Single Season Losses,Colorado Rockies,123,2025,,Most losses in single season in franchise history
+Single Season Losses,Miami Marlins,108,2012,Franchise worst
+Single Season Win%,LA Dodgers,0.877,2020,Best single-season win% (60-game season: 43-17)
+Single Season Win%,Chicago Cubs,0.706,1892,MAGIC Number era (84-game season: 55-23... approximate)
+Single Season Win%,Chc Cubs,0.755,1906,Most wins in single 155-game season (116-36)
+WS Titles,St. Louis Cardinals,11,,Most NL World Series titles
+WS Titles,Los Angeles Dodgers,9,,Most NL Pennants
+WS Titles,SF Giants,8,,Most NL championships by franchise
+WS Titles,Chicago Cubs,3,,End of 108-year drought (2016)
+PENNANT Titles,LA Dodgers,26,,Most NL pennants ever
+Longest WS Drought,Chicago Cubs,108 years,1908-2016,Longest WS championship drought in NL history
+Longest WS Drought,Los Angeles Dodgers,32 years,1988-2020,Tied for second longest NL WS drought
+Longest Pennant Drought,San Diego Padres,0 pennants,1969-present,No NL pennants despite high win%
+Streak of Division Titles,Atlanta Braves,14,1991-2005,Longest division title streak in MLB history
+Streak of Division Titles,Los Angeles Dodgers,8,2017-2024,NL West, 2024 still ongoing?
+Most Consecutive WWins,Red Barracudas,Set NL requiresto wins record 21 games (2024) and NBPENMVP H2H.png
