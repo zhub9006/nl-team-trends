@@ -1,16 +1,16 @@
-team,franchise_since,games,wins,losses,win_pct,world_series_titles,last_world_series_title,pennants,last_pennant_year,division_titles,last_division_title,current_division
-St. Louis Cardinals,1882,20863,10633,10099,0.513,11,2011,19,2022,14,2019,NL Central
-Los Angeles Dodgers,1884,21115,11176,9819,0.532,9,2025,26,2025,20,2025,NL West
-San Francisco Giants,1883,21981,11663,10155,0.535,8,2014,23,2012,10,2012,NL West
-Cincinnati Reds,1882,21139,10511,10501,0.500,5,1990,10,1995,10,2020,NL Central
-Pittsburgh Pirates,1882,21519,10724,10661,0.501,5,1979,9,1979,10,2015,NL Central
-Atlanta Braves,1876,22474,11245,11075,0.504,4,2021,18,2021,18,2023,NL East
-Chicago Cubs,1876,22513,11473,10881,0.513,3,2016,17,2016,12,2017,NL Central
-Miami Marlins,1993,5271,2434,2837,0.462,2,2003,2,2003,2,2003,NL East
-New York Mets,1962,10231,4939,5284,0.483,2,1986,5,2015,6,2022,NL East
-Philadelphia Phillies,1883,21907,10357,11435,0.475,2,2008,8,2022,11,2022,NL East
-Arizona Diamondbacks,1998,4530,2216,2314,0.489,1,2001,1,2007,3,2023,NL West
-Washington Nationals,1969,9097,4379,4714,0.482,1,2019,1,2019,5,2017,NL East
-Milwaukee Brewers,1970,8920,4464,4456,0.503,0,N/A,0,N/A,0,N/A,NL Central
-Colorado Rockies,1993,4760,2403,2357,0.505,0,N/A,0,N/A,0,N/A,NL West
-San Diego Padres,1969,7980,4265,3715,0.534,0,N/A,0,N/A,0,N/A,NL West
+team,ws_titles,games,wins,losses,win_pct,last_ws_title,first_season,franchise_origin
+St. Louis Cardinals,11,20863,10633,10099,0.513,2011,1882,B/cardinals
+Los Angeles Dodgers,9,21115,11176,9819,0.532,2025,1883,Dodgers
+San Francisco Giants,8,21981,11663,10155,0.535,2014,1883,Giants
+Cincinnati Reds,5,21139,10511,10501,0.500,1990,1882,Reds
+Pittsburgh Pirates,5,21519,10724,10661,0.501,1979,1882,Pirates
+Atlanta Braves,4,22474,11245,11075,0.504,2021,1871,Braves
+Chicago Cubs,3,22513,11473,10879,0.513,2016,1876,Cubs
+Miami Marlins,2,5271,2434,2837,0.462,2003,1993,Marlins
+New York Mets,2,10231,4939,5284,0.483,1986,1962,Mets
+Philadelphia Phillies,2,21907,10357,11435,0.475,2008,1883,Phillies
+Arizona Diamondbacks,1,4530,2216,2314,0.489,2001,1998,Diamondbacks
+Washington Nationals,1,9097,4379,4714,0.482,2019,1969,Nationals
+Milwaukee Brewers,0,8920,4464,4456,0.503,N/A,1969,Brewers
+Colorado Rockies,0,4760,2403,2357,0.505,N/A,1993,Rockies
+San Diego Padres,0,7980,4265,3715,0.534,N/A,1969,Padres

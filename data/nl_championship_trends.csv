@@ -1,9 +1,5 @@
-era,start_year,end_year,dominant_team,dominant_ws_titles,dominant_pennants,theme,key_development
-Founding Era,1876,1900,Chicago and Boston,9,9,NL forms and stabilizes,Original 8 teams; 8 to 12 expansion by 1900
-Dead-Ball Era,1901,1920,Cubs and Pittsburgh and Brooklyn,5,5,Record-setting wins early 1900s,1906 Cubs set all-time W-L record (116-36)
-Pre-War Power,1921,1940,Cardinals and NY Giants,9,9,Franchise migration era,Braves moved to Milwaukee 1953; NY Giants to SF 1958
-Cardinals Dynasty,1941,1960,St. Louis Cardinals,9,10,Cardinals golden age,1942-1946 five straight pennants; relocation 1950s
-Expansion Era,1961,1980,LA Dodgers and Cincinnati Reds,6,7,Mets Miracle 1969; Big Red Machine,1962 162-game schedule begins; 1969 expansion
-Braves Dynasty,1981,2000,Atlanta Braves,4,5,Longest division dominance,1994 strike halts season; Reds 1990 WS title
-Resurgence Cycle,2001,2015,Cardinals and Giants and D-backs,6,8,Championship spread across NL,2001 D-backs WS; 2004-2010 Cardinals dynasty
-Modern Dodgers Dynasty,2016,2025,LA Dodgers,3,8,New Dodgers dynasty plus 8 straight NL West,2020 shortened season; 2024-2025 back-to-back
+era,start_year,end_year,dominant_team,theme,pennants_during_era,ws_titles_during_era,key_notes
+Founding Era,1876,1886,Chicago White Stockings / Boston Red Caps,Predecessor-era founding teams establishing dominance,4,3,8 original NL teams; 154-game schedule not yet standard
+Transition Era,1887,1919,New York Giants / Pittsburgh Pirates,Franchise migrations & record-setting wins,8,4,Brooklyn & NY Giants relocate; Dead Ball Era; first WS in 1903
+Expansion Era,1920,1968,St. Louis Cardinals / LA Dodgers / NY Giants,Franchise mobility & dynasties; 1969 divisional split,16,8,Cardinals dynasty (1926-1946); Dodgers-Giants rivalry; Miracle Mets 1969
+Modern Era,1969,2025,LA Dodgers / St. Louis Cardinals / Atlanta Braves / SF Giants,Expansion, free agency, salary cap, & inter-league play,10,13,1994 strike; Braves dynasty 1991-2005; Cubs 2016 drought ends; 3-division format; Dodgers dynasty 2020-2025
