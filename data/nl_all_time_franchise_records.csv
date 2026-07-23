@@ -1,0 +1,16 @@
+team,ws_titles,games,wins,losses,win_pct,last_ws_title,last_pennant,franchise_since,division,notable_era,record_season_wins,record_season_losses,record_season_wl_pct
+St. Louis Cardinals,11,20863,10633,10099,0.513,2011,2022,1882,Central,1926-1934;2006-2022,2005,100,0.671
+Los Angeles Dodgers,9,21115,11176,9819,0.532,2025,2025,1884 (Brooklyn) → 1958 (LA),West,1955-1966;2013-2025,116,36,0.763
+San Francisco Giants,8,21981,11663,10155,0.535,2014,2012,1883 (NY) → 1958 (SF),West,1911-1933;2010-2014,116,36,0.763
+Cincinnati Reds,5,21139,10511,10501,0.500,1990,1976,1882,Central,Big Red Machine 1970s,102,60,0.630
+Pittsburgh Pirates,5,21519,10724,10661,0.501,1979,1979,1882,Central,1900s-1920s;1960s-1970s,103,36,0.741
+Atlanta Braves,4,22474,11245,11075,0.504,2021,2021,1871 (Boston) → 1966 (Atlanta),West,1991-2005 dynasty,104,58,0.642
+Chicago Cubs,3,22513,11473,10879,0.513,2016,2016,1876,Central,1906-1910;1929-1938;2015-2016,116,36,0.763
+Miami Marlins,2,5271,2434,2837,0.462,2003,2003,1993,East,1997-2003,92,70,0.568
+New York Mets,2,10231,4939,5284,0.483,1986,2024,1962,East,1969 Miracle Mets;1986;2024,100,62,0.617
+Philadelphia Phillies,2,21907,10357,11435,0.475,2008,2009,1883,East,2008-2009;2022,102,61,0.623
+Arizona Diamondbacks,1,4530,2216,2314,0.489,2001,2001,1998,West,2001 championship,100,62,0.617
+Washington Nationals,1,9097,4379,4714,0.482,2019,2019,1969 (Montreal) → 2005 (Washington),East,2019,103,59,0.636
+Milwaukee Brewers,0,8920,4464,4456,0.503,N/A,N/A,1970,Central,1982 WS appearance,96,67,0.589
+Colorado Rockies,0,4760,2403,2357,0.505,N/A,N/A,1993,West,2007 WS appearance,102,60,0.630
+San Diego Padres,0,7980,4265,3715,0.534,N/A,N/A,1969,West,1998 WS;2022 WS,101,61,0.623
