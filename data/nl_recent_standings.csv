@@ -1,7 +1,13 @@
-year,division,team,wins,losses,win_pct,finish,playoff_result,ws_result
-2025,West,Los Angeles Dodgers,96,66,0.593,1st,Beat Phillies NLDS 3-0; Beat Brewers NLCS 4-3,Dodgers beat Blue Jays 4-3 in WS
-2024,West,Los Angeles Dodgers,98,64,0.605,1st,Beat Padres NLDS 3-2; Beat Phillies NLCS 4-1,Dodgers beat Yankees 4-1 in WS
-2023,Central,Atlanta Braves,104,58,0.642,1st,Beat Phillies NLDS 3-1; Beat D-backs NLCS 4-3,Lost WS to Rangers 4-1
-2022,Central,St. Louis Cardinals,93,69,0.574,1st,Beat Padres NLDS 3-1; Beat Dodgers NLCS 4-3,Lost to Rangers 4-1 in WS
-2021,Central,Atlanta Braves,88,73,0.547,1st,Beat Brewers NLDS 3-1; Beat Dodgers NLCS 4-2,Beat Astros 4-2 in WS (Champion)
-2020,West,Los Angeles Dodgers,43,17,0.717,1st,Beat Brewers NLDS 3-0; Beat Braves NLCS 4-3,Beat Rays 4-2 in WS (Champion)
+year,NL_Central_winner,NL_Central_W,NL_East_winner,NL_East_W,NL_West_winner,NL_West_W,Wild_Card_1,Wild_Card_2,Notes
+2014,St. Louis Cardinals,90-72,Washington Nationals,88-74,Los Angeles Dodgers,94-68,Madison Bumgarner (SF),,Dodgers won 11 straight NL West
+2015,St. Louis Cardinals,100-62,New York Mets,90-72,LA Dodgers,92-70,Cardinals,,Dodgers 2nd straight NL West
+2016,Chicago Cubs,103-58,Washington Nationals,95-67,LA Dodgers,91-71,,Chicago Cubs won WS
+2017,Chicago Cubs,92-70,Washington Nationals,97-65,Los Angeles Dodgers,104-58,Miami Marlins,Colorado Rockies,Dodgers 104 wins NL best
+2018,Milwaukee Brewers,96-67,Atlanta Braves,90-72,Los Angeles Dodgers,92-71,Chicago Cubs,Colorado Rockies,Dodgers 8th straight NL West
+2019,St. Louis Cardinals,91-71,Washington Nationals,93-69,Los Angeles Dodgers,106-56,Milwaukee Brewers,Atlanta Braves,Braves won WS in 2021
+2020,Chicago Cubs,34-26,Atlanta Braves,35-25,Los Angeles Dodgers,43-17,Milwaukee Brewers,SB Padres,60-game COVID season
+2021,Milwaukee Brewers,95-67,Atlanta Braves,88-73,LA Dodgers,106-56,Cardinals,Padres,Braves won WS; Cardinals clinch on final day
+2022,St. Louis Cardinals,93-69,Philadelphia Phillies,87-75,LA Dodgers,92-70,Mets,Padres,Phillies won NLCS on Dodger ground
+2023,Milwaukee Brewers,92-70,Atlanta Braves,104-58,Los Angeles Dodgers,100-62,Mets,Phillies,Dodgers 200th win; Braves 4th straight 100 wins
+2024,Milwaukee Brewers,92-70,Philadelphia Phillies,89-73,Los Angeles Dodgers,98-64,Mets,Padres,Dodgers back-to-back WS titles
+2025,Milwaukee Brewers,97-65,Philadelphia Phillies,94-68,Los Angeles Dodgers,96-66,,Dodgers three-peated; 8th straight NL West
