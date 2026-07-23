@@ -1,16 +1,16 @@
-team,ws_titles,games,wins,losses,win_pct,last_ws_title,first_season,franchise_origin,pennant_count,pennant_years
-St. Louis Cardinals,11,20863,10633,10099,0.513,2011,1882,B/cardinals,19,"1892;1895;1898;1926;1931;1934;1942;1944;1946;1964;1967;1982;1985;2006;2011;2015"
-Los Angeles Dodgers,9,21115,11176,9819,0.532,2025,1883,Dodgers,26,"1884;1894;1899;1900;1905;1916;1920;1933;1934;1939;1941;1947;1955;1956;1959;1963;1966;1974;1977;1978;1981;1988;2018;2019;2020;2024;2025"
-San Francisco Giants,8,21981,11663,10155,0.535,2014,1883,Giants,24,"1884;1887;1894;1897;1905;1911;1912;1913;1917;1921;1922;1924;1933;1936;1937;1951;1954;1962;1971;1987;1989;1997;2000;2002;2010;2012;2014"
-Cincinnati Reds,5,21139,10511,10501,0.500,1990,1882,Reds,10,"1882;1886;1897;1919;1926;1939;1940;1975;1976;1990"
-Pittsburgh Pirates,5,21519,10724,10661,0.501,1979,1882,Pirates,9,"1901;1902;1903;1909;1925;1927;1960;1971;1979"
-Atlanta Braves,4,22474,11245,11075,0.504,2021,1871,Braves,18,"1914;1957;1969;1991;1992;1993;1994;1995;1996;1997;1998;1999;2001;2002;2003;2004;2020;2021"
-Chicago Cubs,3,22513,11473,10879,0.513,2016,1876,Cubs,17,"1876;1877;1878;1880;1881;1882;1885;1886;1906;1907;1908;1910;1918;1929;1932;1935;1938"
-Miami Marlins,2,5271,2434,2837,0.462,2003,1993,Marlins,2,"1997;2003"
-New York Mets,2,10231,4939,5284,0.483,1986,1962,Mets,5,"1969;1986;2000;2006;2015"
-Philadelphia Phillies,2,21907,10357,11435,0.475,2008,1883,Phillies,7,"1915;1950;1976;1977;1978;1980;1983;1993;2007;2008;2009;2010;2011"
-Arizona Diamondbacks,1,4530,2216,2314,0.489,2001,1998,Diamondbacks,2,"1999;2001"
-Washington Nationals,1,9097,4379,4714,0.482,2019,1969,Nationals,1,"2019"
-Milwaukee Brewers,0,8920,4464,4456,0.503,N/A,1969,Brewers,0,
-Colorado Rockies,0,4760,2403,2357,0.505,N/A,1993,Rockies,0,
-San Diego Padres,0,7980,4265,3715,0.534,N/A,1969,Padres,0,
+team,ws_titles,games,wins,losses,win_pct,last_ws_title,last_pennant,division,first_season,franchise_since,notes
+St. Louis Cardinals,11,20863,10633,10099,0.513,2011,2022,NL Central,1882,1882,Most WS titles in NL; 19 total pennants
+Los Angeles Dodgers,9,21115,11176,9819,0.532,2025,2025,NL West,1884,1884,Moved from Brooklyn to LA in 1958; 26 NL pennants
+San Francisco Giants,8,21981,11663,10155,0.535,2014,2012,NL West,1883,1883,Moved from NY to SF in 1958; 23 NL pennants; 11663 all-time NL wins
+Cincinnati Reds,5,21139,10511,10501,0.500,1990,1976,NL Central,1882,1882,.500 exact winning percentage over career
+Pittsburgh Pirates,5,21519,10724,10661,0.501,1979,1979,NL Central,1882,1882
+Atlanta Braves,4,22474,11245,11075,0.504,2021,2021,NL East,1876,1876,14 straight division titles 1991-2005; longest NL dynasty
+Chicago Cubs,3,22513,11473,10879,0.513,2016,2016,NL Central,1876,1876,108-year championship drought 1908-2016; most games in NL
+Miami Marlins,2,5271,2434,2837,0.462,2003,2003,NL East,1993,1993,Shortened name from Florida Marlins in 2012
+New York Mets,2,10231,4939,5284,0.483,1986,2006,NL East,1962,1962,1969 Miracle Mets; 2015 runner-up
+Philadelphia Phillies,2,21907,10357,11435,0.475,2008,2009,NL East,1883,1883,Oldest continuous one-name one-city franchise in pro sports
+Arizona Diamondbacks,1,4530,2216,2314,0.489,2001,2001,NL West,1998,1998,Won WS title in just 4th season as expansion team
+Washington Nationals,1,9097,4379,4714,0.482,2019,2019,NL East,1969,1969,Former Montreal Expos; moved to DC in 2005
+Milwaukee Brewers,0,8920,4464,4456,0.503,N/A,2025,NL Central,1969,1969,Former Seattle Pilots; never won NL pennant
+Colorado Rockies,0,4760,2403,2357,0.505,N/A,N/A,NL West,1993,1993,Best season 2007 (defunct WS run)
+San Diego Padres,0,7980,4265,3715,0.534,N/A,2024,NL West,1969,1969,2024 NL pennant; .534 highest win pct among 0-title franchises
