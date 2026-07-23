@@ -1,0 +1,11 @@
+era,start_year,end_year,dominant_team,pennant_count,ws_titles,win_pct_range,num_champions,theme,key_insight
+1876-1900,1876,1900,Chicago White Stockings,6,6,highest 0.788,6,Founding era 8 to 12 teams,Chicago dominated early NL original 8 franchises
+1901-1920,1901,1920,New York Giants,9,5,"0.496-0.810",9,Dead Ball era record-setting wins,Chicago Cubs 116 wins Giants dynasty era
+1920-1940,1920,1940,St. Louis Cardinals,6,3,highest 0.702,6,Power transition Gashouse Gang,Cardinals first dynasty NL Central powerhouse
+1941-1960,1941,1960,Boston/LA Dodgers,5,2,highest 0.714,5,Franchise migration Dodgers dynasty,Brooklyn to LA NY Giants to SF reshape map
+1961-1980,1961,1980,Los Angeles Dodgers / Reds,6,4,"0.537-0.667",6,Expansion era Big Red Machine Miracle Mets,Most competitive era 8 different NL champions
+1981-2000,1981,2000,Atlanta Braves,14,1,highest 0.810,14,Braves dynasty 1991-2005 longest streak,14 straight division titles record
+1994-2005,1994,2005,Atlanta Braves,5,1,"0.427-0.636",5,14-division streak Wild Card 1994 strike,Dominance without championships rare
+2006-2015,2006,2015,St. Louis Cardinals,4,3,highest 0.648,4,Resurgence cycle Giants 3 titles,Most NL champions decade Giants era
+2016-2025,2016,2025,Los Angeles Dodgers,6,4,highest 0.717,6,Modern Dodgers dynasty 8 straight NJ West,LA Dodgers most dominant franchise era
+Full History,1876,2025,LA Dodgers,26,9,"0.389-0.917",150,Dodgers 26 pennants Cards 11 WS Giants wins,Dodgers lead pennants Cards lead WS Giants lead wins
