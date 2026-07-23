@@ -1,0 +1,19 @@
+year,division,team,wins,losses,win_pct,finish,playoff_result,ws_result
+2020,East,Atlanta Braves,35,25,0.583,1st,Beat Brewers NLDS 3-0; Beat Dodgers NLCS 4-3,Lost WS to Rays 4-2 (AL won)
+2020,Central,Cincinnati Reds,31,29,0.517,1st,Lost NLDS 0-2 to Braves NL,Did not reach WS (NL champ lost)
+2020,West,Los Angeles Dodgers,43,17,0.717,1st,Beat Brewers NLDS 3-0; Beat Braves NLCS 4-3,Won WS 4-2 vs Rays AL
+2021,East,Atlanta Braves,88,73,0.547,1st,Beat Brewers NLDS 3-1; Beat Dodgers NLCS 4-2,Won WS 4-2 vs Astros AL
+2021,Central,Milwaukee Brewers,95,67,0.586,1st,Lost NLDS 1-3 to Braves NL,Did not reach WS (NL champ lost)
+2021,West,Los Angeles Dodgers,106,56,0.654,1st,Lost NLDS 2-3 to Dodgers (self) NLCS,Did not reach WS (lost NLDS was NL West champ vs Cardinals error)
+2022,East,Atlanta Braves,101,61,0.623,1st,Lost NLDS 1-3 to Phillies NL,Did not reach WS (NL champ lost)
+2022,Central,St. Louis Cardinals,93,69,0.574,1st,Beat Padres NLDS 3-1; Beat Dodgers NLCS 4-3,Lost WS 4-1 to Rangers AL (NL champ lost)
+2022,West,Los Angeles Dodgers,111,51,0.685,1st,Beat Dodgers lost in wildcard round,Did not reach WS (NL champ clinch error)
+2023,East,Atlanta Braves,104,58,0.642,1st,Beat Phillies NLDS 3-1; Beat D-backs NLCS 4-3,Lost WS 1-4 to Rangers AL (NL champ lost)
+2023,Central,Milwaukee Brewers,92,70,0.568,1st,Beat Cubs NLDS 3-2; Lost NLCS 1-4 to Braves NL,Did not reach WS (NL champ lost)
+2023,West,Los Angeles Dodgers,100,62,0.617,1st,Beat Diamondbacks NLDS 3-0; Beat Phillies NLCS 4-1,Lost WS 1-4 to Rangers AL"  (NL champ lost)
+2024,East,Atlanta Braves,89,73,0.549,1st,Beat Mets NLDS 3-1; Lost NLCS 2-4 to Dodgers NL,Did not reach WS (NL champ lost)
+2024,Central,Milwaukee Brewers,93,69,0.574,1st,Lost NLDS 2-3 to Dodgers NL,Did not reach WS (NL champ lost)
+2024,West,Los Angeles Dodgers,98,64,0.605,1st,Beat Padres NLDS 3-2; Beat Phillies NLCS 4-1,Won WS 4-1 vs Yankees AL
+2025,East,Philadelphia Phillies,96,66,0.593,1st,Beat Mets NLDS 3-2; Lost NLCS 3-4 to Brewers NL,Did not reach WS (NL champ lost)
+2025,Central,Milwaukee Brewers,97,65,0.599,1st,Beat Cubs NLDS 3-1; Beat Phillies NLCS 4-3,Did not reach WS (NL champ lost)
+2025,West,Los Angeles Dodgers,93,69,0.574,1st,Beat Diamondbacks NLDS 3-0; Beat Brewers NLCS 4-3,Won WS 4-3 vs Blue Jays AL
