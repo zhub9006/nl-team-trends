@@ -1,23 +1,18 @@
-year,season_games,nl_champion,nl_wins,nl_losses,nl_win_pct,ws_champion,era,games_per_season,division_format,notes
-1876,70,Chicago White Stockings,52,14,0.786,No WS played (pre-WS era),Dead Ball Early,70,No divisions,First NL season
-1877,60,Boston Red Caps,42,18,0.700,No WS played,Dead Ball Early,60,No divisions,Boston wins second NL pennant
-1878,60,Cincinnati Reds,41,19,0.683,No WS played,Dead Ball Early,60,No divisions,Cincinnati wins first NL pennant
-1879,84,Providence Grays,59,25,0.702,No WS played,Dead Ball Early,84,No divisions,Providence first NL pennant
-1906,154,Chicago Cubs,116,36,0.763,Chicago White Sox (AL won),Dead Ball,154,Yes,Best single-season NL record ever (.763)
-1926,154,St. Louis Cardinals,89,65,0.578,St. Louis Cardinals,Power Transition,154,Yes,Cards first World Series title
-1931,154,St. Louis Cardinals,103,51,0.669,St. Louis Cardinals,Power Transition,154,Yes,Cards begin first full dynasty
-1934,154,St. Louis Cardinals,95,59,0.617,St. Louis Cardinals,Gashouse Gang,154,Yes,Cardinals complete the dynasty
-1951,154,New York Giants,98,59,0.623,New York Giants,Post-War Transition,154,Yes,Bobby Thomson Shot Heard Round the World
-1954,154,New York Giants,97,57,0.630,New York Giants,Post-War Transition,154,Yes,Willie Mays Giants sweep Cleveland
-1959,154,Los Angeles Dodgers,88,68,0.565,Los Angeles Dodgers,Franchise Migration,154,Yes,First Dodgers WS title since Brooklyn move
-1962,162,San Francisco Giants,103,62,0.623,No WS played,Expansion,162,Yes,First 162-game season
-1969,162,New York Mets,100,62,0.617,New York Mets,Expansion,162,Yes,Magic! Miracle Mets reach WS and win
-1975,162,Pittsburgh Pirates,92,69,0.571,Pittsburgh Pirates,Big Red Machine,162,Yes,Clemente Pirates win pennant
-1976,162,Cincinnati Reds,102,60,0.630,Cincinnati Reds,Big Red Machine,162,Yes,Big Red Machine sweep WS
-1986,162,New York Mets,108,54,0.667,New York Mets,Modern Era Begins,162,Yes,Mookie Wilson error / Ray Knight heroics
-2006,162,St. Louis Cardinals,83,78,0.516,St. Louis Cardinals,Championship Rivalries Era,162,Yes,Lowest win% NL champion ever at the time
-2016,162,Chicago Cubs,103,58,0.640,Chicago Cubs,Modern Championship Cycle,162,Yes,Ended 108-year championship drought
-2020,60,Los Angeles Dodgers,43,17,0.717,Los Angeles Dodgers,COVID Season,60,Yes,Shorter 60-game season; Dodgers dominant
-2021,162,Atlanta Braves,88,73,0.547,Atlanta Braves,Modern Championship Cycle,162,Yes,Beat Astros 4-2 in WS
-2024,162,Los Angeles Dodgers,98,64,0.605,Los Angeles Dodgers,Modern Dodgers Dynasty,162,Yes,Back-to-back WS titles; 8th WS title
-2025,162,Los Angeles Dodgers,96,66,0.593,Los Angeles Dodgers,Modern Dodgers Dynasty,162,Yes,Back-to-back again 9th WS title
+year,team,record,games,wins,losses,win_pct,division,league,wswon,wslost,wser,notes
+1906,Chicago Cubs,116-36,155,116,36,0.763,,NL,N,A,116 wins most in NL history (155-game season)
+1909,Pittsburgh Pirates,110-42,154,110,42,0.727,,NL,N,A,Won NL pennant
+1937,New York Giants,95-57,154,95,57,0.623,,NL,N,A,Most wins in NL in the 1930s
+1941,Brooklyn Dodgers,100-54,154,100,54,0.649,,NL,N,A,Paced NL with 100 wins
+1955,Brooklyn Dodgers,98-55,154,98,55,0.641,,NL,N,A,Won first WS for Dodgers franchise
+1969,New York Mets,100-62,162,100,62,0.617,,NL,N,A,Miracle Mets; worst-to-first
+1970,Cincinnati Reds,102-60,162,102,60,0.630,,NL,N,A,Big Red Machine begins
+1976,Cincinnati Reds,102-60,162,102,60,0.630,,NL,N,A,Won WS (Big Red Machine peak)
+1984,San Diego Padres,92-70,162,92,70,0.568,,NL,N,A,First NL pennant for Padres
+1986,New York Mets,108-54,162,108,54,0.667,,NL,N,A,1986 WS champions
+2001,Arizona Diamondbacks,92-70,162,92,70,0.568,,NL,N,A,2001 WS champions
+2016,Chicago Cubs,103-58,162,103,58,0.636,,NL,N,A,NL Champions; broke 108-year WS drought
+2020,Los Angeles Dodgers,43-17,60,43,17,0.717,,NL,N,A,COVID-shortened season; WS champions
+2021,Atlanta Braves,88-73,162,88,73,0.549,,NL,N,A,2021 WS champions
+2023,Atlanta Braves,104-58,162,104,58,0.642,,NL,N,A,Most wins in NL across all leagues
+2024,Los Angeles Dodgers,98-64,162,98,64,0.605,,NL,N,A,NL champions; WS champions
+2025,Los Angeles Dodgers,96-66,162,96,66,0.593,,NL,N,A,NL champions; WS champions (9th title)
