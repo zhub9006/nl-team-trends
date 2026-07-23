@@ -1,12 +1,8 @@
-team1,team2,t1_wins,t2_wins,t1_win_pct,era_dominant
-LA Dodgers,Chicago Cubs,278,122,0.695,LA Dodgers (2016–present)
-LA Dodgers,SF Giants,272,246,0.523,LA Dodgers (2010s–present)
-St. Louis Cardinals,Chicago Cubs,1315,1185,0.525,St. Louis (1900s–1990s)
-St. Louis Cardinals,Pittsburgh Pirates,1423,927,0.606,St. Louis (1920s–1980s)
-Chicago Cubs,Cincinnati Reds,1209,1074,0.530,Chicago (1900s–1910s)
-Atlanta Braves,NY Mets,290,237,0.550,Atlanta (1990s–2000s)
-Cincinnati Reds,Atlanta Braves,1068,1338,0.441,Atlanta (1990s–2000s)
-SF Giants,Chicago Cubs,1295,1330,0.492,Even (pre-1958 Giants had edge)
-St. Louis Cardinals,LA Dodgers,508,437,0.538,St. Louis (1960s–1980s)
-NY Mets,Philadelphia Phillies,2110,2116,0.500,Essentially even over 60+ seasons
-St. Louis Cardinals,Philadelphia Phillies,1896,956,0.494,Phillies slight edge (1960s–2000s)
+team_1,team_2,t1_wins,t2_wins,t1_win_pct,total_games,era_dominant
+Los Angeles Dodgers,Chicago Cubs,278,122,0.695,400,Los Angeles Dodgers (2016-present)
+St. Louis Cardinals,Chicago Cubs,1315,1185,0.525,2500,St. Louis (1900s-1990s)
+Los Angeles Dodgers,San Francisco Giants,272,246,0.523,518,Los Angeles Dodgers (2010s-present)
+Chicago Cubs,Cincinnati Reds,1209,1074,0.530,2283,Chicago (1900s-1910s)
+Atlanta Braves,New York Mets,290,237,0.550,527,Atlanta (1990s-2000s)
+St. Louis Cardinals,Pittsburgh Pirates,1423,927,0.606,2350,St. Louis (1920s-1980s)
+St. Louis Cardinals,Los Angeles Dodgers,508,437,0.538,945,St. Louis (1960s-1980s)
