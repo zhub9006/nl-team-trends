@@ -1,0 +1,151 @@
+year,team,games,wins,losses,win_pct,division,ws_result,pennant,notes
+1876,Chicago White Stockings,66,52,14,0.788,,NL Champion,Yes,First NL champion inaugural season
+1877,Chicago,78,50,28,0.641,,NL Champion,Yes,Second straight championship
+1878,Boston Red Stockings,84,51,33,0.607,,NL Champion,Yes,First NL title for Boston
+1879,Providence Grays,84,59,25,0.702,,NL Champion,Yes,
+1880,Chicago White Stockings,84,67,17,0.798,,NL Champion,Yes,
+1881,Chicago White Stockings,84,56,28,0.667,,NL Champion,Yes,
+1882,Chicago White Stockings,84,55,29,0.655,,NL Champion,Yes,
+1883,Providence Grays,98,58,40,0.592,,NL Champion,Yes,
+1884,New York Metropolitans,96,88,8,0.917,,NL Champion,Yes,Formerly AA then moved to NL
+1885,Chicago White Stockings,112,87,25,0.777,,NL Champion,Yes,Back-to-back only 15 losses all year
+1886,Chicago White Stockings,112,90,22,0.725,,NL Champion,Yes,Third consecutive title
+1887,Detroit Wolverines,72,28,44,0.389,,NL Champion,Yes,EW series; different from AL team
+1888,New York Giants,70,44,26,0.629,,NL Champion,Yes,
+1889,New York Giants,112,83,29,0.732,,NL Champion,Yes,
+1890,Boston Beaneaters,126,81,45,0.643,,NL Champion,Yes,
+1891,Boston Beaneaters,135,87,48,0.644,,NL Champion,Yes,
+1892,Boston Beaneaters,149,102,47,0.685,,NL Champion,Yes,First 154-game era begins
+1893,Cleveland Spiders,126,92,34,0.730,,NL Champion,Yes,Dead Ball era begins
+1894,Baltimore Orioles,126,89,37,0.706,,NL Champion,Yes,First of three consecutive
+1895,Baltimore Orioles,126,87,39,0.690,,NL Champion,Yes,Second consecutive pennant
+1896,Baltimore Orioles,126,90,36,0.714,,NL Champion,Yes,Three-peat dynasty
+1897,Baltimore Orioles,126,95,31,0.754,,NL Champion,Yes,Final year before dissolution
+1898,Boston Beaneaters,126,102,24,0.810,,NL Champion,Yes,Most wins in 126-game era to that point
+1899,Baltimore Orioles (merged),126,96,28,0.771,,NL Champion,No,Foiler franchise dissolved after 1899
+1900,Brooklyn Superbas,135,82,53,0.607,,NL Champion,Yes,Runaway NL season
+1901,Pittsburgh Pirates,138,90,49,0.652,,NL Champion,Yes,
+1902,Pittsburgh Pirates,138,103,36,0.746,,NL Champion,Yes,Most NL wins in 154G era yet established
+1903,Brooklyn Superbas,133,65,66,0.496,,NL Champion,Lost WS,Lost to Boston Americans
+1904,New York Giants,154,106,47,0.688,,NL Champion,No WS,Refused to play AL champion
+1905,New York Giants,154,105,48,0.682,,NL Champion,Won WS,Beat Philadelphia Athletics
+1906,Chicago Cubs,155,116,36,0.763,CC,,NL Champion,No WS,Best NL season ever 116 wins in 155 games
+1907,Chicago Cubs,154,107,45,0.695,CC,,NL Champion,Won WS,Back-to-back beat Detroit Tigers
+1908,Chicago Cubs,154,99,55,0.643,CC,,NL Champion,Won WS,Third straight; first Cubs WS title
+1909,Pittsburgh Pirates,154,110,42,0.727,,NL Champion,No WS,Most NL wins in 154G era 110
+1910,Chicago Cubs,154,104,50,0.675,CC,,NL Champion,No WS,Highest NL win total but lost WS
+1911,New York Giants,154,99,54,0.649,,NL Champion,No WS,
+1912,New York Giants,154,103,48,0.669,,NL Champion,No WS,
+1913,New York Giants,154,101,51,0.662,,NL Champion,No WS,Three-peat Giants dynasty ends
+1914,Boston Braves (Miracle),154,94,59,0.610,,NL Champion,Won WS,26-game midseason turnaround
+1915,Philadelphia Phillies,154,108,43,0.658,,NL Champion,No WS,First NL pennant for Phillies decades
+1916,Brooklyn Robins,154,94,59,0.610,,NL Champion,No WS,Early Dodgers era begins
+1917,New York Giants,154,98,56,0.636,,NL Champion,Won WS,Beat Boston Red Sox in WS
+1918,Boston Braves,128,53,71,0.427,,NL Champion,No WS,WWI shortened season
+1919,Cincinnati Reds,140,96,44,0.686,,NL Champion,Won WS,First WS title after Black Sox scandal
+1920,Brooklyn Robins,154,93,61,0.604,,NL Champion,No WS,Go-Go Dodgers era begins
+1921,New York Giants,154,94,59,0.610,,NL Champion,No WS,Lost WS to NY Yankees
+1922,New York Giants,154,93,61,0.604,,NL Champion,No WS,Back-to-back pennants
+1923,Cincinnati Reds,155,91,63,0.587,,NL Champion,Won WS,Won first WS in 8 years
+1924,New York Giants,155,93,60,0.600,,NL Champion,No WS,3rd NL title in 4 years
+1925,Pittsburgh Pirates,155,95,58,0.621,,NL Champion,No WS,Sudden leadership shift
+1926,St. Louis Cardinals,154,89,65,0.578,,NL Champion,Won WS,First Cardinals WS title
+1927,New York Giants,154,92,62,0.597,,NL Champion,No WS,2nd most wins but no pennant
+1928,St. Louis Cardinals,154,95,59,0.617,,NL Champion,No WS,Back-to-back NL Central titles
+1929,Chicago Cubs,154,98,56,0.636,,NL Champion,No WS,Highest NL win total this decade
+1930,St. Louis Cardinals,154,92,62,0.597,,NL Champion,No WS,Cardinals dynasty regroups
+1931,St. Louis Cardinals,154,101,53,0.656,,NL Champion,Won WS,Cardinal dynasty core formation
+1932,Chicago Cubs,154,90,64,0.584,,NL Champion,No WS,Reasserts NL Central dominance
+1933,New York Giants,151,91,61,0.603,,NL Champion,No WS,Giants dynasty reassertion era
+1934,St. Louis Cardinals,154,95,58,0.617,,NL Champion,Won WS,Gashouse Gang peak
+1935,Chicago Cubs,154,100,54,0.649,,NL Champion,No WS,NL record 1112 runs scored
+1936,New York Giants,154,92,62,0.597,,NL Champion,No WS,Post-McGraw transition
+1937,New York Giants,154,95,57,0.617,,NL Champion,No WS,
+1938,Chicago Cubs,154,89,64,0.584,,NL Champion,No WS,
+1939,Cincinnati Reds,154,97,57,0.630,,NL Champion,No WS,Big Red Machine pre-cursor
+1940,Cincinnati Reds,154,100,53,0.649,,NL Champion,Won WS,2nd Reds WS title
+1941,Brooklyn Dodgers,154,100,54,0.649,,NL Champion,No WS,100 wins for Brooklyn
+1942,St. Louis Cardinals,154,106,48,0.688,,NL Champion,Won WS,Backbone WS title
+1943,St. Louis Cardinals,154,105,49,0.682,,NL Champion,No WS,Second consecutive pennant
+1944,St. Louis Cardinals,155,105,49,0.677,,NL Champion,No WS,War-tight pennant race
+1945,Chicago Cubs,154,98,56,0.636,,NL Champion,No WS,
+1946,St. Louis Cardinals,154,96,58,0.623,,NL Champion,Won WS,Beat Boston Red Sox in WS
+1947,Boston Braves,154,86,68,0.558,,NL Champion,No WS,Final Boston Braves season
+1948,Boston Braves,154,91,62,0.596,,NL Champion,No WS,
+1949,Brooklyn Dodgers,154,97,57,0.630,,NL Champion,No WS,4th pennant in 5 years
+1950,New York Giants,154,86,68,0.558,,NL Champion,No WS,
+1951,New York Giants,154,98,59,0.636,,NL Champion,Won WS,Shot Heard Round the World
+1952,Brooklyn Dodgers,154,98,56,0.636,,NL Champion,No WS,Back-to-back Dodgers pennants
+1953,Brooklyn Dodgers,154,105,49,0.682,,NL Champion,No WS,Dynasty Brooklyn Dodgers height
+1954,New York Giants,154,97,57,0.630,,NL Champion,Won WS,Beat Indians dynasty reassertion
+1955,Brooklyn Dodgers,154,98,55,0.636,,NL Champion,Won WS,First Brooklyn WS title beat Yankees
+1956,Brooklyn Dodgers,154,93,61,0.604,,NL Champion,No WS,Final Brooklyn season before LA move
+1957,Boston Braves,154,84,69,0.545,,NL Champion,No WS,Final Boston season before Milwaukee
+1958,Milwaukee Braves,154,84,70,0.545,,NL Champion,No WS,First season after Milwaukee relocation
+1959,Los Angeles Dodgers,154,88,66,0.571,,NL Champion,No WS,First season after LA relocation
+1960,Pittsburgh Pirates,154,95,59,0.617,,NL Champion,Won WS,Beat Yankees in WS
+1961,Cincinnati Reds,162,93,69,0.574,,NL Champion,No WS,First 162-game season era begins
+1962,Los Angeles Dodgers,162,102,60,0.630,,NL Champion,No WS,Transition to Dodgers dynasty
+1963,Los Angeles Dodgers,162,99,63,0.611,,NL Champion,No WS,
+1964,St. Louis Cardinals,162,93,69,0.574,,NL Champion,No WS,
+1965,Los Angeles Dodgers,162,97,65,0.599,,NL Champion,No WS,
+1966,Los Angeles Dodgers,162,95,67,0.586,,NL Champion,No WS,
+1967,St. Louis Cardinals,162,101,61,0.623,,NL Champion,No WS,
+1968,St. Louis Cardinals,162,97,65,0.599,,NL Champion,No WS,
+1969,New York Mets,162,100,62,0.617,,NL Champion,Won WS,Miracle Mets worst-to-first
+1970,Cincinnati Reds,162,102,60,0.630,,NL Champion,No WS,Big Red Machine dynasty begins
+1971,Pittsburgh Pirates,162,97,65,0.599,,NL Champion,Won WS,Beat Orioles in WS
+1972,Cincinnati Reds,155,95,59,0.613,,NL Champion,Won WS,Big Red Machine first NL WS title
+1973,Cincinnati Reds,162,99,63,0.611,,NL Champion,No WS,
+1974,Los Angeles Dodgers,162,102,60,0.630,,NL Champion,No WS,
+1975,Cincinnati Reds,162,108,54,0.667,,NL Champion,Won WS,Big Red Machine peak beat Yankees
+1976,Cincinnati Reds,162,102,60,0.630,,NL Champion,Won WS,Back-to-back NL champions
+1977,Los Angeles Dodgers,162,98,64,0.605,,NL Champion,No WS,4th NL West pennant in decade
+1978,Los Angeles Dodgers,162,88,73,0.537,,NL Champion,No WS,Wild card edge sufficient
+1979,Pittsburgh Pirates,162,98,64,0.605,,NL Champion,Won WS,Stargell era beat Orioles in WS
+1980,Philadelphia Phillies,162,91,71,0.562,,NL Champion,No WS,First Phillies NL pennant decades
+1981,Los Angeles Dodgers,106,63,43,0.594,,NL Champion,Won WS,Wild card strike-shortened beat Yankees
+1982,St. Louis Cardinals,162,92,70,0.568,,NL Champion,Won WS,Cardinals resurgent
+1983,Philadelphia Phillies,162,90,72,0.556,,NL Champion,No WS,Back-to-back NL pennant
+1984,San Diego Padres,162,92,70,0.568,,NL Champion,No WS,First NL pennant for Padres
+1985,St. Louis Cardinals,162,101,61,0.623,,NL Champion,Won WS,Cardinals win WS
+1986,New York Mets,162,108,54,0.667,,NL Champion,Won WS,Famous October comeback
+1987,St. Louis Cardinals,162,95,67,0.586,,NL Champion,No WS,
+1988,Los Angeles Dodgers,162,94,67,0.586,,NL Champion,No WS,
+1989,Chicago Cubs,162,93,69,0.574,,NL Champion,No WS,
+1990,Cincinnati Reds,162,91,71,0.562,,NL Champion,Won WS,First Reds title since 1976
+1991,Atlanta Braves,162,94,68,0.580,,NL Champion,No WS,14-division streak begins
+1992,Atlanta Braves,162,98,64,0.605,,NL Champion,No WS,
+1993,Philadelphia Phillies,162,97,65,0.599,,NL Champion,No WS,
+1994,Montreal Expos,64,74,,0.563,,NL Champion,No WS,Season cancelled by strike (best record)
+1995,Atlanta Braves,144,90,54,0.625,,NL Champion,No WS,14-division streak begins; Maddux
+1996,Atlanta Braves,162,96,66,0.593,,NL Champion,No WS,
+1997,Florida Marlins,162,92,70,0.568,,NL Champion,Won WS,First expansion team to win WS
+1998,Arizona Diamondbacks,162,100,62,0.617,,NL Champion,No WS,2nd-year team championship
+1999,Atlanta Braves,162,103,59,0.636,,NL Champion,No WS,
+2000,New York Mets,162,94,68,0.580,,NL Champion,No WS,Subway Series lost WS to Yankees
+2001,Arizona Diamondbacks,162,92,70,0.568,,NL Champion,Won WS,2nd-year dynasty beat Yankees
+2002,Atlanta Braves,162,101,59,0.630,,NL Champion,No WS,
+2003,Florida Marlins,162,91,71,0.562,,NL Champion,Won WS,Beat Yankees in WS
+2004,St. Louis Cardinals,162,105,57,0.648,,NL Champion,No WS,Lost WS to Red Sox
+2005,St. Louis Cardinals,162,100,62,0.617,,NL Champion,No WS,
+2006,St. Louis Cardinals,162,83,78,0.515,,NL Champion,Won WS,83 wins lowest to win WS
+2007,Colorado Rockies,162,90,73,0.550,,NL Champion,No WS,Beat Red Sox in WS 21-0 NLCS
+2008,Philadelphia Phillies,162,92,70,0.568,,NL Champion,No WS,
+2009,Philadelphia Phillies,162,93,69,0.574,,NL Champion,No WS,
+2010,San Francisco Giants,162,92,70,0.568,,NL Champion,Won WS,Beat Rangers beat Yankees
+2011,St. Louis Cardinals,162,90,72,0.556,,NL Champion,Won WS,Beat Rangers in WS NL CS comeback
+2012,San Francisco Giants,162,94,68,0.580,,NL Champion,Won WS,3 titles in 5 years beat Tigers
+2013,St. Louis Cardinals,162,97,65,0.599,,NL Champion,No WS,
+2014,San Francisco Giants,162,88,74,0.543,,NL Champion,Won WS,Beat Royals in WS
+2015,New York Mets,162,90,72,0.556,,NL Champion,No WS,Lost WS to Royals
+2016,Chicago Cubs,162,103,58,0.636,,NL Champion,Won WS,Broke 108-year drought beat Indians
+2017,Los Angeles Dodgers,162,104,58,0.642,,NL Champion,No WS,Most NL wins but lost WS to Astros
+2018,Los Angeles Dodgers,162,92,71,0.568,,NL Champion,No WS,106 wins but lost WS to Red Sox
+2019,Washington Nationals,162,93,69,0.574,,NL Champion,Won WS,Beat Astros in WS 1st title ever
+2020,Los Angeles Dodgers,60,43,17,0.717,,NL Champion,Won WS,Best shortened season beat Rays
+2021,Atlanta Braves,162,88,73,0.549,,NL Champion,No WS,Beat Astros in WS
+2022,Los Angeles Dodgers,162,111,51,0.685,,NL Champion,No WS,Most NL wins (111) lost WS to Astros
+2023,Los Angeles Dodgers,162,100,62,0.617,,NL Champion,No WS,Lost WS to Rangers
+2024,Los Angeles Dodgers,162,98,64,0.605,,NL Champion,Won WS,Beat Yankees back-to-back
+2025,Los Angeles Dodgers,162,96,66,0.593,,NL Champion,Won WS,Beat Blue Jays 3rd straight West
