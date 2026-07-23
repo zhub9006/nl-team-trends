@@ -1,0 +1,30 @@
+{
+  "description": "Comprehensive National League season-by-season data 1876-2025 with key seasons highlighted and era annotations",
+  "source": "Compiled from Baseball-Reference.com/leagues/NL, Baseball Almanac, and Baseball Data Hub",
+  "last_updated": "2026-07-22",
+  "eras": {
+    "dead_ball_early": {"start": 1876, "end": 1900, "games_range": [60, 112], "notes": "NL founded with 8 teams; expanded to 12 in 1900; varied schedules from 60-112 games"},
+    "dead_ball": {"start": 1901, "end": 1920, "games_range": [126, 154], "notes": "Standard 154-game era begins; NY Giants and Boston/Chicago teams dominant"},
+    "power_transition": {"start": 1920, "end": 1940, "games_range": [154], "notes": "St. Louis Cardinals dynasty begins (5 pennants in 1920s); Cubs, Giants, Brooklyn competitive"},
+    "postwar_modern": {"start": 1941, "end": 1960, "games_range": [154], "notes": "Cardinals dynasty 1940s-60s (9 pennants); Dodgers/Giants rivalry; franchise relocation 1958"},
+    "expansion": {"start": 1961, "end": 1980, "games_range": [162], "notes": "162-game schedule begins 1962; NL expands to 16 teams 1969; Miracle Mets, Big Red Machine"},
+    "rivalries_modern": {"start": 1981, "end": 2000, "games_range": [162], "notes": "Braves dynasty 14 straight division titles 1991-2005; 1994 strike cancels season"},
+    "contemporary": {"start": 2001, "end": 2015, "games_range": [162], "notes": "Cardinals, Giants, D-backs cycling pennants; Cubs drought ends 2016; Dodgers emergence"},
+    "recent": {"start": 2016, "end": 2025, "games_range": [162], "notes": "Modern Dodgers dynasty; 6 pennants 2016-2025; 8 straight NL West 2013-2020 and 2022-2025; 9th Dodgers WS title 2025"}
+  },
+  "key_seasons": [
+    {"year": 1876, "season_games": 70, "nl_champion": "Chicago White Stockings", "nl_wins": 52, "nl_losses": 14, "nl_win_pct": 0.786, "ws_champion": "None (pre-WS era)", "era": "dead_ball_early", "notes": "First NL season"},
+    {"year": 1906, "season_games": 154, "nl_champion": "Chicago Cubs", "nl_wins": 116, "nl_losses": 36, "nl_win_pct": 0.763, "ws_champion": "Chicago White Sox (AL)", "era": "dead_ball", "notes": "Best single-season NL record (116-36 .763)"},
+    {"year": 1969, "season_games": 162, "nl_champion": "New York Mets", "nl_wins": 100, "nl_losses": 62, "nl_win_pct": 0.617, "ws_champion": "New York Mets (beat Orioles)", "era": "expansion", "notes": "Miracle Mets 1st pennant since 1920"},
+    {"year": 1986, "season_games": 162, "nl_champion": "New York Mets", "nl_wins": 108, "nl_losses": 54, "nl_win_pct": 0.667, "ws_champion": "New York Mets (beat Red Sox)", "era": "rivalries_modern", "notes": "108-win Mets; Mookie Wilson error/Ray Knight heroics"},
+    {"year": 2016, "season_games": 162, "nl_champion": "Chicago Cubs", "nl_wins": 103, "nl_losses": 58, "nl_win_pct": 0.640, "ws_champion": "Chicago Cubs (beat Indians)", "era": "contemporary", "notes": "Ended 108-year championship drought"},
+    {"year": 2020, "season_games": 60, "nl_champion": "Los Angeles Dodgers", "nl_wins": 43, "nl_losses": 17, "nl_win_pct": 0.717, "ws_champion": "Los Angeles Dodgers (beat Rays)", "era": "recent", "notes": "COVID 60-game season; most dominant Dodgers ever"},
+    {"year": 2025, "season_games": 162, "nl_champion": "Los Angeles Dodgers", "nl_wins": 96, "nl_losses": 66, "nl_win_pct": 0.593, "ws_champion": "Los Angeles Dodgers (beat Blue Jays)", "era": "recent", "notes": "Back-to-back WS titles; 9th Dodgers WS title"}
+  ],
+  "team_lookup": {
+    "CHC": "Chicago Cubs", "LAD": "Los Angeles Dodgers", "SFG": "San Francisco Giants", "STL": "St. Louis Cardinals",
+    "ATL": "Atlanta Braves", "CIN": "Cincinnati Reds", "PIT": "Pittsburgh Pirates", "NYM": "New York Mets",
+    "PHI": "Philadelphia Phillies", "MIA": "Miami Marlins", "ARI": "Arizona Diamondbacks", "WAS": "Washington Nationals",
+    "MIL": "Milwaukee Brewers", "COL": "Colorado Rockies", "SDN": "San Diego Padres"
+  }
+}
