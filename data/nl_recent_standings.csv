@@ -1,13 +1,7 @@
-year,era,NL_champion,ws_result,champion_record,NL_East_1,NL_Central_1,NL_West_1,strike_postseason
-2025,Modern Era,LA Dodgers,Won WS 4–3 vs TOR,96-66,Philadelphia, Milwaukee, Los Angeles,
-2024,Modern Era,LA Dodgers,Won WS 4–1 vs NYY,98-64,Atlanta, Milwaukee, Los Angeles,
-2023,Modern Era,Atlanta Braves,Lost WS 1–4 vs TEX,104-58,Atlanta, Milwaukee, Los Angeles,
-2022,Modern Era,St. Louis Cardinals,Lost WS 3–4 vs HOU,93-69,Philadelphia, St. Louis, Los Angeles,
-2021,Modern Era,Atlanta Braves,Won WS 4–2 vs HOU,88-73,Atlanta, Milwaukee, San Francisco,
-2020,Modern Era,LA Dodgers,Won WS 4–2 vs TB,43-17,Atlanta, St. Louis, Los Angeles,Strike started Aug 12
-2019,Modern Era,Wash Nationals,Lost WS 1–4 vs HOU,93-69,Atlanta, St. Louis, LA Dodgers,
-2018,Modern Era,Los Angeles Dodgers,Lost WS 1–4 vs BOS,92-71,Atlanta, Milwaukee, LA Dodgers,
-2017,Modern Era,Los Angeles Dodgers,Lost WS 1–4 vs HOU,104-58,Atlanta, Chicago, LA Dodgers,
-2016,Modern Era,Chicago Cubs,Won WS 4–3 vs CLE,103-58,Atlanta, Chicago, LA Dodgers,
-2015,Modern Era,St. Louis Cardinals,Lost WS 1–4 vs KC,100-62,Atlanta, St. Louis, LA Dodgers,
-2014,Modern Era,San Francisco Giants,Won WS 4–3 vs KC,88-74,Atlanta, St. Louis, LA Dodgers
+year,division,team,wins,losses,win_pct,finish,playoff_result,ws_result
+2025,West,Los Angeles Dodgers,96,66,0.593,1st,Beat Phillies NLDS 3-0; Beat Brewers NLCS 4-3,Dodgers beat Blue Jays 4-3 in WS
+2024,West,Los Angeles Dodgers,98,64,0.605,1st,Beat Padres NLDS 3-2; Beat Phillies NLCS 4-1,Dodgers beat Yankees 4-1 in WS
+2023,Central,Atlanta Braves,104,58,0.642,1st,Beat Phillies NLDS 3-1; Beat D-backs NLCS 4-3,Lost WS to Rangers 4-1
+2022,Central,St. Louis Cardinals,93,69,0.574,1st,Beat Padres NLDS 3-1; Beat Dodgers NLCS 4-3,Lost to Rangers 4-1 in WS
+2021,Central,Atlanta Braves,88,73,0.547,1st,Beat Brewers NLDS 3-1; Beat Dodgers NLCS 4-2,Beat Astros 4-2 in WS (Champion)
+2020,West,Los Angeles Dodgers,43,17,0.717,1st,Beat Brewers NLDS 3-0; Beat Braves NLCS 4-3,Beat Rays 4-2 in WS (Champion)
