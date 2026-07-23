@@ -1,24 +1,16 @@
-category,team,value,season,notes
-franchise_wins,St. Louis Cardinals,10633,,Most NL wins all-time
-franchise_wins,Los Angeles Dodgers,11176,,Most NL wins (current name)
-franchise_losses,Philadelphia Phillies,11435,,Most NL losses
-franchise_losses,Atlanta Braves,11075,,Most NL losses (current name)
-highest_win_pct,San Francisco Giants,0.535,,Highest all-time winning pct (1500+ games)
-highest_win_pct,Los Angeles Dodgers,0.532,,2nd highest all-time w%
-lowest_win_pct,Miami Marlins,0.462,,Lowest winning pct among 15+ season franchises
-most_games,Chicago Cubs,22513,,Most games played in NL
-most_games,Atlanta Braves,22474,,2nd most NL games
-most_ws_titles,St. Louis Cardinals,11,,Most NL World Series titles
-most_pennants,Los Angeles Dodgers,26,,Most NL pennants
-most_pennants,San Francisco Giants,24,,2nd most NL pennants
-longest_dynasty,Atlanta Braves,"14 div titles (1991-2005)",,"Longest consecutive division title run in NL"
-longest_drought,Chicago Cubs,"108 years (1945-2016)",,"Longest WS title drought in NL"
-most_consecutive_ws,St. Louis Cardinals,"3 WS titles (2006,2011,2015)",,"Most WS titles in any 8-year span"
-most_recent_ws,Los Angeles Dodgers,2025,,Most recent NL WS champion
-best_short_season,Los Angeles Dodgers,0.717,2020,"Best win% in 60-game COVID season"
-best_full_season,Chicago Cubs,0.763,1906,"Best win% in a 154-game season (116-36)"
-best_modern_season,Atlanta Braves,0.642,2023,"Best win% in 162-game season (104-58)"
-most_h2h_dominance,St. Louis Cardinals vs Pittsburgh,0.606,"1423-927 (1876-2026)","Most one-sided H2H rivalry in NL"
-most_even_h2h,NY Mets vs Philadelphia Phillies,0.500,"2110-2116 (1876-2026)","Most evenly split H2H in NL (2100+ games)"
-biggest_modern_h2h_gap,LA Dodgers vs Chicago Cubs,0.695,"278-122 (1876-2026)","Largest H2H edge in modern era"
-most_pennants_1990s,Atlanta Braves,"13 pennants (1991-2005)",,"Most pennants in any decade since 1900"
+category,record_holder,value,year,details
+Most NL regular-season wins,San Francisco Giants,11663,through 2025,Oldest franchise continuous presence; includes NY Giants era
+Highest NL winning percentage (1500+ games),LA Dodgers / SF Giants,0.532 / 0.535,through 2025,Dodgers .532; Giants .535
+Most NL pennants,Los Angeles Dodgers,26,through 2025,Includes Brooklyn Dodger pennants
+Most NL World Series titles,St. Louis Cardinals,11,through 2025,NL record for championships
+Biggest single-season wins,Chicago Cubs,116,1906,155-game season; tied AL record (1906 A's)
+Longest championship drought,Chicago Cubs,108 years,1908-2016,Longest drought in North American pro sports
+Longest consecutive division titles,Atlanta Braves,14,1991-2005,NL East; record for consecutive division titles in any MLB division
+Longest winning streak (single season),Los Angeles Dodgers,19 games,2024,NL record; includes 10-0 start to end of July
+Longest losing streak (single season),Cleveland (NL-era),28,1899,NL record for consecutive losses
+Most consecutive .500+ seasons,Saint Louis Cardinals,most seasons in NL,through 2025,Cards have the longest streak of winning seasons
+Oldest NL franchise,Philadelphia Phillies,143 years,1876-present,Oldest continuous one-name one-city franchise in professional sports
+Most games played in NL,Chicago Cubs,22513,through 2025,Most games total across all seasons
+Highest single-season win pct (162-game season),Los Angeles Dodgers,0.717,2020,60-game COVID season; Dodgers at 43-17
+Most runs scored in a season,Chicago Cubs,1112,1935,NL record for runs scored in a season
+Most strikeouts in a season (team),Colorado Rockies,1310,1998,Most K's in a 162-game NL season

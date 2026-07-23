@@ -1,8 +1,23 @@
-team_1,team_2,t1_wins,t2_wins,t1_win_pct,total_games,era_dominant
-Los Angeles Dodgers,Chicago Cubs,278,122,0.695,400,Los Angeles Dodgers (2016-present)
-St. Louis Cardinals,Chicago Cubs,1315,1185,0.525,2500,St. Louis (1900s-1990s)
-Los Angeles Dodgers,San Francisco Giants,272,246,0.523,518,Los Angeles Dodgers (2010s-present)
-Chicago Cubs,Cincinnati Reds,1209,1074,0.530,2283,Chicago (1900s-1910s)
-Atlanta Braves,New York Mets,290,237,0.550,527,Atlanta (1990s-2000s)
-St. Louis Cardinals,Pittsburgh Pirates,1423,927,0.606,2350,St. Louis (1920s-1980s)
-St. Louis Cardinals,Los Angeles Dodgers,508,437,0.538,945,St. Louis (1960s-1980s)
+team_1,team_2,t1_wins,t2_wins,total_games,t1_win_pct,era_dominant,rivalry_type
+LA Dodgers,Chicago Cubs,278,122,400,0.695,LA Dodgers (2016-present),Sparnaker/modern
+St. Louis Cardinals,Chicago Cubs,1315,1185,2500,0.526,St. Louis (1900s-1990s),Historic NL central rivalry
+LA Dodgers,SF Giants,272,246,518,0.525,LA Dodgers (2010s-present),Transcontinental migration rivalry
+Chicago Cubs,Cincinnati Reds,1209,1074,2283,0.530,Chicago (1900s-1910s),NL central battle
+Atlanta Braves,NY Mets,290,237,527,0.550,Atlanta (1990s-2000s),NL East cold war
+St. Louis Cardinals,Pittsburgh Pirates,1423,927,2350,0.606,St. Louis (1920s-1980s),Most one-sided NL rivalry
+St. Louis Cardinals,LA Dodgers,508,437,945,0.538,St. Louis (1960s-1980s),Late 20th century battle
+SF Giants,Chicago Cubs,1295,1330,2625,0.493,Even (pre-1958 Giants had edge),Greatest rivalry by games
+Cincinnati Reds,Atlanta Braves,1068,1338,2406,0.441,Atlanta (1990s-2000s),Braves dynasty era
+St. Louis Cardinals,Philadelphia Phillies,1896,956,2852,0.494,Phillies slight edge (1960s-2000s),Phillies beating Cards surprise
+NY Mets,Philadelphia Phillies,2110,2116,4226,0.500,Essentially even over 60+ seasons,Most competitive NL rivalry
+LA Dodgers,Atlanta Braves,648,325,973,0.666,LA Dodgers (2010s-present),Modern dominant matchup
+LA Dodgers,Pittsburgh Pirates,667,305,972,0.686,LA Dodgers (2010s-present),
+NY Mets,Chicago Cubs,909,662,1571,0.579,Jets era,East vs Central
+Philadelphia Phillies,Atlanta Braves,645,943,1588,0.428,Atlanta dominance,Phillies record vs Atlanta
+Cincinnati Reds,Chicago Cubs,1074,1209,2283,0.471,Cubs slight edge,Central battle
+Pittsburgh Pirates,Chicago Cubs,1122,815,1937,0.580,Pirates (1920s-1970s),Pipeline rivalry
+Milwaukee Brewers,Chicago Cubs,716,568,1284,0.557,Brewers,2018-present Brewers advantage
+San Diego Padres,Los Angeles Dodgers,307,693,1000,0.287,LA Dodgers total dominance,Cross-city SoCal rivalry
+San Diego Padres,San Francisco Giants,418,582,1000,0.418,SF Giants,SoCal rivalry
+Arizona Diamondbacks,Los Angeles Dodgers,225,743,968,0.239,LAD total dominance,Wildcats vs Dodgers
+Colorado Rockies,Los Angeles Dodgers,254,438,692,0.355,LAD dominance,Black versus Purple
