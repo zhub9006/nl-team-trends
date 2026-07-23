@@ -87,39 +87,52 @@ The National League is baseball's oldest professional league, founded on **Febru
 | 2001–2015 | Cardinals, Giants, D-backs | Resurgence cycle; Cubs drought ending |
 | 2016–2025 | **Dodgers (3 pennants, 8 straight NL West)** | Modern Dodgers dynasty — 9th WS title (2025) |
 
-## Oakland
+## Division Title Leaders
 
-| Team | Division | Titles | Span |
-|------|----------|--------|------|
-| LA Dodgers | NL West | 26 | 1941–2025 (incl. Brooklyn era) |
-| Atlanta Braves | NL East | 18 | 1991–2023 |
-| Philadelphia Phillies | NL East | 13 | 1971–2025 |
-| St. Louis Cardinals | NL Central | 12 | 1956–2022 |
+| Division | Most Titles | Team | Count |
+|----------|------------|------|-------|
+| NL East | **Atlanta Braves** | 18 NL East titles (14 straight 1995–2005, 2018–2023) | 18 |
+| NL East | Philadelphia Phillies | 13 NL East titles | 13 |
+| NL Central | **St. Louis Cardinals** | 12 NL Central titles | 12 |
+| NL Central | Chicago Cubs | 6 NL Central titles (incl. 2016 WS) | 6 |
+| NL Central | Milwaukee Brewers | 6 NL Central titles (2021-25 run) | 6 |
+| NL West | **LA Dodgers** | 23 NL West titles (8 straight 2013–2020, 2022–2025) | 23 |
+| NL West | San Francisco Giants | 9 NL West titles | 9 |
+
+## Key H2H Rivalries (Baseball Almanac 1876–2026)
+| Team 1 | Team 2 | T1 Wins | T2 Wins | T1 Win% | Era Dominant |
+|--------|--------|---------|---------|---------|-------------|
+| LA Dodgers | Chicago Cubs | 278 | 122 | .695 | LA Dodgers (2016–present) |
+| St. Louis Cardinals | Chicago Cubs | 1,315 | 1,185 | .525 | St. Louis (1900s–1990s) |
+| LA Dodgers | SF Giants | 272 | 246 | .523 | LA Dodgers (2010s–present) |
+| Chicago Cubs | Cincinnati Reds | 1,209 | 1,074 | .530 | Chicago (1900s–1910s) |
+| Atlanta Braves | NY Mets | 290 | 237 | .550 | Atlanta (1990s–2000s) |
+| St. Louis Cardinals | Pittsburgh Pirates | 1,423 | 927 | .606 | St. Louis (1920s–1980s) |
 
 ## Repository Structure
 
 ```
 nl-team-trends/
-├── README.md                              ← This file — research overview & key findings
-├── LICENSE                                ← MIT License
-├── .gitignore                             ← Python/IDE ignore rules
-├── requirements.txt                       ← Python dependencies for analysis
+├── README.md
+├── LICENSE
+├── .gitignore
+├── requirements.txt
 ├── data/
-│   ├── nl_all_time_records.csv            ← All-time franchise records with W/L, pennants, WS titles
-│   ├── nl_pennant_winners.csv             ← Complete NL pennant winners 1876–2025
-│   ├── nl_championship_trends.csv         ← Championship highlights by era
-│   ├── nl_historical_performance.csv      ← Key season-by-season standings (18 classic seasons)
-│   ├── nl_notable_records.csv             ← Key single-season & franchise records
-│   ├── nl_recent_standings.csv            ← Divisional standings 2014–2025
-│   ├── nl_team_vs_team_summary.csv        ← H2H W-L summary matrix (key matchups)
-│   ├── nl_season_by_year.json             ← Comprehensive season-by-season data 1876-2025
-│   └── research_data_supplement.json      ← Extra research data (division titles, H2H insights)
+│   ├── nl_all_time_records.csv
+│   ├── nl_pennant_winners.csv
+│   ├── nl_championship_trends.csv
+│   ├── nl_historical_performance.csv
+│   ├── nl_notable_records.csv
+│   ├── nl_recent_standings.csv
+│   ├── nl_team_vs_team_summary.csv
+│   ├── nl_season_by_year.json
+│   └── research_data_supplement.json
 ├── docs/
-│   ├── source_references.md               ← Detailed source attribution & methodology
-│   └── data_notes.md                      ← Methodology, conventions & caveats
+│   ├── source_references.md
+│   └── data_notes.md
 ├── visualizations/
-│   └── README.md                          ← Visualization roadmap & Python code examples
-└── notebooks/                             ← (planned) analysis Jupyter notebooks
+│   └── README.md
+└── notebooks/
 ```
 
 ## Getting Started
@@ -157,10 +170,6 @@ h2h = pd.read_csv('data/nl_team_vs_team_summary.csv')
 seasonal = pd.read_csv('data/nl_historical_performance.csv')
 print(seasonal.head())
 
-# Pennant winners with WS results
-pennants = pd.read_csv('data/nl_pennant_winners.csv')
-print(pennants.groupby('era')['NL_champion'].count())
-
 # Season-by-season JSON data
 import json
 with open('data/nl_season_by_year.json') as f:
@@ -174,10 +183,10 @@ print(seasons['schedule_eras'])
 1. **NL Championship Timeline** — Interactive timeline showing pennant/WS winners by year, color-coded by team
 2. **Win-Loss Parity Chart** — Scatter plot of all 15 NL teams showing wins vs losses across all seasons
 3. **Era Dominance Heatmap** — Heatmap showing which team won each NL pennant by year, grouped by era
-4. **H2H Rivalry Network Graph** — Network visualization of the 24 key rivalry matchups with edge thickness proportional to games played
+4. **H2H Rivalry Network Graph** — Network visualization of the 24 key rivalry matchups
 5. **Division Title Winners Bar Chart** — Horizontal bar chart showing each team's division title count
-6. **Franchise Trajectory Sparklines** — Small multiples showing each team's season-by-season winning percentage over time
-7. **Single-Season Dominance Chart** — Bar chart of the top 10 single-season win totals across NL history
+6. **Franchise Trajectory Sparklines** — Small multiples of winning % over time
+7. **Single-Season Dominance Chart** — Bar chart of top 10 single-season win totals
 
 ### Quick Example (Matplotlib)
 ```python
@@ -204,7 +213,6 @@ Contributions welcome! Areas we'd love help with:
 - Creating Jupyter notebooks in `notebooks/` for systematic analysis
 - Adding player-level data to complement team records
 - Visualizing NL championship cycles and franchise trajectories
-- Downloading and importing the full Lahman Database CSV into structured data files
 
 ## License
 
