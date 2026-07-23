@@ -1,101 +1,109 @@
-# Visualization Roadmap
+# NL Team Trends — Visualization Roadmap
 
-This document outlines the planned visualizations and provides starter code for building interactive NL performance charts.
+## Overview
+This directory contains visualization plans, Python scripts, and output for all NL historical data visualizations.
 
 ## Planned Visualizations
 
 ### 1. NL Championship Timeline
-- Type: Interactive horizontal timeline
-- Data: nl_pennant_winners.csv or nl_season_by_year.json
-- Tool: Plotly or D3.js
-- Description: Color-coded timeline showing each NL pennant winner from 1876 to present
+- **Type**: Interactive horizontal bar chart / timeline
+- **Description**: Shows which team won the NL pennant each year from 1876–2025, color-coded by franchise
+- **Key Insight**: Reveals dynasty periods and competitive shifts across eras
+- **Tools**: Plotly or Matplotlib
 
 ### 2. Win-Loss Parity Chart
-- Type: Scatter plot
-- Data: nl_all_time_records.csv
-- Tool: Matplotlib or Seaborn
-- Description: Each dot represents an NL team; x-axis = losses, y-axis = wins
+- **Type**: Scatter plot (Wins vs Losses)
+- **Description**: All 15 NL teams plotted with their all-time W-L records
+- **Key Insight**: Shows the competitive balance/imbalance across the league
 
 ### 3. Era Dominance Heatmap
-- Type: Heatmap
-- Data: nl_pennant_winners.csv
-- Tool: Seaborn or Plotly
-- Description: Rows = eras, columns = teams, cell color = intensity of dominance
+- **Type**: Heatmap (Years × Teams)
+- **Description**: Each cell colored by which team won the NL pennant in that year
+- **Key Insight**: Visual dynasty identification and era transitions
 
 ### 4. H2H Rivalry Network Graph
-- Type: Network/force-directed graph
-- Data: nl_team_vs_team_summary.csv
-- Tool: NetworkX + Matplotlib or Plotly
-- Description: Nodes = teams, edges = rivalry matchups, edge thickness = total games
+- **Type**: Network/force-directed graph
+- **Description**: Nodes are NL teams, edges are H2H matchups weighted by game count
+- **Key Insight**: Reveals the most intense rivalries and lopsided matchups
 
 ### 5. Division Title Winners Bar Chart
-- Type: Horizontal bar chart
-- Data: research_data_supplement.json
-- Tool: Matplotlib
-- Description: Each bar shows total division titles for each team, grouped by division
+- **Type**: Horizontal grouped bar chart
+- **Description**: Division titles per team, grouped by division
+- **Key Insight**: Shows which divisions have been most shared vs. dominated
 
 ### 6. Franchise Trajectory Sparklines
-- Type: Faceted small multiples
-- Data: Lahman Database (full season-by-season)
-- Tool: Plotly or Matplotlib
-- Description: Each small chart shows one team's season-by-season winning percentage
+- **Type**: Small multiples of winning % over time
+- **Description**: One small line chart per team showing seasonal winning %
+- **Key Insight**: Franchise trajectories from founding to present
 
-### 7. Single-Season Dominance
-- Type: Bar chart
-- Data: nl_notable_records.csv + Lahman Database
-- Tool: Matplotlib
-- Description: Top 10 NL single-season win totals, with year and team labeled
+### 7. Single-Season Dominance Chart
+- **Type**: Bar chart (Top 15 single-season records)
+- **Description**: Top 15 single-season win totals in NL history
+- **Key Insight**: Statistically impossible seasons vs. realistic records
 
-## Visualization File Structure
+### 8. WS Title Timeline
+- **Type**: Gantt-style timeline
+- **Description**: Shows WS title droughts and clusters for each franchise
+- **Key Insight**: Cubs' 108-year drought, Dodgers' current run, etc.
 
-```
-visualizations/
-├── README.md
-├── charts/          ← Generated chart images
-├── notebooks/       ← Jupyter notebooks
-└── scripts/         ← Python scripts
-```
+### 9. H2H Pairwise Matrix Heatmap
+- **Type**: 15×15 heatmap (reordered by rivalry intensity)
+- **Description**: Full H2H W-L win percentage matrix
+- **Key Insight**: Visual identification of the most and least competitive rivalries
 
-## Starter Code Examples
+### 10. NL West Competitiveness Over Time
+- **Type**: Line chart (NL West parity over years)
+- **Description**: Shows spread in division standings width per year
+- **Key Insight**: NL West is the most competitive division (Dodgers-Giants-Padres)
 
-### Championship Timeline (Plotly)
-```python
-import pandas as pd
-import plotly.express as px
+## Quick Start (Matplotlib Example)
 
-pennants = pd.read_csv('data/nl_pennant_winners.csv')
-fig = px.timeline(pennants, x_start='year', x_end='year', y='NL_champion',
-                  color='NL_champion', title='NL Pennant Winners (1876-2025)')
-fig.update_yaxes(categoryorder='total ascending')
-fig.show()
-```
-
-### Win-Loss Parity Chart (Matplotlib)
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# Load data
 records = pd.read_csv('data/nl_all_time_records.csv')
-fig, ax = plt.subplots(figsize=(10, 7))
-ax.scatter(records['losses'], records['wins'], s=records['games']/100, alpha=0.7)
-for _, row in records.iterrows():
-    ax.annotate(row['team'], (row['losses'], row['wins']), fontsize=8)
-ax.set_xlabel('Losses')
-ax.set_ylabel('Wins')
-ax.set_title('NL Teams: Wins vs Losses (All-Time)')
+records = records.sort_values('ws_titles', ascending=False)
+
+# WS Titles chart
+fig, ax = plt.subplots(figsize=(10, 6))
+ax.barh(records['team'], records['ws_titles'], color='steelblue')
+ax.set_xlabel('World Series Titles')
+ax.set_title('NL Teams by World Series Titles (1876–2025)')
 plt.tight_layout()
-plt.savefig('charts/win_loss_parity.png', dpi=150)
+plt.savefig('charts/ws_titles_by_team.png', dpi=150)
+plt.show()
+
+# Winning percentage chart
+fig, ax = plt.subplots(figsize=(10, 6))
+records_sorted = records.sort_values('win_pct', ascending=True)
+ax.barh(records_sorted['team'], records_sorted['win_pct'], color='coral')
+ax.set_xlabel('All-Time Win Percentage')
+ax.set_title('NL Teams by All-Time Winning Percentage')
+ax.axvline(x=0.500, color='gray', linestyle='--', alpha=0.5)
+plt.tight_layout()
+plt.savefig('charts/win_pct_by_team.png', dpi=150)
+plt.show()
 ```
 
-### Era Heatmap (Seaborn)
-```python
-import pandas as pd
-import seaborn as sns
+## Required Python Packages
+See `requirements.txt` at root level:
+- pandas>=1.5.0
+- matplotlib>=3.6.0
+- seaborn>=0.12.0
+- plotly>=5.0.0
+- numpy>=1.23.0
+- requests>=2.28.0
 
-pennants = pd.read_csv('data/nl_pennant_winners.csv')
-pennants['era'] = pd.cut(pennants['year'], 
-    bins=[1875, 1900, 1920, 1940, 1960, 1980, 2000, 2015, 2026],
-    labels=['1876-1900', '1901-1920', '1921-1940', '1941-1960', '1961-1980', '1981-2000', '2001-2015', '2016-2025'])
-ct = pd.crosstab(pennants['era'], pennants['NL_champion'])
-sns.heatmap(ct, cmap='YlOrRd', annot=True, fmt='d')
-```
+## Output Directory
+Save chart PNGs to `charts/` directory:
+- `charts/ws_titles_by_team.png`
+- `charts/win_pct_by_team.png`
+- `charts/era_heatmap.png`
+- `charts/rivalry_network.png`
+- `charts/division_titles.png`
+- `charts/seasonal_trajectories.png`
+- `charts/single_season_dominance.png`
+- `charts/h2h_matrix.png`
+- `charts/nlwest_competitiveness.png`
