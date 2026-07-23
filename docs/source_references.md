@@ -1,68 +1,77 @@
-# NL Team Trends - Source References
+# Source References & Methodology
+
+This document provides detailed attribution and methodology notes for all data sources used in the nl-team-trends project.
 
 ## Primary Data Sources
 
-| Source | Description | Coverage | URL |
-|--------|-------------|----------|-----|
-| [Baseball Reference - NL](https://www.baseball-reference.com/leagues/NL/) | Year-by-year NL standings, team records, and leaders | 1876–present | https://www.baseball-reference.com/leagues/NL/ |
-| [Baseball Reference - MLB Team Wins](https://www.baseball-reference.com/leagues/majors/index.shtml) | MLB team wins records & year-by-year totals | 1901–present | https://www.baseball-reference.com/leagues/majors/index.shtml |
-| [Baseball Almanac - NL Team vs Team W-L](https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml) | NL franchise head-to-head breakdown 1876-present | 1876–2026 | https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml |
-| [Baseball Almanac - Year by Year](https://www.baseball-almanac.com/yearmenu.shtml) | Year-by-year NL history with standings and leaders | 1876–2026 | https://www.baseball-almanac.com/yearmenu.shtml |
-| [SABR - Lahman Database](https://sabr.org/lahman-database/) | Complete historical team/batting/pitching stats as CSV | 1871–2025 | https://sabr.org/lahman-database/ |
-| [Baseball Data Hub](https://baseballdatahub.com/seasons/) | Complete season standings archive | 1871–2026 | https://baseballdatahub.com/seasons/ |
-| [StatsCrew - NL](https://www.statscrew.com/baseball/l-NL) | NL rosters, standings & leaders for every season | 1876–present | https://www.statscrew.com/baseball/l-NL |
-| [Linger & Look - MLB History](https://www.lingerandlook.com/Names/BaseballStandings.php) | MLB league rankings 1901-present with W-L and % | 1901–present | https://www.lingerandlook.com/Names/BaseballStandings.php |
-| [StatMuse](https://www.statmuse.com/mlb) | NL championship leaders & franchise stats via query | 1876–2026 | https://www.statmuse.com/mlb |
-| [Champs or Chumps](https://champsorchumps.us/mlb) | Links to streak, drought, record, and team pages | 1901–present | https://champsorchumps.us/mlb |
-| [OpenIntro MLB Dataset](https://www.openintro.org/data/index.php?data=mlb_teams) | ML-ready CSV format MLB team data | Multi-year | https://www.openintro.org/data/index.php?data=mlb_teams |
-| [MLB Savant - Historical Stats](https://baseballsavant.mlb.com/visuals/historical-stats) | Statcast metrics and visual historical stats | 2015–present | https://baseballsavant.mlb.com/visuals/historical-stats |
-| [MLB Win-Loss Visualizer](https://inkandthunder.github.io/win-loss-visualizer/) | Year-over-year W-L visualization tool | 1894–present | https://inkandthunder.github.io/win-loss-visualizer/ |
+### 1. Baseball Almanac (https://www.baseball-almanac.com/)
+- Coverage: 1876–2026 (NL), 1901–2026 (AL)
+- Key URL: https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml
+- Data Used: Head-to-head W-L matrices (15×15), year-by-year standings, franchise records
+- Reliability: Primary source; updated daily during regular season
 
-## Key Data Notes & Conventions
+### 2. Baseball-Reference (https://www.baseball-reference.com/)
+- Coverage: 1876–present
+- Key URL: https://www.baseball-reference.com/leagues/NL/index.shtml
+- Data Used: Official NL standings, team statistics, awards, records
+- Reliability: Gold standard for baseball statistics
 
-### Schedule Eras
-- **1876-1891:** 126-game schedule (7 opponents x 12 games)
-- **1892-1897:** 154-game schedule (10 teams, varying opponent games)
-- **1898-1915:** ~154-game schedule (8 teams)
-- **1916-1960:** 154-game schedule (8 teams, each plays 22 games vs each)
-- **1961-1968:** NA (162-game schedule begins 1962 for NL)
-- **1969-1993:** 162-game schedule + divisional play
-- **1994-1992 (strike):** Season cut short; no full champion determined
-- **1995-present:** 162-game schedule (minus 2020: 60-game season)
+### 3. SABR Lahman Database (https://sabr.org/lahman-database/)
+- Coverage: 1871–2025 (including Negro Leagues)
+- Data Used: Complete season-by-season team/batting/pitching statistics
+- Reliability: Created by Sean Lahman; maintained by SABR
 
-### Team Name/Alias References
-- Chicago: White Stockings / Colts / Cubs
-- Boston: Red Stockings / Beaneaters / Braves
-- New York: Gothams / Giants
-- Brooklyn: Atlantics / Grooms / Bridegrooms / Robins / Dodgers
-- Pittsburgh: Alleghenys / Pirates
-- Cleveland: Blues / Spiders
-- St. Louis: Maroons / Cardinals
-- Louisville: Grays / Eclipse / Colonels
-- Providence: Grays
-- Buffalo: Bisons
-- Detroit: Wolverines
-- Milwaukee: Grays / Brewers
-- Indianapolis: Blues / Hoosiers
-- Washington: Nationals / Senators
-- Syracuse: Stars
-- Rochester: Broncos
-- Baltimore: Orioles
+### 4. Baseball Data Hub (https://baseballdatahub.com/)
+- Coverage: 1871–2026
+- Key URL: https://baseballdatahub.com/seasons/
+- Data Used: Complete season standings & stats archive
 
-### NL Expansion Timeline
-- **1883:** Philadelphia Phillies, Detroit Wolverines added
-- **1883:** New York Gothams added
-- **1884:** Brooklyn Atlantics added
-- **1892:** Cleveland Spiders, Cincinnati Reds added (return)
-- **1962:** New York Mets, Houston Colt .45s expanded
-- **1969:** San Diego Padres, Montreal Expos, Kansas City Royals, Seattle Pilots expanded
-- **1993:** Florida Marlins, Colorado Rockies expanded
-- **1998:** Arizona Diamondbacks expanded; Milwaukee Brewers moved from AL to NL
-- **2005:** Montreal Expos relocated to Washington Nationals
+### 5. StatsCrew (https://www.statscrew.com/)
+- Coverage: 1876–present (NL)
+- Key URL: https://www.statscrew.com/baseball/l-NL
+- Data Used: NL rosters, standings & leaders
 
-### Analysis Priority Questions
-1. Which teams have been the most historically dominant in the NL?
-2. How have franchise trajectories changed with city relocations?
-3. What era-based trends exist in NL competitive balance?
-4. How does pennant frequency compare to World Series success?
-5. What correlation exists between regular season wins and postseason outcomes?
+### 6. Champs or Chumps (https://champsorchumps.us/)
+- Coverage: 1876–present
+- Key URL: https://champsorchumps.us/mlb
+- Data Used: Win% rankings, droughts, streaks, postseason records
+
+### 7. MLB.com (https://www.mlb.com/)
+- Coverage: All years
+- Data Used: WS titles by team, franchise records, best single-season records
+- Reliability: Official MLB source
+
+### 8. Retrosheet (https://www.retrosheet.org/)
+- Coverage: 1871–present
+- Data Used: Box scores, team records, play-by-play data
+- Reliability: Community-maintained; extremely comprehensive
+
+### 9. ESPN (https://www.espn.com/)
+- Coverage: 1903–present
+- Key URL: https://www.espn.com/mlb/worldseries/history/winners
+- Data Used: World Series champions & results by year
+
+## Data Compilation Methodology
+
+1. All-time franchise records were compiled from multiple sources with cross-verification. Discrepancies are resolved using Baseball-Reference as the primary authority.
+2. Head-to-head W-L matrices come from Baseball Almanac's team-vs-team data.
+3. Championship trends are categorized by era based on pennant frequency and WS titles.
+4. Division title counts are sourced from Baseball-Reference historical standings.
+5. Recent standings (2014–2025) are based on official MLB season-end data.
+6. Notable records are cross-referenced across Baseball-Reference, Baseball Almanac, and MLB.com.
+
+## Data Conventions
+
+- Team names use the name most commonly associated with the era
+- Win-loss records are in W-L format (e.g., "103-58")
+- Win percentages are decimal values (e.g., 0.636)
+- "N/A" indicates the record did not exist or is not applicable
+- "Season cancelled" indicates the 1994 season was cut short by the players' strike
+- All data is through the end of the most recently completed season (2025)
+
+## Caveats
+
+- 19th-century records may differ across sources due to different counting methodologies
+- Relocated franchises are treated as continuous in most sources
+- Interleague play statistics are generally excluded from NL-only analyses
+- COVID-19 shortened seasons (2020: 60 games) are included but flagged in notes

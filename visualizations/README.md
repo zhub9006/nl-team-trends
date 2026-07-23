@@ -1,76 +1,101 @@
-# NL Team Trends - Visualization & Analytics Roadmap
+# Visualization Roadmap
 
-This directory contains the visualization plan and starter code for generating charts and dashboards from the NL historical performance data.
+This document outlines the planned visualizations and provides starter code for building interactive NL performance charts.
 
-## Purpose
+## Planned Visualizations
 
-Transform the compiled NL data into insightful visual narratives about team dominance, era transitions, and rivalry patterns in National League baseball (1876–2025).
+### 1. NL Championship Timeline
+- Type: Interactive horizontal timeline
+- Data: nl_pennant_winners.csv or nl_season_by_year.json
+- Tool: Plotly or D3.js
+- Description: Color-coded timeline showing each NL pennant winner from 1876 to present
 
-## Visualization Ideas
+### 2. Win-Loss Parity Chart
+- Type: Scatter plot
+- Data: nl_all_time_records.csv
+- Tool: Matplotlib or Seaborn
+- Description: Each dot represents an NL team; x-axis = losses, y-axis = wins
 
-### 1. Franchise Win-Loss Bar Chart
-Grouped horizontal bar chart of all-time NL franchise wins and losses.
+### 3. Era Dominance Heatmap
+- Type: Heatmap
+- Data: nl_pennant_winners.csv
+- Tool: Seaborn or Plotly
+- Description: Rows = eras, columns = teams, cell color = intensity of dominance
 
+### 4. H2H Rivalry Network Graph
+- Type: Network/force-directed graph
+- Data: nl_team_vs_team_summary.csv
+- Tool: NetworkX + Matplotlib or Plotly
+- Description: Nodes = teams, edges = rivalry matchups, edge thickness = total games
+
+### 5. Division Title Winners Bar Chart
+- Type: Horizontal bar chart
+- Data: research_data_supplement.json
+- Tool: Matplotlib
+- Description: Each bar shows total division titles for each team, grouped by division
+
+### 6. Franchise Trajectory Sparklines
+- Type: Faceted small multiples
+- Data: Lahman Database (full season-by-season)
+- Tool: Plotly or Matplotlib
+- Description: Each small chart shows one team's season-by-season winning percentage
+
+### 7. Single-Season Dominance
+- Type: Bar chart
+- Data: nl_notable_records.csv + Lahman Database
+- Tool: Matplotlib
+- Description: Top 10 NL single-season win totals, with year and team labeled
+
+## Visualization File Structure
+
+```
+visualizations/
+├── README.md
+├── charts/          ← Generated chart images
+├── notebooks/       ← Jupyter notebooks
+└── scripts/         ← Python scripts
+```
+
+## Starter Code Examples
+
+### Championship Timeline (Plotly)
+```python
+import pandas as pd
+import plotly.express as px
+
+pennants = pd.read_csv('data/nl_pennant_winners.csv')
+fig = px.timeline(pennants, x_start='year', x_end='year', y='NL_champion',
+                  color='NL_champion', title='NL Pennant Winners (1876-2025)')
+fig.update_yaxes(categoryorder='total ascending')
+fig.show()
+```
+
+### Win-Loss Parity Chart (Matplotlib)
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
 
-records = pd.read_csv('../data/nl_all_time_franchise_records.csv')
-records_sorted = records.sort_values('wins', ascending=True)
-
-fig, ax = plt.subplots(figsize=(12, 8))
-colors = ['#E31837' if x == 'Los Angeles Dodgers' else '#005A9C' if x == 'San Francisco Giants' else '#C41E3A' if x == 'St. Louis Cardinals' else '#2C2C54' for x in records_sorted['team']]
-bars = ax.barh(records_sorted['team'], records_sorted['wins'], color=colors, edgecolor='white')
-ax.set_xlabel('Total Wins')
-ax.set_title('All-Time NL Regular-Season Franchise Wins (through 2025)')
+records = pd.read_csv('data/nl_all_time_records.csv')
+fig, ax = plt.subplots(figsize=(10, 7))
+ax.scatter(records['losses'], records['wins'], s=records['games']/100, alpha=0.7)
+for _, row in records.iterrows():
+    ax.annotate(row['team'], (row['losses'], row['wins']), fontsize=8)
+ax.set_xlabel('Losses')
+ax.set_ylabel('Wins')
+ax.set_title('NL Teams: Wins vs Losses (All-Time)')
 plt.tight_layout()
-plt.savefig('nl_all_time_wins.png', dpi=150)
-plt.show()
+plt.savefig('charts/win_loss_parity.png', dpi=150)
 ```
 
-### 2. Win % by Era (Box Plot)
-Show NL champion win percentages grouped by era. Highlights how dominant eras produced extreme .700+ champions vs. recent low-.550 champions.
+### Era Heatmap (Seaborn)
+```python
+import pandas as pd
+import seaborn as sns
 
-### 3. Championship Drought Timeline
-Heatmap or Gantt-style interval chart showing years since each franchise's last World Series title.
-
-### 4. H2H Rivalry Heat Map
-Seaborn heatmap of the NL team-vs-team win-loss matrix — reveals which rivalries are most lopsided.
-
-### 5. Division Titles Over Time
-Stacked area/bar chart showing division titles won by franchise per decade.
-
-### 6. NL Pennant Winners by Year
-Faceted bar chart or chord diagram showing pennant winners by era.
-
-### 7. Single-Season Dominance Scatter
-Scatter plot of each NL champion's W-L record by season, highlighting outliers like the 1906 Cubs.
-
-### 8. Interactive Dashboard (Plotly/Dash)
-Interactive time-series with dropdown selectors for teams and tooltip hover for season details.
-
-## Data Files Used
-
-| File | Description |
-|------|-------------|
-| `../data/nl_all_time_franchise_records.csv` | All-time franchise records (15 NL teams) |
-| `../data/nl_historical_performance.csv` | Key season performances (27 seasons)\ |
-| `../data/nl_team_vs_team_summary.csv` | H2H rivalry summary (20 key matchups) |
-| `../data/nl_recent_standings.csv` | Divisional standings 2018–2025 |
-| `../data/nl_recent_championships.csv` | Recent championship results 2015–2025 |
-| `../data/season_by_year_sample.json` | Comprehensive JSON with era definitions |
-| `../data/nl_notable_records.csv` | Key records and milestones |
-| `../data/nl_division_title_leaders.csv` | Division title leaders by division |
-
-## Quick Start
-
-```bash
-cd ..
-pip install -r docs/requirements.txt
-python charts/visualize_wins.py
+pennants = pd.read_csv('data/nl_pennant_winners.csv')
+pennants['era'] = pd.cut(pennants['year'], 
+    bins=[1875, 1900, 1920, 1940, 1960, 1980, 2000, 2015, 2026],
+    labels=['1876-1900', '1901-1920', '1921-1940', '1941-1960', '1961-1980', '1981-2000', '2001-2015', '2016-2025'])
+ct = pd.crosstab(pennants['era'], pennants['NL_champion'])
+sns.heatmap(ct, cmap='YlOrRd', annot=True, fmt='d')
 ```
-
-## Additional Recommended Data Sources
-- SABR Lahman Database (CSV)
-- Baseball-Reference API
-- StatMuse / ESPN
