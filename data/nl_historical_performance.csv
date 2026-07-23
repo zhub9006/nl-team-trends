@@ -1,131 +1,23 @@
-year,era,division,team,wins,losses,win_pct,games_played,pennant,ws_result,notes
-1876,Founding Era,NL,Chicago White Stockings,52,14,0.788,66,Yes,"Won WS 4–1–1 vs Hartford",First NL season. Largest margin ever for a pennant winner.
-1876,Founding Era,NL,Hartford Dark Blues,47,21,0.691,68,No,,Founded as Hartford; signed Cap Anson
-1876,Founding Era,NL,St. Louis Brown Stockings,45,19,0.703,64,No,,Strong second-place finish
-1876,Founding Era,NL,Boston Red Caps,39,31,0.557,70,No,,
-1876,Founding Era,NL,Louisville Grays,30,36,0.455,66,No,,
-1876,Founding Era,NL,New York Mutuals,21,35,0.375,56,No,,
-1876,Founding Era,NL,Philadelphia Athletics,14,45,0.237,59,No,,Worst NL team in inaugural season
-1876,Founding Era,NL,Cincinnati Reds,9,56,0.138,65,No,,
-1877,Founding Era,NL,Boston Red Caps,42,18,0.700,60,Yes,"Won WS 4–2–1 vs Louisville",First repeat NL champion
-1877,Founding Era,NL,Chicago White Stockings,26,24,0.520,50,No,,
-1877,Founding Era,NL,Louisville Grays,21,25,0.457,46,No,,
-1877,Founding Era,NL,St. Louis Brown Stockings,20,28,0.417,48,No,,
-1878,Founding Era,NL,Providence Grays,33,12,0.733,45,Yes,"Won WS 4–1",Dominant pitching staff
-1878,Founding Era,NL,Boston Red Caps,41,23,0.641,64,No,,
-1878,Founding Era,NL,Chicago White Stockings,30,30,0.500,60,No,,
-1878,Founding Era,NL,Cincinnati Reds,15,42,0.263,57,No,,
-1879,Founding Era,NL,Providence Grays,59,25,0.702,84,Yes,"Won WS 3–0",First 84-game season
-1879,Founding Era,NL,Boston Red Caps,54,30,0.643,84,No,,
-1879,Founding Era,NL,Buffalo Bisons,46,32,0.590,78,No,,
-1879,Founding Era,NL,Cleveland Blues,27,55,0.329,82,No,,
-1880,Founding Era,NL,Chicago White Stockings,67,17,0.798,84,Yes,"Won WS 4–0–1",
-1880,Founding Era,NL,Cleveland Blues,47,37,0.560,84,No,,
-1880,Founding Era,NL,Troy Trojans,41,42,0.494,83,No,,
-1880,Founding Era,NL,Boston Red Caps,28,58,0.326,86,No,,
-1881,Founding Era,NL,Chicago White Stockings,56,28,0.667,84,Yes,"Won WS 3–0–1",First back-to-back with prior 1876 entry
-1881,Founding Era,NL,Providence Grays,47,37,0.560,84,No,,
-1881,Founding Era,NL,Buffalo Bisons,45,38,0.542,83,No,,
-1881,Founding Era,NL,Cleveland Blues,36,48,0.429,84,No,,
-1882,Founding Era,NL,Chicago White Stockings,55,29,0.655,84,Yes,"Won WS 4–0–1",Third straight NL title
-1882,Founding Era,NL,Providence Grays,52,32,0.619,84,No,,
-1882,Founding Era,NL,Cleveland Blues,42,40,0.512,82,No,,
-1882,Founding Era,NL,Worcester Ruby Legs,18,66,0.214,84,No,,
-1883,Merger Era,NL,Boston Beaneaters,63,35,0.643,98,Yes,"Won WS 5–2–2",First 12-team NL season
-1883,Merger Era,NL,Chicago White Stockings,59,39,0.602,98,No,,Second-place finish
-1883,Merger Era,NL,Providence Grays,58,40,0.592,98,No,,
-1883,Merger Era,NL,Cleveland Blues,55,42,0.567,97,No,,
-1883,Merger Era,NL,Philadelphia Quakers,17,81,0.173,98,No,,
-1883,Merger Era,NL,Detroit Wolverines,40,58,0.408,98,No,,
-1884,Merger Era,NL,Providence Grays,84,28,0.750,112,Yes,"Lost WS 0–3",Strongest single-season team
-1884,Merger Era,NL,New York Giants,78,34,0.696,112,No,,
-1884,Merger Era,NL,Cleveland Blues,67,48,0.583,115,No,,
-1884,Merger Era,NL,Chicago White Stockings,62,50,0.554,112,No,,
-1884,Merger Era,NL,Philadelphia Quakers,39,73,0.348,112,No,,
-1884,Merger Era,NL,Detroit Wolverines,36,75,0.324,111,No,,
-1885,Merger Era,NL,St. Louis Browns (AA) vs Chicago NL,3–3–1,tied,"Series ended in tie; NL team claimed moral victory",Pre-WS era interleague Series
-1886,Merger Era,NL,Chicago White Stockings,Lost 2–4 vs StL (AA),"Lost first WS to AA",Pre-WS interleague era
-1892,Merger Era,NL East,Boston Beaneaters,102,35,0.746,139,Yes,No WS,First split-season NL; best record that year
-1892,Merger Era,NL West,Cleveland Spiders,93,56,0.624,138,No,,
-1892,Merger Era,NL East,Brooklyn Grooms,95,59,0.617,139,No,,
-1892,Merger Era,NL West,Cincinnati Reds,82,68,0.547,150,No,,
-1892,Merger Era,NL East,Pittsburgh Pirates,80,73,0.523,153,No,,
-1895,Merger Era,NL,Baltimore Orioles,87,43,0.669,130,Yes,No WS,"2nd consecutive pennant; dominant pre-1900 team"
-1895,Merger Era,NL,Cleveland Spiders,84,46,0.646,130,No,,
-1895,Merger Era,NL,Philadelphia Phillies,78,53,0.595,131,No,,
-1895,Merger Era,NL,Chicago Colts,72,58,0.554,130,No,,
-1900,Merger Era,NL,Pittsburgh Pirates,79,60,0.568,129,Yes,No WS,"Last NL-only pennant before AL founding"
-1900,Merger Era,NL,Brooklyn Superbas,82,54,0.603,136,No,,
-1900,Merger Era,NL,Philadelphia Phillies,75,63,0.543,138,No,,
-1900,Merger Era,NL,Boston Beaneaters,66,72,0.478,138,No,,
-1901,Transition Era,NL East,Philadelphia Phillies,87,51,0.630,137,Yes,No WS,New league era
-1901,Transition Era,NL East,Brooklyn Superbas,79,57,0.581,136,No,,
-1901,Transition Era,NL East,Boston Beaneaters,69,69,0.500,138,No,,
-1901,Transition Era,NL West,Pittsburgh Pirates,90,49,0.647,138,Yes,No WS,
-1901,Transition Era,NL West,Chicago Orphans,53,86,0.381,139,No,,
-1903,Transition Era,NL,Pittsburgh Pirates,93,60,0.608,132,Yes,"Won WS 5–3 vs BOS AL",First modern WS
-1904,Transition Era,NL,New York Giants,93,60,0.608,153,No,"Declined WS — no Series played,"Boss Tweed-led Giants refused
-1905,Transition Era,NL,New York Giants,105,47,0.690,152,Yes,"Won WS 4–1 vs PHI AL",
-1906,Transition Era,NL,Chicago Cubs,116,36,0.763,152,Yes,"Won WS 2–1 vs CHI AL",Record 116 wins — NL all-time
-1907,Transition Era,NL,Chicago Cubs,107,45,0.703,152,Yes,"Won WS 4–0 vs DET AL",Back-to-back champions
-1908,Transition Era,NL,Chicago Cubs,99,55,0.643,154,Yes,"Won WS 4–1 vs DET AL",Third straight NL pennant
-1909,Transition Era,NL,Pittsburgh Pirates,110,42,0.724,152,Yes,"Won WS 4–3 vs DET AL",Honus Wagner era
-1910,Transition Era,NL,Chicago Cubs,104,50,0.675,154,No,Lost WS 1–4 vs PHI AL,
-1911,Transition Era,NL,New York Giants,99,54,0.648,153,Yes,Lost WS 2–4 vs PHI AL,"Big Six" offensive juggernaut
-1914,Transition Era,NL,Boston Braves,94,59,0.614,153,Yes,"Won WS 4–0 vs PHI AL","Miracle Braves: worst-to-first"
-1916,Transition Era,NL,Brooklyn Robins,94,60,0.610,155,Yes,Lost WS 1–4 vs BOS AL,
-1919,Transition Era,NL,Cincinnati Reds,93,61,0.604,140,Yes,"Won WS 5–3 vs CHI AL",First Reds championship; "Black Sox" aftermath
-1925,Expansion Era,NL,Pittsburgh Pirates,95,58,0.620,154,Yes,"Won WS 4–3 vs WAS AL",
-1926,Expansion Era,NL,St. Louis Cardinals,89,65,0.578,154,Yes,"Won WS 4–3 vs NYY AL",First Cardinals title
-1934,Expansion Era,NL,St. Louis Cardinals,95,58,0.621,153,Yes,"Won WS 4–3 vs DET AL","Gashouse Gang" dynasty
-1942,Expansion Era,NL,St. Louis Cardinals,106,48,0.688,154,Yes,"Won WS 4–1 vs NYY AL",
-1944,Expansion Era,NL,St. Louis Cardinals,105,49,0.682,154,Yes,"Won Streetcar Series vs SLB AL",All-St. Louis World Series
-1946,Expansion Era,NL,St. Louis Cardinals,98,56,0.636,154,Yes,"Won WS 4–3 vs BOS AL",
-1951,Expansion Era,NL,New York Giants,98,56,0.636,154,Yes,"Won WS 4–1–1 vs NYY AL","Bobby Thomson's Shot"
-1954,Expansion Era,NL,New York Giants,97,57,0.627,154,Yes,"Won WS 4–0 vs CLE AL","Willie Mays catch, The Catch"
-1955,Expansion Era,NL,Brooklyn Dodgers,98,55,0.641,153,Yes,"Won WS 4–3 vs NYY AL",Dodgers first title
-1956,Expansion Era,NL,Brooklyn Dodgers,93,61,0.603,154,No,Lost WS 0–4 vs NYY AL,
-1957,Expansion Era,NL,Brooklyn Dodgers,84,70,0.545,154,No,Lost NLDS to MIL Braves,Final Brooklyn season
-1958,Expansion Era,NL,NY Giants (to SF),83,71,0.539,154,No,Lost WS 2–4 vs NYY AL,Relocated to SF after season
-1959,Expansion Era,NL,LA Dodgers,88,68,0.564,156,Yes,"Won WS 4–2 vs CHW AL","The Boys of Summer"
-1962,Expansion Era,NL,San Francisco Giants,103,62,0.624,162,Yes,Lost WS 3–4 vs NYY AL,First 162-game season
-1963,Expansion Era,NL,LA Dodgers,99,63,0.611,162,Yes,"Won WS 4–0 vs NYY AL",Sandy Koufax dominance
-1964,Expansion Era,NL,St. Louis Cardinals,93,69,0.574,162,Yes,"Won WS 4–3 vs NYY AL",
-1965,Expansion Era,NL,LA Dodgers,97,65,0.599,163,Yes,"Won WS 4–3 vs MIN AL",Bob Gibson era
-1966,Expansion Era,NL,LA Dodgers,95,67,0.586,162,No,Lost WS 0–4 vs BAL AL,Koufax injured after WS
-1969,Expansion Era,NL East,New York Mets,100,62,0.617,162,Yes,"Won WS 4–1 vs BAL AL","Miracle Mets" — first champion from expansion
-1969,Expansion Era,NL West,Atlanta Braves,93,69,0.574,162,No,,First year of NLCS format
-1973,Expansion Era,NL East,New York Mets,82,79,0.509,161,No,Lost NLCS vs CIN Reds,
-1975,Expansion Era,NL Central,Cincinnati Reds,108,54,0.667,162,Yes,"Won WS 4–3 vs BOS AL","Big Red Machine"
-1976,Expansion Era,NL Central,Cincinnati Reds,102,60,0.630,162,Yes,"Won WS 4–0 vs NYY AL","Big Red Machine" second straight
-1979,Expansion Era,NL East,Pittsburgh Pirates,98,64,0.605,162,Yes,"Won WS 4–3 vs BAL AL",
-1982,Expansion Era,NL Central,St. Louis Cardinals,92,70,0.568,162,Yes,"Won WS 4–3 vs MIL AL",Whitey Herzog trade dynasty
-1985,Expansion Era,NL Central,St. Louis Cardinals,101,61,0.620,162,Yes,"Won WS 4–3 vs KC AL",First WS to go the full 7 in 162-game era
-1986,Expansion Era,NL East,New York Mets,108,54,0.667,162,Yes,"Won WS 4–3 vs BOS AL","Amazin' Mets" — Darryl Strawberry era
-1991,Expansion Era,NL East,Atlanta Braves,94,68,0.580,162,No,Lost NLCS vs PIT Pirates,First year of NL division format; Braves dynasty begins: 14 straight division titles by 2005
-1993,Expansion Era,NL East,Philadelphia Phillies,97,65,0.599,162,Yes,Lost WS 2–4 vs TOR AL,
-1994,Expansion Era,NL Central,Cincinnati Reds,66,48,0.579,114,Yes,Season cancelled by strike,Best record when strike halted; Reds powerhouse
-1994,Expansion Era,NL East,Montreal Expos,74,40,0.649,114,No,Best record in MLB when strike halted,Greatest team never to play postseason
-1995,Expansion Era,NL East,Atlanta Braves,90,54,0.625,144,Yes,"Won WS 4–3 vs CLE AL",First title of Braves dynasty (14 straight div titles to 2005)
-1996,Expansion Era,NL East,Atlanta Braves,96,66,0.593,162,No,Lost WS 0–4 vs NYY AL,
-1997,Expansion Era,NL East,FLA Marlins,92,70,0.568,162,Yes,"Won WS 4–3 vs CLE AL","Tenant team" small-market model
-2000,Expansion Era,NL East,New York Mets,94,68,0.580,162,No,Lost WS 1–4 vs NYY AL,
-2000,Expansion Era,NL Central,St. Louis Cardinals,95,67,0.586,162,No,Lost NLCS vs NYM Mets,
-2005,Expansion Era,NL Central,St. Louis Cardinals,100,62,0.617,162,No,Lost NLCS vs HOU Astros,
-2006,Expansion Era,NL Central,St. Louis Cardinals,83,78,0.516,161,Yes,"Won WS 4–1 vs DET AL",David Eckstein WS MVP
-2008,Expansion Era,NL East,Philadelphia Phillies,92,70,0.568,162,Yes,Lost WS 1–4 vs TB AL,Ended longest WS drought among existing NL clubs
-2010,Expansion Era,NL West,San Francisco Giants,92,70,0.568,162,Yes,"Won WS 4–1 vs TEX AL",First SF NL title since 2002
-2011,Expansion Era,NL Central,St. Louis Cardinals,90,72,0.556,162,Yes,"Won WS 4–3 vs TEX AL","Gritos" — Cardinals resurgence
-2012,Expansion Era,NL West,San Francisco Giants,94,68,0.580,162,Yes,"Won WS 4–0 vs DET AL",
-2014,Expansion Era,NL West,San Francisco Giants,88,74,0.543,162,Yes,"Won WS 4–3 vs KC AL",Madison Bumgarner WS MVP
-2015,Expansion Era,NL Central,St. Louis Cardinals,100,62,0.617,162,No,Lost NLDS vs CHC Cubs,
-2015,Expansion Era,NL East,New York Mets,90,72,0.556,162,Yes,Lost WS 1–4 vs KC AL,
-2016,Modern Era,NL Central,Chicago Cubs,103,58,0.640,161,Yes,"Won WS 4–3 vs CLE AL",Ended 108-year championship drought
-2017,Modern Era,NL West,Los Angeles Dodgers,104,58,0.642,162,No,Lost NLCS vs COL Rockies,
-2019,Modern Era,NL West,Los Angeles Dodgers,106,56,0.654,162,No,Lost NLCS vs STL Cardinals,
-2020,Modern Era,NL West,LA Dodgers,43,17,0.717,60,Yes,"Won WS 4–2 vs TB AL",Shortened COVID-19 season
-2021,Modern Era,NL Central,Atlanta Braves,88,73,0.547,162,Yes,"Won WS 4–2 vs HOU AL",First title since 1995
-2022,Modern Era,NL Central,St. Louis Cardinals,93,69,0.574,162,No,Lost NLDS vs SD Padres,
-2023,Modern Era,NL East,Atlanta Braves,104,58,0.642,162,Yes,Lost WS 1–4 vs TEX AL,Most wins in MLB for a season
-2024,Modern Era,NL West,Los Angeles Dodgers,98,64,0.605,162,Yes,"Won WS 4–1 vs NYY AL",Back-to-back championships
-2025,Modern Era,NL West,Los Angeles Dodgers,96,66,0.593,162,Yes,"Won WS 4–3 vs TOR AL",Third straight championship — modern NL dynasty
+year,season_games,nl_champion,nl_wins,nl_losses,nl_win_pct,ws_champion,era,games_per_season,division_format,notes
+1876,70,Chicago White Stockings,52,14,0.786,No WS played (pre-WS era),Dead Ball Early,70,No divisions,First NL season
+1877,60,Boston Red Caps,42,18,0.700,No WS played,Dead Ball Early,60,No divisions,Boston wins second NL pennant
+1878,60,Cincinnati Reds,41,19,0.683,No WS played,Dead Ball Early,60,No divisions,Cincinnati wins first NL pennant
+1879,84,Providence Grays,59,25,0.702,No WS played,Dead Ball Early,84,No divisions,Providence first NL pennant
+1906,154,Chicago Cubs,116,36,0.763,Chicago White Sox (AL won),Dead Ball,154,Yes,Best single-season NL record ever (.763)
+1926,154,St. Louis Cardinals,89,65,0.578,St. Louis Cardinals,Power Transition,154,Yes,Cards first World Series title
+1931,154,St. Louis Cardinals,103,51,0.669,St. Louis Cardinals,Power Transition,154,Yes,Cards begin first full dynasty
+1934,154,St. Louis Cardinals,95,59,0.617,St. Louis Cardinals,Gashouse Gang,154,Yes,Cardinals complete the dynasty
+1951,154,New York Giants,98,59,0.623,New York Giants,Post-War Transition,154,Yes,Bobby Thomson Shot Heard Round the World
+1954,154,New York Giants,97,57,0.630,New York Giants,Post-War Transition,154,Yes,Willie Mays Giants sweep Cleveland
+1959,154,Los Angeles Dodgers,88,68,0.565,Los Angeles Dodgers,Franchise Migration,154,Yes,First Dodgers WS title since Brooklyn move
+1962,162,San Francisco Giants,103,62,0.623,No WS played,Expansion,162,Yes,First 162-game season
+1969,162,New York Mets,100,62,0.617,New York Mets,Expansion,162,Yes,Magic! Miracle Mets reach WS and win
+1975,162,Pittsburgh Pirates,92,69,0.571,Pittsburgh Pirates,Big Red Machine,162,Yes,Clemente Pirates win pennant
+1976,162,Cincinnati Reds,102,60,0.630,Cincinnati Reds,Big Red Machine,162,Yes,Big Red Machine sweep WS
+1986,162,New York Mets,108,54,0.667,New York Mets,Modern Era Begins,162,Yes,Mookie Wilson error / Ray Knight heroics
+2006,162,St. Louis Cardinals,83,78,0.516,St. Louis Cardinals,Championship Rivalries Era,162,Yes,Lowest win% NL champion ever at the time
+2016,162,Chicago Cubs,103,58,0.640,Chicago Cubs,Modern Championship Cycle,162,Yes,Ended 108-year championship drought
+2020,60,Los Angeles Dodgers,43,17,0.717,Los Angeles Dodgers,COVID Season,60,Yes,Shorter 60-game season; Dodgers dominant
+2021,162,Atlanta Braves,88,73,0.547,Atlanta Braves,Modern Championship Cycle,162,Yes,Beat Astros 4-2 in WS
+2024,162,Los Angeles Dodgers,98,64,0.605,Los Angeles Dodgers,Modern Dodgers Dynasty,162,Yes,Back-to-back WS titles; 8th WS title
+2025,162,Los Angeles Dodgers,96,66,0.593,Los Angeles Dodgers,Modern Dodgers Dynasty,162,Yes,Back-to-back again 9th WS title
