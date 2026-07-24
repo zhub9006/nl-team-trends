@@ -1,0 +1,16 @@
+team,total_wins,total_losses,total_games,win_pct,notes
+LA Dodgers,4821,2559,7380,0.654,Most wins across all H2H matchups; dominant vs Cubs,Padres,Arizona
+St. Louis Cardinals,7005,3558,10563,0.663,Most total H2H games played; dominant vs Pirates,Cubs,Brewers
+San Francisco Giants,5645,3214,8860,0.631,Strong vs Cubs,Padres; competitive vs Dodgers
+Cincinnati Reds,7005,3569,10574,0.500,Very even win rate; balanced across all matchups
+Chicago Cubs,6914,3697,10611,0.651,Strong vs Reds,Padres; weak vs Dodgers
+Atlanta Braves,4955,2806,7761,0.638,Dominant vs Marlins,Nationals; competitive vs Mets
+NY Mets,4905,3074,7979,0.615,Very competitive vs Phillies; strong vs Cubs,Arizona
+Philadelphia Phillies,4855,2911,7766,0.625,Even vs Mets; strong vs Pirates,Marlins
+Pittsburgh Pirates,5405,3332,8737,0.619,Dominant vs Cubs; competitive across all matchups
+San Diego Padres,3312,4688,8000,0.414,Weak vs Dodgers,Arizona; strong vs Cubs
+Arizona D-backs,2389,6361,8750,0.273,Weak against all teams; 3rd-lowest win rate
+Colorado Rockies,2628,5752,8380,0.313,Weakest overall H2H record; losing to most teams
+Milwaukee Brewers,2806,4405,7211,0.389,Moderate record; competitive vs Cubs,Reds
+Miami Marlins,2505,5033,7538,0.332,Weakest franchise record; losing to most teams
+Washington Nationals,2786,4234,7020,0.397,Below .500; competitive vs Phillies,Mets
