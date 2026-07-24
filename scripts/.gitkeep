@@ -1,0 +1,19 @@
+# NL Team Trends - Scripts Directory
+#
+# This directory is intended for Python scripts that produce reproducible
+# charts, analyses, and data processing pipelines for NL team trends.
+#
+# Planned scripts:
+# plot_pennant_timeline.py      - Generate NL championship timeline chart
+# plot_win_loss_parity.py       - Create wins vs losses scatter plot
+# plot_era_heatmap.py           - Generate era dominance heatmap
+# plot_h2h_network.py           - Build H2H rivalry network graph
+# plot_division_titles.py       - Division title bar chart
+# plot_franchise_trajectory.py  - Franchise win% trajectory sparklines
+# plot_single_season_records.py - Top single-season records chart
+# plot_23yr_spans.py            - Sliding window 23-year span analysis
+# utils.py                      - Shared data loading and processing utilities
+#
+# To run:
+#   python scripts/plot_pennant_timeline.py
+#   python scripts/plot_win_loss_parity.py
