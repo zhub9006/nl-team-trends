@@ -1,63 +1,82 @@
-# Methodology, Conventions & Caveats
+# NL Team Trends — Data Methodology & Conventions
 
-## Data Conventions
+> Documentation of the methodology, data conventions, and caveats used across all NL performance data files in this repository.
 
-### Team Names
-- Canonical NL team names are used throughout
-- Franchise movements are noted parenthetically (e.g., "Brooklyn Superbas/Dodgers", "NY Giants/SF Giants")
-- Historical names preserved where relevant (e.g., "Chicago White Stockings" for the 1876–1890s era)
-- Relocated franchises treated as continuous entities (NY Giants → SF Giants, Brooklyn → LA Dodgers, Montreal Expos → Washington Nationals)
+## Data Sources & Cross-Validation
 
-### Win-Loss Format
-- Standard W-L-T format (Wins-Losses-Ties)
-- Ties are excluded from win percentage calculations
-- Win % = W / (W + L), rounded to 3 decimal places
-- Regular-season wins only; postseason results tracked in separate fields
+All data files were compiled from multiple verified sources and cross-referenced:
 
-### Schedule Eras
-| Era | Games/Season | Notes |
-|-----|-------------|-------|
-| 1876 | 60 | First season (varied) |
-| 1878 | 84 | First full season |
-| 1880s | 84–112 | Itinerant schedules |
-| 1892 | 154 | Standard 154-game schedule begins |
-| 1962 | 162 | Expansion to 162 games |
-| 2020 | 60 | Shortened COVID season |
-| 2021–present | 162 | Full 162-game schedule |
+| Source | Primary Use | Reliability |
+|--------|-------------|-------------|
+| Baseball-Reference.com | Official standings & team stats | ★★★★★ Gold standard |
+| Baseball Almanac | H2H matrices & franchise records | ★★★★☆ Excellent |
+| SABR Lahman Database | Season-by-season CSV data | ★★★★★ Gold standard |
+| StatMuse | 23-year trend queries | ★★★★☆ Excellent |
+| Everything Explained Today | All-time W-L records | ★★★★☆ Excellent |
+| Wikipedia | Pennant winner lists | ★★★★☆ Excellent |
 
-### Win Percentage by Era
-- 154-game era: ~.564 = .500 (average)\\
-- 162-game era: ~.560 = .500 (average)
-- Use era-adjusted benchmarks when comparing across schedule lengths
-- The 116-36 (.763) 1906 Cubs record was within a 154-game-era schedule (120 games that year)
+## Key Conventions
 
-## Key Caveats
+### Win Percentage Calculation
+- Win % = Wins / (Wins + Losses)
+- Tie games are excluded from win% calculations (they don't count in standings)
+- Modern (2007+): Ties only occur when monsoon-shortened game doesn't affect playoff positioning
+- Pre-2007 ties exist in early-era data; most sources exclude or count them separately
 
-1. **Schedule length variation**: Pre-1892 schedules varied from 60–140+ games per team. Do not compare raw win totals across eras without adjusting for schedule length.
+### Franchise Counting Method
+- Relocated franchises are counted as a single continuous franchise (e.g., Brooklyn → LA Dodgers, NY Giants → SF Giants, Montreal → Washington Nationals)
+- Franchise totals include pre-relocation eras under the original name
+- All-time records for a franchise include data from ALL cities the team has occupied
 
-2. **League composition changes**: The NL had as few as 4 teams in some years (1876–1882) and as many as 12 by 1900. Playoff structures also changed over time.
+### Schedule Era Definitions
+| Era | Years | Games/Season | Notes |
+|-----|-------|-------------|-------|
+| Early NL | 1876-1891 | 60-112 | Short varied schedules; inaugural seasons |
+| Transition | 1892-1900 | 100-154 | Standard 154-game schedule begins ~1892 |
+| 154-Game Era | 1901-1961 | 154 |consistent schedule; 100 wins = .649 win% |
+| 162-Game Era | 1962-2019 | 162 | Modern standard; 107 wins = .660 |
+| COVID Shortened | 2020 | 60 | Not comparable to 162-game seasons |
+| Full Modern | 2021-2026 | 162 | Back to full schedule; 2023 adds full interleague |
 
-3. **Interleague play**: From 1997 onward, NL teams play regular-season games against AL opponents. Win-loss records in LCS/WS include both leagues.
+## Data File Index
 
-4. **H2H data limitations**: Baseball Almanac's H2H matrices include historical team names but may have gaps in early years. Cross-reference with Lahman Database for highest accuracy.
+### CSV Files (all in `data/` directory)
 
-5. **Tie handling**: Before 1920, ties were common. Many sources drop ties from W% calculations. Our convention excludes ties.
+| File | Description | Key Columns |
+|------|-------------|-------------|
+| `nl_all_time_records.csv` | Franchise-level all-time W/L/WS/Pennants | Team, WS_Titles, Games, Wins, Losses, Win_Pct |
+| `nl_pennant_winners.csv` | NL pennant winners by year with WS results | Year, Team, W_L, W_L_Pct, WS_Result |
+| `nl_historical_performance.csv` | Season-by-season NL champion data | Year, NL_Champion, Champion_W, Champion_L, Champion_WPct, WS_Champion |
+| `nl_championship_trends.csv` | Championship highlights by era | Year, Champion, W-L, WS_Title, Milestone |
+| `nl_notable_records.csv` | Key single-season & franchise milestones | Record_Type, Team, Year, Achievement, Value |
+| `nl_team_vs_team_summary.csv` | H2H W-L summary for key rivalries | Team_1, Team_2, Team_1_Wins, Team_2_Wins, Team_1_Win_Pct |
+| `nl_recent_standings.csv` | Divisional standings 2013-2026 | Year, Div_Winners, NL_Champion, WS_Champion |
+| `nl_recent_trends_2000_2024.csv` | 23-year window franchise trends (StatMuse) | Team, Games, Wins, Losses, Win_Pct, Notes |
+| `nl_all_franchises_historical.csv` | All 15 NL franchises with comprehensive stats | Team, All_Time_Wins, WS_Titles, Pennants, Division_Titles |
 
-6. **Franchise continuity**: When a franchise relocated (NY Giants → SF Giants, Brooklyn → LA Dodgers, Montreal → Washington Nationals), all historical wins are attributed to the current franchise. This is the standard convention in MLB record-keeping.
+### Documentation Files
+| File | Description |
+|------|-------------|
+| `nl_source_references.md` | Complete documentation of all research sources |
+| `visualizations/README.md` | Visualization roadmap with Python code examples |
+| `docs/data_notes.md` | This file — methodology and data conventions |
 
-7. **1994 season**: The MLB players' strike cut the 1994 NL season short (no WS was held). No NL champion was crowned.
+## Analysis Workflow
 
-## Data Quality Assurance
+### Recommended Data Loading (Python/Pandas)
+```python
+import pandas as pd
+records = pd.read_csv('data/nl_all_time_records.csv').set_index('Team')
+pennants = pd.read_csv('data/nl_pennant_winners.csv')
+performance = pd.read_csv('data/nl_historical_performance.csv')
+trends = pd.read_csv('data/nl_recent_trends_2000_2024.csv')
+h2h = pd.read_csv('data/nl_team_vs_team_summary.csv')
+franches = pd.read_csv('data/nl_all_franchises_historical.csv')
+standings = pd.read_csv('data/nl_recent_standings.csv')
+```
 
-- Primary source: Lahman Baseball Database (CSV, updated quarterly)
-- Verification: Cross-referenced against Baseball-Reference and Baseball Almanac
-- H2H matrices: Sourced from Baseball Almanac (updated daily during season)
-- Seasonal standings: Validated against multiple sources
+## Disclaimer
 
-## Suggested Analysis Approaches
+This repository is a community research project. Data is compiled from publicly available sources and may contain minor inaccuracies. Users should verify against primary sources (Baseball-Reference, SABR Lahman) for publication-grade research.
 
-1. **Era comparison**: Normalize W% by schedule length before comparing across eras
-2. **H2H trends**: Track how head-to-head records shift over decades to identify the "evolving rivalry"
-3. **Dynasty identification**: Use rolling 5-year windows to identify sustained periods of excellence
-4. **Drought analysis**: Measure time since last championship for each franchise
-5. **Visualization**: Use the interactive tools at https://inkandthunder.github.io/win-loss-visualizer/ as a reference for YoY W-L plotting
+MIT License.
