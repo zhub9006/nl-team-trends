@@ -1,101 +1,77 @@
-# Visualization Roadmap
+# NL Team Trends — Visualization Roadmap
 
-This document outlines the planned visualizations and provides starter code for building interactive NL performance charts.
+This directory contains Python scripts, Jupyter notebooks, and configuration for building interactive data visualizations from the National League historical performance data.
 
 ## Planned Visualizations
 
-### 1. NL Championship Timeline
-- Type: Interactive horizontal timeline
-- Data: nl_pennant_winners.csv or nl_season_by_year.json
-- Tool: Plotly or D3.js
-- Description: Color-coded timeline showing each NL pennant winner from 1876 to present
+### 1. Vanishing Win% — Franchise Win% Trajectory (Line Chart)
+- **Description**: Rolling 10-year win% for each NL franchise over time
+- **Data Source**: `data/nl_historical_performance.csv`
+- **Library**: Plotly or Matplotlib
+- **Insight**: Shows which franchises have sustained dominance vs. those with cyclical performance
 
-### 2. Win-Loss Parity Chart
-- Type: Scatter plot
-- Data: nl_all_time_records.csv
-- Tool: Matplotlib or Seaborn
-- Description: Each dot represents an NL team; x-axis = losses, y-axis = wins
+### 2. H2H Heatmap (Correlation Matrix)
+- **Description**: 15×15 heatmap of NL team head-to-head win percentages
+- **Data Source**: `data/nl_team_vs_team_summary.csv` and Baseball Almanac full matrix
+- **Library**: Seaborn or Plotly
+- **Insight**: Reveals the most one-sided and most competitive rivalries
 
-### 3. Era Dominance Heatmap
-- Type: Heatmap
-- Data: nl_pennant_winners.csv
-- Tool: Seaborn or Plotly
-- Description: Rows = eras, columns = teams, cell color = intensity of dominance
+### 3. Championship Timeline (Timeline Chart)
+- **Description**: NL pennant winners and WS champions by year, color-coded by franchise
+- **Data Source**: `data/nl_pennant_winners.csv`
+- **Library**: Plotly
+- **Insight**: Shows championship clusters, droughts, and dynasty periods
 
-### 4. H2H Rivalry Network Graph
-- Type: Network/force-directed graph
-- Data: nl_team_vs_team_summary.csv
-- Tool: NetworkX + Matplotlib or Plotly
-- Description: Nodes = teams, edges = rivalry matchups, edge thickness = total games
+### 4. Era Comparison (Box Plot)
+- **Description**: Win% distributions across different schedule eras (60-game, 154-game, 162-game)
+- **Data Source**: `data/nl_historical_performance.csv`
+- **Library**: Matplotlib/Seaborn
+- **Insight**: Highlights how scheduling affects competitive balance and record comparability
 
-### 5. Division Title Winners Bar Chart
-- Type: Horizontal bar chart
-- Data: research_data_supplement.json
-- Tool: Matplotlib
-- Description: Each bar shows total division titles for each team, grouped by division
+### 5. Dynasty Cycles (Stacked Area Chart)
+- **Description**: Decade-by-decade championship concentration by franchise
+- **Data Source**: `data/nl_pennant_winners.csv`
+- **Library**: Plotly
+- **Insight**: Shows which eras saw the most concentrated NL dominance
 
-### 6. Franchise Trajectory Sparklines
-- Type: Faceted small multiples
-- Data: Lahman Database (full season-by-season)
-- Tool: Plotly or Matplotlib
-- Description: Each small chart shows one team's season-by-season winning percentage
+### 6. Championship Drought Bar Chart
+- **Description**: Bar chart of years since last WS title for each NL franchise
+- **Data Source**: `data/nl_all_time_records.csv`
+- **Library**: Plotly
+- **Insight**: Visualizes the Cubs' famous 108-year drought and current pending droughts
 
-### 7. Single-Season Dominance
-- Type: Bar chart
-- Data: nl_notable_records.csv + Lahman Database
-- Tool: Matplotlib
-- Description: Top 10 NL single-season win totals, with year and team labeled
+### 7. Division Dominance (Stacked Area Chart)
+- **Description**: Stacked area of division titles over time by team within each division
+- **Data Source**: `README.md` (division title leaders section)
+- **Library**: Plotly
+- **Insight**: Shows the Braves' NL East dominance and Dodgers' NL West run
 
-## Visualization File Structure
+### 8. 23-Year Sliding Window (Small Multiples)
+- **Description**: Side-by-side win% rankings for 23-year spans, showing how rankings shift
+- **Data Source**: `data/nl_recent_trends_2000_2024.csv`
+- **Library**: Plotly
+- **Insight**: Demonstrates how franchise performance varies over extended periods
 
+## Getting Started
+
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
 ```
-visualizations/
-├── README.md
-├── charts/          ← Generated chart images
-├── notebooks/       ← Jupyter notebooks
-└── scripts/         ← Python scripts
-```
 
-## Starter Code Examples
-
-### Championship Timeline (Plotly)
+2. Load the data:
 ```python
 import pandas as pd
-import plotly.express as px
+import json
 
-pennants = pd.read_csv('data/nl_pennant_winners.csv')
-fig = px.timeline(pennants, x_start='year', x_end='year', y='NL_champion',
-                  color='NL_champion', title='NL Pennant Winners (1876-2025)')
-fig.update_yaxes(categoryorder='total ascending')
-fig.show()
-```
-
-### Win-Loss Parity Chart (Matplotlib)
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-
+# Load all-time records
 records = pd.read_csv('data/nl_all_time_records.csv')
-fig, ax = plt.subplots(figsize=(10, 7))
-ax.scatter(records['losses'], records['wins'], s=records['games']/100, alpha=0.7)
-for _, row in records.iterrows():
-    ax.annotate(row['team'], (row['losses'], row['wins']), fontsize=8)
-ax.set_xlabel('Losses')
-ax.set_ylabel('Wins')
-ax.set_title('NL Teams: Wins vs Losses (All-Time)')
-plt.tight_layout()
-plt.savefig('charts/win_loss_parity.png', dpi=150)
-```
 
-### Era Heatmap (Seaborn)
-```python
-import pandas as pd
-import seaborn as sns
-
+# Load pennant winners
 pennants = pd.read_csv('data/nl_pennant_winners.csv')
-pennants['era'] = pd.cut(pennants['year'], 
-    bins=[1875, 1900, 1920, 1940, 1960, 1980, 2000, 2015, 2026],
-    labels=['1876-1900', '1901-1920', '1921-1940', '1941-1960', '1961-1980', '1981-2000', '2001-2015', '2016-2025'])
-ct = pd.crosstab(pennants['era'], pennants['NL_champion'])
-sns.heatmap(ct, cmap='YlOrRd', annot=True, fmt='d')
+
+# Load recent standings
+standings = pd.read_csv('data/nl_recent_standings.csv')
 ```
+
+3. Run visualization scripts (TBD — will be added as notebooks are created)
