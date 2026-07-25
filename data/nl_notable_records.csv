@@ -1,16 +1,14 @@
-category,record_holder,value,year,details
-Most NL regular-season wins,San Francisco Giants,11663,through 2025,Oldest franchise continuous presence; includes NY Giants era
-Highest NL winning percentage (1500+ games),LA Dodgers / SF Giants,0.532 / 0.535,through 2025,Dodgers .532; Giants .535
-Most NL pennants,Los Angeles Dodgers,26,through 2025,Includes Brooklyn Dodger pennants
-Most NL World Series titles,St. Louis Cardinals,11,through 2025,NL record for championships
-Biggest single-season wins,Chicago Cubs,116,1906,155-game season; tied AL record (1906 A's)
-Longest championship drought,Chicago Cubs,108 years,1908-2016,Longest drought in North American pro sports
-Longest consecutive division titles,Atlanta Braves,14,1991-2005,NL East; record for consecutive division titles in any MLB division
-Longest winning streak (single season),Los Angeles Dodgers,19 games,2024,NL record; includes 10-0 start to end of July
-Longest losing streak (single season),Cleveland (NL-era),28,1899,NL record for consecutive losses
-Most consecutive .500+ seasons,Saint Louis Cardinals,most seasons in NL,through 2025,Cards have the longest streak of winning seasons
-Oldest NL franchise,Philadelphia Phillies,143 years,1876-present,Oldest continuous one-name one-city franchise in professional sports
-Most games played in NL,Chicago Cubs,22513,through 2025,Most games total across all seasons
-Highest single-season win pct (162-game season),Los Angeles Dodgers,0.717,2020,60-game COVID season; Dodgers at 43-17
-Most runs scored in a season,Chicago Cubs,1112,1935,NL record for runs scored in a season
-Most strikeouts in a season (team),Colorado Rockies,1310,1998,Most K's in a 162-game NL season
+category,team,record_value,season,notes
+Single Season Wins,Chicago Cubs,116,1906,Most wins in a 154-game NL season
+Single Season Losses,Colorado Rockies,120,2025,Most losses in a 162-game NL season
+Highest Win Percentage,Chicago Cubs,0.763,1906,116-36 record
+Longest Win Streak,Chicago Cubs,21,1935,Consecutive wins across season
+Longest Losing Streak,Philadelphia Phillies,23,1941,Consecutive losses
+Best 162-Game Season,LA Dodgers,106,2021,Best record in 162-game era
+Most WS Titles,St. Louis Cardinals,11,All-time,Most World Series championships in NL
+Most Regular Season Wins,San Francisco Giants,11663,All-time,Most career NL wins
+Most NL Pennants,LA Dodgers,26,All-time,Most NL pennants in history
+Longest Championship Drought,Chicago Cubs,108 years,1908-2016,Did not win WS between 1908 and 2016
+Longest Division Title Streak,Atlanta Braves,14,1991-2005,14 consecutive NL East titles
+Most Consecutive Division Titles (Modern),LA Dodgers,8,2013-2020,8 consecutive NL West titles
+First NL Season,5 teams,1876,Original NL with 8 teams,First professional league

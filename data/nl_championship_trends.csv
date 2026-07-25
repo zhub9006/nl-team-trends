@@ -1,10 +1,8 @@
-era,start_year,end_year,dominant_team,pennant_count,ws_titles,theme
-1876-1900,1876,1900,Chicago (4 pennants),Founding era; 8 to 12 teams; original 8 franchises
-1900-1920,1900,1920,Giants (6 pennants),Record-setting wins (116-36 Cubs 1906); Miracle Braves 1914; Cardinals emergence
-1920-1940,1920,1940,Cardinals (5 pennants),Power transition; franchise migration; Gashouse Gang; first Cardinals dynasty
-1940-1960,1940,1960,Cardinals (9 pennants),Cardinals dynasty; 1951 NY Giants; Brooklyn-Dodgers rivalry; franchise relocations
-1960-1980,1960,1980,Dodgers (5 pennants),Expansion era (1969); Miracle Mets 1969; Big Red Machine; Alvin Dark era
-1981-2000,1981,2000,Braves (14 div titles),Braves dynasty 1991-2005; two-division format begin; 1994 strike impact; small-ball era
-1994-2005,1994,2005,Atlanta Braves,Braves record 14 consecutive division titles; core of Glavine/Smoltz/Maddux
-2001-2015,2001,2015,Cardinals (3 pennants),Resurgence cycle; D-backs 2001 WS; Cubs 2016 drought ending; Giants 3 WS titles
-2016-2025,2016,2025,Dodgers (3 pennants),Modern Dodgers dynasty; 8 straight NL West; 9th WS title (2025); competitive NL
+era,nl_champions,nl_ws_titles,top_team,top_ws,key_trends
+1876-1900,20,12,Boston/Chicago,4,Dead-ball era; NL dominated early championships
+1901-1920,20,12,Boston,4,AL rises; NL still leads in WS titles
+1921-1940,20,9,NY Yankees,4,Dead-ball era ends; Yankees begin dominance
+1941-1960,20,9,Boston/STL,3,Post-war era; balanced NL/AL championships
+1961-1980,20,9,STL Cardinals,3,Dodgers rise; modern era begins
+1981-2000,20,7,STL Cardinals,3,Reds and Braves emerge; wild card era
+2001-2025,25,7,LA Dodgers,4,Dodgers dynasty; Braves resurgence in NL
