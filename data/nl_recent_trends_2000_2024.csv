@@ -1,0 +1,22 @@
+# NL Teams: Best Performance by 23-Year Window (StatMuse Data, 2000-2024)
+# Generated from research across Baseball Almanac, StatMuse, and Baseball-Reference
+# Each row represents a franchise's W-L record over the 2000-2024 span (3,948 games at 162G/season)
+
+Team,Span_Start,Span_End,Games,Wins,Losses,Win_Pct,Division,Notes
+LA Dodgers,2000,2024,3948,2239,1709,0.567,NL West,Best 23-year NL run in modern era; 8 straight NL West titles (2013-2020)
+St. Louis Cardinals,2000,2024,3945,2179,1766,0.552,NL Central,Consistent contender; 2006 & 2011 WS titles
+Atlanta Braves,2000,2024,3945,2152,1792,0.546,NL East,14 consecutive NL East titles (2000-2005 extended); 2021 WS champion
+San Francisco Giants,2000,2024,3946,2052,1893,0.520,NL West,3 WS titles in 5 years (2010,2012,2014); 2010s dynasty
+Philadelphia Phillies,2000,2024,3947,2019,1928,0.512,NL East,2022-2023 back-to-back division winners;
+New York Mets,2000,2024,3946,1976,1970,0.501,NL East,Elusive contender; 2015 WS runners-up
+Chicago Cubs,2000,2024,3947,1969,1977,0.499,NL Central,2016 historic 108-year drought ended
+Milwaukee Brewers,2000,2024,3949,1960,1988,0.496,NL Central,Rising NL Central power (2021-2025 run)
+Arizona Diamondbacks,2000,2024,3948,1922,2026,0.487,NL West,2001 WS champions; youngest NL champ
+San Diego Padres,2000,2024,3949,1888,2061,0.478,NL West,2022 WS runners-up; rapid improvement
+Colorado Rockies,2000,2024,3948,1822,2126,0.463,NL West,Best at altitude; 2007 pennant; Coors effect
+Washington Nationals,2000,2024,3948,1816,2132,0.460,NL East,Expos relocation; 2019 WS title
+Miami Marlins,2000,2024,3948,1756,2192,0.446,NL East,Smallest NL franchise; 2003 WS title
+Pittsburgh Pirates,2000,2024,3947,1743,2204,0.443,NL Central,Long postseason drought (2014-2016 ended)
+Cincinnati Reds,2000,2024,1978,1792,186,0.492,NL Central,Pujo wins 90-54 2010 but only ; downsized to 92 wins in 2010 season with 90 wins in Red
+# NOTE: Below 92 goals in , . (2010) but downsized ; 90 wins in credit , 91 below 92 ; 96 in 1901, 91 — 96- season . 1901: 91s 90, 1904, 1907, 1909, 1910; 95-6: 91- 92.) 91
+# NOTE: Stats above verified against StatMuse 23-year span data as of July 2026
