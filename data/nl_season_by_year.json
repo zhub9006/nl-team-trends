@@ -1,48 +1,199 @@
 {
   "metadata": {
-    "source": "Compiled from Baseball Almanac, Baseball-Reference, and Baseball Data Hub",
-    "coverage": "1876-2025 NL seasons",
-    "last_updated": "2026-07-22",
-    "note": "This is a curated sample of key seasons. For full season-by-season data, use the Lahman Baseball Database."
+    "source": "Baseball Almanac, Baseball-Reference, Baseball Data Hub",
+    "coverage": "1876-2025",
+    "last_updated": "July 2026",
+    "note": "Season-by-season NL performance data; key seasons included for research and visualization"
   },
-  "schedule_eras": {
-    "1876-1884": {"games_per_season": "60-112", "notes": "Varied schedules; 1st full season 1878 (84 games)"},
-    "1885-1908": {"games_per_season": "126-154", "notes": "Standard 154-game era begins ~1892"},
-    "1909-1961": {"games_per_season": "154", "notes": "Consistent 154-game schedule"},
-    "1962-2019": {"games_per_season": "162", "notes": "162-game schedule begins"},
-    "2020": {"games_per_season": "60", "notes": "COVID-19 shortened season"},
-    "2021-present": {"games_per_season": "162", "notes": "Back to full 162-game schedule"}
-  },
-  "sample_seasons": {
-    "1876": {"champion": "Chicago", "record": "52-14", "games": 70, "notes": "NL inaugural season with 8 franchises"},
-    "1906": {"champion": "Chicago Cubs", "record": "116-36", "games": 155, "notes": "Record 116 wins tied at time"},
-    "1914": {"champion": "Boston Braves", "record": "94-59", "games": 153, "notes": "Miracle Braves go from last to first"},
-    "1951": {"champion": "New York Giants", "record": "98-59", "games": 157, "notes": "Shot Heard Round the World; 3-game playoff vs Dodgers"},
-    "1969": {"champion": "New York Mets", "record": "100-62", "games": 162, "notes": "Miracle Mets; first NL expansion team to win pennant and WS"},
-    "1986": {"champion": "New York Mets", "record": "108-54", "games": 162, "notes": "100+ wins; 162-game season record"},
-    "1994": {"champion": "N/A (strike)", "record": "N/A", "games": "N/A", "notes": "Season cut short August 12; no WS played"},
-    "2001": {"champion": "Arizona Diamondbacks", "record": "92-70", "games": 162, "notes": "Fewest wins of any WS champion in 162-game era"},
-    "2016": {"champion": "Chicago Cubs", "record": "103-58", "games": 162, "notes": "Broke 108-year WS championship drought"},
-    "2020": {"champion": "LA Dodgers", "record": "43-17", "games": 60, "notes": "COVID-19 shortened season; Dodgers WS champions"},
-    "2025": {"champion": "LA Dodgers", "record": "96-66", "games": 162, "notes": "Dodgers 3rd WS title in 4 years; 26th NL pennant"}
-  },
-  "championship_frequency": {
-    "LA Dodgers": {"ws_titles": 9, "pennants": 26, "first_ws": 1955, "last_ws": 2025},
-    "St. Louis Cardinals": {"ws_titles": 11, "pennants": 19, "first_ws": 1926, "last_ws": 2011},
-    "San Francisco Giants": {"ws_titles": 8, "pennants": 23, "first_ws": 1905, "last_ws": 2014},
-    "Cincinnati Reds": {"ws_titles": 5, "pennants": 9, "first_ws": 1919, "last_ws": 1990},
-    "Pittsburgh Pirates": {"ws_titles": 5, "pennants": 9, "first_ws": 1909, "last_ws": 1979},
-    "Atlanta Braves": {"ws_titles": 4, "pennants": 10, "first_ws": 1914, "last_ws": 2021},
-    "Chicago Cubs": {"ws_titles": 3, "pennants": 17, "first_ws": 1907, "last_ws": 2016},
-    "Miami Marlins": {"ws_titles": 2, "pennants": 2, "first_ws": 1997, "last_ws": 2003},
-    "New York Mets": {"ws_titles": 2, "pennants": 5, "first_ws": 1969, "last_ws": 1986},
-    "Philadelphia Phillies": {"ws_titles": 2, "pennants": 3, "first_ws": 1980, "last_ws": 2008},
-    "Arizona Diamondbacks": {"ws_titles": 1, "pennants": 1, "first_ws": 2001, "last_ws": 2001},
-    "Washington Nationals": {"ws_titles": 1, "pennants": 1, "first_ws": 2019, "last_ws": 2019}
-  },
-  "division_titles_by_team": {
-    "NL East": {"Atlanta Braves": 18, "Philadelphia Phillies": 13, "NY Mets": 5, "Montreal Expos": 1, "Washington Nationals": 1},
-    "NL Central": {"St. Louis Cardinals": 12, "Chicago Cubs": 6, "Milwaukee Brewers": 6, "Pittsburgh Pirates": 3, "Cincinnati Reds": 2},
-    "NL West": {"LA Dodgers": 26, "San Francisco Giants": 9, "San Diego Padres": 1, "Arizona Diamondbacks": 1, "Colorado Rockies": 1}
-  }
+  "seasons": [
+    {
+      "year": 1876,
+      "teams_in_nl": 8,
+      "games_per_team": 60,
+      "nl_champion": "Chicago White Stockings",
+      "ws_champion": "Chicago White Stockings",
+      "nl_top_wins": "Chicago White Stockings (52)",
+      "nl_top_win_pct": ".598"
+    },
+    {
+      "year": 1885,
+      "teams_in_nl": 8,
+      "games_per_team": 112,
+      "nl_champion": "Chicago White Stockings",
+      "ws_champion": "Chicago White Stockings",
+      "nl_top_wins": "Chicago White Stockings (87)",
+      "nl_top_win_pct": ".615"
+    },
+    {
+      "year": 1895,
+      "teams_in_nl": 12,
+      "games_per_team": 132,
+      "nl_champion": "Baltimore Orioles",
+      "ws_champion": "Baltimore Orioles",
+      "nl_top_wins": "Baltimore Orioles (87)",
+      "nl_top_win_pct": ".646"
+    },
+    {
+      "year": 1900,
+      "teams_in_nl": 12,
+      "games_per_team": 136,
+      "nl_champion": "Brooklyn Superbas",
+      "ws_champion": "Brooklyn Superbas",
+      "nl_top_wins": "Brooklyn Superbas (82)",
+      "nl_top_win_pct": ".603"
+    },
+    {
+      "year": 1906,
+      "teams_in_nl": 8,
+      "games_per_team": 154,
+      "nl_champion": "Chicago Cubs",
+      "ws_champion": "Chicago Cubs",
+      "nl_top_wins": "Chicago Cubs (116)",
+      "nl_top_win_pct": ".763"
+    },
+    {
+      "year": 1919,
+      "teams_in_nl": 8,
+      "games_per_team": 140,
+      "nl_champion": "Cincinnati Reds",
+      "ws_champion": "Cincinnati Reds",
+      "nl_top_wins": "Cincinnati Reds (96)",
+      "nl_top_win_pct": ".658"
+    },
+    {
+      "year": 1921,
+      "teams_in_nl": 8,
+      "games_per_team": 154,
+      "nl_champion": "New York Giants",
+      "ws_champion": "New York Giants",
+      "nl_top_wins": "New York Giants (94)",
+      "nl_top_win_pct": ".604"
+    },
+    {
+      "year": 1927,
+      "teams_in_nl": 8,
+      "games_per_team": 154,
+      "nl_champion": "New York Yankees",
+      "ws_champion": "New York Yankees",
+      "nl_top_wins": "New York Yankees (110)",
+      "nl_top_win_pct": ".710"
+    },
+    {
+      "year": 1930,
+      "teams_in_nl": 8,
+      "games_per_team": 154,
+      "nl_champion": "St. Louis Cardinals",
+      "ws_champion": "St. Louis Cardinals",
+      "nl_top_wins": "St. Louis Cardinals (92)",
+      "nl_top_win_pct": ".595"
+    },
+    {
+      "year": 1940,
+      "teams_in_nl": 8,
+      "games_per_team": 154,
+      "nl_champion": "Cincinnati Reds",
+      "ws_champion": "Cincinnati Reds",
+      "nl_top_wins": "Cincinnati Reds (100)",
+      "nl_top_win_pct": ".645"
+    },
+    {
+      "year": 1950,
+      "teams_in_nl": 8,
+      "games_per_team": 154,
+      "nl_champion": "Philadelphia Phillies",
+      "ws_champion": "Philadelphia Phillies",
+      "nl_top_wins": "Philadelphia Phillies (91)",
+      "nl_top_win_pct": ".590"
+    },
+    {
+      "year": 1960,
+      "teams_in_nl": 8,
+      "games_per_team": 154,
+      "nl_champion": "Pittsburgh Pirates",
+      "ws_champion": "Pittsburgh Pirates",
+      "nl_top_wins": "Pittsburgh Pirates (95)",
+      "nl_top_win_pct": ".613"
+    },
+    {
+      "year": 1969,
+      "teams_in_nl": 12,
+      "games_per_team": 162,
+      "nl_champion": "New York Mets",
+      "ws_champion": "New York Mets",
+      "nl_top_wins": "New York Mets (100)",
+      "nl_top_win_pct": ".617"
+    },
+    {
+      "year": 1980,
+      "teams_in_nl": 12,
+      "games_per_team": 162,
+      "nl_champion": "Philadelphia Phillies",
+      "ws_champion": "Philadelphia Phillies",
+      "nl_top_wins": "Philadelphia Phillies (91)",
+      "nl_top_win_pct": ".559"
+    },
+    {
+      "year": 1994,
+      "teams_in_nl": 14,
+      "games_per_team": 114,
+      "nl_champion": "N/A (Strike)",
+      "ws_champion": "N/A (Strike)",
+      "nl_top_wins": "Montreal Expos (74)",
+      "nl_top_win_pct": ".604"
+    },
+    {
+      "year": 1998,
+      "teams_in_nl": 15,
+      "games_per_team": 162,
+      "nl_champion": "Atlanta Braves",
+      "ws_champion": "Atlanta Braves",
+      "nl_top_wins": "Atlanta Braves (106)",
+      "nl_top_win_pct": ".647"
+    },
+    {
+      "year": 2001,
+      "teams_in_nl": 15,
+      "games_per_team": 162,
+      "nl_champion": "Arizona Diamondbacks",
+      "ws_champion": "Arizona Diamondbacks",
+      "nl_top_wins": "Arizona Diamondbacks (92)",
+      "nl_top_win_pct": ".564"
+    },
+    {
+      "year": 2010,
+      "teams_in_nl": 15,
+      "games_per_team": 162,
+      "nl_champion": "San Francisco Giants",
+      "ws_champion": "San Francisco Giants",
+      "nl_top_wins": "San Francisco Giants (92)",
+      "nl_top_win_pct": ".562"
+    },
+    {
+      "year": 2016,
+      "teams_in_nl": 15,
+      "games_per_team": 162,
+      "nl_champion": "Chicago Cubs",
+      "ws_champion": "Chicago Cubs",
+      "nl_top_wins": "Chicago Cubs (103)",
+      "nl_top_win_pct": ".634"
+    },
+    {
+      "year": 2024,
+      "teams_in_nl": 15,
+      "games_per_team": 162,
+      "nl_champion": "Los Angeles Dodgers",
+      "ws_champion": "Los Angeles Dodgers",
+      "nl_top_wins": "Los Angeles Dodgers (98)",
+      "nl_top_win_pct": ".605"
+    },
+    {
+      "year": 2025,
+      "teams_in_nl": 15,
+      "games_per_team": 162,
+      "nl_champion": "Los Angeles Dodgers",
+      "ws_champion": "Los Angeles Dodgers",
+      "nl_top_wins": "Los Angeles Dodgers (96)",
+      "nl_top_win_pct": ".593"
+    }
+  ]
 }
