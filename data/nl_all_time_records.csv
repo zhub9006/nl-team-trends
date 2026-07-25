@@ -1,16 +1,16 @@
-team,ws_titles,games,wins,losses,win_pct,last_ws_title,last_pennant,division,first_season,franchise_since,notes
-St. Louis Cardinals,11,20863,10633,10099,0.513,2011,2022,NL Central,1882,1882,Most WS titles in NL; 19 total pennants
-Los Angeles Dodgers,9,21115,11176,9819,0.532,2025,2025,NL West,1884,1884,Moved from Brooklyn to LA in 1958; 26 NL pennants
-San Francisco Giants,8,21981,11663,10155,0.535,2014,2012,NL West,1883,1883,Moved from NY to SF in 1958; 23 NL pennants; 11663 all-time NL wins
-Cincinnati Reds,5,21139,10511,10501,0.500,1990,1976,NL Central,1882,1882,.500 exact winning percentage over career
-Pittsburgh Pirates,5,21519,10724,10661,0.501,1979,1979,NL Central,1882,1882
-Atlanta Braves,4,22474,11245,11075,0.504,2021,2021,NL East,1876,1876,14 straight division titles 1991-2005; longest NL dynasty
-Chicago Cubs,3,22513,11473,10879,0.513,2016,2016,NL Central,1876,1876,108-year championship drought 1908-2016; most games in NL
-Miami Marlins,2,5271,2434,2837,0.462,2003,2003,NL East,1993,1993,Shortened name from Florida Marlins in 2012
-New York Mets,2,10231,4939,5284,0.483,1986,2006,NL East,1962,1962,1969 Miracle Mets; 2015 runner-up
-Philadelphia Phillies,2,21907,10357,11435,0.475,2008,2009,NL East,1883,1883,Oldest continuous one-name one-city franchise in pro sports
-Arizona Diamondbacks,1,4530,2216,2314,0.489,2001,2001,NL West,1998,1998,Won WS title in just 4th season as expansion team
-Washington Nationals,1,9097,4379,4714,0.482,2019,2019,NL East,1969,1969,Former Montreal Expos; moved to DC in 2005
-Milwaukee Brewers,0,8920,4464,4456,0.503,N/A,2025,NL Central,1969,1969,Former Seattle Pilots; never won NL pennant
-Colorado Rockies,0,4760,2403,2357,0.505,N/A,N/A,NL West,1993,1993,Best season 2007 (defunct WS run)
-San Diego Padres,0,7980,4265,3715,0.534,N/A,2024,NL West,1969,1969,2024 NL pennant; .534 highest win pct among 0-title franchises
+team,ws_titles,games,wins,losses,win_pct,last_ws_title
+St. Louis Cardinals,11,20863,10633,10099,0.513,2011
+Los Angeles Dodgers,9,21115,11176,9819,0.532,2025
+San Francisco Giants,8,21981,11663,10155,0.535,2014
+Cincinnati Reds,5,21139,10511,10501,0.500,1990
+Pittsburgh Pirates,5,21519,10724,10661,0.501,1979
+Atlanta Braves,4,22474,11245,11075,0.504,2021
+Chicago Cubs,3,22513,11473,10879,0.513,2016
+Miami Marlins,2,5271,2434,2837,0.462,2003
+New York Mets,2,10231,4939,5284,0.483,1986
+Philadelphia Phillies,2,21907,10357,11435,0.475,2008
+Arizona Diamondbacks,1,4530,2216,2314,0.489,2001
+Washington Nationals,1,9097,4379,4714,0.482,2019
+Milwaukee Brewers,0,8920,4464,4456,0.503,N/A
+Colorado Rockies,0,4760,2403,2357,0.505,N/A
+San Diego Padres,0,7980,4265,3715,0.534,N/A
