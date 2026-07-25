@@ -11,7 +11,7 @@ Comprehensive research project compiling historical **National League (NL)** tea
 | NL Pennants | LA Dodgers | 26 |
 | NL World Series Titles | St. Louis Cardinals | 11 |
 | Most NL Regular-Season Wins | San Francisco Giants | 11,663 |
-| Highest NL Win % (1500+ games) | LA Dodgers / SF Giants | .532/.535 |
+| Highest NL Win % (1500+ games) | LA Dodgers / SF Giants | .532/~.535 |
 | Biggest Single-Season Dominance | 1906 Chicago Cubs | 116–36 (.763) |
 | Longest NL Championship Drought | Chicago Cubs | 108 years (1908–2016) |
 | Longest NL Dynasty | Atlanta Braves | 14 straight division titles (1991–2005) |
@@ -40,7 +40,6 @@ Comprehensive research project compiling historical **National League (NL)** tea
 | ESPN (World Series) | https://www.espn.com/mlb/worldseries/history/winners | 1903–present | World Series champions & results by year |
 | Wikipedia (NL Pennants) | https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners | 1876–present | Complete pennant winner list with WS results |
 | Project Ballpark | https://www.projectballpark.org/ | 1876–present | Historical ballpark attendance & demographics |
-| Surprise Sports Champions | https://surprisesports.com/baseball/mlb-champions-list/ | 1903–2025 | Complete WS champions list & era analysis |
 | Champs or Chumps | https://champsorchumps.us/mlb | 1876–present | Win% rankings, droughts, streaks, postseason records |
 | MLB Win-Loss Visualizer | https://inkandthunder.github.io/win-loss-visualizer/ | 1894–present | Interactive YoY W-L visualization for all MLB teams |
 | BetIQ / TeamRankings | https://betiq.teamrankings.com/mlb/betting-trends/win-loss-records/ | 1876–present | Every team's S/U W-L record with MOV and run-line data |
@@ -48,7 +47,7 @@ Comprehensive research project compiling historical **National League (NL)** tea
 
 ---
 
-## 📜 Key Historical Data Points
+## 📋 Key Historical Data Points
 
 ### NL Founding & Evolution
 - **NL Founded**: February 2, 1876 (replacing the National Association)
@@ -157,9 +156,6 @@ Comprehensive research project compiling historical **National League (NL)** tea
 ```
 nl-team-trends/
 ├── README.md                                  ← This file — research overview & key findings
-├── DATA_INDEX.md                              ← Data file index & column definitions
-├── source_references.md                       ← Detailed source attribution & methodology
-├── requirements.txt                           ← Python dependencies for analysis
 ├── data/
 │   ├── nl_all_time_records.csv                ← All-time franchise records with W/L, pennants, WS titles
 │   ├── nl_pennant_winners.csv                 ← Complete NL pennant winners 1876–2025
@@ -168,9 +164,7 @@ nl-team-trends/
 │   ├── nl_championship_trends.csv             ← Championship highlights by era
 │   ├── nl_notable_records.csv                 ← Key single-season & franchise records
 │   ├── nl_recent_standings.csv                ← Divisional standings 2014–2025
-│   ├── nl_team_vs_team_summary.csv            ← H2H W-L summary matrix (key matchups)
-│   ├── nl_season_by_year.json                 ← Comprehensive season-by-season data 1876-2025
-│   └── research_data_supplement.json          ← Extra research data (H2H full matrix, division titles)
+│   └── nl_team_vs_team_summary.csv            ← H2H W-L summary matrix (key matchups)
 ├── visualizations/
 │   └── README.md                              ← Visualization roadmap, Python code, notebooks
 └── notebooks/                                 ← (planned) analysis Jupyter notebooks
@@ -178,7 +172,7 @@ nl-team-trends/
 
 ---
 
-## 💡 Getting Started
+## 🚀 Getting Started
 
 ### 1. Clone the Repository
 ```bash
