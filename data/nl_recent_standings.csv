@@ -1,13 +1,91 @@
-year,NL_Central_winner,NL_Central_W,NL_East_winner,NL_East_W,NL_West_winner,NL_West_W,Wild_Card_1,Wild_Card_2,Notes
-2014,St. Louis Cardinals,90-72,Washington Nationals,88-74,Los Angeles Dodgers,94-68,Madison Bumgarner (SF),,Dodgers won 11 straight NL West
-2015,St. Louis Cardinals,100-62,New York Mets,90-72,LA Dodgers,92-70,Cardinals,,Dodgers 2nd straight NL West
-2016,Chicago Cubs,103-58,Washington Nationals,95-67,LA Dodgers,91-71,,Chicago Cubs won WS
-2017,Chicago Cubs,92-70,Washington Nationals,97-65,Los Angeles Dodgers,104-58,Miami Marlins,Colorado Rockies,Dodgers 104 wins NL best
-2018,Milwaukee Brewers,96-67,Atlanta Braves,90-72,Los Angeles Dodgers,92-71,Chicago Cubs,Colorado Rockies,Dodgers 8th straight NL West
-2019,St. Louis Cardinals,91-71,Washington Nationals,93-69,Los Angeles Dodgers,106-56,Milwaukee Brewers,Atlanta Braves,Braves won WS in 2021
-2020,Chicago Cubs,34-26,Atlanta Braves,35-25,Los Angeles Dodgers,43-17,Milwaukee Brewers,SB Padres,60-game COVID season
-2021,Milwaukee Brewers,95-67,Atlanta Braves,88-73,LA Dodgers,106-56,Cardinals,Padres,Braves won WS; Cardinals clinch on final day
-2022,St. Louis Cardinals,93-69,Philadelphia Phillies,87-75,LA Dodgers,92-70,Mets,Padres,Phillies won NLCS on Dodger ground
-2023,Milwaukee Brewers,92-70,Atlanta Braves,104-58,Los Angeles Dodgers,100-62,Mets,Phillies,Dodgers 200th win; Braves 4th straight 100 wins
-2024,Milwaukee Brewers,92-70,Philadelphia Phillies,89-73,Los Angeles Dodgers,98-64,Mets,Padres,Dodgers back-to-back WS titles
-2025,Milwaukee Brewers,97-65,Philadelphia Phillies,94-68,Los Angeles Dodgers,96-66,,Dodgers three-peated; 8th straight NL West
+team,division,year,wins,losses,win_pct,gb
+Atlanta Braves,NL East,2020,35,25,0.583,0
+Atlanta Braves,NL East,2021,88,73,0.547,0
+Atlanta Braves,NL East,2022,101,61,0.623,0
+Atlanta Braves,NL East,2023,104,58,0.642,0
+Atlanta Braves,NL East,2024,89,73,0.550,3.5
+Atlanta Braves,NL East,2025,88,74,0.543,8.0
+Miami Marlins,NL East,2020,31,29,0.517,4.0
+Miami Marlins,NL East,2021,22,38,0.367,10.5
+Miami Marlins,NL East,2022,69,93,0.426,24.5
+Miami Marlins,NL East,2023,84,78,0.519,16.0
+Miami Marlins,NL East,2024,62,100,0.383,27.0
+Miami Marlins,NL East,2025,62,100,0.383,27.0
+New York Mets,NL East,2020,26,34,0.433,12.5
+New York Mets,NL East,2021,77,85,0.475,12.0
+New York Mets,NL East,2022,75,87,0.463,20.0
+New York Mets,NL East,2023,75,87,0.463,21.0
+New York Mets,NL East,2024,89,73,0.549,6.0
+New York Mets,NL East,2025,75,87,0.463,20.5
+Philadelphia Phillies,NL East,2020,28,32,0.467,10.5
+Philadelphia Phillies,NL East,2021,82,80,0.506,4.0
+Philadelphia Phillies,NL East,2022,87,75,0.537,6.0
+Philadelphia Phillies,NL East,2023,90,72,0.556,2.0
+Philadelphia Phillies,NL East,2024,95,67,0.586,0.5
+Philadelphia Phillies,NL East,2025,96,66,0.593,0.0
+Washington Nationals,NL East,2020,26,34,0.433,12.5
+Washington Nationals,NL East,2021,65,97,0.401,22.5
+Washington Nationals,NL East,2022,55,107,0.340,34.5
+Washington Nationals,NL East,2023,73,89,0.451,22.0
+Washington Nationals,NL East,2024,71,91,0.438,23.0
+Washington Nationals,NL East,2025,71,91,0.438,23.0
+Chicago Cubs,NL Central,2020,34,26,0.567,0
+Chicago Cubs,NL Central,2021,71,91,0.438,14.0
+Chicago Cubs,NL Central,2022,74,88,0.457,19.0
+Chicago Cubs,NL Central,2023,83,79,0.512,7.0
+Chicago Cubs,NL Central,2024,83,79,0.512,8.0
+Chicago Cubs,NL Central,2025,70,92,0.432,19.0
+St. Louis Cardinals,NL Central,2020,30,28,0.517,0
+St. Louis Cardinals,NL Central,2021,90,72,0.556,7.0
+St. Louis Cardinals,NL Central,2022,93,69,0.574,0
+St. Louis Cardinals,NL Central,2023,71,91,0.438,15.0
+St. Louis Cardinals,NL Central,2024,83,79,0.512,7.0
+St. Louis Cardinals,NL Central,2025,71,91,0.438,15.0
+Milwaukee Brewers,NL Central,2020,29,31,0.483,0
+Milwaukee Brewers,NL Central,2021,95,67,0.586,5.5
+Milwaukee Brewers,NL Central,2022,86,76,0.531,7.0
+Milwaukee Brewers,NL Central,2023,92,70,0.568,5.0
+Milwaukee Brewers,NL Central,2024,93,69,0.574,4.0
+Milwaukee Brewers,NL Central,2025,97,65,0.599,0.0
+Cincinnati Reds,NL Central,2020,31,29,0.517,4.0
+Cincinnati Reds,NL Central,2021,83,79,0.512,5.5
+Cincinnati Reds,NL Central,2022,62,100,0.383,21.5
+Cincinnati Reds,NL Central,2023,62,100,0.383,24.0
+Cincinnati Reds,NL Central,2024,77,85,0.475,12.0
+Cincinnati Reds,NL Central,2025,75,87,0.463,13.0
+Pittsburgh Pirates,NL Central,2020,19,41,0.317,13.5
+Pittsburgh Pirates,NL Central,2021,61,101,0.377,25.5
+Pittsburgh Pirates,NL Central,2022,62,100,0.383,24.0
+Pittsburgh Pirates,NL Central,2023,76,86,0.469,17.0
+Pittsburgh Pirates,NL Central,2024,78,84,0.481,12.0
+Pittsburgh Pirates,NL Central,2025,72,90,0.444,17.0
+LA Dodgers,NL West,2020,43,17,0.717,0
+LA Dodgers,NL West,2021,106,56,0.654,0
+LA Dodgers,NL West,2022,111,51,0.685,0
+LA Dodgers,NL West,2023,100,62,0.617,1.0
+LA Dodgers,NL West,2024,98,64,0.605,0
+LA Dodgers,NL West,2025,96,66,0.593,0
+San Francisco Giants,NL West,2020,29,31,0.483,0
+San Francisco Giants,NL West,2021,79,83,0.488,12.5
+San Francisco Giants,NL West,2022,81,81,0.500,13.0
+San Francisco Giants,NL West,2023,79,83,0.488,13.0
+San Francisco Giants,NL West,2024,81,81,0.500,13.5
+San Francisco Giants,NL West,2025,72,90,0.444,19.0
+Arizona Diamondbacks,NL West,2020,43,17,0.717,0
+Arizona Diamondbacks,NL West,2021,52,110,0.321,5.0
+Arizona Diamondbacks,NL West,2022,74,88,0.457,18.0
+Arizona Diamondbacks,NL West,2023,84,78,0.519,8.0
+Arizona Diamondbacks,NL West,2024,89,73,0.549,1.0
+Arizona Diamondbacks,NL West,2025,89,73,0.549,1.0
+Colorado Rockies,NL West,2020,26,34,0.433,0
+Colorado Rockies,NL West,2021,74,88,0.457,14.5
+Colorado Rockies,NL West,2022,68,94,0.420,19.0
+Colorado Rockies,NL West,2023,59,103,0.364,26.0
+Colorado Rockies,NL West,2024,62,100,0.383,24.0
+Colorado Rockies,NL West,2025,42,120,0.259,46.0
+San Diego Padres,NL West,2020,37,23,0.617,0
+San Diego Padres,NL West,2021,79,83,0.488,12.0
+San Diego Padres,NL West,2022,89,73,0.549,1.0
+San Diego Padres,NL West,2023,82,80,0.506,3.0
+San Diego Padres,NL West,2024,93,69,0.574,1.5
+San Diego Padres,NL West,2025,85,77,0.525,6.0
