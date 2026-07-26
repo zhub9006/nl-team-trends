@@ -18,6 +18,9 @@ Comprehensive research project compiling historical **National League (NL)** tea
 | NL Franchise with Most Games | Chicago Cubs | 22,513 |
 | Best 23-Year Run (2000–2024) | LA Dodgers | 2239–1709 (.567) |
 | Best NL Win % 162-game era | LA Dodgers (2020–2025) | .593 avg |
+| NL Team with Best Win% 2013–2024 | LA Dodgers | .613 |
+| Most NL All-Time Wins (MLB) | ST. Louis Cardinals | 10,633 |
+| NL Team Max Single-Season Wins | 1906 Cubs / 2001 Mariners (AL) | 116 |
 
 ---
 
@@ -28,22 +31,28 @@ Comprehensive research project compiling historical **National League (NL)** tea
 | Baseball-Reference (NL) | https://www.baseball-reference.com/leagues/NL/ | 1876–present | Official year-by-year NL standings & team stats |
 | Baseball Almanac H2H | https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml | 1876–2026 | **15×15 H2H W-L matrices** for every NL team vs every other team |
 | Baseball Almanac (Yearly) | https://www.baseball-almanac.com/yearmenu.shtml | 1876–present | NL leadership, W-L records, and fabulous feats per season |
+| Baseball Almanac (Records) | https://www.baseball-almanac.com/recbooks/rb_gam3.shtml | All-time | MVP franchise win records, single-season records, streaks |
 | Baseball Data Hub | https://baseballdatahub.com/seasons/ | 1871–2026 | Complete season standings & stats archive |
 | SABR Lahman Database | https://sabr.org/lahman-database/ | 1871–2025 | Free downloadable CSV dataset (full team/batting/pitching) |
 | StatsCrew (NL) | https://www.statscrew.com/baseball/l-NL | 1876–present | NL rosters, standings & leaders |
-| StatMuse (NL Championships) | https://www.statmuse.com/mlb | 1876–2026 | NL championship leaders & franchise W/L/G stats |
+| StatMuse (All-Time W/L) | https://www.statmuse.com/mlb | 1876–2026 | All-time franchise W-L/G records (Braves 11251-11078, Cubs 11478-10882) |
 | StatMuse (23-Yr Run) | https://www.statmuse.com/mlb | 2000–2024 | Best NL teams over 23-year spans; Dodgers lead at .567 |
+| StatMuse (NL Win% 2013–2024) | https://www.statmuse.com/mlb | 2013–2024 | Dodgers best NL win% at .613 over 12 seasons |
 | OpenIntro MLB Dataset | https://openintro.org/data | Multi-year | ML-ready MLB team data in R format |
 | Retrosheet | https://www.retrosheet.org/ | 1871–present | Box scores, team records, play-by-play data |
 | Everything Explained | https://everything.explained.today | 1876–2025 | All-time franchise W-L & postseason data |
 | Linger & Look | https://lingerandlook.com/Names/BaseballStandings.php | 1901–present | Year-by-year standings with managers & subtotals |
 | ESPN (World Series) | https://www.espn.com/mlb/worldseries/history/winners | 1903–present | World Series champions & results by year |
 | Wikipedia (NL Pennants) | https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners | 1876–present | Complete pennant winner list with WS results |
+| Wikipedia (All-Time W/L) | https://en.wikipedia.org/wiki/List_of_all-time_MLB_win–loss_records | All-time | Franchise W-L percentages across MLB history |
 | Project Ballpark | https://www.projectballpark.org/ | 1876–present | Historical ballpark attendance & demographics |
 | Champs or Chumps | https://champsorchumps.us/mlb | 1876–present | Win% rankings, droughts, streaks, postseason records |
 | MLB Win-Loss Visualizer | https://inkandthunder.github.io/win-loss-visualizer/ | 1894–present | Interactive YoY W-L visualization for all MLB teams |
 | BetIQ / TeamRankings | https://betiq.teamrankings.com/mlb/betting-trends/win-loss-records/ | 1876–present | Every team's S/U W-L record with MOV and run-line data |
 | MLB.com (Best Records) | https://www.mlb.com/news/best-regular-season-record-for-every-mlb-team | All years | Best single-season records by team |
+| MLB Standings Archive | https://www.mlb-standings.com/standings/ | 2017–present | Browse standings by season, team, or historical rankings |
+| Statpedia | https://www.statpedia.net/league-standings.html | Divisional eras | Full AL and NL division standings by season |
+| FanGraphs | https://www.fangraphs.com/ | 1995–present | Advanced stats, WAR, and team analytics |
 
 ---
 
@@ -113,6 +122,7 @@ Comprehensive research project compiling historical **National League (NL)** tea
 ---
 
 ## 🔗 Key H2H Rivalries (Baseball Almanac 1876–2026)
+
 | Team 1 | Team 2 | T1 Wins | T2 Wins | T1 Win% | Era Dominant |
 |--------|--------|---------|---------|---------|-------------|
 | LA Dodgers | Chicago Cubs | 278 | 122 | .695 | LA Dodgers (2016–present) |
@@ -135,7 +145,8 @@ Comprehensive research project compiling historical **National League (NL)** tea
 
 ---
 
-## 🏅 Best NL Teams by 23-Year Span (StatMuse, 2000–2024)
+## 📈 Best NL Teams by 23-Year Span (StatMuse, 2000–2024)
+
 | Rank | Team | Record | Win% | Games |
 |------|------|--------|------|-------|
 | 1 | LA Dodgers | 2239-1709 | .567 | 3,948 |
@@ -148,6 +159,9 @@ Comprehensive research project compiling historical **National League (NL)** tea
 | 8 | Brewers | 1960-1988 | .496 | 3,949 |
 | 9 | D-backs | 1922-2026 | .487 | 3,948 |
 | 10 | Padres | 1888-2061 | .478 | 3,949 |
+
+### NL Win % 2013–2024 (StatMuse)
+The **Los Angeles Dodgers** had the best winning percentage by an NL team from 2013–2024 at **.613**, followed by the Cardinals (.545) and Braves (.536).
 
 ---
 
@@ -164,7 +178,8 @@ nl-team-trends/
 │   ├── nl_championship_trends.csv             ← Championship highlights by era
 │   ├── nl_notable_records.csv                 ← Key single-season & franchise records
 │   ├── nl_recent_standings.csv                ← Divisional standings 2014–2025
-│   └── nl_team_vs_team_summary.csv            ← H2H W-L summary matrix (key matchups)
+│   ├── nl_team_vs_team_summary.csv            ← H2H W-L summary matrix (key matchups)
+│   └── nl_performance_data.csv                ← Comprehensive historical performance dataset (see below)
 ├── visualizations/
 │   └── README.md                              ← Visualization roadmap, Python code, notebooks
 └── notebooks/                                 ← (planned) analysis Jupyter notebooks
@@ -213,6 +228,9 @@ h2h = pd.read_csv('data/nl_team_vs_team_summary.csv')
 
 # Pennant winners with WS results
 pennants = pd.read_csv('data/nl_pennant_winners.csv')
+
+# Comprehensive performance data
+performance = pd.read_csv('data/nl_performance_data.csv')
 ```
 
 ---
@@ -227,10 +245,11 @@ pennants = pd.read_csv('data/nl_pennant_winners.csv')
 - **Drought chart**: Championship drought by franchise (bar chart)
 - **Division dominance**: Stacked area chart of division titles over time
 - **23-year spans**: Sliding window win% comparison across franchises
+- **Win% by schedule era**: Compare team performance across 60/154/162-game eras
 
 ---
 
-## 🤝 Contributing
+## 🧠 Contributing
 
 Contributions welcome! Areas we'd love help with:
 - Completing the pennant winners CSV with full year-by-year details
@@ -239,6 +258,7 @@ Contributions welcome! Areas we'd love help with:
 - Building interactive Plotly dashboards
 - Adding player-level data to complement team records
 - Visualizing NL championship cycles and franchise trajectories
+- Expanding the H2H Rivalry matrix with complete 15×15 data
 
 ## License
 
