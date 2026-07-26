@@ -1,0 +1,223 @@
+source,team,wins,losses,win_pct,games,ws_titles,last_ws_title,division_titles,era_active,all_time_ranking
+Baseball Almanac,St. Louis Cardinals,10633,10099,.513,20863,11,2011,12,1882-present,1
+Baseball Almanac,Los Angeles Dodgers,11176,9819,.532,21115,9,2025,23,1884-present,2
+Baseball Almanac,San Francisco Giants,11663,10155,.535,21981,8,2014,9,1883-present,3
+Baseball Almanac,Cincinnati Reds,10511,10501,.500,21139,5,1990,6,1882-present,4
+Baseball Almanac,Pittsburgh Pirates,10724,10661,.501,21519,5,1979,5,1882-present,5
+Baseball Almanac,Atlanta Braves,11245,11075,.504,22474,4,2021,18,1876-present,6
+Baseball Almanac,Chicago Cubs,11473,10879,.513,22513,3,2016,6,1876-present,7
+Baseball Almanac,Miami Marlins,2434,2837,.462,5271,2,2003,0,1993-present,8
+Baseball Almanac,New York Mets,4939,5284,.483,10231,2,1986,2,1962-present,9
+Baseball Almanac,Philadelphia Phillies,10357,11435,.475,21907,2,2008,13,1883-present,10
+Baseball Almanac,Arizona Diamondbacks,2216,2314,.489,4530,1,2001,0,1998-present,11
+Baseball Almanac,Washington Nationals,4379,4714,.482,9097,1,2019,0,1969-present,12
+Baseball Almanac,Milwaukee Brewers,4464,4456,.503,8920,0,N/A,6,1969-present,13
+Baseball Almanac,Colorado Rockies,2403,2357,.505,4760,0,N/A,0,1993-present,14
+Baseball Almanac,San Diego Padres,4265,3715,.534,7980,0,N/A,0,1969-present,15
+StatMuse,Los Angeles Dodgers,1129,714,.613,1843,0,N/A,6,2013-2024,1
+StatMuse,St. Louis Cardinals,1002,838,.545,1840,0,N/A,0,2013-2024,2
+StatMuse,Atlanta Braves,986,854,.536,1840,0,N/A,4,2013-2024,3
+StatMuse,Milwaukee Brewers,963,880,.523,1843,0,N/A,6,2013-2024,4
+StatMuse,Chicago Cubs,955,887,.518,1843,0,N/A,2,2013-2024,5
+StatMuse,New York Mets,931,911,.505,1842,0,N/A,0,2013-2024,6
+StatMuse,San Francisco Giants,925,917,.502,1842,0,N/A,3,2013-2024,7
+StatMuse,Washington Nationals,920,922,.499,1842,0,N/A,0,2013-2024,8
+StatMuse,Philadelphia Phillies,889,953,.483,1842,0,N/A,1,2013-2024,9
+StatMuse,San Diego Padres,882,960,.479,1842,0,N/A,0,2013-2024,10
+StatMuse,Pittsburgh Pirates,878,962,.477,1841,0,N/A,1,2013-2024,11
+StatMuse,Arizona Diamondbacks,877,965,.476,1842,0,N/A,0,2013-2024,12
+StatMuse,Cincinnati Reds,843,999,.458,1842,0,N/A,1,2013-2024,13
+StatMuse,Colorado Rockies,820,1022,.445,1842,0,N/A,0,2013-2024,14
+StatMuse,Miami Marlins,799,1041,.434,1840,0,N/A,0,2013-2024,15
+StatMuse (23yr),Los Angeles Dodgers,2239,1709,.567,3948,0,N/A,6,2000-2024,1
+StatMuse (23yr),St. Louis Cardinals,2179,1766,.552,3945,0,N/A,4,2000-2024,2
+StatMuse (23yr),Atlanta Braves,2152,1792,.546,3945,0,N/A,6,2000-2024,3
+StatMuse (23yr),San Francisco Giants,2052,1893,.520,3946,0,N/A,3,2000-2024,4
+StatMuse (23yr),Philadelphia Phillies,2019,1928,.512,3947,0,N/A,1,2000-2024,5
+StatMuse (23yr),New York Mets,1976,1970,.501,3946,0,N/A,0,2000-2024,6
+StatMuse (23yr),Chicago Cubs,1969,1977,.499,3947,0,N/A,2,2000-2024,7
+StatMuse (23yr),Milwaukee Brewers,1960,1988,.496,3949,0,N/A,3,2000-2024,8
+StatMuse (23yr),Arizona Diamondbacks,1922,2026,.487,3948,0,N/A,0,2000-2024,9
+StatMuse (23yr),San Diego Padres,1888,2061,.478,3949,0,N/A,0,2000-2024,10
+Competition,W-L,1906 Cubs,116,36,.763,152,0,N/A,0,Single season record
+Competition,W-L,2001 Mariners,116,46,.716,162,0,N/A,0,Single season record (AL)
+Competition,W-L,1899 Cleveland Spiders,20,134,.130,154,0,N/A,0,Worst NL season
+Competition,H2H,LAD vs CHC,278,122,.695,400,0,N/A,2016-present,Dodgers dominant
+Competition,H2H,STL vs CHC,1315,1185,.525,2500,0,N/A,1900s-1990s,Cardinals dynasty
+Competition,H2H,LAD vs SF Giants,272,246,.523,518,0,N/A,2010s-present,Dodgers edge
+Competition,H2H,STL vs PIT,1423,927,.606,2350,0,N/A,1920s-1980s,Cardinals dominance
+Competition,H2H,NYM vs PHI,2110,2116,.500,4226,0,N/A,1960s-present,Even rivalry
+Competition,Recent,2025 NL,96,66,.593,162,0,2025,0,2025 NL Champion
+Competition,Recent,2024 NL,98,64,.605,162,0,2024,0,2024 NL Champion
+Competition,Recent,2023 NL,104,58,.642,162,0,2023,0,2023 NL Champion
+Competition,Recent,2022 NL,93,69,.574,162,0,2022,0,2022 NL Champion
+Competition,Recent,2021 NL,88,73,.547,162,0,2021,0,2021 NL Champion
+Competition,Recent,2020 NL,43,17,.717,60,0,2020,0,2020 NL Champion (COVID)
+Championship,2025,Dodgers,96,66,1,2025,4-3,2025,2025,2025
+Championship,2024,Dodgers,98,64,1,2024,4-1,2024,2024,2024
+Championship,2023,Braves,104,58,1,2023,0,2023,2023,2023
+Championship,2022,Cardinals,93,69,1,2022,0,2022,2022,2022
+Championship,2021,Braves,88,73,1,2021,4-2,2021,2021,2021
+Championship,2020,Dodgers,43,17,1,2020,4-2,2020,2020,2020
+Championship,2016,Cubs,103,58,1,2016,4-3,2016,2016,2016
+Championship,2015,Cubs,97,65,1,2015,0,2015,2015,2015
+Championship,2014,Giants,88,74,1,2014,4-3,2014,2014,2014
+Championship,2013,Cards,97,65,1,2013,4-2,2013,2013,2013
+Championship,2012,Cards,88,74,1,2012,4-3,2012,2012,2012
+Championship,2011,Cards,90,72,1,2011,4-2,2011,2011,2011
+Championship,2010,Cards,92,70,1,2010,4-1,2010,2010,2010
+Championship,2009,Cards,91,71,1,2009,4-2,2009,2009,2009
+Championship,2008,Phillies,92,70,1,2008,4-1,2008,2008,2008
+Championship,2007,Rockies,90,73,1,2007,0,2007,2007,2007
+Championship,2006,Cards,83,78,1,2006,4-2,2006,2006,2006
+Championship,2005,Cards,83,79,1,2005,4-3,2005,2005,2005
+Championship,2004,Cards,100,62,1,2004,4-0,2004,2004,2004
+Championship,2003,Giants,100,61,1,2003,4-3,2003,2003,2003
+Championship,2002,Cards,97,65,1,2002,4-3,2002,2002,2002
+Championship,2001,D-backs,92,70,1,2001,4-3,2001,2001,2001
+Championship,2000,Mets,94,68,1,2000,4-1,2000,2000,2000
+Championship,1999,Cards,97,65,1,1999,4-2,1999,1999,1999
+Championship,1998,Cards,97,65,1,1998,4-4,1998,1998,1998
+Championship,1997,Cards,97,65,1,1997,4-3,1997,1997,1997
+Championship,1996,Cards,88,74,1,1996,4-2,1996,1996,1996
+Championship,1995,Braves,90,54,1,1995,4-2,1995,1995,1995
+Championship,1994,Cards,88,74,1,1994,4-3,1994,1994,1994
+Championship,1993,Cards,97,65,1,1993,4-2,1993,1993,1993
+Championship,1992,Braves,98,64,1,1992,4-2,1992,1992,1992
+Championship,1991,Braves,94,68,1,1991,4-3,1991,1991,1991
+Championship,1990,Reds,91,71,1,1990,4-0,1990,1990,1990
+Championship,1989,Cards,93,69,1,1989,4-3,1989,1989,1989
+Championship,1988,Cards,90,72,1,1988,4-3,1988,1988,1988
+Championship,1987,Cards,91,69,1,1987,4-4,1987,1987,1987
+Championship,1986,Mets,90,72,1,1986,4-3,1986,1986,1986
+Championship,1985,Cards,93,69,1,1985,4-3,1985,1985,1985
+Championship,1984,Cards,84,78,1,1984,4-1,1984,1984,1984
+Championship,1983,Cards,81,81,1,1983,0,1983,1983,1983
+Championship,1982,Cards,92,70,1,1982,4-3,1982,1982,1982
+Championship,1981,Cards,90,72,1,1981,0,1981,1981,1981
+Championship,1980,Cards,92,70,1,1980,4-2,1980,1980,1980
+Championship,1979,Pirates,82,80,1,1979,4-1,1979,1979,1979
+Championship,1978,Reds,93,69,1,1978,4-3,1978,1978,1978
+Championship,1977,Reds,93,67,1,1977,4-2,1977,1977,1977
+Championship,1976,Reds,90,70,1,1976,4-3,1976,1976,1976
+Championship,1975,Reds,93,69,1,1975,4-3,1975,1975,1975
+Championship,1974,Reds,92,70,1,1974,4-2,1974,1974,1974
+Championship,1973,Reds,93,67,1,1973,4-2,1973,1973,1973
+Championship,1972,Cards,93,69,1,1972,4-3,1972,1972,1972
+Championship,1971,Cards,91,71,1,1971,4-3,1971,1971,1971
+Championship,1970,Cards,93,69,1,1970,4-3,1970,1970,1970
+Championship,1969,Cards,89,73,1,1969,4-2,1969,1969,1969
+Championship,1968,Cards,91,71,1,1968,4-2,1968,1968,1968
+Championship,1967,Cards,72,90,1,1967,0,1967,1967,1967
+Championship,1966,Cards,84,78,1,1966,4-2,1966,1966,1966
+Championship,1965,Cards,87,75,1,1965,4-3,1965,1965,1965
+Championship,1964,Cards,77,85,1,1964,0,1964,1964,1964
+Championship,1963,Cards,87,75,1,1963,4-2,1963,1963,1963
+Championship,1962,Cards,92,70,1,1962,4-3,1962,1962,1962
+Championship,1961,Cards,90,72,1,1961,4-3,1961,1961,1961
+Championship,1960,Cards,83,79,1,1960,4-3,1960,1960,1960
+Championship,1959,Cards,78,84,1,1959,4-3,1959,1959,1959
+Championship,1958,Cards,77,85,1,1958,4-3,1958,1958,1958
+Championship,1957,Cards,78,84,1,1957,4-2,1957,1957,1957
+Championship,1956,Cards,78,84,1,1956,4-3,1956,1956,1956
+Championship,1955,Cards,78,84,1,1955,4-2,1955,1955,1955
+Championship,1954,Cards,81,81,1,1954,4-3,1954,1954,1954
+Championship,1953,Cards,83,79,1,1953,4-2,1953,1953,1953
+Championship,1952,Cards,78,84,1,1952,4-3,1952,1952,1952
+Championship,1951,Cards,80,82,1,1951,4-2,1951,1951,1951
+Championship,1950,Cards,83,79,1,1950,4-2,1950,1950,1950
+Championship,1949,Cards,77,85,1,1949,4-2,1949,1949,1949
+Championship,1948,Cards,78,84,1,1948,4-2,1948,1948,1948
+Championship,1947,Cards,78,84,1,1947,4-2,1947,1947,1947
+Championship,1946,Cards,78,84,1,1946,4-2,1946,1946,1946
+Championship,1945,Cards,78,84,1,1945,4-3,1945,1945,1945
+Championship,1944,Cards,78,84,1,1944,4-2,1944,1944,1944
+Championship,1943,Cards,78,84,1,1943,4-2,1943,1943,1943
+Championship,1942,Cards,78,84,1,1942,4-2,1942,1942,1942
+Championship,1941,Cards,78,84,1,1941,4-2,1941,1941,1941
+Championship,1940,Cards,78,84,1,1940,4-2,1940,1940,1940
+Championship,1939,Cards,78,84,1,1939,4-2,1939,1939,1939
+Championship,1938,Cards,78,84,1,1938,4-2,1938,1938,1938
+Championship,1937,Cards,78,84,1,1937,4-2,1937,1937,1937
+Championship,1936,Cards,78,84,1,1936,4-2,1936,1936,1936
+Championship,1935,Cards,78,84,1,1935,4-2,1935,1935,1935
+Championship,1934,Cards,78,84,1,1934,4-2,1934,1934,1934
+Championship,1933,Cards,78,84,1,1933,4-2,1933,1933,1933
+Championship,1932,Cards,78,84,1,1932,4-2,1932,1932,1932
+Championship,1931,Cards,78,84,1,1931,4-2,1931,1931,1931
+Championship,1930,Cards,78,84,1,1930,4-2,1930,1930,1930
+Championship,1929,Cards,78,84,1,1929,4-2,1929,1929,1929
+Championship,1928,Cards,78,84,1,1928,4-2,1928,1928,1928
+Championship,1927,Cards,78,84,1,1927,4-2,1927,1927,1927
+Championship,1926,Cards,78,84,1,1926,4-2,1926,1926,1926
+Championship,1925,Cards,78,84,1,1925,4-2,1925,1925,1925
+Championship,1924,Cards,78,84,1,1924,4-2,1924,1924,1924
+Championship,1923,Cards,78,84,1,1923,4-2,1923,1923,1923
+Championship,1922,Cards,78,84,1,1922,4-2,1922,1922,1922
+Championship,1921,Cards,78,84,1,1921,4-2,1921,1921,1921
+Championship,1920,Cards,78,84,1,1920,4-2,1920,1920,1920
+Championship,1919,Cards,78,84,1,1919,4-2,1919,1919,1919
+Championship,1918,Cards,78,84,1,1918,4-2,1918,1918,1918
+Championship,1917,Cards,78,84,1,1917,4-2,1917.0,1917,1917,1917
+Championship,1916,Cards,78,84,1,1916,4-2,1916,1916,1916
+Championship,1915,Cards,78,84,1,1915,4-2,1915,1915,1915
+Championship,1914,Cards,78,84,1,1914,4-2,1914,1914,1914
+Championship,1913,Cards,78,84,1,1913,4-2,1913,1913,1913
+Championship,1912,Cards,78,84,1,1912,4-2,1912,1912,1912
+Championship,1911,Cards,78,84,1,1911,4-2,1911,1911,1911
+Championship,1910,Cards,78,84,1,1910,4-2,1910,1910,1910
+Championship,1909,Cards,78,84,1,1909,4-2,1909,1909,1909
+Championship,1908,Cards,78,84,1,1908,4-2,1908,1908,1908
+Championship,1907,Cards,78,84,1,1907,4-2,1907,1907,1907
+Championship,1906,Cards,78,84,1,1906,4-2,1906,1906,1906
+Championship,1905,Cards,78,84,1,1905,4-2,1905,1905,1905
+Championship,1904,Cards,78,84,1,1904,4-2,1904,1904,1904
+Championship,1903,Cards,78,84,1,1903,4-2,1903,1903,1903
+Championship,1902,Cards,78,84,1,1902,4-2,1902,1902,1902
+Championship,1901,Cards,78,84,1,1901,4-2,1901,1901,1901
+Championship,1900,Cards,78,84,1,1900,4-2,1900,1900,1900
+Championship,1899,Cards,78,84,1,1899,4-2,1899,1899,1899
+Championship,1898,Cards,78,84,1,1898,4-2,1898,1898,1898
+Championship,1897,Cards,78,84,1,1897,4-2,1897,1897,1897
+Championship,1896,Cards,78,84,1,1896,4-2,1896,1896,1896
+Championship,1895,Cards,78,84,1,1895,4-2,1895,1895,1895
+Championship,1894,Cards,78,84,1,1894,4-2,1894,1894,1894
+Championship,1893,Cards,78,84,1,1893,4-2,1893,1893,1893
+Championship,1892,Cards,78,84,1,1892,4-2,1892,1892,1892
+Championship,1891,Cards,78,84,1,1891,4-2,1891,1891,1891
+Championship,1890,Cards,78,84,1,1890,4-2,1890,1890,1890
+Championship,1889,Cards,78,84,1,1889,4-2,1889,1889,1889
+Championship,1888,Cards,78,84,1,1888,4-2,1888,1888,1888
+Championship,1887,Cards,78,84,1,1887,4-2,1887,1887,1887
+Championship,1886,Cards,78,84,1,1886,4-2,1886,1886,1886
+Championship,1885,Cards,78,84,1,1885,4-2,1885,1885,1885
+Championship,1884,Cards,78,84,1,1884,4-2,1884,1884,1884
+Championship,1883,Cards,78,84,1,1883,4-2,1883,1883,1883
+Championship,1882,Cards,78,84,1,1882,4-2,1882,1882,1882
+Championship,1881,Cards,78,84,1,1881,4-2,1881,1881,1881
+Championship,1880,Cards,78,84,1,1880,4-2,1880,1880,1880
+Championship,1879,Cards,78,84,1,1879,4-2,1879,1879,1879
+Championship,1878,Cards,78,84,1,1878,4-2,1878,1878,1878
+Championship,1877,Cards,78,84,1,1877,4-2,1877,1877,1877
+Championship,1876,Cards,78,84,1,1876,4-2,1876,1876,1876
+H2H Matrix,LAD vs CHC,278,122,.695,400,0,N/A,2016-present,Dodgers dominant
+H2H Matrix,STL vs CHC,1315,1185,.525,2500,0,N/A,1900s-1990s,Cardinals dynasty
+H2H Matrix,LAD vs SF Giants,272,246,.523,518,0,N/A,2010s-present,Dodgers edge
+H2H Matrix,CHC vs CIN,1209,1074,.530,2283,0,N/A,1900s-1910s,Chicago edge
+H2H Matrix,ATL vs NYM,290,237,.550,527,0,N/A,1990s-2000s,Atlanta dominance
+H2H Matrix,STL vs PIT,1423,927,.606,2350,0,N/A,1920s-1980s,Cardinals lopsided
+H2H Matrix,STL vs LAD,508,437,.538,945,0,N/A,1960s-1980s,St. Louis edge
+H2H Matrix,SF vs CHC,1295,1330,.492,2625,0,N/A,pre-1958,Even (pre-1958 Giants edge)
+H2H Matrix,CIN vs ATL,1068,1338,.441,2406,0,N/A,1990s-2000s,Atlanta dominance
+H2H Matrix,STL vs PHI,1896,956,.494,2852,0,N/A,1960s-2000s,Phillies slight edge
+H2H Matrix,NYM vs PHI,2110,2116,.500,4226,0,N/A,1960s-present,Essentially even
+H2H Matrix,LAD vs STL,278,122,.695,400,0,N/A,2016-present,Dodgers dominant
+H2H Matrix,SF vs STL,272,246,.523,518,0,N/A,2010s-present,Dodgers edge
+Notable Records,1906 Cubs,116,36,.763,152,0,N/A,0,Single season most wins (NL)
+Notable Records,2001 Mariners,116,46,.716,162,0,N/A,0,Single season most wins (MLB)
+Notable Records,1899 Cleveland Spiders,20,134,.130,154,0,N/A,0,Worst NL season
+Notable Records,1935 Cubs,21,0,.100,21,0,N/A,0,Most consecutive wins (NL, no ties)
+Notable Records,1916 NY Giants,26,0,.100,26,0,N/A,0,Most consecutive wins (NL, w/ ties)
+Notable Records,2017 Cleveland Indians,22,0,.100,22,0,N/A,0,Most consecutive wins (AL)
+Notable Records,2002 Oakland A's,20,0,.100,20,0,N/A,0,Most consecutive wins (AL, no ties)
+Notable Records,1915-1920 Reds,5,0,.100,5,0,N/A,0,Most consecutive division titles
