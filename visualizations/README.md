@@ -1,77 +1,99 @@
-# NL Team Trends — Visualization Roadmap
+# NL Visualizations Roadmap
 
-This directory contains Python scripts, Jupyter notebooks, and configuration for building interactive data visualizations from the National League historical performance data.
+This directory contains visualization plans, Python code, and Jupyter notebooks for exploring National League team trends.
 
 ## Planned Visualizations
 
-### 1. Vanishing Win% — Franchise Win% Trajectory (Line Chart)
-- **Description**: Rolling 10-year win% for each NL franchise over time
-- **Data Source**: `data/nl_historical_performance.csv`
-- **Library**: Plotly or Matplotlib
-- **Insight**: Shows which franchises have sustained dominance vs. those with cyclical performance
+### 1. Timeline of NL Pennant Winners
+- **Type**: Timeline / Bar chart
+- **Data**: `nl_pennant_winners.csv`
+- **Tools**: Matplotlib / Plotly
+- **Insights**: Shows franchise dominance cycles across eras
 
-### 2. H2H Heatmap (Correlation Matrix)
-- **Description**: 15×15 heatmap of NL team head-to-head win percentages
-- **Data Source**: `data/nl_team_vs_team_summary.csv` and Baseball Almanac full matrix
-- **Library**: Seaborn or Plotly
-- **Insight**: Reveals the most one-sided and most competitive rivalries
+### 2. H2H Win-Loss Heatmap
+- **Type**: Heatmap (15×15 matrix)
+- **Data**: `nl_team_vs_team_summary.csv`
+- **Tools**: Seaborn / Plotly
+- **Insights**: Highlights lopsided rivalries like Cardinals vs. Pirates
 
-### 3. Championship Timeline (Timeline Chart)
-- **Description**: NL pennant winners and WS champions by year, color-coded by franchise
-- **Data Source**: `data/nl_pennant_winners.csv`
-- **Library**: Plotly
-- **Insight**: Shows championship clusters, droughts, and dynasty periods
+### 3. Win% Trajectory by Franchise
+- **Type**: Rolling 10-year win% line chart
+- **Data**: `nl_historical_performance.csv`
+- **Tools**: Pandas + Matplotlib
+- **Insights**: Shows dynasty arcs and rebuild patterns
 
-### 4. Era Comparison (Box Plot)
-- **Description**: Win% distributions across different schedule eras (60-game, 154-game, 162-game)
-- **Data Source**: `data/nl_historical_performance.csv`
-- **Library**: Matplotlib/Seaborn
-- **Insight**: Highlights how scheduling affects competitive balance and record comparability
+### 4. Era Comparison: Win% by Schedule Era
+- **Type**: Box plot / Violin plot
+- **Data**: `nl_historical_performance.csv` (categorized by era)
+- **Tools**: Seaborn
+- **Insights**: Compares team performance across 60/154/162-game eras
 
-### 5. Dynasty Cycles (Stacked Area Chart)
-- **Description**: Decade-by-decade championship concentration by franchise
-- **Data Source**: `data/nl_pennant_winners.csv`
-- **Library**: Plotly
-- **Insight**: Shows which eras saw the most concentrated NL dominance
+### 5. Championship Drought Chart
+- **Type**: Horizontal bar chart
+- **Data**: `nl_all_time_records.csv`
+- **Tools**: Matplotlib
+- **Insights**: Shows cumulative drought lengths by franchise
 
-### 6. Championship Drought Bar Chart
-- **Description**: Bar chart of years since last WS title for each NL franchise
-- **Data Source**: `data/nl_all_time_records.csv`
-- **Library**: Plotly
-- **Insight**: Visualizes the Cubs' famous 108-year drought and current pending droughts
+### 6. Division Dominance Stacked Area
+- **Type**: Stacked area chart
+- **Data**: `nl_pennant_winners.csv`, `nl_all_time_records.csv`
+- **Tools**: Plotly
+- **Insights**: Tracks NL division title concentration over time
 
-### 7. Division Dominance (Stacked Area Chart)
-- **Description**: Stacked area of division titles over time by team within each division
-- **Data Source**: `README.md` (division title leaders section)
-- **Library**: Plotly
-- **Insight**: Shows the Braves' NL East dominance and Dodgers' NL West run
+### 7. 23-Year Sliding Window Win%
+- **Type**: Line chart with slider
+- **Data**: `nl_recent_trends_2000_2024.csv`
+- **Tools**: Plotly (interactive)
+- **Insights**: Shows sliding window win% for all 15 NL franchises
 
-### 8. 23-Year Sliding Window (Small Multiples)
-- **Description**: Side-by-side win% rankings for 23-year spans, showing how rankings shift
-- **Data Source**: `data/nl_recent_trends_2000_2024.csv`
-- **Library**: Plotly
-- **Insight**: Demonstrates how franchise performance varies over extended periods
+### 8. Rebuild vs. Dynasty Patterns
+- **Type**: Scatter plot (games played vs. win%)
+- **Data**: `nl_all_time_records.csv`
+- **Tools**: ggplot2 / Python
+- **Insights**: Identifies franchises with sustained success vs. short peaks
 
-## Getting Started
+## Notebook Ideas
 
-1. Install dependencies:
+| Notebook | Description |
+|----------|-------------|
+| `01_all_time_records.ipynb` | All-time W-L analysis by franchise |
+| `02_championship_cycles.ipynb` | NL championship patterns over eras |
+| `03_h2h_rivalries.ipynb` | Team-vs-team win analysis |
+| `04_era_comparison.ipynb` | Performance across schedule eras |
+| `05_division_dominance.ipynb` | NL division title trends |
+| `06_drought_analysis.ipynb` | Championship drought modeling |
+| `07_sliding_window.ipynb` | 23-year sliding window win% |
+| `08_rebuild_vs_dynasty.ipynb` | Franchise trajectory classification |
+
+## Setup
+
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy matplotlib seaborn plotly jupyter
 ```
 
-2. Load the data:
+## Quick Start
+
 ```python
 import pandas as pd
-import json
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 # Load all-time records
-records = pd.read_csv('data/nl_all_time_records.csv')
+df = pd.read_csv('data/nl_all_time_records.csv')
 
-# Load pennant winners
-pennants = pd.read_csv('data/nl_pennant_winners.csv')
+# Top 5 NL franchises by all-time wins
+top5 = df[df['team'].isin([
+    'San Francisco Giants', 'Los Angeles Dodgers', 'Chicago Cubs',
+    'Atlanta Braves', 'St. Louis Cardinals'
+])].sort_values('wins', ascending=False)
 
-# Load recent standings
-standings = pd.read_csv('data/nl_recent_standings.csv')
+plt.figure(figsize=(10, 6))
+sns.barplot(data=top5, x='team', y='wins', palette='viridis')
+plt.title('All-Time NL Franchise Win Totals')
+plt.ylabel('Wins')
+plt.xlabel('Franchise')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.savefig('charts/nl_all_time_wins.png', dpi=150)
+plt.show()
 ```
-
-3. Run visualization scripts (TBD — will be added as notebooks are created)

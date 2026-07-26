@@ -1,14 +1,14 @@
-category,team,record_value,season,notes
-Single Season Wins,Chicago Cubs,116,1906,Most wins in a 154-game NL season
-Single Season Losses,Colorado Rockies,120,2025,Most losses in a 162-game NL season
-Highest Win Percentage,Chicago Cubs,0.763,1906,116-36 record
-Longest Win Streak,Chicago Cubs,21,1935,Consecutive wins across season
-Longest Losing Streak,Philadelphia Phillies,23,1941,Consecutive losses
-Best 162-Game Season,LA Dodgers,106,2021,Best record in 162-game era
-Most WS Titles,St. Louis Cardinals,11,All-time,Most World Series championships in NL
-Most Regular Season Wins,San Francisco Giants,11663,All-time,Most career NL wins
-Most NL Pennants,LA Dodgers,26,All-time,Most NL pennants in history
-Longest Championship Drought,Chicago Cubs,108 years,1908-2016,Did not win WS between 1908 and 2016
-Longest Division Title Streak,Atlanta Braves,14,1991-2005,14 consecutive NL East titles
-Most Consecutive Division Titles (Modern),LA Dodgers,8,2013-2020,8 consecutive NL West titles
-First NL Season,5 teams,1876,Original NL with 8 teams,First professional league
+record_type,team,season,wins,losses,win_pct,notes
+Single Season Most Wins,Chicago Cubs,1906,116,36,.763,154-game era; NL record
+Single Season Most Wins (MLB),Seattle Mariners,2001,116,46,.716,162-game era; AL record
+Worst NL Season,Cleveland Spiders,1899,20,134,.130,154-game era
+Most Consecutive Wins (NL, no ties),Chicago Cubs,1935,21,0,1.000,Sep 4-27, 1935
+Most Consecutive Wins (NL, w/ ties),New York Giants,1916,26,0,1.000,Sep 7-30, 1916
+Most Consecutive Wins (AL,Cleveland Indians,2017,22,0,1.000,Aug 24-Sep 14, 2017
+Most Consecutive Wins (AL, no ties),Oakland Athletics,2002,20,0,1.000,Aug 13-Sep 4, 2002
+W-L Record 2013-2024,LA Dodgers,12,1129,714,.613,Best NL win% over 12 seasons
+All-Time W-L Record,Atlanta Braves,1901-2026,11251,11078,.504,Most NL all-time wins
+All-Time W-L Record,Cincinnati Reds,1882-2026,11065,10900,.504,Second most NL all-time wins
+All-Time W-L Record,Chicago Cubs,1876-2026,11478,10882,.513,Third most NL all-time wins
+All-Time W-L Record,Pittsburgh Pirates,1882-2026,10963,10962,.500,Closest to .500
+All-Time W-L Record,St. Louis Cardinals,1882-2026,10633,10099,.513,Most NL all-time wins (MLB)
