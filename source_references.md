@@ -1,56 +1,57 @@
-# Source References & Methodology
+# Source References for NL Team Trends
 
-## Primary Data Sources
+## Primary Research Sources
 
-### 1. Baseball-Reference.com (NL Section)
-- URL: https://www.baseball-reference.com/leagues/NL/
-- Coverage: 1876-present, year-by-year NL standings and team stats
-- Key Data: Season-by-season win-loss records, division standings, player stats
-- Methodology: Official MLB statistical records maintained by Sports Reference
+| # | Source | URL | Data Type |
+|---|--------|-----|-----------|
+| 1 | Baseball-Reference (NL) | https://www.baseball-reference.com/leagues/NL/ | Year-by-year NL standings & team stats |
+| 2 | Baseball Almanac H2H | https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml | 15x15 H2H W-L matrices (1876-2026) |
+| 3 | Baseball Almanac Yearly | https://www.baseball-almanac.com/yearmenu.shtml | NL leadership, W-L records per season |
+| 4 | Baseball Almanac Records | https://www.baseball-almanac.com/recbooks/rb_gam3.shtml | Franchise win records, streaks, single-season records |
+| 5 | Baseball Data Hub | https://baseballdatahub.com/seasons/ | Complete season standings archive (1871-2026) |
+| 6 | SABR Lahman Database | https://sabr.org/lahman-database/ | Free downloadable CSV (team/batting/pitching) |
+| 7 | StatsCrew (NL) | https://www.statscrew.com/baseball/l-NL | NL rosters, standings, leaders |
+| 8 | StatMuse (All-Time) | https://www.statmuse.com/mlb | Franchise W-L/G records, all-time rankings |
+| 9 | StatMuse (23-Yr Run) | https://www.statmuse.com/mlb | Best NL teams over 23-year spans (2000-2024) |
+| 10 | StatMuse (NL Win% 2013-2024) | https://www.statmuse.com/mlb | Dodgers best NL win% at .613 over 12 seasons |
+| 11 | Wikipedia (All-Time W/L) | https://en.wikipedia.org/wiki/List_of_all-time_MLB_win-loss_records | Franchise W-L percentages |
+| 12 | Wikipedia (NL Pennants) | https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners | Complete pennant winners |
+| 13 | ESPN (World Series) | https://www.espn.com/mlb/worldseries/history/winners | WS champions & results by year |
+| 14 | MLB Standings Archive | https://www.mlb-standings.com/standings/ | Browse standings by season (2017-2026) |
+| 15 | Statpedia | https://www.statpedia.net/league-standings.html | Full NL division standings by season |
+| 16 | FanGraphs | https://www.fangraphs.com/ | Advanced stats, WAR, team analytics |
+| 17 | Retrosheet | https://www.retrosheet.org/ | Box scores, team records, play-by-play |
+| 18 | Everything Explained | https://everything.explained.today | All-time franchise W-L & postseason data |
+| 19 | Linger & Look | https://lingerandlook.com/Names/BaseballStandings.php | Year-by-year standings with managers |
+| 20 | Project Ballpark | https://www.projectballpark.org/ | Historical ballpark attendance & demographics |
+| 21 | Champs or Chumps | https://champsorchumps.us/mlb | Win% rankings, droughts, streaks |
+| 22 | MLB Win-Loss Visualizer | https://inkandthunder.github.io/win-loss-visualizer/ | Interactive YoY W-L visualization |
+| 23 | BetIQ / TeamRankings | https://betiq.teamrankings.com/mlb/betting-trends/win-loss-records/ | S/U W-L record with MOV and run-line data |
+| 24 | MLB.com | https://www.mlb.com/news/best-regular-season-record-for-every-mlb-team | Best single-season records |
 
-### 2. Baseball Almanac
-- URL: https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml
-- Coverage: 1876-2026, all NL franchise vs franchise head-to-head records
-- Key Data: 15x15 H2H W-L matrices, total franchise W-L, games played
-- Methodology: Comprehensive research tracking every game between NL teams
+## Data Specifics
 
-### 3. Baseball Almanac Year-by-Year History
-- URL: https://www.baseball-almanac.com/yearmenu.shtml
-- Coverage: 1876-present, NL-specific yearly history
-- Key Data: Season leaders, W-L records, fabulous feats, rookie lists, retirements
+### All-Time Franchise Records
+Data compiled from Baseball Almanac, StatMuse, and Baseball-Reference covering all 15 active NL franchises from their founding through 2026.
 
-### 4. Baseball Data Hub
-- URL: https://baseballdatahub.com/seasons/
-- Coverage: 1871-2026, complete season-by-season archive
-- Key Data: Final standings, batting/pitching leaders, postseason results
+### Season-by-Season Performance
+Key seasons data from Baseball Almanac year-by-year history, covering 1876-2025.
 
-### 5. SABR Lahman Baseball Database
-- URL: https://sabr.org/lahman-database/
-- Coverage: 1871-2025, comprehensive historical database
-- Key Data: Complete team/batting/pitching/fielding stats, standings, managerial records
+### H2H Rivalry Data
+15x15 win-loss matrix from Baseball Almanac (1876-2026), covering all NL team-vs-team matchups.
 
-### 6. StatMuse
-- URL: https://www.statmuse.com/mlb
-- Coverage: 1876-2026, franchise stats and championship records
+### Recent Trends (2000-2024)
+23-year span rankings from StatMuse, capturing the modern divisional era.
 
-### 7. ESPN Broadcast Data
-- URL: https://www.espn.com/mlb/worldseries/history/winners
-- Coverage: 1903-present, World Series results
+### Championship History
+NL championship results from 1876-2025, sourced from Wikipedia, ESPN, and Baseball-Reference.
 
-### 8. Wikipedia (NL Pennants)
-- URL: https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners
-- Coverage: 1876-present, complete pennant winner list
+### 2026 Standings
+Current-season divisional standings as of July 2026, sourced from StatMuse.
 
-### 9. Retrosheet
-- URL: https://www.retrosheet.org/
-- Coverage: 1871-present, box scores and team records
-
-## Data Quality Notes
-- Franchise relocations are treated as continuous entities
-- Pre-1900 ties are excluded from winning percentage calculations
-- 1994 season shortened by players strike; records preserved as-is
-- 2020 season was a 60-game COVID-19 shortened season
-- Current 15 NL teams as of 2026: Braves, Cubs, Reds, Rockies, Dodgers, Marlins, Brewers, Mets, Phillies, Pirates, Padres, Giants, Cardinals, Nationals
-
-## Verification
-All data cross-referenced across at least two sources: Baseball-Reference, Baseball Almanac, StatMuse, Wikipedia.
+## Data Collection Methodology
+- All historical records cross-referenced across multiple sources
+- When sources conflict, Baseball-Reference is treated as the primary authority
+- H2H data includes all games played between franchise pairs (including relocated teams)
+- Win percentages are calculated as wins / (wins + losses), excluding ties
+- All-time records through the end of 2025 regular season (July 2025 cutoff)
