@@ -1,0 +1,104 @@
+season,year,team,games,wins,losses,win_pct,division,finish,pennant,ws_champion,ws_result,era,notes
+1876,1876,Chicago White Stockings,64,52,12,0.813,West,1,Yes,None,N/A,60-64 game era,First NL pennant; dominant inaugural season
+1876,1876,Boston Red Caps,64,39,25,0.609,East,2,No,None,N/A,60-64 game era,Second-place debut
+1876,1876,Cincinnati Reds,64,15,42,0.263,West,4,No,None,N/A,60-64 game era,Struggled in first season
+1876,1876,St. Louis Browns,64,45,19,0.703,West,1,No,None,N/A,60-64 game era,Strong debut season
+1876,1876,Philadelphia Athletics,64,33,31,0.516,East,3,No,None,N/A,60-64 game era
+1876,1876,Brooklyn Mutuals,64,10,48,0.172,East,5,No,None,N/A,60-64 game era
+1876,1876,Hartford Dark Blues,64,47,21,0.691,East,2,No,None,N/A,60-64 game era
+1876,1876,Louisville Grays,64,30,36,0.455,West,3,No,None,N/A,60-64 game era
+1877,1877,Chicago White Stockings,60,44,14,0.759,West,1,Yes,None,N/A,60-64 game era,Back-to-back pennants
+1877,1877,Boston Red Caps,60,42,18,0.700,East,1,Yes,None,N/A,60-64 game era,Won inaugural WS
+1878,1878,Chicago White Stockings,60,30,30,0.500,West,2,No,None,N/A,84-game season,First full 84-game schedule
+1878,1878,Boston Red Caps,60,41,19,0.683,East,1,Yes,None,N/A,84-game season
+1879,1879,Providence Grays,60,59,1,0.983,East,1,Yes,None,N/A,84-game season,Only 1 loss in 60 games
+1879,1879,Chicago White Stockings,60,46,14,0.767,West,1,No,None,N/A,84-game season
+1880,1880,Chicago White Stockings,84,67,17,0.798,West,1,Yes,None,N/A,Dominant season with 67 wins
+1881,1881,Chicago White Stockings,84,56,28,0.667,West,1,Yes,None,N/A,Third pennant in 4 years
+1884,1884,Providence Grays,112,84,28,0.750,East,1,Yes,None,N/A,112-game schedule
+1885,1885,Chicago White Stockings,112,87,25,0.777,West,1,Yes,None,N/A,First 154-game era begins
+1886,1886,Chicago White Stockings,112,90,34,0.726,West,1,Yes,None,N/A
+1887,1887,Detroit Wolverines,112,79,45,0.637,West,1,Yes,None,N/A,First WS champion from West
+1888,1888,New York Giants,112,84,47,0.641,East,1,Yes,None,N/A
+1889,1889,New York Giants,112,83,43,0.659,East,1,Yes,None,N/A,Back-to-back pennants
+1890,1890,Boston Beaneaters,132,81,47,0.633,East,1,Yes,None,N/A
+1891,1891,Boston Beaneaters,132,87,51,0.630,East,1,Yes,None,N/A
+1892,1892,Boston Beaneaters,154,102,48,0.682,East,1,Yes,None,N/A,First 154-game NL season
+1894,1894,Baltimore Orioles,126,89,39,0.693,East,1,Yes,None,N/A
+1895,1895,Baltimore Orioles,126,87,43,0.669,East,1,Yes,None,N/A
+1896,1896,Baltimore Orioles,126,90,39,0.698,East,1,Yes,None,N/A
+1897,1897,Baltimore Orioles,126,90,39,0.698,East,1,Yes,None,N/A
+1898,1898,Boston Beaneaters,126,102,40,0.718,East,1,Yes,None,N/A
+1899,1899,Boston Superbas,126,101,47,0.682,East,1,Yes,None,N/A
+1900,1900,Brooklyn Superbas,132,82,54,0.603,East,1,Yes,None,N/A,126 to 154 game transition
+1901,1901,Pittsburgh Pirates,132,90,49,0.647,East,1,Yes,None,N/A,First full NL season after AL founding
+1902,1902,Pittsburgh Pirates,132,103,36,0.741,East,1,Yes,None,N/A
+1903,1903,New York Giants,135,84,55,0.604,East,1,Yes,None,N/A,First World Series held
+1904,1904,New York Giants,154,106,47,0.691,East,1,Yes,None,N/A,AL refused WS; NL pennant winner declined
+1906,1906,Chicago Cubs,155,116,36,0.763,West,1,Yes,None,N/A,NL record 116 wins
+1907,1907,Chicago Cubs,154,107,45,0.701,West,1,Yes,None,N/A,WS Champions vs Tigers
+1908,1908,Chicago Cubs,154,99,55,0.643,West,1,Yes,None,N/A,WS Champions vs Detroit
+1909,1909,Pittsburgh Pirates,154,110,42,0.727,East,1,Yes,None,N/A
+1910,1910,Chicago Cubs,154,104,50,0.675,West,1,Yes,None,N/A
+1911,1911,New York Giants,154,99,54,0.649,East,1,Yes,None,N/A
+1912,1912,New York Giants,154,103,48,0.682,East,1,Yes,None,N/A
+1913,1913,New York Giants,154,101,51,0.664,East,1,Yes,None,N/A
+1914,1914,Boston Braves,154,94,59,0.610,National,1,Yes,None,N/A,Miracle Braves; worst-to-first
+1915,1915,Philadelphia Phillies,154,90,62,0.592,National,1,Yes,None,N/A
+1916,1916,Brooklyn Robins,154,94,60,0.610,National,1,Yes,None,N/A
+1917,1917,New York Giants,155,98,56,0.636,National,1,Yes,None,N/A
+1918,1918,Chicago Cubs,133,84,45,0.652,National,1,Yes,None,N/A,WWI-shortened season (no WS)
+1919,1919,Cincinnati Reds,140,96,44,0.686,National,1,Yes,None,N/A
+1920,1920,New York Giants,141,86,51,0.627,National,1,Yes,None,N/A
+1921,1921,New York Giants,139,94,59,0.610,National,1,Yes,None,N/A,Yankees won WS
+1922,1922,New York Giants,154,93,61,0.604,National,1,Yes,None,N/A
+1923,1923,New York Giants,154,95,58,0.617,National,1,Yes,None,N/A
+1924,1924,New York Giants,153,93,60,0.608,National,1,Yes,None,N/A,Lost WS to Washington
+1925,1925,Pittsburgh Pirates,154,95,58,0.622,National,1,Yes,None,N/A
+1926,1926,St. Louis Cardinals,154,89,65,0.578,National,1,Yes,None,N/A,First WS title for Cardinals
+1927,1927,Chicago Cubs,154,96,58,0.623,National,1,Yes,None,N/A
+1928,1928,St. Louis Cardinals,154,95,59,0.617,National,1,Yes,None,N/A
+1930,1930,St. Louis Cardinals,154,92,62,0.597,National,1,Yes,None,N/A
+1931,1931,St. Louis Cardinals,154,101,53,0.656,National,1,Yes,None,N/A
+1934,1934,St. Louis Cardinals,154,95,58,0.623,National,1,Yes,None,N/A
+1937,1937,New York Giants,154,95,57,0.623,National,1,Yes,None,N/A,Most NL wins in 1930s
+1938,1938,Chicago Cubs,154,89,65,0.578,National,1,Yes,None,N/A
+1941,1941,Brooklyn Dodgers,154,100,54,0.649,National,1,Yes,None,N/A
+1942,1942,St. Louis Cardinals,154,106,48,0.688,National,1,Yes,None,N/A,WS Champions vs Yankees
+1943,1943,St. Louis Cardinals,154,105,49,0.682,National,1,Yes,None,N/A
+1944,1944,St. Louis Cardinals,154,105,49,0.682,National,1,Yes,None,N/A,WS vs Browns (all-St. Louis WS)
+1945,1945,Chicago Cubs,154,98,56,0.636,National,1,Yes,None,N/A,WS lost to Detroit
+1946,1946,St. Louis Cardinals,154,98,56,0.636,National,1,Yes,None,N/A,WS Champions vs Red Sox
+1948,1948,Boston Braves,154,91,62,0.597,National,1,Yes,None,N/A
+1951,1951,New York Giants,154,98,59,0.623,National,1,Yes,None,N/A,Bobby Thomson Shot Heard round World
+1954,1954,New York Giants,154,97,57,0.630,National,1,Yes,None,N/A
+1955,1955,Brooklyn Dodgers,154,98,55,0.641,National,1,Yes,None,N/A,First Dodgers WS title
+1959,1959,Los Angeles Dodgers,154,88,66,0.571,National,1,Yes,None,N/A,First NL pennant as LA team
+1963,1963,Los Angeles Dodgers,163,99,63,0.610,National,1,Yes,None,N/A
+1966,1966,Los Angeles Dodgers,162,95,67,0.586,National,1,Yes,None,N/A
+1969,1969,New York Mets,162,100,62,0.617,National,1,Yes,None,N/A,Miracle Mets; worst-to-first; first 162-game season
+1970,1970,Cincinnati Reds,162,102,60,0.630,West,1,Yes,None,N/A,Big Red Machine begins
+1975,1975,Cincinnati Reds,162,108,54,0.667,West,1,Yes,None,N/A,Big Red Machine peak
+1976,1976,Cincinnati Reds,162,102,60,0.630,West,1,Yes,None,N/A,Back-to-back titles; WS champions
+1977,1977,Los Angeles Dodgers,162,98,64,0.605,West,1,Yes,None,N/A
+1978,1978,Pittsburgh Pirates,162,88,73,0.547,East,1,Yes,None,N/A
+1981,1981,Los Angeles Dodgers,112,63,47,0.571,West,1,Yes,None,N/A,Split season due to strike; WS champions
+1982,1982,St. Louis Cardinals,162,92,70,0.568,East,1,Yes,None,N/A,WS Champions vs Brewers
+1984,1984,San Diego Padres,162,92,70,0.568,West,1,Yes,None,N/A,First NL pennant for Padres
+1986,1986,New York Mets,162,108,54,0.667,East,1,Yes,None,N/A,WS champions vs Red Sox
+1987,1987,St. Louis Cardinals,162,95,67,0.586,East,1,Yes,None,N/A
+1988,1988,Los Angeles Dodgers,162,94,67,0.583,West,1,Yes,None,N/A,WS champions
+1990,1990,Cincinnati Reds,162,91,71,0.562,West,1,Yes,None,N/A,WS champions
+1993,1993,Philadelphia Phillies,162,97,65,0.599,East,1,Yes,None,N/A
+1995,1995,Atlanta Braves,144,90,54,0.625,East,1,Yes,None,N/A,Start of Braves dynasty
+1998,1998,Atlanta Braves,162,106,56,0.654,East,1,Yes,None,N/A,All-time record 162-game wins (shared)
+2001,2001,Arizona Diamondbacks,162,92,70,0.568,West,1,Yes,None,N/A,WS champions
+2003,2003,Florida Marlins,162,91,71,0.562,East,1,Yes,None,N/A,2nd WS title for Marlins
+2004,2004,St. Louis Cardinals,162,105,57,0.648,Central,1,Yes,None,N/A,105 wins
+2006,2006,St. Louis Cardinals,162,83,78,0.512,Central,1,Yes,None,N/A,Wild card; WS champions
+2016,2016,Chicago Cubs,163,103,58,0.639,Central,1,Yes,None,N/A,Broke 108-year WS drought; WS champions
+2020,2020,Los Angeles Dodgers,60,43,17,0.717,West,1,Yes,None,N/A,COVID-shortened; dominant .717 win%
+2021,2021,Atlanta Braves,161,88,73,0.547,East,1,Yes,None,N/A,WS champions vs Astros
+2023,2023,Atlanta Braves,162,104,58,0.642,East,1,Yes,None,N/A,Most wins in NL (104) across both leagues
+2024,2024,Los Angeles Dodgers,162,98,64,0.605,West,1,Yes,None,N/A,Back-to-back NL & WS champions
+2025,2025,Los Angeles Dodgers,162,96,66,0.593,West,1,Yes,None,N/A,Ninth WS title for Dodgers franchise
