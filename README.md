@@ -1,6 +1,8 @@
 # NL Team Trends
 
-Comprehensive research project compiling historical **National League (NL)** team performance data, win-loss records, season trends, and championship history from 1876 to present — for analyzing team dominance, franchise trajectories, and the evolving NL competitive landscape. **Updated July 2026 with comprehensive research data from Baseball Almanac, SABR, Baseball-Reference, StatMuse, MLB.com, ESPN, and more.**
+Comprehensive research project compiling historical **National League (NL)** team performance data, win-loss records, season trends, and championship history from 1876 to present — for analyzing team dominance, franchise trajectories, and the evolving NL competitive landscape.
+
+**Updated July 2026 with comprehensive research data from Baseball Almanac, SABR, Baseball-Reference, StatMuse, MLB.com, ESPN, and more.**
 
 ---
 
@@ -19,7 +21,7 @@ Comprehensive research project compiling historical **National League (NL)** tea
 | Best 23-Year Run (2000–2024) | LA Dodgers | 2239–1709 (.567) |
 | Best NL Win % 162-game era | LA Dodgers (2020–2025) | .593 avg |
 | NL Team with Best Win% 2013–2024 | LA Dodgers | .613 |
-| Most NL All-Time Wins (MLB) | ST. Louis Cardinals | 10,633 |
+| Most NL All-Time Wins (MLB) | St. Louis Cardinals | 10,633 |
 | NL Team Max Single-Season Wins | 1906 Cubs / 2001 Mariners (AL) | 116 |
 
 ---
@@ -165,7 +167,7 @@ The **Los Angeles Dodgers** had the best winning percentage by an NL team from 2
 
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
 ```
 nl-team-trends/
@@ -174,12 +176,13 @@ nl-team-trends/
 │   ├── nl_all_time_records.csv                ← All-time franchise records with W/L, pennants, WS titles
 │   ├── nl_pennant_winners.csv                 ← Complete NL pennant winners 1876–2025
 │   ├── nl_historical_performance.csv          ← Season-by-season standings 1876–2025 (key seasons)
+│   ├── nl_season_by_season.csv                ← Comprehensive season-by-season dataset (ALL teams, all eras)
 │   ├── nl_recent_trends_2000_2024.csv         ← 23-year span NL team rankings (StatMuse data)
 │   ├── nl_championship_trends.csv             ← Championship highlights by era
 │   ├── nl_notable_records.csv                 ← Key single-season & franchise records
 │   ├── nl_recent_standings.csv                ← Divisional standings 2014–2025
 │   ├── nl_team_vs_team_summary.csv            ← H2H W-L summary matrix (key matchups)
-│   └── nl_performance_data.csv                ← Comprehensive historical performance dataset (see below)
+│   └── nl_performance_data.csv                ← Comprehensive historical performance dataset (all data merged)
 ├── visualizations/
 │   └── README.md                              ← Visualization roadmap, Python code, notebooks
 └── notebooks/                                 ← (planned) analysis Jupyter notebooks
@@ -215,9 +218,13 @@ import pandas as pd
 records = pd.read_csv('data/nl_all_time_records.csv')
 print(records.sort_values('ws_titles', ascending=False).head())
 
-# Historical performance - season by season
-seasonal = pd.read_csv('data/nl_historical_performance.csv')
+# Comprehensive season-by-season data (ALL teams, ALL eras)
+seasonal = pd.read_csv('data/nl_season_by_season.csv')
 print(seasonal.head())
+
+# Historical performance - key seasons
+key_seasons = pd.read_csv('data/nl_historical_performance.csv')
+print(key_seasons.head())
 
 # 23-year trend data (StatMuse)
 trends = pd.read_csv('data/nl_recent_trends_2000_2024.csv')
@@ -240,20 +247,22 @@ performance = pd.read_csv('data/nl_performance_data.csv')
 - **Timeline chart**: NL pennant winners by year, color-coded by franchise
 - **Heatmap**: H2H W-L matrix for all 15 NL teams
 - **Win% trajectory**: Each franchise's rolling 10-year win% over time
-- **Era comparison**: Win% distributions across schedule eras
+- **Era comparison**: Win% distributions across schedule eras (60/154/162-game)
 - **Dynasty cycles**: Decade-by-decade championship concentration
 - **Drought chart**: Championship drought by franchise (bar chart)
 - **Division dominance**: Stacked area chart of division titles over time
 - **23-year spans**: Sliding window win% comparison across franchises
 - **Win% by schedule era**: Compare team performance across 60/154/162-game eras
+- **Season-by-season heatmap**: All teams × all years win% grid
+- **Franchy trajectory sparklines**: Mini sparklines for each team's win% over time
 
 ---
 
-## 🧠 Contributing
+## 🤝 Contributing
 
 Contributions welcome! Areas we'd love help with:
-- Completing the pennant winners CSV with full year-by-year details
-- Adding more season rows to historical performance data
+- Completing the pennant winners CSV with full year-by-year details (back to 1876)
+- Adding more season rows to the historical performance data
 - Creating Jupyter notebooks for systematic analysis
 - Building interactive Plotly dashboards
 - Adding player-level data to complement team records
