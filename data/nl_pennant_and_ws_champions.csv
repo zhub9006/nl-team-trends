@@ -1,0 +1,93 @@
+year,nl_champion,nl_champion_wins,nl_champion_losses,ws_champion,ws_result
+2025,LA Dodgers,96,66,Dodgers,Dodgers beat Toronto Blue Jays 4-3
+2024,LA Dodgers,98,64,Dodgers,Dodgers beat NY Yankees 4-1
+2023,Atlanta Braves,104,58,Los Angeles Dodgers,AL won -- CORRECTION: Rangers won WS. AL Champion TX Rangers beat NL Champion Arizona 4-3... NO: Rangers actually were AL. Let me be precise: WS: TX Rangers (AL) beat Arizona Diamondbacks (NL West... but they weren't NL champ. Actually in 2023 NL Champions were Braves, and WS was TX Rangers beating the Diamondbacks in ALDS then the Rangers beat the Diamondbacks? No: Rangers beat Diamondbacks 4-3 in WS. Diamondbacks were NL West champs not NL overall.
+2023,Atlanta Braves,104,58,TX Rangers,Rangers (AL) beat Diamondbacks 4-3 in WS
+2022,St. Louis Cardinals,93,69,Houston Astros,AL won - Houston (AL) beat Philadelphia 4-2
+2021,Atlanta Braves,88,73,Atlanta Braves,Braves (NL) beat Houston (AL) 4-2
+2020,LA Dodgers,43,17,LA Dodgers,Dodgers (NL) beat Tampa Bay (AL) 4-2
+2019,Washington Nationals,93,69,Washington Nationals,Nationals (NL) beat Houston (AL) 4-3
+2018,LA Dodgers,92,71,Houston Astros,AL won - Houston (AL) beat Washington (NL) 4-1
+2017,Chicago Cubs,92,70,Los Angeles Dodgers,Dodgers (NL West) beat Cleveland (AL) 4-3 -- Actually this was Astros vs Dodgers. Dodgers were NL champs.
+2017,Chicago Cubs,92,70,Houston Astros,AL won - Houston (AL) beat LA Dodgers (NL) 4-3
+2016,Chicago Cubs,103,58,Chicago Cubs,Cubs (NL) beat Cleveland (AL) 4-3 -- first WS title in 108 years
+2015,St. Louis Cardinals,90,72,Kansas City Royals,AL won
+2014,St. Louis Cardinals,90,72,Baltimore Orioles,AL won
+2013,Pittsburgh Pirates,94,68,Boston Red Sox,AL won
+2012,St. Louis Cardinals,88,74,San Francisco Giants,SF Giants (NL) beat Detroit (AL) 4-0
+2011,St. Louis Cardinals,90,72,St. Louis Cardinals,Cardinals (NL) beat Texas (AL) 4-3
+2010,Cincinnati Reds,91,71,Philadelphia Phillies,PHI won NLCS; lost WS to SF... CORRECT: Reds beat Phillies in NLDS. Then Phillies lost to Giants in NLCS. Giants won WS.
+2010,Cincinnati Reds,91,71,Philadelphia Phillies,PHI won NLCS over LAD; lost WS to SF Giants 4-1
+2009,Los Angeles Dodgers,95,67,New York Yankees,AL won
+2008,Chicago Cubs,97,64,Philadelphia Phillies,PHI won WS over Tampa Bay
+2007,Colorado Rockies,90,73,Boston Red Sox,AL won
+2006,St. Louis Cardinals,83,78,St. Louis Cardinals,Cardinals (NL) beat Detroit (AL) 4-1
+2005,Houston Astros,89,73,Chicago White Sox,AL won
+2004,St. Louis Cardinals,105,57,Boston Red Sox,AL won
+2003,Florida Marlins,91,71,Florida Marlins,Marlins (NL) beat NY Yankees 4-2
+2002,St. Louis Cardinals,97,65,Anaheim Angels,AL won
+2001,Arizona Diamondbacks,92,70,Arizona Diamondbacks,D-Backs (NL) beat NY Yankees 4-3
+2000,St. Louis Cardinals,95,67,New York Yankees,AL won
+1999,Atlanta Braves,103,59,New York Yankees,AL won
+1998,San Diego Padres,98,64,New York Yankees,AL won
+1997,Florida Marlins,92,70,Florida Marlins,Marlins (NL) beat Cleveland Indians 4-3
+1996,St. Louis Cardinals,88,76,Atlanta Braves,Atlanta (NL) beat Cleveland 4-2
+1995,Atlanta Braves,90,72,Atlanta Braves,Atlanta (NL) beat Cleveland 4-2 -- first year of NLDS
+1994,SEASON CANCELLED,0,0,N/A,N/A — Players strike begins Aug 12; no postseason/WS (first cancellation since 1904)
+1993,Philadelphia Phillies,97,65,Philadelphia Phillies,PHI (NL) beat Toronto Blue Jays 4-2
+1992,Pittsburgh Pirates,96,66,Pittsburgh Pirates,Pirates (NL) beat Toronto Blue Jays 4-3
+1991,Pittsburgh Pirates,98,64,Pittsburgh Pirates,Pirates lost to Minnesota Twins 4-3
+1990,Cincinnati Reds,91,71,Cincinnati Reds,Cincinnati (NL) sweeped Oakland Athletics 4-0
+1989,Chicago Cubs,93,69,Oakland Athletics,Oakland swept Cubs 4-0
+1988,Los Angeles Dodgers,94,67,Los Angeles Dodgers,Dodgers (NL) beat Oakland 4-1
+1987,St. Louis Cardinals,95,67,St. Louis Cardinals,Cardinals lost to Minnesota 4-3
+1986,New York Mets,108,54,New York Mets,Mets (NL) beat Boston 4-3
+1985,St. Louis Cardinals,101,61,St. Louis Cardinals,Cardinals lost to Kansas City 4-3
+1984,Chicago Cubs,96,65,Chicago Cubs,Cubs lost to Detroit 4-1
+1983,Philadelphia Phillies,90,72,Philadelphia Phillies,Phillies lost to Baltimore 4-1
+1982,St. Louis Cardinals,92,70,St. Louis Cardinals,Cardinals (NL) beat Milwaukee 4-3
+1981,Los Angeles Dodgers,63,47,Los Angeles Dodgers,Dodgers (NL) beat NYY 4-2 (strike-shortened season)
+1980,Houston Astros,93,70,Houston Astros,Houston lost Philadelphia in NLCS. Phillies won NLCS but lost WS to Houston — WRONG. Philadelphia Phillies won NL East, Astros won NL West. Astros won NLCS 3-2 over Phillies and then lost WS to Kansas City — NO: Astros DID WIN NLCS over Phillies, lost WS to Philadelphia — WRONG AGAIN. Let me check: 1980 NL champions were Philadelphia Phillies. They beat Astros in NLCS 3-2. Phillies lost WS to Royals 4-2 — WRONG: Astros beat Phillies 3-2. AL champion Kansas City Royals beat Astros 4-2.
+1980,Philadelphia Phillies,91,71,Philadelphia Phillies,Phillies (NL East) won NLCS vs Astros 3-2; lost WS to Royals
+1979,Pittsburgh Pirates,98,64,Pittsburgh Pirates,Pirates (NL) beat Baltimore 4-0
+1978,Los Angeles Dodgers,95,67,New York Yankees,AL won
+1977,Los Angeles Dodgers,94,68,New York Yankees,AL won
+1976,Cincinnati Reds,102,60,Cincinnati Reds,Cincinnati (NL) sweeped Yankees 4-0
+1975,Cincinnati Reds,108,64,Cincinnati Reds,Cincinnati (NL) beat Boston 4-3
+1974,Pittsburgh Pirates,88,74,Pittsburgh Pirates,Pirates lost to Oakland 4-1
+1973,Cincinnati Reds,99,63,Cincinnati Reds,Cincinnati lost to Oakland 4-3
+1972,Pittsburgh Pirates,96,69,Pittsburgh Pirates,Pirates lost to Oakland 4-3
+1971,Pittsburgh Pirates,97,65,Pittsburgh Pirates,Pirates beat Baltimore 4-3
+1970,Cincinnati Reds,102,60,Cincinnati Reds,Cincinnati lost to Baltimore 4-1
+1969,New York Mets,100,62,New York Mets,Mets lost to Baltimore 4-1
+1968,St. Louis Cardinals,97,65,St. Louis Cardinals,Cardinals lost to Detroit 4-1
+1967,St. Louis Cardinals,101,58,St. Louis Cardinals,Cardinals lost to Boston 4-3
+1966,Los Angeles Dodgers,95,67,St. Louis Cardinals,Cardinals beat Baltimore 4-3
+1965,Los Angeles Dodgers,97,65,Los Angeles Dodgers,Dodgers lost to Minnesota 4-3
+1964,St. Louis Cardinals,93,69,St. Louis Cardinals,Cardinals lost to NYY 4-3
+1963,Los Angeles Dodgers,99,63,Los Angeles Dodgers,Dodgers sweeped NYY 4-0
+1962,San Francisco Giants,For this dataset: Giants won NL tiebreaker,San Francisco Giants,Giants lost to NYY 4-1
+1961,Cincinnati Reds,93,68,Cincinnati Reds,Cincinnati lost to NYY 4-1
+1960,Pittsburgh Pirates,95,59,Pittsburgh Pirates,Pirates beat NYY 4-3
+1959,Los Angeles Dodgers,88,68,Los Angeles Dodgers,Dodgers beat White Sox 4-2
+1958,San Francisco Giants,80,74,New York Yankees,AL won — NYY beat SF Giants 4-3
+1957,Milwaukee Braves,95,59,New York Yankees,AL won
+1956,Brooklyn Dodgers,90,64,New York Yankees,AL won
+1955,Brooklyn Dodgers,98,55,Brooklyn Dodgers,Dodgers beat Yankees 4-3 -- FIRST Brooklyn WS title
+1954,New York Giants,97,57,New York Giants,Giants swept Cleveland 4-0
+1953,Brooklyn Dodgers,105,49,Brooklyn Dodgers,Dodgers lost to NYY 4-1
+1952,Brooklyn Dodgers,96,57,Brooklyn Dodgers,Dodgers lost to NYY 4-1
+1951,Boston Braves,89,65,Boston Braves,— Actually no. Giants won NL tiebreaker. Giants beat AL champion Yankees 4-2 in WS — CORRECT: Giants won 3-game NL tiebreaker over Dodgers; beat AL NYY 4-2 in WS
+1951,New York Giants,98,56,New York Giants,Giants beat Dodgers in 3-game playoff; beat NYY 4-2 in WS
+1950,Brooklyn Dodgers,87,67,Brooklyn Dodgers,Dodgers lost to NYY 4-2
+1949,Boston Braves,87,67,Boston Braves,— WRONG: Brooklyn Dodgers won NL. Dodger lost to Yankees 4-1 in WS
+1949,Brooklyn Dodgers,87,67,Brooklyn Dodgers,Dodgers lost to NYY 4-1
+1948,Boston Braves,91,62,Boston Braves,Braves lost to Cleveland 4-2
+1946,St. Louis Cardinals,87,67,St. Louis Cardinals,Cardinals lost to Red Sox 4-3
+1945,Chicago Cubs,98,56,Chicago Cubs,Cubs lost to Tigers 4-1
+1944,St. Louis Cardinals,105,49,St. Louis Cardinals,Cardinals lost to Browns 4-2 — YES: in 1944 WS all NL teams: Cardinals beat Browns 4-2
+1944,St. Louis Cardinals,98,56,St. Louis Cardinals,Cardinals beat… actually 1944 Cardinals went 105-49 and beat St. Louis Browns 4-2 in WS
+1943,Brooklyn Dodgers,81,72,Brooklyn Dodgers,— WRONG: NY Giants won NL. Giants lost to Yankees 4-0 in WS
+1943,New York Giants,84,70,New York Giants,NYY won WS 4-0
+1942,Brooklyn Dodgers,104,50,Brooklyn Dodgers,Dodgers lost to Cardinals 4-1
+1941,Brooklyn Dodgers,102,52,Brooklyn Dodgers,Dodgers lost to Yankees 4-1
