@@ -1,0 +1,16 @@
+team,franchise_name,ws_titles,games_played,wins,losses,win_pct,last_ws_title,division,first_season,current_status
+St._Louis_Cardinals,St._Louis_Cardinals,11,20863,10633,10099,0.513,2011,Central,1882,Active
+Los_Angeles_Dodgers,Los_Angeles_Dodgers,9,21115,11176,9819,0.532,2025,West,1883,Active
+San_Francisco_Giants,San_Francisco_Giants,8,21981,11663,10155,0.535,2014,West,1883,Active
+Cincinnati_Reds,Cincinnati_Reds,5,21139,10511,10501,0.500,1990,Central,1882,Active
+Pittsburgh_Pirates,Pittsburgh_Pirates,5,21519,10724,10661,0.501,1979,Central,1882,Active
+Atlanta_Braves,Atlanta_Braves,4,22474,11245,11075,0.504,2021,East,1876,Active
+Chicago_Cubs,Chicago_Cubs,3,22513,11473,10879,0.513,2016,Central,1876,Active
+Miami_Marlins,Miami_Marlins,2,5271,2434,2837,0.462,2003,East,1993,Active
+New_York_Mets,New_York_Mets,2,10231,4939,5284,0.483,1986,East,1962,Active
+Philadelphia_Phillies,Philadelphia_Phillies,2,21907,10357,11435,0.475,2008,East,1883,Active
+Arizona_Diamondbacks,Arizona_Diamondbacks,1,4530,2216,2314,0.489,2001,West,1998,Active
+Washington_Nationals,Washington_Nationals,1,9097,4379,4714,0.482,2019,East,1969,Active
+Milwaukee_Brewers,Milwaukee_Brewers,0,8920,4464,4456,0.503,NA,Central,1969,Active
+Colorado_Rockies,Colorado_Rockies,0,4760,2403,2357,0.505,NA,West,1993,Active
+San_Diego_Padres,San_Diego_Padres,0,7980,4265,3715,0.534,NA,West,1969,Active
