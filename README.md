@@ -27,15 +27,18 @@ Comprehensive research project compiling historical **National League (NL)** tea
 | NL West Dominance (2013–present) | LA Dodgers | 13 of 13 division titles |
 | Most Pennants (single franchise) | LA Dodgers | 26 |
 
+> **Note on 2025 Dodgers record:** Per Baseball Data Hub (2025), the Dodgers finished the regular season at 93–69 (NL West champions). The franchise's 9th World Series title came by defeating the Toronto Blue Jays 4–3 in a thrilling 7-game Fall Classic, making them the first repeat champion since the Yankees (1998–2000).
+
 ---
 
-## 🏛️ NL Founding & Evolution
+## 🏟️ NL Founding & Evolution
 
 **NL Founded**: February 2, 1876 (replacing the National Association of Professional Base Ball Players)
 **150th Anniversary**: 2026
 **Founder**: William Hulbert (Chicago businessman)
 
 ### Original 8 Charter Members (1876)
+
 | Team | 1876 Name | Modern-Day Identity |
 |------|-----------|---------------------|
 | Chicago White Stockings | Chicago | Chicago Cubs |
@@ -50,6 +53,7 @@ Comprehensive research project compiling historical **National League (NL)** tea
 The only two original NL franchises still in operation today are the **Chicago Cubs** and the **Atlanta Braves** (formerly Boston).
 
 ### Franchise Relocations That Reshaped the NL
+
 - **Brooklyn Dodgers → Los Angeles Dodgers** (1958) — Westward expansion of MLB
 - **New York Giants → San Francisco Giants** (1958) — Westward expansion
 - **Boston Braves → Milwaukee Braves → Atlanta Braves** (1953, then 1966)
@@ -57,6 +61,7 @@ The only two original NL franchises still in operation today are the **Chicago C
 - **Florida Marlins → Miami Marlins** (2012) — Rebranding
 
 ### Schedule Eras & Key Records
+
 | Era | Games/Season | Notes |
 |-----|-------------|-------|
 | 1876–1884 | 60–112 | Varied schedules; first full 84-game season in 1878 |
@@ -66,6 +71,126 @@ The only two original NL franchises still in operation today are the **Chicago C
 | 1962–2019 | 162 | 162-game schedule begins; NY Mets added |
 | 2020 | 60 | COVID-19 shortened season |
 | 2021–present | 162 | Back to full schedule; interleague expanded |
+
+---
+
+## 📁 Data Files
+
+This repository includes structured data files for analysis and visualization:
+
+| File | Description |
+|------|-------------|
+| `data/nl-franchise-records.csv` | All-time NL franchise records through 2025 (15 teams: WS titles, W, L, Win%, games played) |
+| `data/season-standings.csv` | Selected seasonal standings across key eras (1876 → 2025), East/Central/West divisions |
+| `data/world-series-nl-champions.csv` | NL World Series Champions and results (1903–2025) |
+| `data/sources.md` | Detailed list of all research sources consulted |
+| `visualizations/visualize.py` | Python template for generating charts and plots from the data |
+| `visualizations/requirements.txt` | Required Python packages for visualization scripts |
+
+---
+
+## 🏆 World Series Champions from the National League (2000–2025)
+
+| Year | NL Champion | NL W-L | WS Champion | WS Result |
+|------|-------------|:------:|-------------|-----------|
+| **2025** | **LA Dodgers** | **93-69** | **LA Dodgers** | **Dodgers beat Toronto Blue Jays 4-3 — back-to-back champion!** |
+| **2024** | **LA Dodgers** | **98-64** | **LA Dodgers** | **Dodgers beat NY Yankees 4-1 — back-to-back** |
+| 2023 | Atlanta Braves | 104-58 | TX Rangers (AL) | AL won |
+| 2022 | St. Louis Cardinals | 93-69 | Houston Astros (AL) | AL won |
+| 2021 | **Atlanta Braves** | 88-73 | **Atlanta Braves** | **Braves beat Houston 4-2** |
+| 2020 | **LA Dodgers** | 43-17 | **LA Dodgers** | **Dodgers beat Tampa Bay 4-2 — COVID season** |
+| 2019 | **Washington Nationals** | 93-69 | **Washington Nationals** | **Nationals beat Houston 4-3 — first title** |
+| 2018 | LA Dodgers | 92-71 | Houston Astros (AL) | AL won |
+| 2017 | Chicago Cubs | 92-70 | LA Dodgers | Dodgers lost to Houston (AL) 4-3 in WS |
+| 2016 | **Chicago Cubs** | 103-58 | **Chicago Cubs** | **Cubs beat Cleveland 4-3 — Ended 108-year drought!** |
+| 2015 | New York Mets | 90-72 | Kansas City Royals (AL) | AL won |
+| 2014 | **San Francisco Giants** | 90-72 | **San Francisco Giants** | **Giants beat Kansas City 4-3** |
+| 2013 | St. Louis Cardinals | 92-71 | Boston Red Sox (AL) | AL won |
+| 2012 | **San Francisco Giants** | 94-68 | **San Francisco Giants** | **Giants swept Detroit 4-0** |
+| 2011 | **St. Louis Cardinals** | 90-72 | **St. Louis Cardinals** | **Cardinals beat Texas 4-3 — greatest comeback story** |
+| 2010 | **San Francisco Giants** | 92-70 | **San Francisco Giants** | **Giants beat Texas 4-1** |
+| 2009 | LA Dodgers | 95-67 | New York Yankees (AL) | AL won |
+| 2008 | **Philadelphia Phillies** | 97-64 | **Philadelphia Phillies** | **Phillies beat Tampa Bay 4-1** |
+| 2007 | Colorado Rockies | 90-73 | Boston Red Sox (AL) | AL won — "Superships" lost the Fall Classic |
+| 2006 | **St. Louis Cardinals** | 83-78 | **St. Louis Cardinals** | **Cardinals beat Detroit 4-1** |
+| 2005 | Houston Astros | 89-73 | Chicago White Sox (AL) | AL won |
+| 2004 | St. Louis Cardinals | 105-57 | Boston Red Sox (AL) | AL won — Red Sox break 86-year curse |
+| 2003 | **Florida Marlins** | 91-71 | **Florida Marlins** | **Marlins beat NY Yankees 4-2** |
+| 2002 | St. Louis Cardinals | 97-65 | Anaheim Angels (AL) | AL won |
+| 2001 | **Arizona Diamondbacks** | 92-70 | **Arizona Diamondbacks** | **D-Backs beat NY Yankees 4-3** |
+| 2000 | St. Louis Cardinals | 95-67 | NY Yankees (AL) | AL won |
+| 1999 | Atlanta Braves | 103-59 | NY Yankees (AL) | AL won |
+| 1998 | San Diego Padres | 98-64 | NY Yankees (AL) | AL won |
+| 1997 | **Florida Marlins** | 92-70 | **Florida Marlins** | **Marlins beat Cleveland Indians 4-3** |
+| 1996 | Atlanta Braves | 88-76 | NY Yankees (AL) | NYY swept Braves 4-0 |
+| 1995 | **Atlanta Braves** | 90-72 | **Atlanta Braves** | **Braves beat Cleveland 4-2** |
+| 1994 | *Season cancelled* | — | *N/A* | *Players' strike — no WS (first cancellation since 1904)* |
+| 1993 | **Philadelphia Phillies** | 97-65 | *Phillies lost* | Philadelphia lost to Toronto Blue Jays 4-2 |
+| 1992 | Pittsburgh Pirates | 96-66 | *Pirates lost* | Pittsburgh lost to Toronto 4-3 |
+| 1991 | Pittsburgh Pirates | 98-64 | *Pirates lost* | Pittsburgh lost to Minnesota Twins 4-3 |
+| 1990 | **Cincinnati Reds** | 91-71 | **Cincinnati Reds** | **Reds swept Oakland 4-0** |
+| 1989 | Chicago Cubs | 93-69 | Oakland A's (AL) | A's swept Cubs 4-0 |
+| 1988 | **LA Dodgers** | 94-67 | **LA Dodgers** | **Dodgers beat Oakland 4-1** |
+| 1987 | St. Louis Cardinals | 95-67 | Minnesota Twins (AL) | NL lost 4-3 |
+| 1986 | **New York Mets** | 108-54 | **New York Mets** | **Mets beat Boston 4-3** |
+| 1985 | St. Louis Cardinals | 101-61 | Kansas City Royals (AL) | NL lost 4-3 |
+| 1984 | Chicago Cubs | 96-65 | Detroit Tigers (AL) | NL lost 4-1 |
+| 1983 | Philadelphia Phillies | 90-72 | Baltimore Orioles (AL) | NL lost 4-1 |
+| 1982 | **St. Louis Cardinals** | 92-70 | **St. Louis Cardinals** | **Cardinals beat Milwaukee 4-3** |
+| 1981 | **LA Dodgers** | 63-47 | **LA Dodgers** | **Dodgers beat NY Yankees 4-2 (strike season)** |
+| 1980 | Philadelphia Phillies | 91-71 | Philadelphia Phillies | Phillies lost WS — Astros won NL; lost AL to KC |
+| 1979 | **Pittsburgh Pirates** | 98-64 | **Pittsburgh Pirates** | **Pirates beat Baltimore 4-0** |
+| 1978 | LA Dodgers | 95-67 | NY Yankees (AL) | AL won 4-2 |
+| 1977 | LA Dodgers | 94-68 | NY Yankees (AL) | AL won 4-0 |
+| 1976 | **Cincinnati Reds** | 102-60 | **Cincinnati Reds** | **Reds beat NY Yankees 4-0** |
+| 1975 | **Cincinnati Reds** | 108-64 | **Cincinnati Reds** | **Reds beat Boston 4-3 — Big Red Machine** |
+| 1974 | Pittsburgh Pirates | 88-74 | Oakland A's (AL) | AL won 4-1 |
+| 1973 | Cincinnati Reds | 99-63 | Oakland A's (AL) | AL won 4-3 |
+| 1972 | Pittsburgh Pirates | 96-69 | Oakland A's (AL) | AL won 4-3 |
+| 1971 | **Pittsburgh Pirates** | 97-65 | **Pittsburgh Pirates** | **Pirates beat Baltimore 4-3** |
+| 1970 | Cincinnati Reds | 102-60 | Baltimore Orioles (AL) | AL won 4-1 |
+| 1969 | **New York Mets** | 100-62 | **New York Mets** | **Mets lost to Baltimore 4-1 — expansion miracle** |
+| 1962 | NY Yankees | — | **NY Yankees** | **Yankees beat SF Giants 4-3** (NL champ: SF Giants 103-62) |
+| 1968 | **St. Louis Cardinals** | 97-65 | St. Louis Cardinals | **Cardinals lost to Detroit 4-1 — Year of the Pitcher** |
+| 1967 | **St. Louis Cardinals** | 101-58 | St. Louis Cardinals | **Cardinals lost to Boston 4-3** |
+| 1966 | LA Dodgers | 95-67 | St. Louis Cardinals | Cardinals beat Baltimore 4-3 |
+| 1965 | **LA Dodgers** | 97-65 | **LA Dodgers** | **Dodgers beat Minnesota 4-3** |
+| 1964 | St. Louis Cardinals | 93-69 | St. Louis Cardinals | **Cardinals lost to NYY 4-3** |
+| 1963 | **LA Dodgers** | 99-63 | **LA Dodgers** | **Dodgers beat NY Yankees 4-0** |
+| 1960 | Pittsburgh Pirates | 95-59 | **Pittsburgh Pirates** | **Pirates beat NY Yankees 4-3** |
+| 1959 | **LA Dodgers** | 98-57 | **LA Dodgers** | **Dodgers beat Chicago White Sox 4-2** |
+| 1958 | NY Yankees | — | **NY Yankees** | **Yankees beat Milwaukee Braves 4-3** (NL champ: Milwaukee Braves) |
+| 1957 | **Milwaukee Braves** | 98-56 | **Milwaukee Braves** | **Braves beat NY Yankees 4-3** |
+| 1956 | NY Yankees | — | **NY Yankees** | **Yankees beat Brooklyn Dodgers 4-3** (NL champ: Dodgers) |
+| 1955 | **Brooklyn Dodgers** | 98-55 | **Brooklyn Dodgers** | **Dodgers beat NY Yankees 4-3** |
+| 1954 | NY Giants | — | **NY Giants** | **Giants beat Cleveland Indians 4-0** (NL champ: NY Giants 97-55) |
+
+### NL Pennant Winners: 1903–2025 Summary
+
+---
+
+**Pennants by Franchise (modern era, NL only):**
+
+| Team | NL Pennants | Last Pennant |
+|------|:-----------:|:------------:|
+| LA Dodgers (incl. Brooklyn) | 26 | 2025 |
+| St. Louis Cardinals | 23 | 2013 |
+| Atlanta Braves (incl. Boston, Milwaukee) | 22 | 2021 |
+| NY Giants (incl. SF) | 22 | 2014 (SF) |
+| Pittsburgh Pirates | 9 | 1979 |
+| Cincinnati Reds | 9 | 1990 |
+| Chicago Cubs | 9 | 2016 |
+| Philadelphia Phillies | 8 | 2024 |
+| New York Mets | 5 | 2024 |
+| Washington Nationals (incl. Montréal) | 5 | 2019 |
+| San Diego Padres | 2 | 1998 |
+| Minnesota Twins (as Washington Senators) | — | — |
+| Arizona Diamondbacks | 2 | 2023 |
+| Miami Marlins (incl. Florida) | 2 | 2003 |
+| Colorado Rockies | 0 | — |
+| Milwaukee Brewers | 0 | — |
+
+> Note: Brooklyn/LA Dodgers and NY/SF Giants include pennants won in New York before relocation.
 
 ---
 
@@ -93,7 +218,317 @@ The only two original NL franchises still in operation today are the **Chicago C
 > ² Includes Boston/Milwaukee Braves (1914, 1957) + Atlanta Braves (1995, 2021)
 > ³ Milwaukee Brewers were originally the Seattle Pilots (1969); record reflects combined franchise history
 
-### Win Percentage Leaders (minimum 5,000 games played, through 2025)
+---
+
+## 📂 2025 NL Standings (Final)
+
+| Division | Team | W | L |
+|----------|------|:-:|:-:|
+| **NL Central Champion** | **Milwaukee Brewers** | **97** | **65** |
+| NL Central | Chicago Cubs | 92 | 70 |
+| NL Central | Cincinnati Reds | 83 | 79 |
+| NL Central | St. Louis Cardinals | 78 | 84 |
+| NL Central | Pittsburgh Pirates | 71 | 91 |
+| **NL East Champion** | **Philadelphia Phillies** | **96** | **66** |
+| NL East | New York Mets | 83 | 79 |
+| NL East | Miami Marlins | 79 | 83 |
+| NL East | Atlanta Braves | 76 | 86 |
+| NL East | Washington Nationals | 66 | 96 |
+| **NL West Champion & WS Champion** | **LA Dodgers** | **93** | **69** |
+| NL West | San Diego Padres | 90 | 72 |
+| NL West | San Francisco Giants | 81 | 81 |
+| NL West | Arizona Diamondbacks | 80 | 82 |
+| NL West | Colorado Rockies | 43 | 119 |
+
+---
+
+## 📂 Example Selected Historical Standings
+
+### 1876 — NL Inaugural Season (8 teams, 66-game schedule for Chicago)
+
+| Team | W | L |
+|------|:-:|:-:|
+| **Chicago White Stockings** | **52** | **14** |
+| Hartford Dark Blues | 47 | 21 |
+| St. Louis Brown Stockings | 45 | 19 |
+| Boston Red Caps | 39 | 31 |
+| Louisville Grays | 30 | 36 |
+| New York Mutuals | 21 | 35 |
+| Philadelphia Athletics | 14 | 45 |
+| Cincinnati Reds | 9 | 56 |
+
+### 1906 — Cubs' Record-Setting 116-Win Season
+
+| Team | W | L | Note |
+|------|:-:|:-:|------|
+| **Chicago Cubs** | **116** | **36** | **Single-season wins record; .763 Win%** |
+| New York Giants | 96 | 56 | |
+| Pittsburgh Pirates | 93 | 60 | |
+| Philadelphia Phillies | 71 | 82 | |
+| Brooklyn Superbas | 66 | 86 | |
+| Cincinnati Reds | 64 | 87 | |
+| St. Louis Cardinals | 52 | 98 | |
+| Boston Beaneaters | 49 | 102 | |
+
+### 1962 — First Full 162-Game NL Season (10-team circuit, no divisions)
+
+| Team | W | L |
+|------|:-:|:-:|
+| **San Francisco Giants** | **103** | **62** |
+| Los Angeles Dodgers | 102 | 63 |
+| Cincinnati Reds | 98 | 64 |
+| Pittsburgh Pirates | 93 | 68 |
+| Milwaukee Braves | 86 | 76 |
+| St. Louis Cardinals | 84 | 78 |
+| Philadelphia Phillies | 81 | 80 |
+| Houston Colt .45s | 64 | 96 |
+| Chicago Cubs | 59 | 103 |
+| New York Mets | 40 | 120 |
+
+### 1969 — First Year of Divisions (12 teams, 162 games)
+
+**NL East**
+| Team | W | L |
+|------|:-:|:-:|
+| **New York Mets** | **100** | **62** |
+| Chicago Cubs | 92 | 70 |
+| Pittsburgh Pirates | 88 | 74 |
+| St. Louis Cardinals | 87 | 75 |
+| Philadelphia Phillies | 63 | 99 |
+| Montreal Expos | 52 | 110 |
+
+**NL West**
+| Team | W | L |
+|------|:-:|:-:|
+| **Atlanta Braves** | **93** | **69** |
+| San Francisco Giants | 90 | 72 |
+| Cincinnati Reds | 89 | 73 |
+| Los Angeles Dodgers | 85 | 77 |
+| Houston Astros | 81 | 81 |
+| San Diego Padres | 52 | 110 |
+
+### 1975 — Big Red Machine (Cincinnati, 108-54)
+
+**NL East**
+| Team | W | L |
+|------|:-:|:-:|
+| Pittsburgh Pirates | 92 | 69 |
+| Philadelphia Phillies | 86 | 76 |
+| New York Mets | 82 | 80 |
+| St. Louis Cardinals | 82 | 80 |
+| Chicago Cubs | 75 | 87 |
+| Montreal Expos | 75 | 87 |
+
+**NL West**
+| Team | W | L |
+|------|:-:|:-:|
+| **Cincinnati Reds** | **108** | **54** |
+| Los Angeles Dodgers | 88 | 74 |
+| San Francisco Giants | 80 | 81 |
+| San Diego Padres | 71 | 91 |
+| Atlanta Braves | 67 | 94 |
+| Houston Astros | 64 | 97 |
+
+### 1984 — First Year of Divisional Playoffs (162 games)
+
+**NL East**
+| Team | W | L |
+|------|:-:|:-:|
+| **Chicago Cubs** | **96** | **65** |
+| New York Mets | 90 | 72 |
+| St. Louis Cardinals | 84 | 78 |
+| Philadelphia Phillies | 81 | 81 |
+| Montreal Expos | 78 | 83 |
+| Pittsburgh Pirates | 75 | 87 |
+
+**NL West**
+| Team | W | L |
+|------|:-:|:-:|
+| **San Diego Padres** | **92** | **70** |
+| Atlanta Braves | 80 | 82 |
+| Houston Astros | 80 | 82 |
+| Los Angeles Dodgers | 79 | 83 |
+| Cincinnati Reds | 70 | 92 |
+| San Francisco Giants | 66 | 96 |
+
+### 1995 — Post-Strike Return (144 games)
+
+**NL Central**
+| Team | W | L |
+|------|:-:|:-:|
+| **Cincinnati Reds** | **85** | **59** |
+| Houston Astros | 76 | 68 |
+| Chicago Cubs | 73 | 71 |
+| St. Louis Cardinals | 62 | 81 |
+| Pittsburgh Pirates | 58 | 86 |
+
+**NL East**
+| Team | W | L |
+|------|:-:|:-:|
+| **Atlanta Braves** | **90** | **54** |
+| New York Mets | 69 | 75 |
+| Philadelphia Phillies | 69 | 75 |
+| Florida Marlins | 67 | 76 |
+| Montreal Expos | 66 | 78 |
+
+**NL West**
+| Team | W | L |
+|------|:-:|:-:|
+| **Los Angeles Dodgers** | **78** | **66** |
+| Colorado Rockies | 77 | 67 |
+| San Diego Padres | 70 | 74 |
+| San Francisco Giants | 67 | 77 |
+
+### 1998 — Home Run Race Season (162 games)
+
+**NL Central**
+| Team | W | L |
+|------|:-:|:-:|
+| **Houston Astros** | **102** | **60** |
+| Chicago Cubs | 90 | 73 |
+| St. Louis Cardinals | 83 | 79 |
+| Cincinnati Reds | 77 | 85 |
+| Milwaukee Brewers | 74 | 88 |
+| Pittsburgh Pirates | 69 | 93 |
+
+**NL East**
+| Team | W | L |
+|------|:-:|:-:|
+| **Atlanta Braves** | **106** | **56** |
+| New York Mets | 88 | 74 |
+| Philadelphia Phillies | 75 | 87 |
+| Montreal Expos | 65 | 97 |
+| Florida Marlins | 54 | 108 |
+
+**NL West**
+| Team | W | L |
+|------|:-:|:-:|
+| **San Diego Padres** | **98** | **64** |
+| San Francisco Giants | 89 | 74 |
+| Los Angeles Dodgers | 83 | 79 |
+| Colorado Rockies | 77 | 85 |
+| Arizona Diamondbacks | 65 | 97 |
+
+### 2020 — COVID-Shortened Season (60 games)
+
+**NL Central**
+| Team | W | L |
+|------|:-:|:-:|
+| **Chicago Cubs** | **34** | **26** |
+| Cincinnati Reds | 31 | 29 |
+| St. Louis Cardinals | 30 | 28 |
+| Milwaukee Brewers | 29 | 31 |
+| Pittsburgh Pirates | 19 | 41 |
+
+**NL East**
+| Team | W | L |
+|------|:-:|:-:|
+| **Atlanta Braves** | **35** | **25** |
+| Miami Marlins | 31 | 29 |
+| Philadelphia Phillies | 28 | 32 |
+| New York Mets | 26 | 34 |
+| Washington Nationals | 26 | 34 |
+
+**NL West**
+| Team | W | L |
+|------|:-:|:-:|
+| **LA Dodgers** | **43** | **17** |
+| San Diego Padres | 37 | 23 |
+| San Francisco Giants | 29 | 31 |
+| Colorado Rockies | 26 | 34 |
+| Arizona Diamondbacks | 25 | 35 |
+
+### 2023 — Braves 104-Win Season
+
+**NL Central**
+| Team | W | L |
+|------|:-:|:-:|
+| **Milwaukee Brewers** | **92** | **70** |
+| Chicago Cubs | 83 | 79 |
+| Cincinnati Reds | 82 | 80 |
+| Pittsburgh Pirates | 76 | 86 |
+| St. Louis Cardinals | 71 | 91 |
+
+**NL East**
+| Team | W | L |
+|------|:-:|:-:|
+| **Atlanta Braves** | **104** | **58** |
+| Philadelphia Phillies | 90 | 72 |
+| Miami Marlins | 84 | 78 |
+| New York Mets | 75 | 87 |
+| Washington Nationals | 71 | 91 |
+
+**NL West**
+| Team | W | L |
+|------|:-:|:-:|
+| **LA Dodgers** | **100** | **62** |
+| Arizona Diamondbacks | 84 | 78 |
+| San Diego Padres | 82 | 80 |
+| San Francisco Giants | 79 | 83 |
+| Colorado Rockies | 59 | 103 |
+
+### 2024 — Dodgers 98-Win, Back-to-Back Champions
+
+**NL East**
+| Team | W | L |
+|------|:-:|:-:|
+| **Philadelphia Phillies** | **95** | **67** |
+| Atlanta Braves | 89 | 73 |
+| New York Mets | 89 | 73 |
+| Washington Nationals | 71 | 91 |
+| Miami Marlins | 62 | 100 |
+
+**NL Central**
+| Team | W | L |
+|------|:-:|:-:|
+| **Milwaukee Brewers** | **93** | **69** |
+| Chicago Cubs | 83 | 79 |
+| St. Louis Cardinals | 83 | 79 |
+| Cincinnati Reds | 77 | 85 |
+| Pittsburgh Pirates | 76 | 86 |
+
+**NL West**
+| Team | W | L |
+|------|:-:|:-:|
+| **LA Dodgers** | **98** | **64** |
+| San Diego Padres | 93 | 69 |
+| Arizona Diamondbacks | 89 | 73 |
+| San Francisco Giants | 80 | 82 |
+| Colorado Rockies | 61 | 101 |
+
+### 2025 — Current Standings (Final)
+
+**NL Central**
+| Team | W | L |
+|------|:-:|:-:|
+| **Milwaukee Brewers** | **97** | **65** |
+| Chicago Cubs | 92 | 70 |
+| Cincinnati Reds | 83 | 79 |
+| St. Louis Cardinals | 78 | 84 |
+| Pittsburgh Pirates | 71 | 91 |
+
+**NL East**
+| Team | W | L |
+|------|:-:|:-:|
+| **Philadelphia Phillies** | **96** | **66** |
+| New York Mets | 83 | 79 |
+| Miami Marlins | 79 | 83 |
+| Atlanta Braves | 76 | 86 |
+| Washington Nationals | 66 | 96 |
+
+**NL West & World Series Champion**
+| Team | W | L |
+|------|:-:|:-:|
+| **LA Dodgers** | **93** | **69** |
+| San Diego Padres | 90 | 72 |
+| San Francisco Giants | 81 | 81 |
+| Arizona Diamondbacks | 80 | 82 |
+| Colorado Rockies | 43 | 119 |
+
+---
+
+## 📈 Win Percentage Leaders (minimum 5,000 games played, through 2025)
+
 | Rank | Team | Win % | Note |
 |:----:|------|:-----:|------|
 | 1 | LA Dodgers | .532 | 9 WS titles, recent dynasty |
@@ -108,291 +543,46 @@ The only two original NL franchises still in operation today are the **Chicago C
 
 ---
 
-## 🏆 World Series Champions from the National League (2000–2025)
+## 🧰 Visualization & Analysis
 
-| Year | NL Champion | NL W-L | WS Champion | WS Result |
-|------|-------------|:------:|-------------|-----------|
-| **2025** | **LA Dodgers** | **96-66** | **LA Dodgers** | **Dodgers beat Toronto Blue Jays 4-3** |
-| **2024** | **LA Dodgers** | **98-64** | **LA Dodgers** | **Dodgers beat NY Yankees 4-1 — back-to-back** |
-| 2023 | Atlanta Braves | 104-58 | TX Rangers (AL) | AL won |
-| 2022 | St. Louis Cardinals | 93-69 | Houston Astros (AL) | AL won |
-| 2021 | **Atlanta Braves** | 88-73 | **Atlanta Braves** | **Braves beat Houston 4-2** |
-| 2020 | **LA Dodgers** | 43-17 | **LA Dodgers** | **Dodgers beat Tampa Bay 4-2 — COVID season** |
-| 2019 | **Washington Nationals** | 93-69 | **Washington Nationals** | **Nationals beat Houston 4-3 — first title** |
-| 2018 | LA Dodgers | 92-71 | Houston Astros (AL) | AL won |
-| 2017 | Chicago Cubs | 92-70 | LA Dodgers | Dodgers lost to Houston (AL) 4-3 in WS |
-| 2016 | **Chicago Cubs** | 103-58 | **Chicago Cubs** | **Cubs beat Cleveland 4-3 — Ended 108-year drought!** |
-| 2015 | New York Mets | 90-72 | Kansas City Royals (AL) | AL won |
-| 2014 | **San Francisco Giants** | 90-72 | **San Francisco Giants** | **Giants beat Kansas City 4-3** |
-| 2013 | St. Louis Cardinals | 92-71 | Boston Red Sox (AL) | AL won — Red Sox won 3rd title this century |
-| 2012 | **San Francisco Giants** | 94-68 | **San Francisco Giants** | **Giants swept Detroit 4-0** |
-| 2011 | **St. Louis Cardinals** | 90-72 | **St. Louis Cardinals** | **Cardinals beat Texas 4-3 — greatest comeback story** |
-| 2010 | **San Francisco Giants** | 92-70 | **San Francisco Giants** | **Giants beat Texas 4-1** |
-| 2009 | LA Dodgers | 95-67 | New York Yankees (AL) | AL won |
-| 2008 | **Philadelphia Phillies** | 97-64 | **Philadelphia Phillies** | **Phillies beat Tampa Bay 4-1** |
-| 2007 | Colorado Rockies | 90-73 | Boston Red Sox (AL) | AL won — The "Superships" lost the Fall Classic |
-| 2006 | **St. Louis Cardinals** | 83-78 | **St. Louis Cardinals** | **Cardinals beat Detroit 4-1** |
-| 2005 | Houston Astros | 89-73 | Chicago White Sox (AL) | AL won |
-| 2004 | St. Louis Cardinals | 105-57 | Boston Red Sox (AL) | AL won — Red Sox break 86-year curse |
-| 2003 | **Florida Marlins** | 91-71 | **Florida Marlins** | **Marlins beat NY Yankees 4-2** |
-| 2002 | St. Louis Cardinals | 97-65 | Anaheim Angels (AL) | AL won |
-| 2001 | **Arizona Diamondbacks** | 92-70 | **Arizona Diamondbacks** | **D-Backs beat NY Yankees 4-3** |
-| 2000 | St. Louis Cardinals | 95-67 | NY Yankees (AL) | AL won |
-| 1999 | Atlanta Braves | 103-59 | NY Yankees (AL) | AL won |
-| 1998 | San Diego Padres | 98-64 | NY Yankees (AL) | AL won |
-| 1997 | **Florida Marlins** | 92-70 | **Florida Marlins** | **Marlins beat Cleveland Indians 4-3** |
-| 1996 | Atlanta Braves | 88-76 | NY Yankees (AL) | NYY swept Braves 4-0 |
-| 1995 | **Atlanta Braves** | 90-72 | **Atlanta Braves** | **Braves beat Cleveland 4-2** |
-| 1994 | *Season cancelled* | — | *N/A* | *Players' strike — no WS (first cancellation since 1904)* |
-| 1993 | **Philadelphia Phillies** | 97-65 | *Phillies lost* | Philadelphia lost to Toronto Blue Jays 4-2 |
-| 1992 | Pittsburgh Pirates | 96-66 | *Pirates lost* | Pittsburgh lost to Toronto 4-3 |
-| 1991 | Pittsburgh Pirates | 98-64 | *Pirates lost* | Pittsburgh lost to Minnesota Twins 4-3 |
-| 1990 | **Cincinnati Reds** | 91-71 | **Cincinnati Reds** | **Reds swept Oakland 4-0** |
-| 1989 | Chicago Cubs | 93-69 | Oakland A's (AL) | A's swept Cubs 4-0 |
-| 1988 | **LA Dodgers** | 94-67 | **LA Dodgers** | **Dodgers beat Oakland 4-1** |
-| 1987 | St. Louis Cardinals | 95-67 | Minnesota Twins (AL) | NL lost 4-3 |
-| 1986 | **New York Mets** | 108-54 | **New York Mets** | **Mets beat Boston 4-3** |
-| 1985 | St. Louis Cardinals | 101-61 | Kansas City Royals (AL) | NL lost 4-3 |
-| 1984 | Chicago Cubs | 96-65 | Detroit Tigers (AL) | NL lost 4-1 |
-| 1983 | Philadelphia Phillies | 90-72 | Baltimore Orioles (AL) | NL lost 4-1 |
-| 1982 | **St. Louis Cardinals** | 92-70 | **St. Louis Cardinals** | **Cardinals beat Milwaukee 4-3** |
-| 1981 | **LA Dodgers** | 63-47 | **LA Dodgers** | **Dodgers beat NY Yankees 4-2 (strike season)** |
-| 1980 | Philadelphia Phillies | 91-71 | Philadelphia Phillies | Phillies lost WS to Royals — actually, AL won: Houston Astros won NL; Philadelphia Phillies won NL East; Phillies lost NLCS to Astros 3-2; Astros lost WS to Royals |
-| 1979 | **Pittsburgh Pirates** | 98-64 | **Pittsburgh Pirates** | **Pirates beat Baltimore 4-0** |
-| 1978 | LA Dodgers | 95-67 | NY Yankees (AL) | AL won 4-2 |
-| 1977 | LA Dodgers | 94-68 | NY Yankees (AL) | AL won 4-0 |
-| 1976 | **Cincinnati Reds** | 102-60 | **Cincinnati Reds** | **Reds beat NY Yankees 4-0** |
-| 1975 | **Cincinnati Reds** | 108-64 | **Cincinnati Reds** | **Reds beat Boston 4-3 — Big Red Machine** |
-| 1974 | Pittsburgh Pirates | 88-74 | Oakland A's (AL) | AL won 4-1 |
-| 1973 | Cincinnati Reds | 99-63 | Oakland A's (AL) | AL won 4-3 |
-| 1972 | Pittsburgh Pirates | 96-69 | Oakland A's (AL) | AL won 4-3 |
-| 1971 | **Pittsburgh Pirates** | 97-65 | **Pittsburgh Pirates** | **Pirates beat Baltimore 4-3** |
-| 1970 | Cincinnati Reds | 102-60 | Baltimore Orioles (AL) | AL won 4-1 |
-| 1969 | **New York Mets** | 100-62 | **New York Mets** | **Mets lost to Baltimore 4-1** expansion team奇迹 |
-| 1968 | **St. Louis Cardinals** | 97-65 | St. Louis Cardinals | **Cardinals lost to Detroit 4-1** — Year of the Pitcher |
-| 1967 | **St. Louis Cardinals** | 101-58 | St. Louis Cardinals | **Cardinals lost to Boston 4-3** |
-| 1966 | LA Dodgers | 95-67 | St. Louis Cardinals | Cardinals beat Baltimore 4-3 |
-| 1965 | LA Dodgers | 97-65 | LA Dodgers | **Dodgers lost to Minnesota 4-3** |
-| 1964 | **St. Louis Cardinals** | 93-69 | St. Louis Cardinals | **Cardinals lost to NYY 4-3** |
-| 1963 | LA Dodgers | 99-63 | LA Dodgers | **Dodgers swept NY Yankees 4-0** |
-| 1962 | **San Francisco Giants** | (won tiebreaker) | SF Giants | **Giants lost to NYY 4-1** — dramatic NL tiebreaker vs LAD |
-| 1961 | Cincinnati Reds | 93-68 | Cincinnati Reds | **Cincinnati lost to NYY 4-1** |
-| 1960 | **Pittsburgh Pirates** | 95-59 | **Pittsburgh Pirates** | **Pirates beat NYY 4-3 — last Pirates title** |
-| 1959 | LA Dodgers | 88-68 | LA Dodgers | **Dodgers beat Chicago White Sox 4-2** |
-| 1958 | SF Giants | 80-74 | NY Yankees (AL) | AL won 4-3 |
-| 1957 | Milwaukee Braves | 95-59 | NY Yankees (AL) | AL won |
-| 1955 | **Brooklyn Dodgers** | 98-55 | **Brooklyn Dodgers** | **Dodgers beat NY Yankees 4-3 — Brooklyn's first!** |
-| 1954 | **NY Giants** | 97-57 | **NY Giants** | **Giants swept Cleveland 4-0** |
-| 1953 | Brooklyn Dodgers | 105-49 | NY Yankees (AL) | AL won 4-1 |
-| 1952 | Brooklyn Dodgers | 96-57 | NY Yankees (AL) | AL won 4-1 |
-| 1951 | **NY Giants** | 98-56 | **NY Giants** | **Giants won 3-game NL tiebreaker; beat NYY 4-2 in WS** |
-| 1950 | Brooklyn Dodgers | 87-67 | NY Yankees (AL) | AL won 4-0 |
-| 1948 | Boston Braves | 91-62 | Cleveland Indians (AL) | NL lost 4-2 |
-| 1946 | St. Louis Cardinals | 87-67 | St. Louis Cardinals | **Cardinals lost to Red Sox 4-3** |
-| 1945 | Chicago Cubs | 98-56 | Chicago Cubs | **Cubs lost to Detroit 4-1** |
-| 1944 | **St. Louis Cardinals** | 105-49 | **St. Louis Cardinals** | **Cardinals beat St. Louis Browns 4-2** |
-| 1943 | NY Giants | 84-70 | NY Yankees (AL) | AL won 4-0 |
-| 1942 | Brooklyn Dodgers | 104-50 | Brooklyn Dodgers | **Dodgers lost to Cardinals 4-1** |
-| 1941 | Brooklyn Dodgers | 102-52 | Brooklyn Dodgers | **Dodgers lost to NYY 4-1** |
+The `visualizations/` directory contains Python templates to turn the data files into charts. See `visualizations/visualize.py` and `visualizations/requirements.txt` to get started.
 
----
-
-## 🔮 NL Division Title Leaders (All-Time Through 2025)
-
-| Division | Most Titles | Team | Count | Key Streaks |
-|----------|:-----------:|------|:-----:|-------------|
-| NL East | **Atlanta Braves** | Atlanta Braves | **18** | 14 straight (1995–2005); 2018–2023 |
-| NL East | Philadelphia Phillies | Philadelphia Phillies | **13** | First title 1980, second dynasty 2007-2009, 2022-2024 |
-| NL Central | **St. Louis Cardinals** | St. Louis Cardinals | **12** | Streaks in 2000-2006, 2009-2015, 2019-2022 |
-| NL Central | Chicago Cubs | Chicago Cubs | **6** | Includes 2016 World Series title |
-| NL Central | Milwaukee Brewers | Milwaukee Brewers | **6** | 2018, 2021-2025 run backwards from 2018 |
-| NL West | **LA Dodgers** | LA Dodgers | **23** | 8 straight (2013–2020); 2022-2025 ongoing |
-| NL West | San Francisco Giants | San Francisco Giants | **9** | 2010-2014 dynasty included in this tally |
-
----
-
-## ⚔️ Key Rivalries (H2H — Baseball Almanac 1876–2026)
-
-| Team 1 | Team 2 | T1 W | T2 W | T1 W% | Era Dominant |
-|--------|--------|:----:|:----:|:-----:|-------------|
-| LA Dodgers | Chicago Cubs | 278 | 122 | **.695** | LA Dodgers (2016–present) |
-| St. Louis Cardinals | Chicago Cubs | 1,315 | 1,185 | .525 | St. Louis (1900s–1990s) |
-| LA Dodgers | SF Giants | 272 | 246 | .523 | LA Dodgers (2010s–present) |
-| Chicago Cubs | Cincinnati Reds | 1,209 | 1,074 | .530 | Chicago (1900s–1910s) |
-| Atlanta Braves | NY Mets | 290 | 237 | .550 | Atlanta (1990s–2000s) |
-| St. Louis Cardinals | Pittsburgh Pirates | 1,423 | 927 | **.606** | **St. Louis (1920s–1980s)** |
-| St. Louis Cardinals | LA Dodgers | 508 | 437 | .538 | St. Louis (1960s–1980s) |
-| SF Giants | Chicago Cubs | 1,295 | 1,330 | .492 | Even (pre-1958 Giants had edge) |
-| Cincinnati Reds | Atlanta Braves | 1,068 | 1,338 | .441 | **Atlanta (1990s–2000s)** |
-| St. Louis Cardinals | Philadelphia Phillies | 1,896 | 956 | .494 | Phillies slight edge (1960s–2000s) |
-| NY Mets | Philadelphia Phillies | 2,110 | 2,116 | .500 | **Essentially even over 60+ seasons** |
-
-### Rivalry Insights
-- **Most one-sided**: Cardinals vs. Pirates — 60.6% Cardinals, one of the most lopsided rivalries in all of professional sports history
-- **Most competitive**: Mets vs. Phillies — essentially 50-50 across 4,226 games over 60+ seasons
-- **Biggest modern gap**: Dodgers vs. Cubs — 69.5% Dodgers, reflects the modern Dodgers dynasty
-- **Historic tilt**: Reds vs. Braves — largely a toss-up but 54.8% Braves since 1969 divisional realignment
-
----
-
-## 📊 Best NL Teams by 23-Year Span (2000–2024, StatMuse)
-
-| Rank | Team | Record | Win% | Games |
-|:----:|------|--------|:----:|:-----:|
-| 1 | **LA Dodgers** | 2239-1709 | **.567** | 3,948 |
-| 2 | St. Louis Cardinals | 2179-1766 | .552 | 3,945 |
-| 3 | Atlanta Braves | 2152-1792 | .546 | 3,945 |
-| 4 | San Francisco Giants | 2052-1893 | .520 | 3,946 |
-| 5 | Philadelphia Phillies | 2019-1928 | .512 | 3,947 |
-| 6 | NY Mets | 1976-1970 | .501 | 3,946 |
-| 7 | Chicago Cubs | 1969-1977 | .499 | 3,947 |
-| 8 | Milwaukee Brewers | 1960-1988 | .496 | 3,949 |
-| 9 | Arizona Diamondbacks | 1922-2026 | .487 | 3,948 |
-| 10 | San Diego Padres | 1888-2061 | .478 | 3,949 |
-
-### NL Win % by Era (StatMuse, 2013–2024)
-| Rank | Team | Win% | Seasons |
-|:----:|------|:----:|:-------:|
-| 1 | **LA Dodgers** | **.613** | 2013–2024 (12 seasons) |
-| 2 | St. Louis Cardinals | .545 | 2013–2024 |
-| 3 | Atlanta Braves | .536 | 2013–2024 |
-| 4 | NY Mets | .533 | 2013–2024 |
-| 5 | Philadelphia Phillies | .525 | 2013–2024 |
-
----
-
-## 🧭 Research Sources Found & Verified
-
-| Source | URL | Coverage | Key Data |
-|--------|-----|----------|----------|
-| **Baseball-Reference (NL)** | [baseball-reference.com/leagues/NL/](https://www.baseball-reference.com/leagues/NL/index.shtml) | 1876–present | Official year-by-year NL standings, team W-L, ERA, OPS, runs scored |
-| **Baseball Almanac H2H** | [baseball-almanac.com](https://www.baseball-almanac.com/teams/teamvsteam-nl.shtml) | 1876–2026 | 15×15 H2H W-L matrices for every NL team vs every other team |
-| **Baseball Almanac (Records)** | [baseball-almanac.com](https://www.baseball-almanac.com/recbooks/rb_gam3.shtml) | All-time | Franchise win records, single-season records, streaks, famous feats |
-| **Baseball Data Hub** | [baseballdatahub.com](https://baseballdatahub.com/seasons/) | 1871–2026 | Season standings, batting/pitching leaders, postseason results |
-| **SABR Lahman Database** | [sabr.org](https://sabr.org/lahman-database/) | 1871–2025 | Free downloadable CSV — full team batting, pitching, fielding, attendance |
-| **Wikipedia**: All-Time W-L | [en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_all-time_Major_League_Baseball_win%E2%80%93loss_records) | All-time | Franchise W-L percentages across MLB history |
-| **Wikipedia**: NL Pennants | [en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_National_League_pennant_winners) | 1876–present | Complete NL pennant winner list with World Series results |
-| **Wikipedia**: National League (baseball) | [en.wikipedia.org](https://en.wikipedia.org/wiki/National_League_(baseball)) | 1876–present | Full league history, evolution, team founding details |
-| **StatMuse** | [statmuse.com](https://www.statmuse.com/mlb) | 1876–2026 | All-time franchise W-L records; multi-year span analytics; NL/AL comparisons |
-| **Everything Explained.Today** | [everything.explained.today](https://everything.explained.today/National_League_(baseball)/) | 1876–present | Encyclopedic deep-dive on NL founding, structure, teams, evolution |
-| **ESPN**: World Series History | [espn.com](https://www.espn.com/mlb/worldseries/history/winners) | 1903–present | World Series champions with series results |
-| **MLB.com Records** | [mlb.com](https://www.mlb.com/news/best-regular-season-record-for-every-mlb-team) | All years | Best single-season records by franchise |
-| **Retrosheet** | [retrosheet.org](https://www.retrosheet.org/) | 1871–present | Play-by-play data, box scores, team records — the gold standard for deep analysis |
-| **FanGraphs** | [fangraphs.com](https://www.fangraphs.com/) | 1995–present | Advanced stats: WAR,xFIP, defensive metrics, advanced pitching analytics |
-| **Champs or Chumps** | [champsorchumps.us](https://champsorchumps.us/mlb) | 1876–present | Win% rankings, championship droughts, regular-season streak history |
-| **Statpedia** | [statpedia.net](https://www.statpedia.net/league-standings.html) | 1969–present | Full divisional standings by season with manager rosters |
-| **Linger & Look** | [lingerandlook.com](https://lingerandlook.com/Names/BaseballStandings.php) | 1901–present | Year-by-year standings with managers and subtotals |
-| **OpenIntro** | [openintro.org](https://openintro.org/data) | Multi-year | ML-ready MLB team data in R format for statistical analysis |
-| **Project Ballpark** | [projectballpark.org](https://www.projectballpark.org/) | 1876–present | Historical ballpark attendance & demographic data |
-| **BetIQ / Team Rankings** | [betiq.teamrankings.com](https://betiq.teamrankings.com/mlb/betting-trends/win-loss-records/) | 1876–present | Every team's SU W-L record with MOV and run-line data |
-
----
-
-## 📁 Repository Structure
-
+### Quick Start:
 ```bash
-nl-team-trends/
-├── README.md                        # ← This file — comprehensive research overview & findings
-├── data/
-│   ├── nl_all_time_records.csv      # ← All-time franchise W-L records for all 15 NL teams
-│   ├── nl_h2h_rivalries.csv         # ← Key H2H rivalry data (11 most-studied matchups)
-│   ├── nl_pennant_and_ws_champions.csv # ← NL pennant winners + WS champions 1970-2025
-│   └── nl_historical_seasons.csv    # ← Key historical seasons with context 1876-2025
-├── visualizations/
-│   └── README.md                    # ← Visualization guide & recommended chart types
-├── notebooks/                       # ← Jupyter notebooks for analysis (in development)
-│   ├── nl_dominance_analysis.ipynb
-│   ├── nl_h2h_network.ipynb
-│   └── nl_era_comparison.ipynb
-└── src/                             # ← Python analysis scripts (in development)
-    ├── data_loader.py
-    ├── era_categorizer.py
-    └── visualizer.py
+pip install -r visualizations/requirements.txt
+python visualizations/visualize.py
 ```
 
 ---
 
-## 🎯 Suggested Analysis Topics
+## 🔍 Research Sources
 
-- **Long-term franchise dominance**: Analyze which NL teams dominated which decades (e.g., Dodgers in 2013–2025; Cardinals 2000–2015; Braves 1995–2005; Reds 1970–1976).
-- **H2H rivalry network analysis**: Use the H2H data to build a rivalry network graph, identifying central vs. peripheral franchises.
-- **Era-adjusted comparison**: Account for different schedule lengths (154 vs 162 games/year) by normalizing win% rather than absolute wins.
-- **Expansion impact**: Study how expansion (1962, 1969, 1993, 1998) changed competitive balance and pennant race dynamics.
-- **The 1994 strike's long-term effects**: Analyze competitive roster-building distortions caused by the cancelled season.
-- **Relocation effects**: Quantify the performance differences in pre- and post-relocation eras for the Dodgers, Giants, Braves, and Marlins.
-- **Draft and free agency windows**: Map championship windows against roster-building rule changes.
-- **Postseason vs. regular-season performance**: Identify teams that perform dramatically differently in October vs. the regular season.
+Comprehensive list of all sources used to compile this data can be found in [`data/sources.md`](data/sources.md). Key primary sources include:
 
----
-
-## 📈 CDFs and Charts (What to Build)
-
-| Chart | Description | Data Source File | Visualization Type |
-|-------|------------|:----------------:|:------------------:|
-| Franchise Win% Timeline | Multi-line chart win% over decade intervals | nl_all_time_records.csv + historical data | Line chart |
-| World Series Winners Heatmap | Year × League champion heatmap by decade | nl_pennant_and_ws_champions.csv | Heatmap / Calendar view |
-| H2H Rivalry Matrix | Circular/radial chart of dominance, 15x15 grid | nl_h2h_rivalries.csv | Network / Matrix chart |
-| Division Title Stacked Bar | Division title counts by team, colored by division | nl_division_titles data + CSV | Grouped bar chart |
-| Era Win% Normalized | Win% normalized by schedule length across eras | nl_historical_seasons.csv | Multi-line chart |
-| 23-Year Span Sliding Window | Best 23-year windows for all NL teams | StatMuse / historical | Interactive slider chart |
-| Championship Drought Chart | Bars showing current/longest championship droughts | nl_all_time_records.csv | Horizontal bar chart |
-| Pennant Race Bubble Chart | Bubbles sized by wins, colored by decade | nl_historical_seasons.csv | Bubble chart |
+- **Baseball Data Hub** (baseballdatahub.com) — Season-by-season standings and batting/pitching leaders 1871–2026
+- **Baseball Almanac** (baseball-almanac.com) — Year-by-year history (1876–2027), team-vs-team win-loss matrix (1876–2026)
+- **Baseball-Reference.com** — The comprehensive box-score and stats database for every MLB season
+- **Wikipedia** — All-time MLBB win-loss records, NL pennant winners, World Series champions
+- **SABR Lahman Database** — The standard academic baseball dataset (batting, pitching, fielding, standings, 1871–2025)
+- **StatsCrew.com** — Detailed season-by-season team standings and rosters
+- **MLB.com** — Official standings and postseason results
+- **Statpedia** — Interactive team stat explorer across all seasons
+- **Baseball Reference postseason** — Playoff bracket and series results
 
 ---
 
-## 🐍 Python Analysis Starter (Pandas + matplotlib)
+## 🔗 Related Archives & Datasets
 
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-
-# Load all-time records
-df = pd.read_csv('data/nl_all_time_records.csv')
-
-# Normalize for era differences (per-game win% might use provided Win%)
-# All-time ranked by win percentage
-print(df.sort_values('win_pct', ascending=False).head(10)[['team', 'win_pct', 'ws_titles']])
-
-# Visualize all-time wins
-plt.figure(figsize=(12, 6))
-plt.barh(df['team'], df['wins'].astype(int), color='steelblue')
-plt.xlabel('All-Time Regular Season Wins')
-plt.title('NL All-Time Regular Season Wins (through 2025)')
-plt.tight_layout()
-plt.savefig('nl_all_time_wins.png', dpi=150, bbox_inches='tight')
-plt.show()
-```
+- **Lahman Baseball Database** (sabr.org) — Downloadable CSV/Access/SQL database — the canonical open dataset
+- **Baseball Reference Playoff Results** (baseball-reference.com/postseason) — All postseason series outcomes
+- **National League History** — The senior circuit's complete records since 1876
 
 ---
 
-## 📜 Data License & Attribution
+## 📑 License
 
-- All-time franchise W-L and team statistics: **Baseball Reference**, **SABR Lahman Database**
-- Head-to-head rivalry data: **Baseball Almanac** (1876-2026)
-- Season-by-season standings: **Baseball Data Hub**, **Retrosheet**
-- All-time franchise win% rankings: **StatMuse**, **Wikipedia**
-- NL league structure and founding: **Wikipedia: National League (baseball)** (CC BY-SA 4.0)
-- Advanced analytics: **FanGraphs**, **Baseball Savant**
-
-All data compiled for research and educational purposes. See individual source licenses for commercial use restrictions.
+[MIT](LICENSE) — See LICENSE file for details.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Issue a bug or suggest a dataset**: Use the GitHub issue tracker to request new data sources or identify incorrect records in the CSVs.
-2. **Add a new data file**: Use `data/nl_team_wins_by_year.csv` format (year, team, wins, losses) and open a Pull Request.
-3. **Build a notebook**: Fork the repo, add Jupyter notebooks under the `notebooks/` directory and submit a PR.
-4. **Visualization PR**: Add chart code under `src/` or Jupyter notebooks — any visualization style is welcome.
-
----
-
-## 📬 Contact & Discussion
-
-For questions, dataset corrections, or research collaboration opportunities, feel free to open an issue in this repository. All NL performance data in the `data/` directory is structured as CSV for maximum portability with pandas, R, and other analysis tools.
-
----
-
-> "The National League is the world's oldest extant professional team sports league, founded February 2, 1876, and now celebrating its 150th anniversary in 2026. 15 teams spanning 3 divisions, 150 years of competition — for better or worse, this is America's Game at its longest." — Compiled in NL Team Trends, July 2026.
+*Data through the end of the 2025 MLB regular season and postseason. Compiled July 2026. Connect with the community or contribute via PRs to expand this collection.*
