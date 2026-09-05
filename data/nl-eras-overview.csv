@@ -1,0 +1,11 @@
+era_name,start_year,end_year,games_per_season,num_nl_teams,num_divisions,divisional_format,notable_events,champion_determination
+Inaugural Era,1876,1884,54-112,7-8,0,N/A,National League founded; original 8 franchises; 2 expelled/lost in 1877,Best record wins; no formal postseason
+Early Expansion,1885,1891,112-132,7-12,0,N/A,American Association rival league formed; player salaries normalized; talent drain absorbed,Best record wins; Temple Cup (unofficial)
+Standardization,1892,1900,132-154,8-12,0,N/A,AA dissolves; NL absorbs several teams; 154-game schedule formalized,Best record wins; no formal series
+Dead Ball Era,1901,1919,154,8 (plus AL),0,N/A,AL founded (1901); formal World Series starts (1903); low-scoring dead-ball style,World Series best-of-7 to best-of-9
+Live Ball Era,1920,1941,154,8,0,N/A,Home run era begins (Ruth); Yankees dynasty; WWII on horizon,World Series best-of-7 standardized
+WWII Era,1942,1945,154,8,0,N/A,Wartime travel constraints; great player talent deployed overseas; war-era attendance,World Series continues; 1945 last pre-draft WS
+Post-War Era,1946,1962,154,8 (16 after 1962),0,N/A,Jackie Robinson breaks color barrier (1947); Dodgers move to LA (1958); Mets added (1962),World Series; expansion politics
+Division Era,1969,1994,162,12,2,East/West,LCS begins (1969); later East/Central/West (1995),League Championship Series best-of-5 then best-of-7; no wild card
+Wild Card Era,1995,2019,162,14,3,East/Central/West,Wild card introduced (1995); 3-division format; Atlanta dynasty; Astros cheating scandal,1 Wild Card game (2012-) or best-of-5 (1995-2011); LDS best-of-5 then best-of-7
+Modern Era,2020,2026,60 or 162,15,3,3 divisions + 2 wild cards,COVID shortened 2020 season; universal DH (2022); 12-team playoff format (2022),Wild Card best-of-3 series; LDS best-of-5; LCS best-of-7
