@@ -1,0 +1,152 @@
+year,era,home_team,away_team,home_wins,away_wins
+2024,Modern,Los Angeles Dodgers,San Francisco Giants,10,9
+2024,Modern,Los Angeles Dodgers,San Diego Padres,13,4
+2024,Modern,Los Angeles Dodgers,Arizona Diamondbacks,10,9
+2024,Modern,Atlanta Braves,Philadelphia Phillies,12,6
+2024,Modern,Philadelphia Phillies,New York Mets,14,6
+2024,Modern,New York Mets,Miami Marlins,11,8
+2024,Modern,St. Louis Cardinals,Chicago Cubs,10,9
+2024,Modern,Milwaukee Brewers,Pittsburgh Pirates,10,9
+2024,Modern,Cincinnati Reds,Houston Astros,10,9
+2025,Modern,Los Angeles Dodgers,San Diego Padres,10,8
+2025,Modern,Los Angeles Dodgers,San Francisco Giants,10,9
+2025,Modern,Los Angeles Dodgers,Arizona Diamondbacks,12,6
+2025,Modern,Atlanta Braves,Philadelphia Phillies,13,7
+2025,Modern,Philadelphia Phillies,New York Mets,11,9
+2025,Modern,New York Mets,Miami Marlins,11,8
+2025,Modern,Chicago Cubs,St. Louis Cardinals,9,10
+2025,Modern,Milwaukee Brewers,Pittsburgh Pirates,12,8
+2025,Modern,Atlanta Braves,New York Mets,12,7
+2023,Modern,Los Angeles Dodgers,Arizona Diamondbacks,13,5
+2023,Modern,Los Angeles Dodgers,San Diego Padres,11,6
+2023,Modern,Los Angeles Dodgers,San Francisco Giants,10,7
+2023,Modern,Atlanta Braves,Philadelphia Phillies,11,6
+2023,Modern,Atlanta Braves,New York Mets,12,5
+2023,Modern,Philadelphia Phillies,New York Mets,11,8
+2023,Modern,Atlanta Braves,Miami Marlins,11,8
+2023,Modern,Washington Nationals,Atlanta Braves,9,10
+2023,Modern,St. Louis Cardinals,Chicago Cubs,9,9
+2023,Modern,New York Mets,Washington Nationals,10,9
+2020,Modern,Los Angeles Dodgers,San Diego Padres,8,5
+2020,Modern,Los Angeles Dodgers,San Francisco Giants,8,1
+2020,Modern,Los Angeles Dodgers,Atlanta Braves,8,3
+2020,Modern,Atlanta Braves,St. Louis Cardinals,5,3
+2020,Modern,St. Louis Cardinals,Cincinnati Reds,5,3
+2020,Modern,Chicago Cubs,St. Louis Cardinals,4,5
+2020,Modern,Miami Marlins,Atlanta Braves,4,5
+2020,Modern,New York Mets,Atlanta Braves,3,5
+2019,Modern,Atlanta Braves,Los Angeles Dodgers,9,10
+2019,Modern,Atlanta Braves,Philadelphia Phillies,11,8
+2019,Modern,Philadelphia Phillies,New York Mets,10,9
+2019,Modern,Washington Nationals,Atlanta Braves,9,10
+2019,Modern,Washington Nationals,Philadelphia Phillies,10,9
+2018,Modern,Los Angeles Dodgers,Atlanta Braves,12,7
+2018,Modern,Los Angeles Dodgers,Philadelphia Phillies,11,8
+2018,Modern,Atlanta Braves,Washington Nationals,11,8
+2018,Modern,Chicago Cubs,Los Angeles Dodgers,8,9
+2018,Modern,St. Louis Cardinals,Chicago Cubs,9,10
+2017,Modern,Washington Nationals,Atlanta Braves,11,8
+2017,Modern,Washington Nationals,New York Mets,10,9
+2017,Modern,Los Angeles Dodgers,Washington Nationals,9,10
+2017,Modern,Los Angeles Dodgers,San Francisco Giants,10,9
+2017,Modern,Chicago Cubs,Los Angeles Dodgers,8,9
+2016,Modern,Chicago Cubs,Los Angeles Dodgers,10,9
+2016,Modern,Chicago Cubs,St. Louis Cardinals,11,8
+2016,Modern,Washington Nationals,Atlanta Braves,9,10
+2016,Modern,New York Mets,Washington Nationals,10,9
+2016,Modern,Atlanta Braves,New York Mets,10,9
+2015,Modern,Los Angeles Dodgers,San Francisco Giants,14,5
+2015,Modern,St. Louis Cardinals,Chicago Cubs,12,7
+2015,Modern,Pittsburgh Pirates,Chicago Cubs,10,9
+2015,Modern,New York Mets,Atlanta Braves,11,8
+2015,Modern,Washington Nationals,Atlanta Braves,10,9
+2015,Modern,Washington Nationals,Philadelphia Phillies,10,9
+2014,Modern,San Francisco Giants,Los Angeles Dodgers,12,7
+2014,Modern,San Francisco Giants,St. Louis Cardinals,10,9
+2014,Modern,Atlanta Braves,Washington Nationals,10,9
+2014,Modern,Atlanta Braves,Philadelphia Phillies,11,8
+2014,Modern,St. Louis Cardinals,Chicago Cubs,12,7
+2013,Modern,St. Louis Cardinals,Atlanta Braves,12,7
+2013,Modern,Atlanta Braves,Washington Nationals,11,8
+2013,Modern,Atlanta Braves,New York Mets,12,7
+2013,Modern,Philadelphia Phillies,Atlanta Braves,10,9
+2013,Modern,Washington Nationals,Atlanta Braves,9,10
+2012,Modern,San Francisco Giants,St. Louis Cardinals,11,8
+2012,Modern,Atlanta Braves,Washington Nationals,11,8
+2012,Modern,Atlanta Braves,Philadelphia Phillies,11,8
+2012,Modern,New York Mets,Atlanta Braves,9,10
+2011,Modern,St. Louis Cardinals,Atlanta Braves,12,7
+2011,Modern,St. Louis Cardinals,Chicago Cubs,13,6
+2011,Modern,Atlanta Braves,New York Mets,10,9
+2011,Modern,Pittsburgh Pirates,St. Louis Cardinals,9,10
+2011,Modern,Philadelphia Phillies,Atlanta Braves,10,9
+2010,Modern,San Francisco Giants,St. Louis Cardinals,11,8
+2010,Modern,San Francisco Giants,Cincinnati Reds,10,9
+2010,Modern,Philadelphia Phillies,Atlanta Braves,12,7
+2010,Modern,Atlanta Braves,Philadelphia Phillies,10,9
+2010,Modern,Philadelphia Phillies,New York Mets,11,8
+2010,Modern,Atlanta Braves,New York Mets,11,8
+2009,Modern,Los Angeles Dodgers,St. Louis Cardinals,12,7
+2009,Modern,Los Angeles Dodgers,San Francisco Giants,13,6
+2009,Modern,Saint Louis Cardinals,Atlanta Braves,11,8
+2009,Modern,Atlanta Braves,Philadelphia Phillies,11,8
+2009,Modern,Philadelphia Phillies,New York Mets,12,7
+2009,Modern,Chicago Cubs,St. Louis Cardinals,9,10
+2008,Modern,Philadelphia Phillies,Los Angeles Dodgers,12,7
+2008,Modern,Philadelphia Phillies,Atlanta Braves,11,8
+2008,Modern,Chicago Cubs,St. Louis Cardinals,8,10
+2008,Modern,Atlanta Braves,New York Mets,11,8
+2008,Modern,New York Mets,Atlanta Braves,10,9
+2007,Modern,Colorado Rockies,Atlanta Braves,11,8
+2007,Modern,Colorado Rockies,San Diego Padres,12,7
+2007,Modern,Philadelphia Phillies,Atlanta Braves,10,9
+2007,Modern,Philadelphia Phillies,New York Mets,11,8
+2007,Modern,Atlanta Braves,New York Mets,10,9
+2006,Modern,St. Louis Cardinals,Atlanta Braves,11,8
+2006,Modern,Atlanta Braves,New York Mets,10,9
+2006,Modern,Saint Louis Cardinals,Pittsburgh Pirates,11,8
+2006,Modern,New York Mets,Atlanta Braves,10,9
+2006,Modern,San Diego Padres,Los Angeles Dodgers,9,10
+2005,Modern,Houston Astros,Atlanta Braves,10,9
+2005,Modern,Houston Astros,St. Louis Cardinals,11,8
+2005,Modern,Atlanta Braves,Philadelphia Phillies,11,8
+2005,Modern,Atlanta Braves,New York Mets,10,9
+2005,Modern,San Diego Padres,Los Angeles Dodgers,10,9
+2004,Modern,Atlanta Braves,Los Angeles Dodgers,12,7
+2004,Modern,Atlanta Braves,Philadelphia Phillies,11,8
+2004,Modern,Houston Astros,Atlanta Braves,10,9
+2004,Modern,Houston Astros,St. Louis Cardinals,11,8
+2004,Modern,Houston Astros,Chicago Cubs,11,8
+2003,Modern,Atlanta Braves,Philadelphia Phillies,12,7
+2003,Modern,Atlanta Braves,Florida Marlins,11,8
+2003,Modern,San Francisco Giants,Los Angeles Dodgers,12,7
+2003,Modern,Chicago Cubs,Atlanta Braves,10,9
+2003,Modern,Chicago Cubs,Pittsburgh Pirates,11,8
+2003,Modern,St. Louis Cardinals,Atlanta Braves,9,10
+2002,Modern,San Francisco Giants,Atlanta Braves,11,8
+2002,Modern,St. Louis Cardinals,Chicago Cubs,12,7
+2002,Modern,Atlanta Braves,Philadelphia Phillies,10,9
+2002,Modern,Atlanta Braves,New York Mets,11,8
+2002,Modern,Atlanta Braves,Montreal Expos,12,7
+2001,Modern,Atlanta Braves,Philadelphia Phillies,11,8
+2001,Modern,Atlanta Braves,New York Mets,11,8
+2001,Modern,Arizona Diamondbacks,Atlanta Braves,10,9
+2001,Modern,Houston Astros,Atlanta Braves,10,9
+2001,Modern,Houston Astros,St. Louis Cardinals,11,8
+2001,Modern,San Francisco Giants,Atlanta Braves,9,10
+2000,Modern,Atlanta Braves,New York Mets,12,7
+2000,Modern,Atlanta Braves,Philadelphia Phillies,11,8
+2000,Modern,St. Louis Cardinals,Atlanta Braves,11,8
+2000,Modern,San Francisco Giants,Atlanta Braves,10,9
+2000,Modern,St. Louis Cardinals,Houston Astros,11,8
+1999,Modern,Atlanta Braves,New York Mets,12,7
+1999,Modern,Atlanta Braves,Philadelphia Phillies,12,7
+1999,Modern,Houston Astros,Atlanta Braves,9,10
+1999,Modern,Houston Astros,St. Louis Cardinals,11,8
+1999,Modern,St. Louis Cardinals,Atlanta Braves,10,9
+1998,Modern,Atlanta Braves,New York Mets,11,8
+1998,Modern,Atlanta Braves,Philadelphia Phillies,12,7
+1998,Modern,Atlanta Braves,Montreal Expos,13,6
+1998,Modern,Houston Astros,Chicago Cubs,10,9
+1998,Modern,St. Louis Cardinals,Houston Astros,11,8
+1998,Modern,Houston Astros,St. Louis Cardinals,8,11
