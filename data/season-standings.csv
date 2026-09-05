@@ -1,0 +1,188 @@
+year,era,division,team,wins,losses,win_pct,games_back,postseason_result
+1876,Pre-Divisional,NL,Chicago White Stockings,52,14,.788,—,NL Champions (no formal playoff)
+1876,Pre-Divisional,NL,Hartford Dark Blues,47,21,.691,5.0,—
+1876,Pre-Divisional,NL,St. Louis Brown Stockings,45,19,.703,7.0,—
+1876,Pre-Divisional,NL,Boston Red Caps,39,31,.557,13.0,—
+1876,Pre-Divisional,NL,Louisville Grays,30,36,.455,25.0,—
+1876,Pre-Divisional,NL,New York Mutuals,21,35,.375,30.0,—
+1876,Pre-Divisional,NL,Philadelphia Athletics,14,45,.237,41.5,—
+1876,Pre-Divisional,NL,Cincinnati Reds,9,56,.138,51.0,—
+1941,Pre-Divisional,NL,Brooklyn Dodgers,100,54,.649,—,—
+1941,Pre-Divisional,NL,St. Louis Cardinals,97,56,.634,3.0,—
+1941,Pre-Divisional,NL,Cincinnati Reds,88,66,.571,12.5,—
+1941,Pre-Divisional,NL,Pittsburgh Pirates,81,73,.526,19.5,—
+1941,Pre-Divisional,NL,New York Giants,74,79,.484,26.0,—
+1941,Pre-Divisional,NL,Chicago Cubs,70,84,.455,30.5,—
+1941,Pre-Divisional,NL,Boston Bees,63,88,.417,35.0,—
+1941,Pre-Divisional,NL,Philadelphia Phillies,43,111,.279,50.5,—
+1954,Pre-Divisional,NL,New York Giants,97,57,.630,—,NL Champions (no formal playoff)
+1954,Pre-Divisional,NL,Brooklyn Dodgers,92,62,.597,5.0,—
+1954,Pre-Divisional,NL,Milwaukee Braves,89,65,.578,8.0,—
+1954,Pre-Divisional,NL,Philadelphia Phillies,75,79,.487,22.0,—
+1954,Pre-Divisional,NL,Cincinnati Redlegs,74,80,.481,23.0,—
+1954,Pre-Divisional,NL,St. Louis Cardinals,72,82,.468,25.0,—
+1954,Pre-Divisional,NL,Chicago Cubs,64,90,.416,33.0,—
+1954,Pre-Divisional,NL,Pittsburgh Pirates,53,101,.344,44.0,—
+1961,Pre-Divisional,NL,Cincinnati Reds,93,61,.604,—,—
+1961,Pre-Divisional,NL,Los Angeles Dodgers,89,65,.578,4.0,—
+1961,Pre-Divisional,NL,San Francisco Giants,85,69,.552,8.0,—
+1961,Pre-Divisional,NL,Milwaukee Braves,83,71,.539,10.0,—
+1961,Pre-Divisional,NL,St. Louis Cardinals,80,74,.519,13.0,—
+1961,Pre-Divisional,NL,Pittsburgh Pirates,75,79,.487,18.0,—
+1961,Pre-Divisional,NL,Chicago Cubs,64,90,.416,29.0,—
+1961,Pre-Divisional,NL,Philadelphia Phillies,47,107,.305,42.0,—
+1969,Divisional,NL East,New York Mets,100,62,.617,—,NL Champions; WS Champions
+1969,Divisional,NL East,Chicago Cubs,92,70,.568,8.0,—
+1969,Divisional,NL East,Pittsburgh Pirates,88,74,.543,12.0,—
+1969,Divisional,NL East,St. Louis Cardinals,87,75,.537,13.0,—
+1969,Divisional,NL East,Philadelphia Phillies,63,99,.389,33.5,—
+1969,Divisional,NL East,Montreal Expos,52,110,.321,44.5,—
+1969,Divisional,NL West,Atlanta Braves,93,69,.574,—,NL Championship Series (lost to Mets)
+1969,Divisional,NL West,San Francisco Giants,90,72,.556,3.0,—
+1969,Divisional,NL West,Cincinnati Reds,89,73,.549,4.0,—
+1969,Divisional,NL West,Los Angeles Dodgers,85,77,.525,8.0,—
+1969,Divisional,NL West,Houston Astros,81,81,.500,12.0,—
+1969,Divisional,NL West,San Diego Padres,52,110,.321,41.0,—
+1975,Divisional,NL East,Pittsburgh Pirates,92,69,.571,—,NL Champions; WS lost to Boston
+1975,Divisional,NL East,Philadelphia Phillies,86,76,.531,6.0,—
+1975,Divisional,NL East,New York Mets,82,80,.506,10.0,—
+1975,Divisional,NL East,St. Louis Cardinals,82,80,.506,10.0,—
+1975,Divisional,NL East,Chicago Cubs,75,87,.463,17.5,—
+1975,Divisional,NL East,Montreal Expos,75,87,.463,17.5,—
+1975,Divisional,NL West,Cincinnati Reds,108,54,.667,—,NL Champions; WS Champions
+1975,Divisional,NL West,Los Angeles Dodgers,88,74,.543,20.0,—
+1975,Divisional,NL West,San Francisco Giants,80,81,.497,27.5,—
+1975,Divisional,NL West,San Diego Padres,71,91,.438,37.0,—
+1975,Divisional,NL West,Atlanta Braves,67,94,.416,40.5,—
+1975,Divisional,NL West,Houston Astros,64,97,.398,43.5,—
+1987,Divisional,NL East,St. Louis Cardinals,95,67,.586,—,NL Champions; WS lost to Minnesota
+1987,Divisional,NL East,New York Mets,92,70,.568,3.0,—
+1987,Divisional,NL East,Montreal Expos,91,71,.562,4.0,—
+1987,Divisional,NL East,Philadelphia Phillies,80,82,.494,15.0,—
+1987,Divisional,NL East,Pittsburgh Pirates,80,82,.494,15.0,—
+1987,Divisional,NL East,Chicago Cubs,76,85,.472,18.5,—
+1987,Divisional,NL West,San Francisco Giants,90,72,.556,—,NL Champions; WS lost to Oakland
+1987,Divisional,NL West,Cincinnati Reds,84,78,.519,6.0,—
+1987,Divisional,NL West,Houston Astros,76,86,.469,14.0,—
+1987,Divisional,NL West,Los Angeles Dodgers,73,89,.451,17.0,—
+1987,Divisional,NL West,Atlanta Braves,69,92,.431,20.5,—
+1987,Divisional,NL West,San Diego Padres,65,97,.401,25.0,—
+1989,Divisional,NL East,Chicago Cubs,93,69,.574,—,NL Champions; WS lost to Oakland
+1989,Divisional,NL East,New York Mets,87,75,.537,6.0,—
+1989,Divisional,NL East,St. Louis Cardinals,86,76,.531,7.0,—
+1989,Divisional,NL East,Montreal Expos,81,81,.500,12.0,—
+1989,Divisional,NL East,Pittsburgh Pirates,74,88,.457,19.0,—
+1989,Divisional,NL East,Philadelphia Phillies,67,95,.414,26.0,—
+1989,Divisional,NL West,San Francisco Giants,92,70,.568,—,NL Champions; WS Champions vs Oakland
+1989,Divisional,NL West,San Diego Padres,89,73,.549,3.0,—
+1989,Divisional,NL West,Houston Astros,86,76,.531,6.0,—
+1989,Divisional,NL West,Los Angeles Dodgers,77,83,.481,13.0,—
+1989,Divisional,NL West,Cincinnati Reds,75,87,.463,16.0,—
+1989,Divisional,NL West,Atlanta Braves,63,97,.394,26.0,—
+1998,Divisional,NL Central,Houston Astros,102,60,.630,—,NL Champions; WS lost to New York
+1998,Divisional,NL Central,Chicago Cubs,90,73,.552,9.0,—
+1998,Divisional,NL Central,St. Louis Cardinals,83,79,.512,15.5,—
+1998,Divisional,NL Central,Cincinnati Reds,77,85,.475,21.5,—
+1998,Divisional,NL Central,Milwaukee Brewers,74,88,.457,24.5,—
+1998,Divisional,NL Central,Pittsburgh Pirates,69,93,.426,29.5,—
+1998,Divisional,NL East,Atlanta Braves,106,56,.654,—,NL Champions; WS lost to New York
+1998,Divisional,NL East,New York Mets,88,74,.543,14.0,—
+1998,Divisional,NL East,Philadelphia Phillies,75,87,.463,27.0,—
+1998,Divisional,NL East,Montreal Expos,65,97,.401,37.0,—
+1998,Divisional,NL East,Florida Marlins,54,108,.333,48.0,—
+1998,Divisional,NL West,San Diego Padres,98,64,.605,—,NL Champions; WS lost to New York
+1998,Divisional,NL West,San Francisco Giants,89,74,.546,9.5,—
+1998,Divisional,NL West,Los Angeles Dodgers,83,79,.512,15.0,—
+1998,Divisional,NL West,Colorado Rockies,77,85,.475,21.0,—
+1998,Divisional,NL West,Arizona Diamondbacks,65,97,.401,33.0,—
+2001,Divisional,NL Central,Houston Astros,93,69,.574,—,—
+2001,Divisional,NL Central,St. Louis Cardinals,93,69,.574,—,—
+2001,Divisional,NL Central,Chicago Cubs,88,74,.543,5.0,—
+2001,Divisional,NL Central,Milwaukee Brewers,68,94,.420,20.5,—
+2001,Divisional,NL Central,Cincinnati Reds,66,96,.407,22.5,—
+2001,Divisional,NL Central,Pittsburgh Pirates,62,100,.383,26.5,—
+2001,Divisional,NL East,Atlanta Braves,88,74,.543,—,NL Champions; WS lost to Arizona
+2001,Divisional,NL East,Philadelphia Phillies,86,76,.531,2.0,—
+2001,Divisional,NL East,New York Mets,82,80,.506,6.0,—
+2001,Divisional,NL East,Florida Marlins,76,86,.469,12.0,—
+2001,Divisional,NL East,Montreal Expos,68,94,.420,20.0,—
+2001,Divisional,NL West,Arizona Diamondbacks,92,70,.568,—,NL Champions; WS Champions vs New York
+2001,Divisional,NL West,San Francisco Giants,90,72,.556,2.0,—
+2001,Divisional,NL West,Los Angeles Dodgers,86,76,.531,6.0,—
+2001,Divisional,NL West,San Diego Padres,79,83,.488,13.0,—
+2001,Divisional,NL West,Colorado Rockies,73,89,.451,19.0,—
+2015,Divisional,NL East,New York Mets,90,72,.556,—,NL Champions; WS lost to Kansas City
+2015,Divisional,NL East,Washington Nationals,83,79,.512,7.0,—
+2015,Divisional,NL East,Miami Marlins,71,91,.438,19.0,—
+2015,Divisional,NL East,Atlanta Braves,67,95,.414,23.0,—
+2015,Divisional,NL East,Philadelphia Phillies,63,99,.389,27.0,—
+2015,Divisional,NL Central,St. Louis Cardinals,100,62,.617,—,NL Champions; WS lost to Kansas City
+2015,Divisional,NL Central,Pittsburgh Pirates,98,64,.605,2.0,—
+2015,Divisional,NL Central,Chicago Cubs,97,65,.599,3.0,—
+2015,Divisional,NL Central,Milwaukee Brewers,68,94,.420,35.0,—
+2015,Divisional,NL Central,Cincinnati Reds,64,98,.395,39.0,—
+2015,Divisional,NL West,Los Angeles Dodgers,92,70,.568,—,—
+2015,Divisional,NL West,San Francisco Giants,84,78,.519,8.0,—
+2015,Divisional,NL West,Arizona Diamondbacks,79,83,.488,13.0,—
+2015,Divisional,NL West,San Diego Padres,74,88,.457,18.0,—
+2015,Divisional,NL West,Colorado Rockies,68,94,.420,24.0,—
+2020,COVID-60,NL East,Atlanta Braves,35,25,.583,—,NL Champions; WS lost to Dodgers
+2020,COVID-60,NL East,Miami Marlins,31,29,.517,4.5,—
+2020,COVID-60,NL East,Philadelphia Phillies,28,32,.467,8.0,—
+2020,COVID-60,NL East,New York Mets,26,34,.433,10.0,—
+2020,COVID-60,NL East,Washington Nationals,26,34,.433,10.0,—
+2020,COVID-60,NL Central,Chicago Cubs,34,26,.567,—,—
+2020,COVID-60,NL Central,Cincinnati Reds,31,29,.517,3.0,—
+2020,COVID-60,NL Central,St. Louis Cardinals,30,28,.517,3.5,—
+2020,COVID-60,NL Central,Milwaukee Brewers,29,31,.483,5.0,—
+2020,COVID-60,NL Central,Pittsburgh Pirates,19,41,.317,15.5,—
+2020,COVID-60,NL West,Los Angeles Dodgers,43,17,.717,—,NL Champions; WS Champions vs Tampa Bay
+2020,COVID-60,NL West,San Diego Padres,37,23,.617,6.0,—
+2020,COVID-60,NL West,San Francisco Giants,29,31,.483,14.0,—
+2020,COVID-60,NL West,Colorado Rockies,26,34,.433,18.0,—
+2020,COVID-60,NL West,Arizona Diamondbacks,25,35,.417,19.0,—
+2023,Divisional,NL East,Atlanta Braves,104,58,.642,—,NL Champions; WS lost to Texas
+2023,Divisional,NL East,Philadelphia Phillies,90,72,.556,14.0,NL Champions; WS lost to Texas
+2023,Divisional,NL East,Miami Marlins,84,78,.519,20.0,—
+2023,Divisional,NL East,New York Mets,75,87,.463,29.0,—
+2023,Divisional,NL East,Washington Nationals,71,91,.438,33.0,—
+2023,Divisional,NL Central,Milwaukee Brewers,92,70,.568,—,—
+2023,Divisional,NL Central,Chicago Cubs,83,79,.512,9.5,—
+2023,Divisional,NL Central,Cincinnati Reds,82,80,.506,10.5,—
+2023,Divisional,NL Central,Pittsburgh Pirates,76,86,.469,16.5,—
+2023,Divisional,NL Central,St. Louis Cardinals,71,91,.438,21.5,—
+2023,Divisional,NL West,Los Angeles Dodgers,100,62,.617,—,NL Champions; WS lost to Texas
+2023,Divisional,NL West,Arizona Diamondbacks,84,78,.519,16.0,Wild Card; NLDS advanced; WS lost to Texas
+2023,Divisional,NL West,San Diego Padres,82,80,.506,18.0,—
+2023,Divisional,NL West,San Francisco Giants,79,83,.488,21.0,—
+2023,Divisional,NL West,Colorado Rockies,59,103,.364,38.0,—
+2024,Divisional,NL East,Philadelphia Phillies,95,67,.586,—,NL Champions; WS lost to Los Angeles
+2024,Divisional,NL East,Atlanta Braves,89,73,.549,6.0,—
+2024,Divisional,NL East,New York Mets,89,73,.549,6.0,Wild Card
+2024,Divisional,NL East,Washington Nationals,71,91,.438,24.0,—
+2024,Divisional,NL East,Miami Marlins,62,100,.383,31.0,—
+2024,Divisional,NL Central,Milwaukee Brewers,93,69,.574,—,—
+2024,Divisional,NL Central,St. Louis Cardinals,83,79,.512,10.0,—
+2024,Divisional,NL Central,Chicago Cubs,83,79,.512,10.0,—
+2024,Divisional,NL Central,Cincinnati Reds,77,85,.475,16.0,—
+2024,Divisional,NL Central,Pittsburgh Pirates,76,86,.469,17.0,—
+2024,Divisional,NL West,Los Angeles Dodgers,98,64,.605,—,NL Champions; WS Champions vs New York
+2024,Divisional,NL West,San Diego Padres,93,69,.574,5.0,Wild Card
+2024,Divisional,NL West,Arizona Diamondbacks,89,73,.549,10.0,Wild Card
+2024,Divisional,NL West,San Francisco Giants,80,82,.494,19.0,—
+2024,Divisional,NL West,Colorado Rockies,61,101,.377,33.0,—
+2025,Divisional,NL East,Philadelphia Phillies,96,66,.593,—,NL Champions
+2025,Divisional,NL East,New York Mets,83,79,.512,7.0,—
+2025,Divisional,NL East,Miami Marlins,79,83,.488,11.0,—
+2025,Divisional,NL East,Atlanta Braves,76,86,.469,14.0,—
+2025,Divisional,NL East,Washington Nationals,66,96,.407,24.0,—
+2025,Divisional,NL Central,Milwaukee Brewers,97,65,.599,—,NL Champions
+2025,Divisional,NL Central,Chicago Cubs,92,70,.568,5.0,—
+2025,Divisional,NL Central,Cincinnati Reds,83,79,.512,14.0,—
+2025,Divisional,NL Central,St. Louis Cardinals,78,84,.481,19.0,—
+2025,Divisional,NL Central,Pittsburgh Pirates,71,91,.438,26.0,—
+2025,Divisional,NL West,Los Angeles Dodgers,93,69,.574,—,NL Champions; WS Champions vs Toronto
+2025,Divisional,NL West,San Diego Padres,90,72,.556,3.0,—
+2025,Divisional,NL West,San Francisco Giants,81,81,.500,12.0,—
+2025,Divisional,NL West,Arizona Diamondbacks,80,82,.494,13.0,—
+2025,Divisional,NL West,Colorado Rockies,43,119,.265,44.0,—
