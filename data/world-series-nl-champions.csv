@@ -1,0 +1,124 @@
+year,nl_champion,nl_wins,nl_losses,nl_win_pct,ws_opponent,ws_result,ws_champion
+1903,Pittsburgh Pirates,90,63,.588,Philadelphia Athletics,Lost 3-5,Philadelphia Athletics
+1904,New York Giants,N/A,N/A,N/A,Boston Americans,Boycott,N/A
+1905,New York Giants,92,59,.609,Philadelphia Athletics,Won 4-1,New York Giants
+1906,Chicago Cubs,116,36,.763,Chicago White Sox,Lost 2-4,Chicago White Sox
+1907,Chicago Cubs,107,45,.704,Detroit Tigers,Won 4-0,Chicago Cubs
+1908,Chicago Cubs,99,55,.643,Detroit Tigers,Won 4-1,Chicago Cubs
+1909,Pittsburgh Pirates,110,42,.724,Detroit Tigers,Won 4-3,Pittsburgh Pirates
+1910,Chicago Cubs,104,50,.675,Philadelphia Athletics,Lost 1-4,Philadelphia Athletics
+1911,New York Giants,99,54,.647,Philadelphia Athletics,Lost 2-4,Philadelphia Athletics
+1912,New York Giants,103,48,.682,Boston Red Sox,Lost 2-4,Boston Red Sox
+1913,New York Giants,101,51,.664,Philadelphia Athletics,Lost 2-4,Philadelphia Athletics
+1914,Boston Braves,94,59,.614,Philadelphia Athletics,Lost 0-4,Philadelphia Athletics
+1915,Philadelphia Phillies,90,62,.592,Boston Red Sox,Lost 1-4,Boston Red Sox
+1916,Boston Robins,94,60,.610,Boston Red Sox,Lost 1-4,Boston Red Sox
+1917,New York Giants,98,56,.636,Chicago White Sox,Lost 2-4,Chicago White Sox
+1918,Chicago Cubs,84,57,.596,Boston Red Sox,Lost 2-4,Boston Red Sox
+1919,Cincinnati Reds,96,44,.686,Chicago White Sox,Won 5-3,Cincinnati Reds
+1920,Brooklyn Robins,93,61,.604,Cleveland Indians,Lost 2-5,Cleveland Indians
+1921,New York Giants,94,59,.614,New York Yankees,Lost 2-5,New York Yankees
+1922,New York Giants,93,61,.604,New York Yankees,Won 4-0,New York Giants
+1923,New York Giants,95,58,.621,New York Yankees,Lost 2-6,New York Yankees
+1924,New York Giants,93,60,.608,Washington Senators,Won 4-3,Washington Senators
+1925,Pittsburgh Pirates,95,58,.621,Washington Senators,Won 4-3,Pittsburgh Pirates
+1926,St. Louis Cardinals,89,65,.578,New York Yankees,Won 4-3,St. Louis Cardinals
+1927,St. Louis Cardinals,92,61,.601,New York Yankees,Lost 0-4,New York Yankees
+1928,St. Louis Cardinals,95,59,.617,New York Yankees,Lost 1-4,New York Yankees
+1929,Chicago Cubs,84,70,.545,Philadelphia Athletics,Lost 1-4,Philadelphia Athletics
+1930,St. Louis Cardinals,92,62,.597,Philadelphia Athletics,Lost 2-4,Philadelphia Athletics
+1931,St. Louis Cardinals,101,53,.656,Philadelphia Athletics,Won 4-3,St. Louis Cardinals
+1932,Chicago Cubs,90,64,.584,New York Yankees,Lost 0-4,New York Yankees
+1933,New York Giants,91,61,.599,Washington Senators,Won 4-1,New York Giants
+1934,St. Louis Cardinals,95,58,.621,Detroit Tigers,Won 4-3,St. Louis Cardinals
+1935,Chicago Cubs,100,54,.649,Detroit Tigers,Lost 2-4,Detroit Tigers
+1936,New York Giants,92,61,.601,New York Yankees,Lost 1-4,New York Yankees
+1937,New York Giants,95,57,.625,New York Yankees,Lost 1-4,New York Yankees
+1938,Chicago Cubs,89,63,.586,New York Yankees,Lost 1-4,New York Yankees
+1939,Cincinnati Reds,97,57,.630,New York Yankees,Lost 0-4,New York Yankees
+1940,Cincinnati Reds,100,53,.654,Detroit Tigers,Won 4-3,Cincinnati Reds
+1941,Brooklyn Dodgers,100,54,.649,New York Yankees,Lost 1-4,New York Yankees
+1942,St. Louis Cardinals,106,48,.688,New York Yankees,Won 4-1,St. Louis Cardinals
+1943,St. Louis Cardinals,105,49,.682,New York Yankees,Lost 1-4,New York Yankees
+1944,St. Louis Cardinals,105,49,.682,Baltimore Orioles,Won 4-2,St. Louis Cardinals
+1945,Chicago Cubs,98,56,.636,Detroit Tigers,Won 4-3,Chicago Cubs
+1946,St. Louis Cardinals,98,58,.628,Boston Red Sox,Won 4-3,St. Louis Cardinals
+1947,Brooklyn Dodgers,94,58,.617,New York Yankees,Lost 3-4,New York Yankees
+1948,Boston Braves,96,58,.623,Cleveland Indians,Lost 2-6,Cleveland Indians
+1949,Brooklyn Dodgers,97,57,.630,New York Yankees,Lost 0-4,New York Yankees
+1950,Boston Braves,94,58,.618,Philadelphia Phillies,Lost 0-4,Philadelphia Phillies
+1951,Brooklyn Dodgers,97,57,.630,New York Yankees,Lost 2-6,New York Yankees
+1952,Brooklyn Dodgers,96,57,.627,New York Yankees,Lost 3-4,New York Yankees
+1953,Brooklyn Dodgers,105,49,.682,New York Yankees,Lost 2-4,New York Yankees
+1954,New York Giants,97,57,.630,Cleveland Indians,Won 4-0,New York Giants
+1955,Brooklyn Dodgers,98,55,.641,New York Yankees,Won 4-3,Brooklyn Dodgers
+1956,Brooklyn Dodgers,94,58,.618,New York Yankees,Lost 3-4,New York Yankees
+1957,Milwaukee Braves,98,56,.636,New York Yankees,Won 4-3,Milwaukee Braves
+1958,Los Angeles Dodgers,93,61,.605,New York Yankees,Lost 3-4,New York Yankees
+1959,Los Angeles Dodgers,98,62,.612,Chicago White Sox,Won 4-2,Los Angeles Dodgers
+1960,Pittsburgh Pirates,95,59,.617,New York Yankees,Won 4-3,Pittsburgh Pirates
+1961,Cincinnati Reds,93,61,.604,New York Yankees,Lost 1-4,New York Yankees
+1962,San Francisco Giants,103,62,.625,New York Yankees,Lost 3-4,New York Yankees
+1963,Los Angeles Dodgers,99,63,.610,New York Yankees,Won 4-0,Los Angeles Dodgers
+1964,St. Louis Cardinals,93,69,.574,New York Yankees,Lost 3-4,New York Yankees
+1965,Los Angeles Dodgers,97,65,.599,Minnesota Twins,Won 4-3,Los Angeles Dodgers
+1966,Los Angeles Dodgers,95,67,.586,St. Louis Cardinals,Lost 3-4,St. Louis Cardinals
+1967,St. Louis Cardinals,101,58,.635,Boston Red Sox,Lost 3-4,Boston Red Sox
+1968,St. Louis Cardinals,97,65,.599,Detroit Tigers,Lost 1-4,Detroit Tigers
+1969,New York Mets,100,62,.617,Baltimore Orioles,Won 4-1,New York Mets
+1970,Cincinnati Reds,102,60,.630,Baltimore Orioles,Lost 1-4,Baltimore Orioles
+1971,Pittsburgh Pirates,97,65,.599,Baltimore Orioles,Won 4-3,Pittsburgh Pirates
+1972,Pittsburgh Pirates,96,59,.619,Oakland Athletics,Lost 3-4,Oakland Athletics
+1973,Cincinnati Reds,99,63,.611,Oakland Athletics,Lost 3-4,Oakland Athletics
+1974,Pittsburgh Pirates,88,74,.543,Oakland Athletics,Lost 1-4,Oakland Athletics
+1975,Cincinnati Reds,108,54,.667,Boston Red Sox,Won 4-3,Cincinnati Reds
+1976,Cincinnati Reds,102,60,.630,New York Yankees,Won 4-0,Cincinnati Reds
+1977,Los Angeles Dodgers,94,68,.580,New York Yankees,Lost 2-4,New York Yankees
+1978,Los Angeles Dodgers,95,67,.586,New York Yankees,Lost 2-4,New York Yankees
+1979,Pittsburgh Pirates,98,64,.605,Baltimore Orioles,Won 4-0,Pittsburgh Pirates
+1980,Philadelphia Phillies,91,71,.562,Kansas City Royals,Lost 2-4,Kansas City Royals
+1981,Los Angeles Dodgers,63,47,.573,New York Yankees,Won 4-2,Los Angeles Dodgers
+1982,St. Louis Cardinals,92,70,.568,Milwaukee Brewers,Won 4-3,St. Louis Cardinals
+1983,Philadelphia Phillies,90,72,.556,Baltimore Orioles,Lost 1-4,Baltimore Orioles
+1984,Chicago Cubs,96,65,.596,Detroit Tigers,Lost 1-4,Detroit Tigers
+1985,St. Louis Cardinals,101,61,.623,Kansas City Royals,Lost 3-4,Kansas City Royals
+1986,New York Mets,108,54,.667,Boston Red Sox,Won 4-3,New York Mets
+1987,St. Louis Cardinals,95,67,.586,Minnesota Twins,Lost 3-4,Minnesota Twins
+1988,Los Angeles Dodgers,94,67,.583,Oakland Athletics,Won 4-1,Los Angeles Dodgers
+1989,San Francisco Giants,92,70,.568,Oakland Athletics,Lost 0-4,Oakland Athletics
+1990,Cincinnati Reds,91,71,.562,Oakland Athletics,Won 4-0,Cincinnati Reds
+1991,Atlanta Braves,94,70,.574,Minnesota Twins,Lost 3-4,Minnesota Twins
+1992,Pittsburgh Pirates,96,66,.593,Atlanta Braves,Lost 3-4,Atlanta Braves
+1993,Atlanta Braves,104,58,.642,Philadelphia Phillies,Lost 2-4,Philadelphia Phillies
+1994,Cancelled,Cancelled,Cancelled,Cancelled,N/A,Strike Season,N/A
+1995,Atlanta Braves,90,72,.556,Cleveland Indians,Won 4-2,Atlanta Braves
+1996,St. Louis Cardinals,88,76,.537,New York Yankees,Lost 2-4,New York Yankees
+1997,Florida Marlins,92,70,.568,Cleveland Indians,Won 4-3,Florida Marlins
+1998,San Diego Padres,98,64,.605,New York Yankees,Lost 1-4,New York Yankees
+1999,Atlanta Braves,103,59,.636,New York Yankees,Lost 1-4,New York Yankees
+2000,St. Louis Cardinals,95,67,.586,New York Yankees,Lost 1-4,New York Yankees
+2001,Arizona Diamondbacks,92,70,.568,New York Yankees,Won 4-3,Arizona Diamondbacks
+2002,St. Louis Cardinals,97,65,.599,Anaheim Angels,Lost 3-4,Anaheim Angels
+2003,Florida Marlins,91,71,.562,Chicago Cubs,Won 4-2,Florida Marlins
+2004,Houston Astros,92,70,.568,Boston Red Sox,Lost 0-4,Boston Red Sox
+2005,Houston Astros,89,73,.549,Chicago White Sox,Lost 0-4,Chicago White Sox
+2006,St. Louis Cardinals,83,78,.516,Detroit Tigers,Won 4-1,St. Louis Cardinals
+2007,Colorado Rockies,90,73,.552,Boston Red Sox,Lost 0-4,Boston Red Sox
+2008,Philadelphia Phillies,97,64,.602,Tampa Bay Rays,Won 4-1,Philadelphia Phillies
+2009,Los Angeles Dodgers,95,67,.586,New York Yankees,Lost 1-4,New York Yankees
+2010,San Francisco Giants,92,70,.568,Texas Rangers,Won 4-1,San Francisco Giants
+2011,St. Louis Cardinals,90,72,.556,Texas Rangers,Won 4-3,St. Louis Cardinals
+2012,San Francisco Giants,94,68,.580,Detroit Tigers,Won 4-0,San Francisco Giants
+2013,St. Louis Cardinals,92,71,.565,Boston Red Sox,Won 4-2,St. Louis Cardinals
+2014,San Francisco Giants,88,74,.543,Kansas City Royals,Won 4-3,San Francisco Giants
+2015,New York Mets,90,72,.556,Kansas City Royals,Lost 1-4,Kansas City Royals
+2016,Chicago Cubs,103,58,.642,Cleveland Indians,Won 4-3,Chicago Cubs
+2017,Washington Nationals,95,67,.586,Houston Astros,Lost 3-4,Houston Astros
+2018,Los Angeles Dodgers,92,71,.564,Houston Astros,Lost 3-4,Houston Astros
+2019,Washington Nationals,93,69,.574,Houston Astros,Won 4-3,Washington Nationals
+2020,Los Angeles Dodgers,43,17,.717,Tampa Bay Rays,Won 4-2,Los Angeles Dodgers
+2021,Atlanta Braves,88,73,.547,Houston Astros,Won 4-2,Atlanta Braves
+2022,Philadelphia Phillies,87,75,.537,Houston Astros,Lost 2-4,Houston Astros
+2023,Arizona Diamondbacks,84,78,.519,Texas Rangers,Won 4-1,Texas Rangers
+2024,Los Angeles Dodgers,98,64,.605,New York Yankees,Won 4-1,Los Angeles Dodgers
+2025,Los Angeles Dodgers,93,69,.574,Toronto Blue Jays,Won 4-3,Los Angeles Dodgers
